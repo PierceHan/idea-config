@@ -1,0 +1,13 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="ActivateMavenProjectsToolWindow">
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
+  <action id="Console.TableResult.NextPage" />
+  <action id="EditorDuplicateLines">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="shift ctrl x" />
+  </action>
+  <action id="NextOccurence" />
+</keymap>
