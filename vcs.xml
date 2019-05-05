@@ -6,6 +6,10 @@
           <option name="url" value="http://gitlab.wellcloud.cc:30000" />
           <option name="userName" value="hanguoan" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="han2770@163.com" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
