@@ -118,7 +118,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'roster-interim'</Description>
-          <Count>35</Count>
+          <Count>45</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -126,7 +126,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>122</Count>
+          <Count>123</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Usages">
@@ -406,7 +406,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'roster-interim'</Description>
-          <Count>34</Count>
+          <Count>42</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop...">
