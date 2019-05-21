@@ -113,6 +113,14 @@
           <Count>13</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'custom-module'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'custom-module'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'roster-interim'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -126,7 +134,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>132</Count>
+          <Count>134</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Usages">
@@ -174,7 +182,7 @@
           <IdeaActionID>Vcs.Push</IdeaActionID>
           <ShortCut>'Ctrl+Shift+K'</ShortCut>
           <Description>Push...</Description>
-          <Count>54</Count>
+          <Count>55</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
@@ -407,6 +415,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'WendaApplication'</Description>
           <Count>13</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'custom-module'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'custom-module'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'roster-interim'">
