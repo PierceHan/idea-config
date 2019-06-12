@@ -86,7 +86,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Cti-Security'</Description>
-          <Count>22</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'DNCserverApplication'">
@@ -94,7 +94,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'DNCserverApplication'</Description>
-          <Count>11</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Dnctest'">
@@ -174,7 +174,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>343</Count>
+          <Count>345</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -254,7 +254,7 @@
           <IdeaActionID>Vcs.Push</IdeaActionID>
           <ShortCut>'Ctrl+Shift+K'</ShortCut>
           <Description>Push...</Description>
-          <Count>118</Count>
+          <Count>119</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recompile '...anRobotUuiTest.java'">
@@ -326,7 +326,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>435</Count>
+          <Count>436</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AddPermissionZ....main()'">
@@ -526,7 +526,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'DNCserverApplication'</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'HttpServer (1)'">
