@@ -110,7 +110,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'DceApplication'</Description>
-          <Count>1</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'DncApplication'">
@@ -591,6 +591,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'DNCserverApplication'</Description>
           <Count>9</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'DceApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'DceApplication'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'DncApplication'">
