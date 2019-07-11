@@ -62,7 +62,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>138</Count>
+          <Count>141</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Reference">
@@ -159,6 +159,14 @@
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'HttpServer'</Description>
           <Count>14</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'JsonTest'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'JsonTest'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'MonitorServiceTest.testGetResultStatusByOrgId'">
@@ -550,6 +558,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'JdbcInsertkefu5.main()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'JsonTest.main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'JsonTest.main()'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
