@@ -222,7 +222,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'roster-interim'</Description>
-          <Count>82</Count>
+          <Count>84</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -334,7 +334,7 @@
           <IdeaActionID>Vcs.Push</IdeaActionID>
           <ShortCut>'Ctrl+Shift+K'</ShortCut>
           <Description>Push...</Description>
-          <Count>194</Count>
+          <Count>195</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recompile '...anRobotUuiTest.java'">
@@ -806,7 +806,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'roster-interim'</Description>
-          <Count>77</Count>
+          <Count>78</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'rosters-service [test]'">
