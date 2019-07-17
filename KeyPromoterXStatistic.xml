@@ -601,6 +601,14 @@
           <Count>28</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'MapTest.main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'MapTest.main()'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'StingJsonTest.main()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
