@@ -369,6 +369,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Recompile 'MapTest.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile 'MapTest.java'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Reformat Code">
         <Item>
           <IdeaActionID>ReformatCode</IdeaActionID>
@@ -614,7 +622,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'MapTest.main()'</Description>
-          <Count>7</Count>
+          <Count>53</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'StingJsonTest.main()'">
