@@ -182,7 +182,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'OcmAdapterApplication'</Description>
-          <Count>44</Count>
+          <Count>46</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'OcmApp'">
@@ -230,7 +230,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'roster-interim'</Description>
-          <Count>106</Count>
+          <Count>107</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -238,7 +238,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>821</Count>
+          <Count>822</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -294,7 +294,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'Ctrl+Alt+B'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>359</Count>
+          <Count>360</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste">
@@ -342,7 +342,7 @@
           <IdeaActionID>Vcs.Push</IdeaActionID>
           <ShortCut>'Ctrl+Shift+K'</ShortCut>
           <Description>Push...</Description>
-          <Count>233</Count>
+          <Count>234</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recompile '...anRobotUuiTest.java'">
@@ -814,7 +814,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'OcmAdapterApplication'</Description>
-          <Count>46</Count>
+          <Count>48</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'OcmApp'">
@@ -870,7 +870,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'roster-interim'</Description>
-          <Count>102</Count>
+          <Count>103</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'rosters-service [test]'">
