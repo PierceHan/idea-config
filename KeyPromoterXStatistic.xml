@@ -246,7 +246,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>852</Count>
+          <Count>854</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -415,6 +415,14 @@
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'RosterHandlerTest.assignRosterBuffer'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'RosterQueueTest.createIvrRosterQueue'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'RosterQueueTest.createIvrRosterQueue'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Windows">
@@ -886,7 +894,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'rosters-service [test]'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop...">
