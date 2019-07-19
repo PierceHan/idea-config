@@ -350,7 +350,7 @@
           <IdeaActionID>Vcs.Push</IdeaActionID>
           <ShortCut>'Ctrl+Shift+K'</ShortCut>
           <Description>Push...</Description>
-          <Count>238</Count>
+          <Count>240</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recompile '...anRobotUuiTest.java'">
@@ -887,6 +887,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'roster-interim'</Description>
           <Count>103</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'rosters-service [package]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'rosters-service [package]'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'rosters-service [test]'">
