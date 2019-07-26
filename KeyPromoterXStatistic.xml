@@ -254,7 +254,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>995</Count>
+          <Count>996</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -655,6 +655,14 @@
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'MapTest.main()'</Description>
           <Count>53</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'OcmApp'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'OcmApp'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'StingJsonTest.main()'">
