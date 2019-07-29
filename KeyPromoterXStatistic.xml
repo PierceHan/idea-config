@@ -254,7 +254,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1009</Count>
+          <Count>1016</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -665,6 +665,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'RuleFactoryTest.createRewriteNumber'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'RuleFactoryTest.createRewriteNumber'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'StingJsonTest.main()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -902,6 +910,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Rerun Failed Tests'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'RuleFactoryTest.createRewriteNumber'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'RuleFactoryTest.createRewriteNumber'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
