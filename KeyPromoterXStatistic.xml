@@ -345,6 +345,14 @@
           <Count>534</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Insert Link">
+        <Item>
+          <IdeaActionID>MarkdownNavigator.InsertLink</IdeaActionID>
+          <ShortCut>'Meta+L'</ShortCut>
+          <Description>Insert Link</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Jump to Source">
         <Item>
           <IdeaActionID>EditSource</IdeaActionID>
@@ -790,7 +798,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>32</Count>
+          <Count>33</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Dependencies...">
@@ -1095,6 +1103,14 @@
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
           <Count>228</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Toggle Monospaced (Code Span) Mode">
+        <Item>
+          <IdeaActionID>MarkdownNavigator.ToggleCodeSpan</IdeaActionID>
+          <ShortCut>'Meta+O'</ShortCut>
+          <Description>Toggle Monospaced (Code Span) Mode</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
