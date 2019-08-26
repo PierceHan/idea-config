@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="123" type="PLAIN_TEXT" />
       <mapping pattern="87847289284637" type="PLAIN_TEXT" />
+      <mapping pattern="t_dce_flow" type="PLAIN_TEXT" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
