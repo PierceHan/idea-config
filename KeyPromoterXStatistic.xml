@@ -241,6 +241,14 @@
           <Count>22</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'RostersServiceApplication'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'RostersServiceApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'RuleFactoryTest.createRule'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -302,7 +310,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1680</Count>
+          <Count>1683</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
