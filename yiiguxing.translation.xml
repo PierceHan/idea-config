@@ -1,10 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="剩余" />
       <item value="Variant Also Negotiates" />
       <item value="Not Implemented" />
       <item value="Internal Server Error" />
       <item value="Service Unavailable" />
     </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="1" />
+      </map>
+    </option>
   </component>
 </application>
