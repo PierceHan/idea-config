@@ -110,7 +110,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'AdapterApplication'</Description>
-          <Count>85</Count>
+          <Count>88</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'CallBackHandlerTest'">
@@ -894,7 +894,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'AdapterApplication'</Description>
-          <Count>133</Count>
+          <Count>137</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'CallBackHandlerTest'">
