@@ -1177,6 +1177,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Translate and Replace...">
+        <Item>
+          <IdeaActionID>$TranslateAndReplaceAction</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+X'</ShortCut>
+          <Description>Translate and Replace...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Type Declaration">
         <Item>
           <IdeaActionID>GotoTypeDeclaration</IdeaActionID>
