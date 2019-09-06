@@ -513,6 +513,14 @@
           <Count>46</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'RosMonitorTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'RosMonitorTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'RosterHandlerTest.assignRosterBuffer'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
