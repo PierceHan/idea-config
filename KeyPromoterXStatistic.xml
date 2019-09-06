@@ -38,7 +38,7 @@
           <IdeaActionID>CloseContent</IdeaActionID>
           <ShortCut>'Ctrl+F4'</ShortCut>
           <Description>Close</Description>
-          <Count>14</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Collapse All">
@@ -110,7 +110,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'AdapterApplication'</Description>
-          <Count>88</Count>
+          <Count>90</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'CallBackHandlerTest'">
@@ -310,7 +310,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1717</Count>
+          <Count>1720</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -374,7 +374,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'Ctrl+Alt+B'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>640</Count>
+          <Count>641</Count>
         </Item>
       </Statistic>
       <Statistic Action="Insert Link">
@@ -510,7 +510,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>42</Count>
+          <Count>45</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'RosterHandlerTest.assignRosterBuffer'">
@@ -894,7 +894,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'AdapterApplication'</Description>
-          <Count>139</Count>
+          <Count>141</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'CallBackHandlerTest'">
