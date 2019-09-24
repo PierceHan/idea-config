@@ -70,7 +70,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>199</Count>
+          <Count>201</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Reference">
@@ -166,7 +166,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'DceApplication'</Description>
-          <Count>267</Count>
+          <Count>272</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'DncApplication'">
@@ -249,6 +249,14 @@
           <Count>27</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'RuleFactoryTest.createRemoveDuplicateRule'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'RuleFactoryTest.createRemoveDuplicateRule'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'RuleFactoryTest.createRule'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -310,7 +318,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2023</Count>
+          <Count>2024</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -558,7 +566,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>972</Count>
+          <Count>973</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -966,7 +974,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'DceApplication'</Description>
-          <Count>339</Count>
+          <Count>347</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'DncApplication'">
@@ -1182,7 +1190,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>256</Count>
+          <Count>257</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Monospaced (Code Span) Mode">
