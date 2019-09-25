@@ -7,6 +7,7 @@
       <mapping pattern="t_dce_flow" type="PLAIN_TEXT" />
       <mapping pattern="abc_upload_20190902142015644" type="PLAIN_TEXT" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
+      <mapping ext="property" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
