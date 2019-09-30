@@ -38,7 +38,7 @@
           <IdeaActionID>CloseContent</IdeaActionID>
           <ShortCut>'Ctrl+F4'</ShortCut>
           <Description>Close</Description>
-          <Count>103</Count>
+          <Count>110</Count>
         </Item>
       </Statistic>
       <Statistic Action="Collapse All">
@@ -318,7 +318,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2156</Count>
+          <Count>2158</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
