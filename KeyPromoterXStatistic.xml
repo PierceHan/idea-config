@@ -318,7 +318,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2241</Count>
+          <Count>2245</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -382,7 +382,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'Ctrl+Alt+B'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>794</Count>
+          <Count>795</Count>
         </Item>
       </Statistic>
       <Statistic Action="Insert Link">
