@@ -102,7 +102,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>26</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'AdapterApplication'">
@@ -230,7 +230,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'OcmApp'</Description>
-          <Count>149</Count>
+          <Count>152</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'OutboundCallLimitApplication'">
@@ -326,7 +326,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2417</Count>
+          <Count>2419</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -390,7 +390,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'Ctrl+Alt+B'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>853</Count>
+          <Count>856</Count>
         </Item>
       </Statistic>
       <Statistic Action="Insert Link">
@@ -598,7 +598,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>977</Count>
+          <Count>980</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1078,7 +1078,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'OcmApp'</Description>
-          <Count>188</Count>
+          <Count>195</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'OutboundCallLimitApplication'">
@@ -1230,7 +1230,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>264</Count>
+          <Count>265</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Monospaced (Code Span) Mode">
