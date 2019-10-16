@@ -166,7 +166,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'DceApplication'</Description>
-          <Count>290</Count>
+          <Count>292</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'DncApplication'">
@@ -390,7 +390,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'Ctrl+Alt+B'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>865</Count>
+          <Count>866</Count>
         </Item>
       </Statistic>
       <Statistic Action="Insert Link">
@@ -1022,7 +1022,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'DceApplication'</Description>
-          <Count>372</Count>
+          <Count>374</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'DncApplication'">
