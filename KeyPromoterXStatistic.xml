@@ -70,7 +70,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>235</Count>
+          <Count>237</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -238,7 +238,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'OcmApp'</Description>
-          <Count>156</Count>
+          <Count>157</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'OutboundCallLimitApplication'">
@@ -1110,7 +1110,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'OcmApp'</Description>
-          <Count>200</Count>
+          <Count>202</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'OutboundCallLimitApplication'">
