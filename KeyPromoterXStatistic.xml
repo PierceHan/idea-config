@@ -398,7 +398,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'Ctrl+Alt+B'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>892</Count>
+          <Count>894</Count>
         </Item>
       </Statistic>
       <Statistic Action="Insert Link">
