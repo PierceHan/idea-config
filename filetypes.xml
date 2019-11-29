@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="123" type="PLAIN_TEXT" />
       <mapping pattern="87847289284637" type="PLAIN_TEXT" />
       <mapping pattern="abc_upload_20190902142514395" type="PLAIN_TEXT" />
