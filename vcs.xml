@@ -3,14 +3,19 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
+          <option name="url" value="http://gitlab.wellcloud.cc:30000/cloud/cm-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
           <option name="url" value="http://gitlab.wellcloud.cc:30000" />
           <option name="userName" value="hanguoan" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="http://github.com" />
-          <option name="userName" value="han2770@163.com" />
+          <option name="url" value="http://gitlab.wellcloud.cc:30000/cloud/CC.Core.git" />
+          <option name="userName" value="" />
         </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/huijie" />
   </component>
 </application>
