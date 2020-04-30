@@ -36,25 +36,16 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/controller/BackConfigController.java" timestamp="1588231055586">
         <mark key="[" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/dce/handler/DefaultHandler.java" timestamp="1588218838298">
-        <mark key="[" line="44" column="16" />
-        <mark key="]" line="43" column="25" />
-        <mark key="." line="43" column="25" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/function/FunctionUtils.java" timestamp="1588227022363">
         <mark key="[" line="141" column="4" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/dce/handler/DncHandler.java" timestamp="1588218405625">
-        <mark key="[" line="44" column="56" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/model/dto/FlowDTO.java" timestamp="1588234664715" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/common/mapstruct/RuleMapstruct.java" timestamp="1588234901139">
+        <mark key="[" line="14" column="7" />
+        <mark key="]" line="14" column="7" />
+        <mark key="." line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/common/mapstruct/RuleMapstruct.java" timestamp="1588233432303">
-        <mark key="[" line="12" column="7" />
-        <mark key="]" line="12" column="7" />
-        <mark key="." line="12" column="7" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/dncserver/src/main/java/com/wellcloud/dnc/config/RedisConfig.java" timestamp="1588218572267">
-        <mark key="[" line="57" column="33" />
-      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/model/DceFlow.java" timestamp="1588234013575" />
       <file name="/Dummy.txt" timestamp="1588233325202">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -70,6 +61,11 @@
         <mark key="]" line="100" column="8" />
         <mark key="^" line="100" column="8" />
         <mark key="." line="100" column="7" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/common/mapstruct/FlowMapstruct.java" timestamp="1588234297135">
+        <mark key="[" line="21" column="30" />
+        <mark key="]" line="21" column="30" />
+        <mark key="." line="21" column="30" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/bcm/poc/BcmPocBack.java" timestamp="1588230599634">
         <mark key="[" line="45" column="115" />
@@ -149,10 +145,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>class</text>
+        <text>ruleNode</text>
       </register>
       <register name="-" type="4">
-        <text>class</text>
+        <text>ruleNode</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRcPg==</text>
