@@ -33,7 +33,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1588157688105">
+      <file name="/Dummy.txt" timestamp="1588211316614">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -59,6 +59,9 @@
         <mark key="[" line="45" column="84" />
         <mark key="]" line="45" column="84" />
         <mark key="." line="45" column="84" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/dncserver/sql/t_black.sql" timestamp="1588211304945">
+        <mark key="[" line="41" column="63" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/service/impl/FlowServiceImpl.java" timestamp="1588158796540">
         <mark key="[" line="31" column="61" />
