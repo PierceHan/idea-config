@@ -33,15 +33,24 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1588229580626">
+      <file name="/Dummy.txt" timestamp="1588230979869">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/controller/BackConfigController.java" timestamp="1588231055586">
+        <mark key="[" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/dce/handler/DefaultHandler.java" timestamp="1588218838298">
         <mark key="[" line="44" column="16" />
         <mark key="]" line="43" column="25" />
         <mark key="." line="43" column="25" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/factory/ResultConsumerFactory.java" timestamp="1588230800364">
+        <mark key="[" line="100" column="9" />
+        <mark key="]" line="100" column="8" />
+        <mark key="^" line="100" column="8" />
+        <mark key="." line="100" column="7" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/dnc/DoNotCallDTO.java" timestamp="1588218077383">
         <mark key="[" line="12" column="27" />
@@ -57,19 +66,10 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/dce/handler/DncHandler.java" timestamp="1588218405625">
         <mark key="[" line="44" column="56" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/event/CallEvent.java" timestamp="1588214548307">
-        <mark key="[" line="35" column="11" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/bcm/poc/BcmPocBack.java" timestamp="1588217706970">
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/bcm/poc/BcmPocBack.java" timestamp="1588230599634">
         <mark key="[" line="45" column="115" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/pom.xml" timestamp="1588229884917" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/event/handler/processor/CallResultPrivateRedisTranspot.java" timestamp="1588214644331">
-        <mark key="[" line="54" column="53" />
-        <mark key="]" line="33" column="34" />
-        <mark key="^" line="33" column="34" />
-        <mark key="." line="33" column="33" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/task/TaskServiceImpl.java" timestamp="1588226819181">
         <mark key="[" line="62" column="16" />
       </file>
@@ -78,11 +78,17 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/controller/BackController.java" timestamp="1588231145890">
+        <mark key="[" line="30" column="4" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/dncserver/pom.xml" timestamp="1588229562153">
         <mark key="[" line="383" column="12" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/dncserver/src/main/java/com/wellcloud/dnc/config/RedisConfig.java" timestamp="1588218572267">
         <mark key="[" line="57" column="33" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/ConfigTypeEnum.java" timestamp="1588230746105">
+        <mark key="[" line="7" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1588216352398">
         <mark key="[" line="0" column="0" />
