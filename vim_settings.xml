@@ -33,29 +33,40 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/service/RuleService.java" timestamp="1588239139590">
-        <mark key="[" line="14" column="18" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/service/RuleService.java" timestamp="1588240725943">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/controller/BackConfigController.java" timestamp="1588231055586">
-        <mark key="[" line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/model/dto/FlowDTO.java" timestamp="1588234664715" />
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/common/mapstruct/RuleMapstruct.java" timestamp="1588239527942">
         <mark key="[" line="26" column="4" />
         <mark key="]" line="26" column="4" />
         <mark key="." line="26" column="4" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/model/DceFlow.java" timestamp="1588234013575" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/service/impl/FlowServiceImpl.java" timestamp="1588237782743">
-        <mark key="[" line="75" column="132" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/file/sql/t_dce_flow" timestamp="1588241265659" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/file/sql/t_dce_rule.sql" timestamp="1588241357863">
+        <mark key="[" line="35" column="26" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/service/impl/RuleServiceImpl.java" timestamp="1588239660283">
-        <mark key="[" line="87" column="75" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/model/DceFlow.java" timestamp="1588241120321">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/web/RuleController.java" timestamp="1588238807402">
-        <mark key="[" line="27" column="4" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/model/rule/JudgeParam.java" timestamp="1588240565564" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/service/impl/FlowServiceImpl.java" timestamp="1588242072399">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588233325202">
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/service/impl/RuleServiceImpl.java" timestamp="1588241474401">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/web/RuleController.java" timestamp="1588241429467">
+        <mark key="[" line="31" column="4" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1588241182167">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -65,36 +76,41 @@
         <mark key="]" line="94" column="23" />
         <mark key="." line="94" column="23" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/factory/ResultConsumerFactory.java" timestamp="1588230800364">
-        <mark key="[" line="100" column="9" />
-        <mark key="]" line="100" column="8" />
-        <mark key="^" line="100" column="8" />
-        <mark key="." line="100" column="7" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/model/rule/RuleNode.java" timestamp="1588241113161">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/common/mapstruct/FlowMapstruct.java" timestamp="1588237718835">
         <mark key="[" line="21" column="18" />
         <mark key="]" line="21" column="30" />
         <mark key="." line="21" column="30" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/web/FlowController.java" timestamp="1588238803537">
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/test/java/com/wellcloud/dce/service/impl/FlowServiceImplTest.java" timestamp="1588240792068">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/web/FlowController.java" timestamp="1588242031187">
         <mark key="[" line="53" column="33" />
         <mark key="]" line="46" column="31" />
         <mark key="." line="46" column="31" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/bcm/poc/BcmPocBack.java" timestamp="1588230599634">
-        <mark key="[" line="45" column="115" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/pom.xml" timestamp="1588229884917" />
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/container/BackContainerImpl.java" timestamp="1588232898196">
         <mark key="[" line="87" column="63" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/test/java/com/wellcloud/dce/data/TestData.java" timestamp="1588240813202">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/controller/BackController.java" timestamp="1588232944423">
         <mark key="[" line="32" column="42" />
         <mark key="]" line="32" column="42" />
         <mark key="." line="32" column="42" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/ConfigTypeEnum.java" timestamp="1588230746105">
-        <mark key="[" line="7" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/file/sql/t_dce_flow.sql" timestamp="1588241304043">
+        <mark key="[" line="38" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -147,8 +163,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>RuleDTO</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>RuleDTO</text>
@@ -166,28 +182,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoU3RyaW5nVXRpbHMuaXNFbXB0eShkb21haW4pICYmIFN0cmluZ1V0aWxzLmlzRW1wdHkodGVtcGxhdGVJZCkpewogICAgICAgICAgICBsb2cuaW5mbygi5p+l6K+i5re75Yqg5Li656m6Iik7CiAgICAgICAgICAgIHJldHVybiBuZXcgUmVzcG9uc2VFbnRpdHk8PihIdHRwU3RhdHVzLk5PX0NPTlRFTlQpOwogICAgICAgIH0=</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJwYXJhbXMiKQogICAgcHJpdmF0ZSBMaXN0PFJ1bGVGYWN0b3J5UmVxdWVzdD4gcGFyYW1zOw==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHJ1bGVUZW1wbGF0ZTsKICAgIEBDb2x1bW4obmFtZSA9ICJjb25kaXRpb25fZXhwcmVzc2lvbiIpCiAgICBwcml2YXRlIFN0cmluZyBjb25kaXRpb247</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChkb05vdENhbGxEVE8uZ2V0UGhvbmUoKSAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgQm9vbGVhbiBwaG9uZSA9IHN0cmluZ1JlZGlzVGVtcGxhdGUuaGFzS2V5KEtleUNvbnNpc3QuZG9Ob3RDYWxsS2V5KGJsYWNrbGlzdElkLGRvTm90Q2FsbERUTy5nZXRQaG9uZSgpKSk7CiAgICAgICAgICAgICAgICAgICAgaWYgKHBob25lIT1udWxsICYmIHBob25lKXsKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIG5ldyBETkNSZXNwb25zZShmYWxzZSwgYmxhY2tsaXN0SWQpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGlmIChkb05vdENhbGxEVE8uZ2V0Um9zdGVySWQoKSAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgQm9vbGVhbiByb3N0ZXJJZCA9IHN0cmluZ1JlZGlzVGVtcGxhdGUuaGFzS2V5KEtleUNvbnNpc3QuZG9Ob3RDYWxsS2V5KGJsYWNrbGlzdElkLGRvTm90Q2FsbERUTy5nZXRSb3N0ZXJJZCgpKSk7CiAgICAgICAgICAgICAgICAgICAgbG9nLmluZm8oInt96aqM6K+B5YiX6KGoOnt9LHt9IixibGFja2xpc3RJZCxkb05vdENhbGxEVE8uZ2V0Um9zdGVySWQoKSxyb3N0ZXJJZCk7CiAgICAgICAgICAgICAgICAgICAgaWYgKHJvc3RlcklkIT1udWxsICYmIHJvc3RlcklkKXsKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIG5ldyBETkNSZXNwb25zZShmYWxzZSwgYmxhY2tsaXN0SWQpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgY3JlYXRlUnVsZSgpewogICAgICAgIHJldHVybiBNZXNzYWdlRm9ybWF0LmZvcm1hdChydWxlVGVtcGxhdGUsaWQsZmxvd0lkLGNvbmRpdGlvbixhY3Rpb24pOwogICAgfQ==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLm1hcHN0cnVjdDwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+bWFwc3RydWN0PC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4xLjMuMC5GaW5hbDwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+</text>
+        <text encoding="base64">ICAgICAgICBkY2VGbG93LnNldFBhcmFtcyhnZXRSdWxlRmFjdG9yeVJlcXVlc3RMaXN0KCkpOw==</text>
       </register>
     </registers>
   </component>
