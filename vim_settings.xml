@@ -33,7 +33,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1588229395669">
+      <file name="/Dummy.txt" timestamp="1588229580626">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -63,6 +63,7 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/bcm/poc/BcmPocBack.java" timestamp="1588217706970">
         <mark key="[" line="45" column="115" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/pom.xml" timestamp="1588229884917" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/event/handler/processor/CallResultPrivateRedisTranspot.java" timestamp="1588214644331">
         <mark key="[" line="54" column="53" />
         <mark key="]" line="33" column="34" />
@@ -77,8 +78,8 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/dncserver/pom.xml" timestamp="1588218760700">
-        <mark key="[" line="44" column="26" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/dncserver/pom.xml" timestamp="1588229562153">
+        <mark key="[" line="383" column="12" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/dncserver/src/main/java/com/wellcloud/dnc/config/RedisConfig.java" timestamp="1588218572267">
         <mark key="[" line="57" column="33" />
