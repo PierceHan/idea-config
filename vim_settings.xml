@@ -4,6 +4,16 @@
       <key-repeat enabled="true" />
     </editor>
   </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxyZXN1bHRcPg==</entry>
+      </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
   <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
@@ -19,6 +29,176 @@
         <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1588157688105">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/model/vo/RuleDTO.java" timestamp="1588157166421">
+        <mark key="[" line="9" column="21" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/model/vo/FlowDTO.java" timestamp="1588157613775">
+        <mark key="[" line="17" column="37" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/resources/config/application.yaml" timestamp="1588154282658">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/model/dto/FlowDTO.java" timestamp="1588157665427">
+        <mark key="[" line="18" column="15" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/common/mapstruct/FlowMapstruct.java" timestamp="1588159552072">
+        <mark key="[" line="6" column="26" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/web/FlowController.java" timestamp="1588159505689">
+        <mark key="[" line="45" column="84" />
+        <mark key="]" line="45" column="84" />
+        <mark key="." line="45" column="84" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/service/impl/FlowServiceImpl.java" timestamp="1588158796540">
+        <mark key="[" line="31" column="61" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/pom.xml" timestamp="1588158884308">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/file/rule/rule1.0.drl" timestamp="1588154207671">
+        <mark key="[" line="21" column="3" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="226" column="4" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" />
+      <jump line="322" column="46" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" />
+      <jump line="325" column="0" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" />
+      <jump line="331" column="0" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" />
+      <jump line="335" column="36" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" />
+      <jump line="48" column="28" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" />
+      <jump line="9" column="0" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" />
+      <jump line="33" column="0" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/serivce/impl/InstantServiceImplTest.java" />
+      <jump line="60" column="28" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/serivce/impl/InstantServiceImplTest.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/serivce/impl/InstantServiceImplTest.java" />
+      <jump line="46" column="9" filename="$USER_HOME$/IdeaProjects/huijie/dce/src/test/java/com/wellcloud/dce/service/impl/DceServiceImplTest.java" />
+      <jump line="39" column="27" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/impl/ScheduledServiceImpl.java" />
+      <jump line="37" column="23" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/impl/ScheduledServiceImpl.java" />
+      <jump line="241" column="47" filename="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/web/BatchController.java" />
+      <jump line="58" column="8" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/monitor/SystemMonitor.java" />
+      <jump line="26" column="3" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/monitor/SystemMonitor.java" />
+      <jump line="45" column="6" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/message/BillInstallmentTest.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/message/BillInstallmentTest.java" />
+      <jump line="56" column="27" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/message/BillInstallmentTest.java" />
+      <jump line="132" column="4" filename="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/service/impl/WhenServiceImpl.java" />
+      <jump line="859" column="30" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/impl/ActivityServiceImpl.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/impl/ActivityServiceImpl.java" />
+      <jump line="102" column="35" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/impl/MonitorServiceImpl.java" />
+      <jump line="94" column="12" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/impl/MonitorServiceImpl.java" />
+      <jump line="121" column="12" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/impl/MonitorServiceImpl.java" />
+      <jump line="148" column="4" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/impl/MonitorServiceImpl.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/impl/MonitorServiceImpl.java" />
+      <jump line="3" column="26" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/impl/MonitorServiceImpl.java" />
+      <jump line="99" column="9" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/impl/MonitorServiceImpl.java" />
+      <jump line="155" column="16" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/impl/MonitorServiceImpl.java" />
+      <jump line="161" column="16" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/impl/MonitorServiceImpl.java" />
+      <jump line="159" column="16" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/impl/MonitorServiceImpl.java" />
+      <jump line="156" column="16" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/impl/MonitorServiceImpl.java" />
+      <jump line="34" column="22" filename="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/message/CmbMessageSender.java" />
+      <jump line="338" column="40" filename="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/kefu/InstantCallBack.java" />
+      <jump line="72" column="15" filename="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/message/CmbMessageSender.java" />
+      <jump line="33" column="8" filename="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/message/CmbMessageSender.java" />
+      <jump line="475" column="69" filename="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/kefu/Instant.java" />
+      <jump line="395" column="37" filename="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/kefu/InstantCallBack.java" />
+      <jump line="46" column="7" filename="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/weikong/WeiKonbBack1.java" />
+      <jump line="228" column="0" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/src.zip!/java/util/ArrayList.java" />
+      <jump line="1467" column="1" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/src.zip!/java/util/ArrayList.java" />
+      <jump line="66" column="22" filename="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/kafka/KafkaSenderTest.java" />
+      <jump line="89" column="75" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/monitor/TaskMonitorService.java" />
+      <jump line="607" column="11" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>dncKey</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxyZXN1bHRcPg==</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgZG5jS2V5ID0gQ2FjaGVDb25zdHMuZG9Ob3RDYWxsS2V5KHRhc2tJbmZvLmdldENhbXBhaWduSWQoKSwgdGFza0luZm8uZ2V0Um9zdGVySWQoKSk7Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLm1hcHN0cnVjdDwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+bWFwc3RydWN0PC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4xLjMuMC5GaW5hbDwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBQYWdlSGVscGVyLm9mZnNldFBhZ2UocGFnZVJlcXVlc3QuZ2V0U3RhcnRQYWdlKCkscGFnZVJlcXVlc3QuZ2V0UGFnZU51bSgpKTs=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text>package copy.rules;
+
+import cc.wellcloud.cloud.interfaces.model.DceResponse;
+import cc.wellcloud.cloud.interfaces.model.dce.DceResponseType;
+import com.wellcloud.dce.service.WhenService;
+import com.wellcloud.dce.service.DateService;
+import java.util.Map;
+
+rule &quot;868527be29444ed989bcd264b2d7ef65&quot;
+no-loop true
+agenda-group &quot;6b4663701d294cccb9c571791f163e4f&quot;
+    when
+    $whenService : WhenService()
+    $dateService : DateService()
+    $dceResponse : DceResponse()
+    $request : Map($whenService.beyondRequestTimes(1,$request))
+    then
+    $dceResponse.setCode(DceResponseType.REPEAT_REQUEST);
+    $dceResponse.setCanDial(false);
+end</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">XDxyZXN1bHRcPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxyZXN1bHRcPg==</last-pattern>
+      <last-replace>~</last-replace>
+      <last-substitute encoding="base64">XDxyZXN1bHRcPg==</last-substitute>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
   </component>
   <component name="VimSettings">
     <state version="6" enabled="true" />
