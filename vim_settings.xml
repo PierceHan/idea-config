@@ -33,39 +33,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/service/RuleService.java" timestamp="1588240725943">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/common/mapstruct/RuleMapstruct.java" timestamp="1588239527942">
-        <mark key="[" line="26" column="4" />
-        <mark key="]" line="26" column="4" />
-        <mark key="." line="26" column="4" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/dce/file/sql/t_dce_flow" timestamp="1588241265659" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/dce/file/sql/t_dce_rule.sql" timestamp="1588241357863">
-        <mark key="[" line="35" column="26" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/model/DceFlow.java" timestamp="1588241120321">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/model/rule/JudgeParam.java" timestamp="1588240565564" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/service/impl/FlowServiceImpl.java" timestamp="1588242072399">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/service/impl/RuleServiceImpl.java" timestamp="1588241474401">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/web/RuleController.java" timestamp="1588241429467">
-        <mark key="[" line="31" column="4" />
-      </file>
       <file name="/Dummy.txt" timestamp="1588241182167">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -76,11 +43,17 @@
         <mark key="]" line="94" column="23" />
         <mark key="." line="94" column="23" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/service/RuleService.java" timestamp="1588240725943">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/model/rule/RuleNode.java" timestamp="1588241113161">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/dncserver/src/main/java/com/wellcloud/dnc/service/impl/BlackServiceImpl.java" timestamp="1588484192865" />
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/common/mapstruct/FlowMapstruct.java" timestamp="1588237718835">
         <mark key="[" line="21" column="18" />
         <mark key="]" line="21" column="30" />
@@ -91,10 +64,23 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/common/mapstruct/RuleMapstruct.java" timestamp="1588239527942">
+        <mark key="[" line="26" column="4" />
+        <mark key="]" line="26" column="4" />
+        <mark key="." line="26" column="4" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/web/FlowController.java" timestamp="1588242031187">
         <mark key="[" line="53" column="33" />
         <mark key="]" line="46" column="31" />
         <mark key="." line="46" column="31" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/file/sql/t_dce_rule.sql" timestamp="1588241357863">
+        <mark key="[" line="35" column="26" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/model/DceFlow.java" timestamp="1588241120321">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/container/BackContainerImpl.java" timestamp="1588232898196">
         <mark key="[" line="87" column="63" />
@@ -104,13 +90,26 @@
         <mark key="]" line="73" column="0" />
         <mark key="." line="73" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/service/impl/FlowServiceImpl.java" timestamp="1588242072399">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/controller/BackController.java" timestamp="1588232944423">
         <mark key="[" line="32" column="42" />
         <mark key="]" line="32" column="42" />
         <mark key="." line="32" column="42" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/service/impl/RuleServiceImpl.java" timestamp="1588241474401">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/file/sql/t_dce_flow.sql" timestamp="1588241304043">
         <mark key="[" line="38" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/web/RuleController.java" timestamp="1588241429467">
+        <mark key="[" line="31" column="4" />
       </file>
     </filemarks>
     <jumps>
