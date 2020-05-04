@@ -33,10 +33,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1588560704992">
+      <file name="/Dummy.txt" timestamp="1588573328341">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/dncserver/src/main/java/com/wellcloud/dnc/runnable/BlackTask.java" timestamp="1588573420584">
+        <mark key="[" line="79" column="19" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/service/RuleService.java" timestamp="1588240725943">
         <mark key="[" line="17" column="0" />
@@ -73,6 +76,7 @@
         <mark key="]" line="46" column="31" />
         <mark key="." line="46" column="31" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.0.10.RELEASE/spring-data-redis-2.0.10.RELEASE-sources.jar!/org/springframework/data/redis/connection/RedisKeyCommands.java" timestamp="1588572629721" />
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/file/sql/t_dce_rule.sql" timestamp="1588561351147">
         <mark key="[" line="35" column="26" />
       </file>
@@ -80,9 +84,6 @@
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/container/BackContainerImpl.java" timestamp="1588232898196">
-        <mark key="[" line="87" column="63" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/test/java/com/wellcloud/dce/data/TestData.java" timestamp="1588240813202">
         <mark key="[" line="73" column="0" />
