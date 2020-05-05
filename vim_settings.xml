@@ -49,7 +49,7 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/event/handler/processor/CallResultTranspotFactory.java" timestamp="1588646844377" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/controller/RosterController.java" timestamp="1588661860155" />
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/model/dto/FlowDTO.java" timestamp="1588558289366">
         <mark key="[" line="17" column="37" />
         <mark key="]" line="11" column="13" />
@@ -60,17 +60,27 @@
         <mark key="]" line="99" column="0" />
         <mark key="." line="99" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/service/impl/PhoneServiceImpl.java" timestamp="1588649153906" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/core/scan/sftp/UploadSftpRosterFile.java" timestamp="1588661824336">
+        <mark key="[" line="2" column="64" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/pom.xml" timestamp="1588661576645">
+        <mark key="[" line="101" column="16" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/web/FlowController.java" timestamp="1588645973913">
         <mark key="[" line="59" column="24" />
         <mark key="]" line="46" column="31" />
         <mark key="." line="46" column="31" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/impl/CallResultDictServiceImpl.java" timestamp="1588650352334" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/pom.xml" timestamp="1588661255798">
+        <mark key="[" line="31" column="28" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/file/sql/t_dce_rule.sql" timestamp="1588561351147">
         <mark key="[" line="35" column="26" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/event/handler/processor/CallResultPrivateRedisTranspot.java" timestamp="1588646856851" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/common/exception/GlobalExceptionHandler.java" timestamp="1588661837512" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/core/scan/cmbc/UploadRoster.java" timestamp="1588661848059" />
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/file/sql/t_dce_flow.sql" timestamp="1588564598682">
         <mark key="[" line="38" column="0" />
       </file>
@@ -129,7 +139,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGFjdGlvbjsK</text>
+        <text encoding="base64">aW1wb3J0IGNjLndlbGxjbG91ZC5jbG91ZC5pbnRlcmZhY2VzLmV4Y2VwdGlvbi5Ob3RGb3VuZEV4Y2V0cGlvbjsK</text>
       </register>
       <register name="-" type="4">
         <text>F</text>
@@ -141,34 +151,34 @@
         <text encoding="base64">ICAgICAgICBTdHJpbmcgZG5jS2V5ID0gQ2FjaGVDb25zdHMuZG9Ob3RDYWxsS2V5KHRhc2tJbmZvLmdldENhbXBhaWduSWQoKSwgdGFza0luZm8uZ2V0Um9zdGVySWQoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGFjdGlvbjsK</text>
+        <text encoding="base64">aW1wb3J0IGNjLndlbGxjbG91ZC5jbG91ZC5pbnRlcmZhY2VzLmV4Y2VwdGlvbi5Ob3RGb3VuZEV4Y2V0cGlvbjsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNjLndlbGxjbG91ZC5jbG91ZC5pbnRlcmZhY2VzLmV4Y2VwdGlvbi5Ob3RGb3VuZEV4Y2V0cGlvbjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5ewogICAgICAgICAgICB9Y2F0Y2ggKEV4Y2VwdGlvbiBlKXsKICAgICAgICAgICAgICAgIGxvZy5lcnJvcigi5Ye6546w5byC5bi4IixlKTsKICAgICAgICAgICAgfQ==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGFjdGlvbjsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text />
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5ewogICAgICAgICAgICB9Y2F0Y2ggKEV4Y2VwdGlvbiBlKXsKICAgICAgICAgICAgICAgIGxvZy5lcnJvcigi5Ye6546w5byC5bi4IixlKTsKICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJwYXJhbXMiKQogICAgcHJpdmF0ZSBMaXN0PFJ1bGVGYWN0b3J5UmVxdWVzdD4gcGFyYW1zOw==</text>
+        <text />
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHJ1bGVUZW1wbGF0ZTsKICAgIEBDb2x1bW4obmFtZSA9ICJjb25kaXRpb25fZXhwcmVzc2lvbiIpCiAgICBwcml2YXRlIFN0cmluZyBjb25kaXRpb247</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJwYXJhbXMiKQogICAgcHJpdmF0ZSBMaXN0PFJ1bGVGYWN0b3J5UmVxdWVzdD4gcGFyYW1zOw==</text>
       </register>
     </registers>
   </component>
