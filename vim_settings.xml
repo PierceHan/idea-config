@@ -31,6 +31,15 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed K</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -39,7 +48,7 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/dncserver/src/main/java/com/wellcloud/dnc/runnable/BlackTask.java" timestamp="1588574553219">
         <mark key="[" line="79" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588646276544">
+      <file name="/Dummy.txt" timestamp="1588662109729">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -49,12 +58,14 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/controller/RosterController.java" timestamp="1588661860155" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/model/dto/FlowDTO.java" timestamp="1588558289366">
-        <mark key="[" line="17" column="37" />
-        <mark key="]" line="11" column="13" />
-        <mark key="." line="11" column="13" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/event/AbstractActivityStatusEvent.java" timestamp="1588662604948">
+        <mark key="'" line="10" column="1" />
+        <mark key="[" line="36" column="23" />
+        <mark key="]" line="36" column="24" />
+        <mark key="^" line="30" column="36" />
+        <mark key="." line="36" column="24" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/controller/RosterController.java" timestamp="1588661860155" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/function/FunctionUtils.java" timestamp="1588584537752">
         <mark key="[" line="104" column="22" />
         <mark key="]" line="99" column="0" />
@@ -83,6 +94,9 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/core/scan/cmbc/UploadRoster.java" timestamp="1588661848059" />
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/file/sql/t_dce_flow.sql" timestamp="1588564598682">
         <mark key="[" line="38" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/core/GiantRostersHandler.java" timestamp="1588662707346">
+        <mark key="'" line="32" column="12" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/web/RuleController.java" timestamp="1588560613455">
         <mark key="[" line="16" column="25" />
@@ -134,6 +148,18 @@
       <jump line="66" column="22" filename="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/kafka/KafkaSenderTest.java" />
       <jump line="89" column="75" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/monitor/TaskMonitorService.java" />
       <jump line="607" column="11" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" />
+      <jump line="42" column="58" filename="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/event/AbstractActivityStatusEvent.java" />
+      <jump line="31" column="4" filename="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/event/AbstractActivityStatusEvent.java" />
+      <jump line="36" column="4" filename="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/event/AbstractActivityStatusEvent.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/event/AbstractActivityStatusEvent.java" />
+      <jump line="9" column="1" filename="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/event/AbstractActivityStatusEvent.java" />
+      <jump line="10" column="1" filename="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/event/AbstractActivityStatusEvent.java" />
+      <jump line="51" column="1" filename="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/event/AbstractActivityStatusEvent.java" />
+      <jump line="35" column="37" filename="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/core/GiantRostersHandler.java" />
+      <jump line="41" column="27" filename="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/core/GiantRostersHandler.java" />
+      <jump line="74" column="16" filename="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/core/GiantRostersHandler.java" />
+      <jump line="29" column="23" filename="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/core/GiantRostersHandler.java" />
+      <jump line="32" column="12" filename="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/core/GiantRostersHandler.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -145,7 +171,7 @@
         <text>F</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXN1bHRcPg==</text>
+        <text encoding="base64">XDxidWZmZXJlZFJlYWRlclw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgZG5jS2V5ID0gQ2FjaGVDb25zdHMuZG9Ob3RDYWxsS2V5KHRhc2tJbmZvLmdldENhbXBhaWduSWQoKSwgdGFza0luZm8uZ2V0Um9zdGVySWQoKSk7Cg==</text>
@@ -184,12 +210,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxyZXN1bHRcPg==</last-search>
+      <last-search encoding="base64">XDxidWZmZXJlZFJlYWRlclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXN1bHRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxidWZmZXJlZFJlYWRlclw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZXN1bHRcPg==</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
