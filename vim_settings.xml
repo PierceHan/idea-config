@@ -99,6 +99,7 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/file/sql/t_dce_rule.sql" timestamp="1588561351147">
         <mark key="[" line="35" column="26" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/event/handler/processor/CallResultPrivateRedisTranspot.java" timestamp="1588730166613" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/adapter/FileType.java" timestamp="1588728746478">
         <mark key="[" line="6" column="12" />
       </file>
@@ -111,6 +112,7 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/message/RedisMessage.java" timestamp="1588730105717" />
     </filemarks>
     <jumps>
       <jump line="226" column="4" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" />
