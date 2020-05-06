@@ -50,6 +50,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/service/impl/DceServiceImpl.java" timestamp="1588750151598" />
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/util/CacheConsts.java" timestamp="1588731161363" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/entity/ResultSubscribeEntity.java" timestamp="1588731441597" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/config/ConfigProperties.java" timestamp="1588733170261" />
@@ -58,6 +59,7 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/core/KieBaseMapHelper.java" timestamp="1588750140833" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/event/handler/processor/CallResultKafkaTranspot.java" timestamp="1588734678491">
         <mark key="[" line="16" column="36" />
       </file>
@@ -74,11 +76,6 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/event/handler/processor/CallResultTranspotFactory.java" timestamp="1588734712263">
         <mark key="[" line="10" column="38" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/adapter/UserDefinedRosterEntity.java" timestamp="1588728827268">
-        <mark key="[" line="15" column="12" />
-        <mark key="]" line="15" column="12" />
-        <mark key="." line="15" column="12" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application.yml" timestamp="1588734092924" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/event/handler/processor/CallResultRedisTranspot.java" timestamp="1588734699492">
         <mark key="[" line="16" column="36" />
@@ -92,9 +89,6 @@
         <mark key="[" line="50" column="54" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/event/handler/processor/Processor.java" timestamp="1588733685876" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/adapter/FileType.java" timestamp="1588728746478">
-        <mark key="[" line="6" column="12" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/event/CallEventBusAdapter.java" timestamp="1588732389346" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/event/handler/processor/CallResultCommonTool.java" timestamp="1588733039108" />
     </filemarks>
