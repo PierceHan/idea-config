@@ -50,15 +50,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.1.3.RELEASE/spring-data-commons-2.1.3.RELEASE-sources.jar!/org/springframework/data/mapping/model/PersistentEntityParameterValueProvider.java" timestamp="1588752987640" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/core/KieBaseMapHelper.java" timestamp="1588751768436" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/repository/DialContextRepository.java" timestamp="1588752461718" />
+      <file name="$MAVEN_REPOSITORY$/com/ocm/ocm-api/1.0.1-SNAPSHOT/ocm-api-1.0.1-20190906.111929-3.jar!/com/ocm/api/task/BaseDialTaskInfo.class" timestamp="1588759230452" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/pom.xml" timestamp="1588759246405" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application.yml" timestamp="1588753337395">
         <mark key="[" line="2" column="23" />
         <mark key="]" line="2" column="23" />
         <mark key="." line="2" column="23" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/core/strategy/dial/SinglePhoneDialStrategy.java" timestamp="1588756767656" />
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java" timestamp="1588759801006" />
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/resources/application.properties" timestamp="1588753173127">
         <mark key="[" line="2" column="34" />
         <mark key="]" line="2" column="34" />
@@ -74,8 +74,7 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/resources/application-dev.properties" timestamp="1588752835491" />
-      <file name="/Dummy.txt" timestamp="1588758449706">
+      <file name="/Dummy.txt" timestamp="1588759252429">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -84,8 +83,9 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/repository/RosterContextRepository.java" timestamp="1588754677214" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/RedisUtils.java" timestamp="1588758945963" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.1.3.RELEASE/spring-data-commons-2.1.3.RELEASE-sources.jar!/org/springframework/data/mapping/model/BasicPersistentEntity.java" timestamp="1588756814256" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/pom.xml" timestamp="1588759767439" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.1.3.RELEASE/spring-data-redis-2.1.3.RELEASE-sources.jar!/org/springframework/data/redis/core/convert/MappingRedisConverter.java" timestamp="1588755348714" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/resources/application-develop.properties" timestamp="1588752811684" />
+      <file name="$MAVEN_REPOSITORY$/com/ocm/ocm-api/1.0-SNAPSHOT/ocm-api-1.0-20190906.020231-1119.jar!/com/ocm/api/task/BaseDialTaskInfo.class" timestamp="1588759218196" />
     </filemarks>
     <jumps>
       <jump line="226" column="4" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" />
