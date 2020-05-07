@@ -50,15 +50,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1588759252429">
+      <file name="/Dummy.txt" timestamp="1588817174934">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/resources/application.properties" timestamp="1588753173127">
-        <mark key="[" line="2" column="34" />
-        <mark key="]" line="2" column="34" />
-        <mark key="." line="2" column="34" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/service/context/DialContextServiceImpl.java" timestamp="1588815635360">
         <mark key="[" line="14" column="57" />
@@ -73,6 +68,11 @@
         <mark key="[" line="2" column="23" />
         <mark key="]" line="2" column="23" />
         <mark key="." line="2" column="23" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/service/strategy/DialStrategyServiceImpl.java" timestamp="1588817663789" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/entity/strategy/DialStrategyEntity.java" timestamp="1588817299254" />
+      <file name="/fragment.java" timestamp="1588817174969">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
