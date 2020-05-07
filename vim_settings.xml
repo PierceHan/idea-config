@@ -63,17 +63,23 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/service/strategy/DialStrategyServiceImpl.java" timestamp="1588817663789" />
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/entity/strategy/DialStrategyEntity.java" timestamp="1588817299254" />
-      <file name="/Dummy.txt" timestamp="1588817174934">
+      <file name="/Dummy.txt" timestamp="1588833758282">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/web/DceController.java" timestamp="1588833957746" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/adapter/UserDefinedRosterEntity.java" timestamp="1588832867426">
         <mark key="[" line="17" column="32" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/web/DialContextController.java" timestamp="1588815629370" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/common/aspect/LogAspect.java" timestamp="1588834420386">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1588817174969">
         <mark key="[" line="0" column="0" />
       </file>
@@ -147,7 +153,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIEVuY29kZUVudW0gewo=</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>dev</text>
@@ -159,34 +165,34 @@
         <text encoding="base64">ICAgICAgICBTdHJpbmcgZG5jS2V5ID0gQ2FjaGVDb25zdHMuZG9Ob3RDYWxsS2V5KHRhc2tJbmZvLmdldENhbXBhaWduSWQoKSwgdGFza0luZm8uZ2V0Um9zdGVySWQoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIEVuY29kZUVudW0gewo=</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIEVuY29kZUVudW0gewo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICBFeGNlcHRpb24gZXhjZXB0aW9uID0gbmV3IEV4Y2VwdGlvbigpOwogICAgICAgICAgICBleGNlcHRpb24ucHJpbnRTdGFja1RyYWNlKCk7</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">cHVibGljIGNsYXNzIEVuY29kZUVudW0gewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7CgogICAgICAgIFNldDxTdHJpbmc+IHN0cmluZ3MgPSBDaGFyc2V0LmF2YWlsYWJsZUNoYXJzZXRzKCkua2V5U2V0KCk7CgogICAgfQ==</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIEVuY29kZUVudW0gewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkaWFsQ29udGV4dC5zZXRMYXN0U3RhcnRBY3Rpdml0eURhdGUoTG9jYWxEYXRlLm5vdygpKTsK</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIEVuY29kZUVudW0gewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkaWFsQ29udGV4dC5zZXRMYXN0U3RhcnRBY3Rpdml0eURhdGUoTG9jYWxEYXRlLm5vdygpKTsK</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7CgogICAgICAgIFNldDxTdHJpbmc+IHN0cmluZ3MgPSBDaGFyc2V0LmF2YWlsYWJsZUNoYXJzZXRzKCkua2V5U2V0KCk7CgogICAgfQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkaWFsQ29udGV4dC5zZXRMYXN0U3RhcnRBY3Rpdml0eURhdGUoTG9jYWxEYXRlLm5vdygpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkaWFsQ29udGV4dC5zZXRJbmRleCgwKTs=</text>
+        <text encoding="base64">ICAgICAgICBkaWFsQ29udGV4dC5zZXRMYXN0U3RhcnRBY3Rpdml0eURhdGUoTG9jYWxEYXRlLm5vdygpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjYWxsQmFja1Byb2Nlc3Nvci5jYWxsUmVzdWx0Q2FsbEJhY2soKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
