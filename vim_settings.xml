@@ -64,10 +64,15 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/service/strategy/DialStrategyServiceImpl.java" timestamp="1588817663789" />
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/entity/strategy/DialStrategyEntity.java" timestamp="1588817299254" />
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/SQL/t_roster_batch_data.sql" timestamp="1588844289134" />
-      <file name="/Dummy.txt" timestamp="1588841913891">
+      <file name="/Dummy.txt" timestamp="1588844828550">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/http/DceTest.java" timestamp="1588847048555">
+        <mark key="[" line="56" column="12" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/event/handler/CallHungupHandler.java" timestamp="1588837504553" />
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/web/DceController.java" timestamp="1588833957746" />
@@ -77,13 +82,16 @@
         <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/web/DialContextController.java" timestamp="1588815629370" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/http/Request.java" timestamp="1588846536756">
+        <mark key="[" line="7" column="2" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/utils/ThreadUtils.java" timestamp="1588842850364">
         <mark key="[" line="15" column="28" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/common/aspect/LogAspect.java" timestamp="1588842894988">
-        <mark key="[" line="84" column="25" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/common/aspect/LogAspect.java" timestamp="1588844783614">
+        <mark key="[" line="82" column="17" />
         <mark key="]" line="91" column="0" />
         <mark key="^" line="91" column="3" />
         <mark key="." line="84" column="2" />
@@ -166,7 +174,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>dev</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTdHJpbmdcPg==</text>
@@ -184,27 +192,27 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGRkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ZGRkCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text>————————————————
     版权声明：本文为CSDN博主「huoyin」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
     原文链接：https://blog.csdn.net/huoyin/article/details/3018045</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgIAo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICAgICBFeGNlcHRpb24gZXhjZXB0aW9uID0gbmV3IEV4Y2VwdGlvbigpOwogICAgICAgICAgICBleGNlcHRpb24ucHJpbnRTdGFja1RyYWNlKCk7</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIEVuY29kZUVudW0gewo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIEVuY29kZUVudW0gewo=</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
