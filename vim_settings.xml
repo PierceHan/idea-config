@@ -63,6 +63,7 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/service/strategy/DialStrategyServiceImpl.java" timestamp="1588817663789" />
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/entity/strategy/DialStrategyEntity.java" timestamp="1588817299254" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/SQL/t_roster_batch_data.sql" timestamp="1588844289134" />
       <file name="/Dummy.txt" timestamp="1588841913891">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -91,7 +92,7 @@
       <file name="/fragment.java" timestamp="1588817174969">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/monitor/TaskMonitorService.java" timestamp="1588838190346" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/monitor/TaskMonitorService.java" timestamp="1588844765768" />
     </filemarks>
     <jumps>
       <jump line="226" column="4" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" />
