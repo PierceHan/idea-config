@@ -55,8 +55,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/http/DceTest.java" timestamp="1588905346507">
-        <mark key="[" line="48" column="38" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/http/DceTest.java" timestamp="1588905372358">
+        <mark key="[" line="48" column="61" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/adapter/EncodeEnum.java" timestamp="1588820950274">
         <mark key="[" line="13" column="38" />
@@ -64,8 +64,8 @@
         <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/service/impl/WhenServiceImpl.java" timestamp="1588903398486" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/adapter/UserDefinedRosterEntity.java" timestamp="1588832867426">
-        <mark key="[" line="17" column="32" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/adapter/UserDefinedRosterEntity.java" timestamp="1588906031968">
+        <mark key="[" line="19" column="4" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
@@ -88,9 +88,6 @@
         <mark key="]" line="91" column="0" />
         <mark key="^" line="91" column="3" />
         <mark key="." line="84" column="2" />
-      </file>
-      <file name="/fragment.java" timestamp="1588817174969">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
