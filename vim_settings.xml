@@ -50,17 +50,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application-stress.yml" timestamp="1588920300481" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/dce/handler/DncHandler.java" timestamp="1588918759597" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/web/TaskController.java" timestamp="1588852472689" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/mapper/RosterInfoMapperTest.java" timestamp="1588908257803">
-        <mark key="[" line="55" column="115" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/dce/handler/DceHandler.java" timestamp="1588920947684" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/core/dce/DceHandlerTest.java" timestamp="1588921119751">
-        <mark key="[" line="26" column="81" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1588921628053">
+      <file name="/Dummy.txt" timestamp="1588921682630">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -73,18 +63,21 @@
         <mark key="]" line="303" column="19" />
         <mark key="." line="303" column="19" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/service/impl/WhenServiceImpl.java" timestamp="1588907970064" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/adapter/UserDefinedRosterEntity.java" timestamp="1588906031968">
         <mark key="[" line="19" column="4" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/pom.xml" timestamp="1588851793617" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/dce/DceHandlerFactory.java" timestamp="1588921394736">
         <mark key="[" line="21" column="67" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/model/duoyuan/BaseInfo.java" timestamp="1588901261967" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/controller/v2/TemplateController.java" timestamp="1588909053675" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/mapper/RosterInfoMapperTest.java" timestamp="1588908257803">
+        <mark key="[" line="55" column="115" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/dce/handler/DceHandler.java" timestamp="1588921703123" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/core/dce/DceHandlerTest.java" timestamp="1588921119751">
+        <mark key="[" line="26" column="81" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="226" column="4" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" />
