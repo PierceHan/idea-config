@@ -50,12 +50,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1588844828550">
+      <file name="/Dummy.txt" timestamp="1588907729410">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/http/DceTest.java" timestamp="1588905372358">
+      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/http/DceTest.java" timestamp="1588907228191">
         <mark key="[" line="48" column="61" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/adapter/EncodeEnum.java" timestamp="1588820950274">
@@ -63,7 +63,7 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/service/impl/WhenServiceImpl.java" timestamp="1588903398486" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/service/impl/WhenServiceImpl.java" timestamp="1588907970064" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/adapter/UserDefinedRosterEntity.java" timestamp="1588906031968">
         <mark key="[" line="19" column="4" />
         <mark key="]" line="14" column="0" />
@@ -88,6 +88,9 @@
         <mark key="]" line="91" column="0" />
         <mark key="^" line="91" column="3" />
         <mark key="." line="84" column="2" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/mapper/RosterInfoMapperTest.java" timestamp="1588908257803">
+        <mark key="[" line="55" column="115" />
       </file>
     </filemarks>
     <jumps>
