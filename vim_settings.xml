@@ -55,10 +55,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/http/DceTest.java" timestamp="1588903803539">
-        <mark key="[" line="52" column="45" />
-        <mark key="]" line="63" column="18" />
-        <mark key="." line="63" column="18" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/http/DceTest.java" timestamp="1588905346507">
+        <mark key="[" line="48" column="38" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/adapter/EncodeEnum.java" timestamp="1588820950274">
         <mark key="[" line="13" column="38" />
@@ -163,8 +161,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>void</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbGlzdC5hZGQobGFiZWwpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>void</text>
@@ -176,36 +174,34 @@
         <text encoding="base64">ICAgICAgICBTdHJpbmcgZG5jS2V5ID0gQ2FjaGVDb25zdHMuZG9Ob3RDYWxsS2V5KHRhc2tJbmZvLmdldENhbXBhaWduSWQoKSwgdGFza0luZm8uZ2V0Um9zdGVySWQoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGlzdC5hZGQobGFiZWwpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gbGlzdCA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGFiYz4yMCl7CiAgICAgICAgICAgICAgICBsb2cuaW5mbyhKU09OLnRvSlNPTlN0cmluZyhsaXN0KSk7CiAgICAgICAgICAgIH0=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGRkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text>————————————————
-    版权声明：本文为CSDN博主「huoyin」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
-    原文链接：https://blog.csdn.net/huoyin/article/details/3018045</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICBFeGNlcHRpb24gZXhjZXB0aW9uID0gbmV3IEV4Y2VwdGlvbigpOwogICAgICAgICAgICBleGNlcHRpb24ucHJpbnRTdGFja1RyYWNlKCk7</text>
+      <register name="9" type="2">
+        <text encoding="base64">ZGRkCg==</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
