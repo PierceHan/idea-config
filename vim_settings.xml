@@ -50,6 +50,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/impl/ActivityServiceImpl.java" timestamp="1588925741612" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/lua/DialMinitor.java" timestamp="1588925952341" />
       <file name="/Dummy.txt" timestamp="1588923905788">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -71,6 +73,7 @@
         <mark key="[" line="26" column="93" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/dce/handler/DceHandler.java" timestamp="1588923607952" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/RedisUtils.java" timestamp="1588925957794" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/core/dce/DceHandlerTest.java" timestamp="1588921119751">
         <mark key="[" line="26" column="81" />
       </file>
