@@ -65,11 +65,7 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/adapter/UserDefinedRosterEntity.java" timestamp="1588906031968">
-        <mark key="[" line="19" column="4" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/controller/RosterInfoContorller.java" timestamp="1588994722616" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/dce/DceHandlerFactory.java" timestamp="1588923648880">
         <mark key="[" line="26" column="93" />
       </file>
@@ -83,20 +79,17 @@
         <mark key="]" line="161" column="0" />
         <mark key="." line="161" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/mapper/RosterInfoMapperTest.java" timestamp="1588908257803">
-        <mark key="[" line="55" column="115" />
-      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/util/StartRunner.java" timestamp="1588994288861" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/common/exception/handler/GlobalExceptionHandler.java" timestamp="1588928409823">
         <mark key="[" line="108" column="23" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/service/rosterInfo/RosterInfoServiceImpl.java" timestamp="1588994718350" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/queue/task/ConcurrentCalculator.java" timestamp="1588928034796">
         <mark key="[" line="89" column="0" />
         <mark key="]" line="89" column="0" />
         <mark key="." line="89" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/core/dce/DceHandlerTest.java" timestamp="1588921119751">
-        <mark key="[" line="26" column="81" />
-      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/dto/model/RosterLog.java" timestamp="1588994402284" />
     </filemarks>
     <jumps>
       <jump line="226" column="4" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" />
