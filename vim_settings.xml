@@ -77,8 +77,10 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/web/DceController.java" timestamp="1589008617579" />
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/web/FlowController.java" timestamp="1589008936275" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/OcmApp.java" timestamp="1589016987213" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/task/TaskServiceImpl.java" timestamp="1589018387473">
-        <mark key="[" line="66" column="68" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/task/TaskServiceImpl.java" timestamp="1589019172627">
+        <mark key="[" line="72" column="43" />
+        <mark key="]" line="72" column="42" />
+        <mark key="." line="72" column="42" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-interim/src/main/java/cc/wellcloud/ocm/dto/CsDncEntity.java" timestamp="1589013654781" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/monitor/TaskMonitorService.java" timestamp="1589017807354" />
@@ -152,12 +154,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>(DialTaskInfo dialTaskInfo){
-        
-    }</text>
+        <text>dialTaskInfo</text>
       </register>
       <register name="-" type="4">
-        <text>dceUrl</text>
+        <text>dialTaskInfo</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTdHJpbmdcPg==</text>
