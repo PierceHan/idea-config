@@ -55,6 +55,12 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/controller/RosterInfoContorller.java" timestamp="1588994722616" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/event/CallEventHandlerTemplate.java" timestamp="1588928024626">
+        <mark key="[" line="161" column="0" />
+        <mark key="]" line="161" column="0" />
+        <mark key="." line="161" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1588928523419">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -65,19 +71,10 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/controller/RosterInfoContorller.java" timestamp="1588994722616" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/dce/DceHandlerFactory.java" timestamp="1588923648880">
-        <mark key="[" line="26" column="93" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/RedisUtils.java" timestamp="1588928107386">
         <mark key="[" line="93" column="0" />
         <mark key="]" line="93" column="0" />
         <mark key="." line="93" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/event/CallEventHandlerTemplate.java" timestamp="1588928024626">
-        <mark key="[" line="161" column="0" />
-        <mark key="]" line="161" column="0" />
-        <mark key="." line="161" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/common/exception/handler/GlobalExceptionHandler.java" timestamp="1588928409823">
         <mark key="[" line="108" column="23" />
