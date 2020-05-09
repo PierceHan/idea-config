@@ -51,11 +51,13 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/controller/RosterInfoContorller.java" timestamp="1588994722616" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-interim/src/main/resources/mapper/middleRosterInfoMapper.xml" timestamp="1589014235839" />
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/service/impl/FlowServiceImpl.java" timestamp="1589008995343">
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-interim/src/main/java/cc/wellcloud/ocm/service/rosterInfo/RosterInfoServiceImpl.java" timestamp="1589014141029" />
       <file name="/Dummy.txt" timestamp="1589009003809">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -68,9 +70,7 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/web/DceController.java" timestamp="1589008617579" />
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/web/FlowController.java" timestamp="1589008936275" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/common/exception/handler/GlobalExceptionHandler.java" timestamp="1588928409823">
-        <mark key="[" line="108" column="23" />
-      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-interim/src/main/java/cc/wellcloud/ocm/dto/CsDncEntity.java" timestamp="1589013654781" />
     </filemarks>
     <jumps>
       <jump line="226" column="4" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" />
