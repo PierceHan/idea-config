@@ -54,16 +54,17 @@
       <file name="$MAVEN_REPOSITORY$/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/impl/StatefulKnowledgeSessionImpl.java" timestamp="1589184475676">
         <mark key="'" line="1310" column="54" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/service/impl/DceServiceImpl.java" timestamp="1589186718821">
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="0" />
-        <mark key="." line="95" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/service/impl/DceServiceImpl.java" timestamp="1589193389357">
+        <mark key="[" line="143" column="109" />
+        <mark key="]" line="129" column="0" />
+        <mark key="." line="129" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/function/FunctionUtils.java" timestamp="1589181191189">
         <mark key="[" line="158" column="11" />
         <mark key="]" line="107" column="18" />
         <mark key="." line="107" column="18" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/kie/kie-api/7.2.0.Final/kie-api-7.2.0.Final-sources.jar!/org/kie/api/runtime/rule/EntryPoint.java" timestamp="1589190553788" />
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/core/KieBaseMapHelper.java" timestamp="1589184927676">
         <mark key="[" line="40" column="78" />
         <mark key="]" line="40" column="30" />
@@ -73,30 +74,29 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/web/TaskController.java" timestamp="1589180618059" />
       <file name="$MAVEN_REPOSITORY$/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/impl/KnowledgeBaseImpl.java" timestamp="1589162982942" />
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/file/rule/rule1.0.drl" timestamp="1589186581079" />
-      <file name="$MAVEN_REPOSITORY$/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final.jar!/org/drools/core/impl/KnowledgeBaseImpl.class" timestamp="1589162830496" />
-      <file name="/Dummy.txt" timestamp="1589181192733">
+      <file name="/Dummy.txt" timestamp="1589191819312">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/http/DceTest.java" timestamp="1589178879508">
-        <mark key="[" line="19" column="30" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/http/DceTest.java" timestamp="1589193238174">
+        <mark key="[" line="41" column="38" />
+        <mark key="]" line="41" column="38" />
+        <mark key="." line="41" column="38" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/utils/StartRunner.java" timestamp="1589193378479" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" timestamp="1589180806209" />
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/service/impl/WhenServiceImpl.java" timestamp="1589184028450" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/queue/CallResultReceiver.java" timestamp="1589180723082" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/common/aspect/LogAspect.java" timestamp="1589162757090">
-        <mark key="[" line="82" column="22" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/model/DceResponse.java" timestamp="1589163968166" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/task/TaskServiceImpl.java" timestamp="1589178892557">
         <mark key="[" line="63" column="67" />
         <mark key="]" line="72" column="42" />
         <mark key="." line="72" column="42" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/dce/pom.xml" timestamp="1589186710891" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/pom.xml" timestamp="1589193334638">
+        <mark key="[" line="107" column="27" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/common/DefaultAgenda.java" timestamp="1589185396494">
         <mark key="'" line="999" column="15" />
         <mark key="[" line="277" column="9" />
@@ -208,11 +208,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy5kZWJ1Zygie30iLCBtYXRjaENyZWF0ZWRkZEV2ZW50LmdldE1hdGNoKCkuKTsK</text>
+      <register name="&quot;" type="4">
+        <text>2.168.40.149:31066</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>2.168.40.149:31066</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
@@ -221,36 +221,34 @@
         <text encoding="base64">ICAgICAgICBraWVTZXNzaW9uLmdldEFnZW5kYSgpLmdldEFnZW5kYUdyb3VwKHJlcXVlc3QuZ2V0KCJmbG93SWQiKSkuc2V0Rm9jdXMoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy5kZWJ1Zygie30iLCBtYXRjaENyZWF0ZWRkZEV2ZW50LmdldE1hdGNoKCkuKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBraWVTZXNzaW9uLmdldEFnZW5kYSgpLmdldEFnZW5kYUdyb3VwKHJlcXVlc3QuZ2V0KCJmbG93SWQiKSkuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBraWVTZXNzaW9uLmdldEFnZW5kYSgpLmdldEFjdGl2YXRpb25Hcm91cCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBraWVTZXNzaW9uLmZpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy5kZWJ1Zygie30iLCBtYXRjaENyZWF0ZWRkZEV2ZW50LmdldE1hdGNoKCkuKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkaWFsVGFza0luZm8uc2V0U3RhdGUoc3RhdGUpOw==</text>
+        <text encoding="base64">ICAgICAgICBraWVTZXNzaW9uLmdldEFnZW5kYSgpLmdldEFnZW5kYUdyb3VwKHJlcXVlc3QuZ2V0KCJmbG93SWQiKSkuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBraWVTZXNzaW9uLmdldEFnZW5kYSgpLmdldEFjdGl2YXRpb25Hcm91cCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBraWVTZXNzaW9uLmZpCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>(DialTaskInfo dialTaskInfo){
-        
-    }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBkaWFsVGFza0luZm8uc2V0U3RhdGUoc3RhdGUpOw==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpc3QuYWRkKGxhYmVsKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
