@@ -50,36 +50,26 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/function/FunctionUtils.java" timestamp="1589018339559">
-        <mark key="[" line="155" column="46" />
-        <mark key="]" line="155" column="47" />
-        <mark key="." line="155" column="47" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-interim/src/main/resources/mapper/middleRosterInfoMapper.xml" timestamp="1589014235839" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/service/impl/FlowServiceImpl.java" timestamp="1589008995343">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/executor/DialTaskExecutor.java" timestamp="1589017986182" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-interim/src/main/java/cc/wellcloud/ocm/service/rosterInfo/RosterInfoServiceImpl.java" timestamp="1589014141029" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-interim/src/main/java/cc/wellcloud/ocm/service/dnc/AutoDncServiceImpl.java" timestamp="1589017690609" />
       <file name="/Dummy.txt" timestamp="1589028366509">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/http/DceTest.java" timestamp="1589011075779">
-        <mark key="[" line="48" column="63" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/http/DceTest.java" timestamp="1589160783165">
+        <mark key="[" line="19" column="30" />
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/function/FunctionUtils.java" timestamp="1589018339559">
+        <mark key="[" line="155" column="46" />
+        <mark key="]" line="155" column="47" />
+        <mark key="." line="155" column="47" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/utils/ThreadUtils.java" timestamp="1589028324952">
         <mark key="[" line="17" column="8" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/OcmApp.java" timestamp="1589016987213" />
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/common/aspect/LogAspect.java" timestamp="1589028300093">
         <mark key="[" line="82" column="90" />
       </file>
@@ -88,8 +78,11 @@
         <mark key="]" line="72" column="42" />
         <mark key="." line="72" column="42" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-interim/src/main/java/cc/wellcloud/ocm/dto/CsDncEntity.java" timestamp="1589013654781" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/monitor/TaskMonitorService.java" timestamp="1589017807354" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/service/impl/FlowServiceImpl.java" timestamp="1589008995343">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="226" column="4" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" />
