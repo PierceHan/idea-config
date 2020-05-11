@@ -50,44 +50,47 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1589168384077">
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/service/impl/DceServiceImpl.java" timestamp="1589163124342">
+        <mark key="[" line="93" column="18" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/function/FunctionUtils.java" timestamp="1589181191189">
+        <mark key="[" line="158" column="11" />
+        <mark key="]" line="107" column="18" />
+        <mark key="." line="107" column="18" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/core/KieBaseMapHelper.java" timestamp="1589162710416">
+        <mark key="[" line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/web/TaskController.java" timestamp="1589180618059" />
+      <file name="$MAVEN_REPOSITORY$/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/impl/KnowledgeBaseImpl.java" timestamp="1589162982942" />
+      <file name="$MAVEN_REPOSITORY$/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final.jar!/org/drools/core/impl/KnowledgeBaseImpl.class" timestamp="1589162830496" />
+      <file name="/Dummy.txt" timestamp="1589181192733">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/http/DceTest.java" timestamp="1589160783165">
+      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/http/DceTest.java" timestamp="1589178879508">
         <mark key="[" line="19" column="30" />
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/service/impl/DceServiceImpl.java" timestamp="1589163124342">
-        <mark key="[" line="93" column="18" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/function/FunctionUtils.java" timestamp="1589164082573">
-        <mark key="[" line="154" column="46" />
-        <mark key="]" line="154" column="47" />
-        <mark key="." line="154" column="47" />
-      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" timestamp="1589180806209" />
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/web/DceController.java" timestamp="1589162302104" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/queue/CallResultReceiver.java" timestamp="1589180723082" />
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/utils/ThreadUtils.java" timestamp="1589162357287">
         <mark key="[" line="16" column="38" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/core/KieBaseMapHelper.java" timestamp="1589162710416">
-        <mark key="[" line="30" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/common/aspect/LogAspect.java" timestamp="1589162757090">
         <mark key="[" line="82" column="22" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/model/DceResponse.java" timestamp="1589163968166" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/task/TaskServiceImpl.java" timestamp="1589164072482">
-        <mark key="[" line="72" column="43" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/task/TaskServiceImpl.java" timestamp="1589178892557">
+        <mark key="[" line="63" column="67" />
         <mark key="]" line="72" column="42" />
         <mark key="." line="72" column="42" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/impl/KnowledgeBaseImpl.java" timestamp="1589162982942" />
-      <file name="$MAVEN_REPOSITORY$/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final.jar!/org/drools/core/impl/KnowledgeBaseImpl.class" timestamp="1589162830496" />
     </filemarks>
     <jumps>
       <jump line="226" column="4" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" />
@@ -157,11 +160,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>dialTaskInfo</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTdHJpbmdcPg==</text>
@@ -170,7 +173,7 @@
         <text encoding="base64">ICAgICAgICBTdHJpbmcgZG5jS2V5ID0gQ2FjaGVDb25zdHMuZG9Ob3RDYWxsS2V5KHRhc2tJbmZvLmdldENhbXBhaWduSWQoKSwgdGFza0luZm8uZ2V0Um9zdGVySWQoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBkaWFsVGFza0luZm8uc2V0U3RhdGUoc3RhdGUpOw==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -178,28 +181,28 @@
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="4" type="4">
         <text>(DialTaskInfo dialTaskInfo){
         
     }</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGxpc3QuYWRkKGxhYmVsKTsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gbGlzdCA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oSlNPTi50b0pTT05TdHJpbmcobGlzdCkpOwo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIERjZUZsb3cgZGNlRmxvdyAgPSBEY2VGbG93LmJ1aWxkZXIoKS5kZGRkZG9tYWluKHBhZ2VSZXF1ZXN0LmdldElkZW50aWZ5SW5mbygpKS5idWlsZCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oSlNPTi50b0pTT05TdHJpbmcobGlzdCkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oSlNPTi50b0pTT05TdHJpbmcobGlzdCkpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIERjZUZsb3cgZGNlRmxvdyAgPSBEY2VGbG93LmJ1aWxkZXIoKS5kZGRkZG9tYWluKHBhZ2VSZXF1ZXN0LmdldElkZW50aWZ5SW5mbygpKS5idWlsZCgpOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgTGlzdDxTdHJpbmc+IGxpc3QgPSBuZXcgQXJyYXlMaXN0PD4oKTs=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oSlNPTi50b0pTT05TdHJpbmcobGlzdCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
