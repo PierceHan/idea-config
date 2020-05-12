@@ -72,7 +72,12 @@
         <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/web/TaskController.java" timestamp="1589180618059" />
-      <file name="$MAVEN_REPOSITORY$/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/impl/KnowledgeBaseImpl.java" timestamp="1589162982942" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/model/kefu/KafkaRoster.java" timestamp="1589254778292">
+        <mark key="[" line="26" column="23" />
+        <mark key="]" line="46" column="24" />
+        <mark key="^" line="25" column="24" />
+        <mark key="." line="46" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/file/rule/rule1.0.drl" timestamp="1589250096996">
         <mark key="[" line="18" column="7" />
       </file>
@@ -90,7 +95,6 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" timestamp="1589180806209" />
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/service/impl/WhenServiceImpl.java" timestamp="1589184028450" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/queue/CallResultReceiver.java" timestamp="1589180723082" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/model/DceResponse.java" timestamp="1589163968166" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/task/TaskServiceImpl.java" timestamp="1589178892557">
         <mark key="[" line="63" column="67" />
         <mark key="]" line="72" column="42" />
@@ -106,6 +110,7 @@
         <mark key="^" line="277" column="9" />
         <mark key="." line="277" column="8" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/core/strategy/toss/AbstractTossSolution.java" timestamp="1589253918037" />
     </filemarks>
     <jumps>
       <jump line="226" column="4" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" />
@@ -211,7 +216,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIFZBTDE7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>$dceResponse : DceResponse()</text>
@@ -220,7 +225,7 @@
         <text>fire</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBraWVTZXNzaW9uLmdldEFnZW5kYSgpLmdldEFnZW5kYUdyb3VwKHJlcXVlc3QuZ2V0KCJmbG93SWQiKSkuc2V0Rm9jdXMoKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIFZBTDE7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
