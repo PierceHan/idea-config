@@ -51,18 +51,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1589281704264">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/service/impl/DceServiceImpl.java" timestamp="1589289326379">
-        <mark key="[" line="155" column="84" />
-        <mark key="]" line="99" column="0" />
-        <mark key="." line="99" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/service/impl/WhenServiceImpl.java" timestamp="1589289376757">
-        <mark key="[" line="100" column="90" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/service/impl/DceServiceImpl.java" timestamp="1589291744043">
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="." line="107" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/service/CallbackService.java" timestamp="1589289640636">
         <mark key="[" line="7" column="33" />
@@ -72,54 +64,53 @@
         <mark key="]" line="16" column="23" />
         <mark key="." line="16" column="23" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/utils/KeyUtils.java" timestamp="1589289349041">
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/utils/KeyUtils.java" timestamp="1589292240406">
         <mark key="[" line="28" column="49" />
         <mark key="]" line="28" column="49" />
         <mark key="." line="28" column="49" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/list/contaion/ContaionTest.java" timestamp="1589280735464">
-        <mark key="[" line="15" column="3" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/core/KieBaseMapHelper.java" timestamp="1589251685600">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="^" line="47" column="30" />
-        <mark key="." line="61" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/common/aspect/LogAspect.java" timestamp="1589265295666">
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/service/impl/PhoneServiceImpl.java" timestamp="1589290889448">
+        <mark key="[" line="27" column="40" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/list/contaion/ContainTest.java" timestamp="1589281004171">
         <mark key="[" line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/task/TaskServiceImpl.java" timestamp="1589255584937">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/service/impl/CallbackServiceImpl.java" timestamp="1589292374058">
+        <mark key="[" line="38" column="40" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/config/RedisConfig.java" timestamp="1589290169812">
-        <mark key="[" line="82" column="25" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/roster/kefu/KeFuKafkaRoster.java" timestamp="1589255982068">
-        <mark key="[" line="17" column="44" />
-        <mark key="]" line="17" column="44" />
-        <mark key="." line="17" column="44" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/model/kefu/KafkaRoster.java" timestamp="1589254910940">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="^" line="25" column="24" />
-        <mark key="." line="45" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/service/impl/CallbackServiceImpl.java" timestamp="1589289681358">
-        <mark key="[" line="30" column="12" />
-      </file>
+      <file name="/RedisUtils.java" timestamp="1589290584659" />
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/file/rule/rule1.0.drl" timestamp="1589282053125">
         <mark key="[" line="0" column="2" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/utils/RedisUtils.java" timestamp="1589291621268">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1589291787681">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/http/DceTest.java" timestamp="1589291293952">
+        <mark key="[" line="50" column="61" />
+        <mark key="]" line="42" column="38" />
+        <mark key="." line="42" column="38" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/service/impl/WhenServiceImpl.java" timestamp="1589289376757">
+        <mark key="[" line="100" column="90" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/list/contaion/ContaionTest.java" timestamp="1589280735464">
+        <mark key="[" line="15" column="3" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/config/RedisConfig.java" timestamp="1589290216374">
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -225,11 +216,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>int</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>int</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
@@ -244,29 +235,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBraWVTZXNzaW9uLmFkZEV2ZW50TGlzdGVuZXIobmV3IERlZmF1bHRSdWxlUnVudGltZUV2ZW50TGlzdGVuZXIoKXsKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9iamVjdFVwZGF0ZWQoT2JqZWN0VXBkYXRlZEV2ZW50IGV2ZW50KSB7CiAgICAgICAgICAgICAgICBzdXBlci5vYmplY3RVcGRhdGVkKGV2ZW50KTsKICAgICAgICAgICAgICAgIGxvZy5kZWJ1Zygie30se30se30iLHJlcXVlc3QuZ2V0KCJmbG93SWQiKSxyZXF1ZXN0LmdldCgiY2FsbElkIiksIEpTT04udG9KU09OU3RyaW5nKGV2ZW50KSApOwogICAgICAgICAgICB9CgogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIHZvaWQgb2JqZWN0RGVsZXRlZChPYmplY3REZWxldGVkRXZlbnQgZXZlbnQpIHsKICAgICAgICAgICAgICAgIHN1cGVyLm9iamVjdERlbGV0ZWQoZXZlbnQpOwogICAgICAgICAgICAgICAgbG9nLmRlYnVnKCJ7fSx7fSx7fSIscmVxdWVzdC5nZXQoImZsb3dJZCIpLHJlcXVlc3QuZ2V0KCJjYWxsSWQiKSwgSlNPTi50b0pTT05TdHJpbmcoZXZlbnQpICk7CiAgICAgICAgICAgIH0KICAgICAgICB9KTsKCiAgICAgICAga2llU2Vzc2lvbi5hZGRFdmVudExpc3RlbmVyKG5ldyBEZWZhdWx0UHJvY2Vzc0V2ZW50TGlzdGVuZXIoKXsKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIGJlZm9yZVByb2Nlc3NTdGFydGVkKFByb2Nlc3NTdGFydGVkRXZlbnQgZXZlbnQpIHsKICAgICAgICAgICAgICAgIHN1cGVyLmJlZm9yZVByb2Nlc3NTdGFydGVkKGV2ZW50KTsKICAgICAgICAgICAgICAgIGxvZy5kZWJ1Zygie30se30se30iLHJlcXVlc3QuZ2V0KCJmbG93SWQiKSxyZXF1ZXN0LmdldCgiY2FsbElkIiksIEpTT04udG9KU09OU3RyaW5nKGV2ZW50KSApOwogICAgICAgICAgICB9CgogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIHZvaWQgYmVmb3JlVmFyaWFibGVDaGFuZ2VkKFByb2Nlc3NWYXJpYWJsZUNoYW5nZWRFdmVudCBldmVudCkgewogICAgICAgICAgICAgICAgc3VwZXIuYmVmb3JlVmFyaWFibGVDaGFuZ2VkKGV2ZW50KTsKICAgICAgICAgICAgICAgIGxvZy5kZWJ1Zygie30se30se30iLHJlcXVlc3QuZ2V0KCJmbG93SWQiKSxyZXF1ZXN0LmdldCgiY2FsbElkIiksIEpTT04udG9KU09OU3RyaW5nKGV2ZW50KSk7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBhZnRlclByb2Nlc3NTdGFydGVkKFByb2Nlc3NTdGFydGVkRXZlbnQgZXZlbnQpIHsKICAgICAgICAgICAgICAgIHN1cGVyLmFmdGVyUHJvY2Vzc1N0YXJ0ZWQoZXZlbnQpOwogICAgICAgICAgICAgICAgbG9nLmRlYnVnKCJ7fSx7fSx7fSx7fSIscmVxdWVzdC5nZXQoImZsb3dJZCIpLHJlcXVlc3QuZ2V0KCJjYWxsSWQiKSwgSlNPTi50b0pTT05TdHJpbmcoZXZlbnQpICxldmVudC5nZXRQcm9jZXNzSW5zdGFuY2UoKS5nZXRQcm9jZXNzTmFtZSgpKTsKICAgICAgICAgICAgfQogICAgICAgIH0pOwoKICAgICAgICBraWVTZXNzaW9uLmFkZEV2ZW50TGlzdGVuZXIobmV3IERlZmF1bHRBZ2VuZGFFdmVudExpc3RlbmVyKCl7CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBiZWZvcmVSdWxlRmxvd0dyb3VwQWN0aXZhdGVkKFJ1bGVGbG93R3JvdXBBY3RpdmF0ZWRFdmVudCBldmVudCkgewogICAgICAgICAgICAgICAgc3VwZXIuYmVmb3JlUnVsZUZsb3dHcm91cEFjdGl2YXRlZChldmVudCk7CiAgICAgICAgICAgICAgICBsb2cuZGVidWcoInt9LHt9LHt9LHt9IixyZXF1ZXN0LmdldCgiZmxvd0lkIikscmVxdWVzdC5nZXQoImNhbGxJZCIpLCBKU09OLnRvSlNPTlN0cmluZyhldmVudCksZXZlbnQuZ2V0UnVsZUZsb3dHcm91cCgpLmdldE5hbWUoKSApOwogICAgICAgICAgICB9CgogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIHZvaWQgbWF0Y2hDcmVhdGVkKE1hdGNoQ3JlYXRlZEV2ZW50IGV2ZW50KSB7CiAgICAgICAgICAgICAgICBzdXBlci5tYXRjaENyZWF0ZWQoZXZlbnQpOwogICAgICAgICAgICAgICAgbG9nLmRlYnVnKCJ7fSx7fSx7fSx7fSIscmVxdWVzdC5nZXQoImZsb3dJZCIpLHJlcXVlc3QuZ2V0KCJjYWxsSWQiKSwgSlNPTi50b0pTT05TdHJpbmcoZXZlbnQpLGV2ZW50LmdldE1hdGNoKCkuZ2V0UnVsZSgpLmdldE5hbWUoKSApOwogICAgICAgICAgICB9CgogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIHZvaWQgYWZ0ZXJNYXRjaEZpcmVkKEFmdGVyTWF0Y2hGaXJlZEV2ZW50IGV2ZW50KSB7CiAgICAgICAgICAgICAgICBzdXBlci5hZnRlck1hdGNoRmlyZWQoIGV2ZW50ICk7CiAgICAgICAgICAgICAgICBsb2cuZGVidWcoInt9LHt9LHt9LHt9IixyZXF1ZXN0LmdldCgiZmxvd0lkIikscmVxdWVzdC5nZXQoImNhbGxJZCIpLCBKU09OLnRvSlNPTlN0cmluZyhldmVudCkgLGV2ZW50LmdldE1hdGNoKCkuZ2V0UnVsZSgpLmdldE5hbWUoKSk7CiAgICAgICAgICAgIH0KICAgICAgICB9KTs=</text>
-      </register>
-      <register name="3" type="4">
-        <text>((DceResponse)$map.get(&quot;dceResponse&quot;)).setCode(DceResponseType.REPEAT_REQUEST);
-    ((DceResponse)$map.get(&quot;dceR</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5IYXNoTWFwOwo=</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">TWFwPFN0cmluZyxPYmplY3Q+IG1hcCA9IG5ldyBIYXNoTWFwPD4oKTsKICAgICAgICBtYXAucHV0KCJyZXF1ZXN0IixyZXF1ZXN0KTsKICAgICAgICBtYXAucHV0KCJkY2VSZXNwb25zZSIsZGNlUmVzcG9uc2UpOwogICAgICAgIG1hcC5wdXQoIndoZW5TZXJ2aWNlIix3aGVuU2VydmljZSk7CiAgICAgICAgbWFwLnB1dCgiZGF0ZVNlcnZpY2UiLGRhdGVTZXJ2aWNlKTs=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgRGNlUmVzcG9uc2UgZG9XZWlLb25nTGltaXQoTWFwPFN0cmluZywgU3RyaW5nPiByZXF1ZXN0LCBEY2VSZXNwb25zZSBkY2VSZXNwb25zZSkgewogICAgICAgIGJvb2xlYW4gdGltZXMgPSB3aGVuU2VydmljZS5iZXlvbmRSZXF1ZXN0VGltZXMoMSwgcmVxdWVzdCk7CiAgICAgICAgaWYgKHRpbWVzKXsKICAgICAgICAgICAgZGNlUmVzcG9uc2Uuc2V0Q29kZShEY2VSZXNwb25zZVR5cGUuUkVQRUFUX1JFUVVFU1QpOwogICAgICAgICAgICBkY2VSZXNwb25zZS5zZXRDYW5EaWFsKGZhbHNlKTsKICAgICAgICB9CiAgICAgICAgbG9nLmluZm8oIuS8quaOp+aOiOadg+aOkumHjei/lOWbnjp7fSIsZGNlUmVzcG9uc2UpOwogICAgICAgIHJldHVybiBkY2VSZXNwb25zZTsKICAgIH0=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgTGlzdDxTdHJpbmc+IGRvbWFpbnMgPSBMaXN0cy5uZXdBcnJheUxpc3QoIlRyYW5zTm90aWZ5LmNtYiIsIlZJUE5vdGlmeS5jbWIiKTsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICRkY2VSZXNwb25zZS5zZXRDb2RlKERjZVJlc3BvbnNlVHlwZS5SRVBFQVRfUkVRVUVTVCk7CiAgICAkZGNlUmVzcG9uc2Uuc2V0Q2FuRGlhbChmYWxzZSk7</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICRkY2VSZXNwb25zZS5zZXRDb2RlKERjZVJlc3BvbnNlVHlwZS5SRVBFQVRfUkVRVUVTVCk7CiAgICAkZGNlUmVzcG9uc2Uuc2V0Q2FuRGlhbChmYWxzZSk7</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGRvV2VpS29uZ0xpbWl0KHJlcXVlc3QsZGNlUmVzcG9uc2UpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICRyZXF1ZXN0IDogTWFwKCR3aGVuU2VydmljZS5iZXlvbmRSZXF1ZXN0VGltZXMoMSwkcmVxdWVzdCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHVzaERpYWxSZWNvcmQyUmVkaXMocmVxdWVzdCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
