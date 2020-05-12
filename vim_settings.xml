@@ -71,17 +71,21 @@
         <mark key="^" line="47" column="30" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/web/TaskController.java" timestamp="1589180618059" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/model/kefu/KafkaRoster.java" timestamp="1589254778292">
-        <mark key="[" line="26" column="23" />
-        <mark key="]" line="46" column="24" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/roster/kefu/KeFuKafkaRoster.java" timestamp="1589255982068">
+        <mark key="[" line="17" column="44" />
+        <mark key="]" line="17" column="44" />
+        <mark key="." line="17" column="44" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/model/kefu/KafkaRoster.java" timestamp="1589254910940">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
         <mark key="^" line="25" column="24" />
-        <mark key="." line="46" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/file/rule/rule1.0.drl" timestamp="1589250096996">
         <mark key="[" line="18" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589191819312">
+      <file name="/Dummy.txt" timestamp="1589255596011">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -92,13 +96,13 @@
         <mark key="." line="42" column="38" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/utils/StartRunner.java" timestamp="1589193378479" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" timestamp="1589180806209" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" timestamp="1589255581853" />
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/service/impl/WhenServiceImpl.java" timestamp="1589184028450" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/queue/CallResultReceiver.java" timestamp="1589180723082" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/task/TaskServiceImpl.java" timestamp="1589178892557">
-        <mark key="[" line="63" column="67" />
-        <mark key="]" line="72" column="42" />
-        <mark key="." line="72" column="42" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/task/TaskServiceImpl.java" timestamp="1589255584937">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/pom.xml" timestamp="1589193334638">
         <mark key="[" line="107" column="27" />
@@ -215,11 +219,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIFZBTDE7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>filteredDialTask</text>
       </register>
       <register name="-" type="4">
-        <text>$dceResponse : DceResponse()</text>
+        <text>filteredDialTask</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
@@ -228,34 +232,34 @@
         <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIFZBTDE7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2VsbENsb3VkU2VydmljZUNsaWVudC5yZXNldFRhc2socHJldmlld1Rhc2suZ2V0VGFzaygpKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgS2llU2Vzc2lvbiBzZXNzaW9uID0ga0Jhc2UubmV3S2llU2Vzc2lvbigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgS2llSGVscGVyIGtpZUhlbHBlciA9IG5ldyBLaWVIZWxwZXIoKTsKICAgICAgICAgICAga2llSGVscGVyLmFkZENvbnRlbnQocnVsZSxSZXNvdXJjZVR5cGUuRFJMKTs=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIFZBTDE7CiAgICBwcml2YXRlIFN0cmluZyBWQUwxOw==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgS2llU2Vzc2lvbiBzZXNzaW9uID0ga0Jhc2UubmV3S2llU2Vzc2lvbigpOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy5kZWJ1Zygie30iLCBtYXRjaENyZWF0ZWRkZEV2ZW50LmdldE1hdGNoKCkuKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgS2llSGVscGVyIGtpZUhlbHBlciA9IG5ldyBLaWVIZWxwZXIoKTsKICAgICAgICAgICAga2llSGVscGVyLmFkZENvbnRlbnQocnVsZSxSZXNvdXJjZVR5cGUuRFJMKTs=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBraWVTZXNzaW9uLmdldEFnZW5kYSgpLmdldEFnZW5kYUdyb3VwKHJlcXVlc3QuZ2V0KCJmbG93SWQiKSkuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
