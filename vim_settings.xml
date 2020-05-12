@@ -56,11 +56,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/http/DceTest.java" timestamp="1589193238174">
-        <mark key="[" line="42" column="38" />
-        <mark key="]" line="42" column="38" />
-        <mark key="." line="42" column="38" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/service/impl/DceServiceImpl.java" timestamp="1589289326379">
         <mark key="[" line="155" column="84" />
         <mark key="]" line="99" column="0" />
@@ -68,6 +63,9 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/service/impl/WhenServiceImpl.java" timestamp="1589289376757">
         <mark key="[" line="100" column="90" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/service/CallbackService.java" timestamp="1589289640636">
+        <mark key="[" line="7" column="33" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/model/RequestData.java" timestamp="1589273017909">
         <mark key="[" line="16" column="23" />
@@ -101,13 +99,13 @@
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/config/RedisConfig.java" timestamp="1589290169812">
+        <mark key="[" line="82" column="25" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/roster/kefu/KeFuKafkaRoster.java" timestamp="1589255982068">
         <mark key="[" line="17" column="44" />
         <mark key="]" line="17" column="44" />
         <mark key="." line="17" column="44" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/dce/pom.xml" timestamp="1589193334638">
-        <mark key="[" line="107" column="27" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/model/kefu/KafkaRoster.java" timestamp="1589254910940">
         <mark key="[" line="45" column="0" />
@@ -115,7 +113,9 @@
         <mark key="^" line="25" column="24" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/service/impl/CallbackServiceImpl.java" timestamp="1589289477489" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/service/impl/CallbackServiceImpl.java" timestamp="1589289681358">
+        <mark key="[" line="30" column="12" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/file/rule/rule1.0.drl" timestamp="1589282053125">
         <mark key="[" line="0" column="2" />
         <mark key="]" line="0" column="2" />
@@ -225,11 +225,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>int</text>
       </register>
       <register name="-" type="4">
-        <text>fireNum</text>
+        <text>int</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
