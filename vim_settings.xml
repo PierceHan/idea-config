@@ -75,6 +75,9 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/message/KafkaMessage.java" timestamp="1589353494923">
+        <mark key="[" line="3" column="36" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/factory/RosterFactory.java" timestamp="1589353244714" />
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/roster/kefu/KeFuKafkaRoster.java" timestamp="1589351811536">
         <mark key="[" line="18" column="0" />
@@ -83,11 +86,6 @@
         <mark key="[" line="36" column="27" />
         <mark key="]" line="36" column="28" />
         <mark key="." line="36" column="28" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/weikong/WeiKonbBack1.java" timestamp="1589335601525">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1589340843626">
         <mark key="[" line="0" column="0" />
