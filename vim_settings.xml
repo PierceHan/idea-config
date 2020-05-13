@@ -67,6 +67,9 @@
         <mark key="]" line="51" column="20" />
         <mark key="." line="51" column="20" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/pom.xml" timestamp="1589363861428">
+        <mark key="[" line="40" column="26" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/roster/weikong/WeiKongKafkaRoster.java" timestamp="1589362390972">
         <mark key="[" line="49" column="8" />
         <mark key="]" line="45" column="49" />
@@ -75,7 +78,6 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/web/WhenController.java" timestamp="1589358272901">
         <mark key="[" line="17" column="17" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator-autoconfigure/2.1.1.RELEASE/spring-boot-actuator-autoconfigure-2.1.1.RELEASE.jar!/META-INF/spring.factories" timestamp="1589356533994" />
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/pom.xml" timestamp="1589358181763">
         <mark key="[" line="7" column="22" />
         <mark key="]" line="133" column="0" />
@@ -97,8 +99,8 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/web/CallbackController.java" timestamp="1589358816745">
         <mark key="[" line="13" column="21" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/roster/kefu/KeFuKafkaRoster.java" timestamp="1589363514902">
-        <mark key="[" line="9" column="58" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/roster/kefu/KeFuKafkaRoster.java" timestamp="1589363879519">
+        <mark key="[" line="17" column="0" />
         <mark key="]" line="9" column="50" />
         <mark key="." line="9" column="50" />
       </file>
