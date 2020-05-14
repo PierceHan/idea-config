@@ -67,8 +67,8 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/message/KafkaMessage.java" timestamp="1589444553645">
         <mark key="[" line="22" column="51" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/BaseConsumer.java" timestamp="1589443631690">
-        <mark key="[" line="77" column="4" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/BaseConsumer.java" timestamp="1589446626374">
+        <mark key="[" line="22" column="10" />
         <mark key="]" line="77" column="4" />
         <mark key="." line="77" column="4" />
       </file>
@@ -77,10 +77,10 @@
         <mark key="]" line="34" column="20" />
         <mark key="." line="34" column="20" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/roster/kefu/KeFuKafkaRoster.java" timestamp="1589445162714">
-        <mark key="[" line="33" column="17" />
-        <mark key="]" line="38" column="4" />
-        <mark key="." line="38" column="4" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/roster/kefu/KeFuKafkaRoster.java" timestamp="1589446830363">
+        <mark key="[" line="92" column="36" />
+        <mark key="]" line="70" column="45" />
+        <mark key="." line="70" column="45" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/queue/RosterQueue.java" timestamp="1589444521413">
         <mark key="[" line="31" column="39" />
@@ -220,10 +220,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>l</text>
+        <text>url</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>url</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
