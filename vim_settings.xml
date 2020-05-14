@@ -67,9 +67,6 @@
         <mark key="]" line="22" column="62" />
         <mark key="." line="22" column="62" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/resources/config/application.yaml" timestamp="1589358090289">
-        <mark key="[" line="4" column="13" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/web/BatchController.java" timestamp="1589362542733">
         <mark key="[" line="108" column="29" />
         <mark key="]" line="108" column="29" />
@@ -88,6 +85,9 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/message/KafkaMessage.java" timestamp="1589425944153">
+        <mark key="[" line="20" column="5" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/roster/weikong/WeiKongKafkaRoster.java" timestamp="1589362390972">
         <mark key="[" line="49" column="8" />
         <mark key="]" line="45" column="49" />
@@ -105,15 +105,10 @@
         <mark key="[" line="13" column="21" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/model/kefu/KefuRoster.java" timestamp="1589423765059" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/roster/kefu/KeFuKafkaRoster.java" timestamp="1589423867062">
-        <mark key="[" line="46" column="36" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/dce/pom.xml" timestamp="1589358181763">
-        <mark key="[" line="7" column="22" />
-        <mark key="]" line="133" column="0" />
-        <mark key="." line="133" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/roster/kefu/KeFuKafkaRoster.java" timestamp="1589425774182">
+        <mark key="[" line="44" column="32" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/web/DataController.java" timestamp="1589359337417">
         <mark key="[" line="29" column="4" />
@@ -232,7 +227,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
@@ -247,30 +242,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIFJvc3RlckRUTyBjcmVhdGVSb3N0ZXIoS2VmdVJvc3RlciBrZWZ1Um9zdGVyKSB7CgogICAgfQ==</text>
       </register>
       <register name="3" type="2">
-        <text>import cc.wellcloud.ocm.model.kefu.KefuRoster;</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text>import cc.wellcloud.ocm.model.kefu.Object;</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>import cc.wellcloud.ocm.model.kefu.KefuRoster;</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>import cc.wellcloud.ocm.model.kefu.Object;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text>————————————————
-        版权声明：本文为CSDN博主「dd滴滴」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
-        原文链接：https://blog.csdn.net/weixin_43190694/article/details/88315473</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
