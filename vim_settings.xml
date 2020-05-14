@@ -77,10 +77,13 @@
         <mark key="]" line="34" column="20" />
         <mark key="." line="34" column="20" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/roster/kefu/KeFuKafkaRoster.java" timestamp="1589446830363">
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/roster/kefu/KeFuKafkaRoster.java" timestamp="1589449106636">
         <mark key="[" line="92" column="36" />
         <mark key="]" line="70" column="45" />
         <mark key="." line="70" column="45" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/thread/ThreadNameTest1.java" timestamp="1589449153834">
+        <mark key="[" line="15" column="4" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/queue/RosterQueue.java" timestamp="1589444521413">
         <mark key="[" line="31" column="39" />
@@ -102,11 +105,6 @@
         <mark key="[" line="24" column="56" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/service/impl/WhenServiceImpl.java" timestamp="1589445769012" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/controller/ActivityController.java" timestamp="1589440282109">
-        <mark key="[" line="448" column="113" />
-        <mark key="]" line="448" column="113" />
-        <mark key="." line="448" column="113" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application.yml" timestamp="1589440371372">
         <mark key="[" line="2" column="26" />
       </file>
