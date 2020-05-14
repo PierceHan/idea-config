@@ -104,10 +104,11 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/web/CallbackController.java" timestamp="1589358816745">
         <mark key="[" line="13" column="21" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/roster/kefu/KeFuKafkaRoster.java" timestamp="1589421081483">
-        <mark key="[" line="30" column="7" />
-        <mark key="]" line="20" column="39" />
-        <mark key="." line="20" column="39" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/model/kefu/KefuRoster.java" timestamp="1589423765059" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/roster/kefu/KeFuKafkaRoster.java" timestamp="1589423867062">
+        <mark key="[" line="46" column="36" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/pom.xml" timestamp="1589358181763">
         <mark key="[" line="7" column="22" />
@@ -227,11 +228,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>kefuRoster</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>kefuRoster</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
@@ -246,30 +247,30 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text>import cc.wellcloud.ocm.model.kefu.KefuRoster;</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text>import cc.wellcloud.ocm.model.kefu.Object;</text>
+        <text>import cc.wellcloud.ocm.model.kefu.KefuRoster;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>import cc.wellcloud.ocm.model.kefu.Object;</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
         <text>————————————————
         版权声明：本文为CSDN博主「dd滴滴」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
         原文链接：https://blog.csdn.net/weixin_43190694/article/details/88315473</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
