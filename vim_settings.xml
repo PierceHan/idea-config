@@ -92,8 +92,10 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/message/KafkaMessage.java" timestamp="1589425944153">
         <mark key="[" line="20" column="5" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/BaseConsumer.java" timestamp="1589427968880">
-        <mark key="[" line="76" column="4" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/BaseConsumer.java" timestamp="1589429802325">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/roster/weikong/WeiKongKafkaRoster.java" timestamp="1589426115065">
         <mark key="[" line="49" column="8" />
@@ -109,10 +111,10 @@
         <mark key="[" line="13" column="21" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/model/kefu/KefuRoster.java" timestamp="1589423765059" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/roster/kefu/KeFuKafkaRoster.java" timestamp="1589429019987">
-        <mark key="[" line="50" column="35" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/roster/kefu/KeFuKafkaRoster.java" timestamp="1589429732063">
+        <mark key="[" line="31" column="43" />
+        <mark key="]" line="51" column="34" />
+        <mark key="." line="51" column="34" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/web/DataController.java" timestamp="1589359337417">
         <mark key="[" line="29" column="4" />
@@ -228,10 +230,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygi5Y+R6YCB5aSW5ZG857uT5p6canNvbjp7fSIsSlNPTi50b0pTT05TdHJpbmcob2JqZWN0KSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>templateDTO</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
@@ -240,34 +242,34 @@
         <text encoding="base64">ICAgICgoRGNlUmVzcG9uc2UpJG1hcC5nZXQoImRjZVJlc3BvbnNlIikpLnNldENvZGUoRGNlUmVzcG9uc2VUeXBlLlJFUEVBVF9SRVFVRVNUKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygi5Y+R6YCB5aSW5ZG857uT5p6canNvbjp7fSIsSlNPTi50b0pTT05TdHJpbmcob2JqZWN0KSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBLZWZ1Um9zdGVyIGtlZnVSb3N0ZXIgPSAoS2VmdVJvc3RlcilvYmplY3Q7CiAgICAgICAgaWYgKCFTdHJpbmdVdGlscy5lcXVhbHMoa2VmdVJvc3Rlci5nZXRTY25fZmxnKCksc2NuRmxnKSl7CiAgICAgICAgICAgIGxvZy5kZWJ1Zygic2NuRmxn5LiN5Yy56YWNOnt9IixzY25GbGcpOwogICAgICAgICAgICByZXR1cm4gT3B0aW9uYWwuZW1wdHkoKTsKICAgICAgICB9</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNjbkZsZyA9IHNjbkZsZzsK</text>
+        <text encoding="base64">ICAgICAgICBLZWZ1Um9zdGVyIGtlZnVSb3N0ZXIgPSAoS2VmdVJvc3RlcilvYmplY3Q7CiAgICAgICAgaWYgKCFTdHJpbmdVdGlscy5lcXVhbHMoa2VmdVJvc3Rlci5nZXRTY25fZmxnKCksc2NuRmxnKSl7CiAgICAgICAgICAgIGxvZy5kZWJ1Zygic2NuRmxn5LiN5Yy56YWNOnt9IixzY25GbGcpOwogICAgICAgICAgICByZXR1cm4gT3B0aW9uYWwuZW1wdHkoKTsKICAgICAgICB9</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNjbkZsZyA9IHNjbkZsZzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIFJvc3RlckRUTyBjcmVhdGVSb3N0ZXIoS2VmdVJvc3RlciBrZWZ1Um9zdGVyKSB7CgogICAgfQ==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIFJvc3RlckRUTyBjcmVhdGVSb3N0ZXIoS2VmdVJvc3RlciBrZWZ1Um9zdGVyKSB7CgogICAgfQ==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text>import cc.wellcloud.ocm.model.kefu.KefuRoster;</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text>import cc.wellcloud.ocm.model.kefu.Object;</text>
+        <text>import cc.wellcloud.ocm.model.kefu.KefuRoster;</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
