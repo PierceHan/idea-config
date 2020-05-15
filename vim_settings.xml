@@ -77,15 +77,18 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/core/dce/DceHandlerTest.java" timestamp="1589536293073">
+        <mark key="[" line="26" column="36" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/adapter/UserDefinedRoster.java" timestamp="1589525962223">
         <mark key="[" line="12" column="30" />
         <mark key="]" line="21" column="17" />
         <mark key="." line="21" column="17" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/udcService.java" timestamp="1589525047746">
-        <mark key="[" line="6" column="17" />
-        <mark key="]" line="6" column="7" />
-        <mark key="." line="6" column="7" />
+      <file name="/Dummy.txt" timestamp="1589537487985">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/dce/DceHandlerFactory.java" timestamp="1589536134119">
         <mark key="[" line="37" column="8" />
