@@ -51,11 +51,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/RosterServiceImpl.java" timestamp="1589851923524">
-        <mark key="[" line="201" column="28" />
-        <mark key="]" line="173" column="64" />
-        <mark key="." line="173" column="64" />
-        <mark key="^" line="173" column="64" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/RosterServiceImpl.java" timestamp="1589858838167">
+        <mark key="[" line="195" column="36" />
+        <mark key="]" line="175" column="64" />
+        <mark key="." line="175" column="64" />
+        <mark key="^" line="175" column="64" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/model/duoyuan/OrderData.java" timestamp="1589854450708">
         <mark key="[" line="20" column="31" />
@@ -95,6 +95,11 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/factory/ResultConsumerFactory.java" timestamp="1589857077596">
         <mark key="[" line="59" column="11" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/controller/RosterController.java" timestamp="1589858351473">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/duoyuan/ZhangDanFenQi.java" timestamp="1589856048495" />
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/duoyuan/BaiBaoXiang.java" timestamp="1589857103214">
@@ -244,28 +249,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text />
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGNkc1VybDsK</text>
+        <text />
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSVJlc3VsdFNlcnZpY2UgcmVzdWx0U2VydmljZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHByZElkOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGNkc1VybDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgSVJlc3VsdFNlcnZpY2UgcmVzdWx0U2VydmljZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHByZElkOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGNkc1VybDsKICAgIHByaXZhdGUgU3RyaW5nIHByZElkOwogICAgcHJpdmF0ZSBJUmVzdWx0U2VydmljZSByZXN1bHRTZXJ2aWNlOw==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
