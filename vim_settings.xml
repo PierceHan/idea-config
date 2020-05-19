@@ -63,31 +63,24 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/impl/RosterInfoServiceImpl.java" timestamp="1589857640882">
         <mark key="'" line="49" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/status/ErrorStatusEnum.java" timestamp="1589871384781">
+        <mark key="[" line="78" column="35" />
+        <mark key="]" line="38" column="19" />
+        <mark key="^" line="38" column="19" />
+        <mark key="." line="38" column="18" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-interim/src/main/java/cc/wellcloud/ocm/service/rosterInfo/RosterInfoServiceImpl.java" timestamp="1589858303926">
         <mark key="'" line="457" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589857143306">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/factory/ResultConsumerFactory.java" timestamp="1589857077596">
-        <mark key="[" line="59" column="11" />
-      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/resources/config/application-dev.yaml" timestamp="1589872007631" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/exception/InvalidParamsExcetpion.java" timestamp="1589871433440" />
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/controller/RosterController.java" timestamp="1589859349537">
         <mark key="[" line="45" column="62" />
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/duoyuan/ZhangDanFenQi.java" timestamp="1589856048495" />
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/UserDefinedServiceImpl.java" timestamp="1589859504309">
         <mark key="[" line="31" column="32" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/duoyuan/BaiBaoXiang.java" timestamp="1589857103214">
-        <mark key="[" line="46" column="54" />
-        <mark key="]" line="50" column="0" />
-        <mark key="^" line="28" column="45" />
-        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/pom.xml" timestamp="1589870021913">
         <mark key="[" line="26" column="0" />
@@ -95,23 +88,25 @@
         <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/pom.xml" timestamp="1589870056858" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/pom.xml" timestamp="1589870090435" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/pom.xml" timestamp="1589872012565" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/config/ConfigProperties.java" timestamp="1589871767537" />
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/ConfigTypeEnum.java" timestamp="1589868775722">
         <mark key="[" line="19" column="11" />
       </file>
       <file name="/fragment.java" timestamp="1589859381904">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/controller/RosterDefineController.java" timestamp="1589870563468">
-        <mark key="'" line="34" column="51" />
-        <mark key="[" line="34" column="51" />
-        <mark key="]" line="31" column="26" />
-        <mark key="." line="31" column="26" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/controller/RosterDefineController.java" timestamp="1589871573708">
+        <mark key="'" line="40" column="51" />
+        <mark key="[" line="45" column="57" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/RosterDefineServiceImpl.java" timestamp="1589870707752">
-        <mark key="[" line="36" column="8" />
-        <mark key="]" line="31" column="15" />
-        <mark key="." line="31" column="15" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/RosterDefineServiceImpl.java" timestamp="1589871691107">
+        <mark key="[" line="46" column="53" />
+        <mark key="]" line="38" column="25" />
+        <mark key="." line="38" column="25" />
+        <mark key="^" line="38" column="59" />
       </file>
     </filemarks>
     <jumps>
@@ -219,11 +214,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>Object</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Object</text>
+        <text>domain1</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
@@ -247,19 +242,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text />
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text />
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGNkc1VybDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSVJlc3VsdFNlcnZpY2UgcmVzdWx0U2VydmljZTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGNkc1VybDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHByZElkOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgSVJlc3VsdFNlcnZpY2UgcmVzdWx0U2VydmljZTsK</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
