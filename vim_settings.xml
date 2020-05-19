@@ -51,14 +51,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/console" timestamp="1589874698196">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/model/UserDefinedRoster.java" timestamp="1589877254745">
         <mark key="[" line="16" column="4" />
       </file>
       <file name="/t_roster_user_defined [开发压测]" timestamp="1589877254188">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/pom.xml" timestamp="1589883336464">
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="." line="102" column="0" />
       </file>
       <file name="/a.sql" timestamp="1589874772330">
         <mark key="[" line="0" column="0" />
@@ -74,12 +76,28 @@
       <file name="/dumpDataPreview" timestamp="1589877363086">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589877237864">
+      <file name="/Dummy.txt" timestamp="1589883344902">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/resources/application-develop.yaml" timestamp="1589880335800" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/resources/application-develop.yaml" timestamp="1589881244754">
+        <mark key="[" line="4" column="50" />
+        <mark key="]" line="3" column="42" />
+        <mark key="^" line="3" column="42" />
+        <mark key="." line="3" column="41" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/pom.xml" timestamp="1589883646400" />
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/core/scan/cmbc/RosterCheck.java" timestamp="1589879776122">
         <mark key="[" line="34" column="20" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/resources/logback-spring.xml" timestamp="1589882735718">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/pom.xml" timestamp="1589883153075">
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="0" />
+        <mark key="." line="114" column="0" />
       </file>
       <file name="/foo.bar" timestamp="1589877254267">
         <mark key="[" line="0" column="0" />
@@ -209,11 +227,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>z</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
@@ -228,28 +246,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUubWF2ZW4ucGx1Z2luczwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLWRlcGxveS1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8dmVyc2lvbj4yPC92ZXJzaW9uPgogICAgICAgICAgICA8L3BsdWdpbj4=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJPGdyb3VwSWQ+b3JnLmFwYWNoZS5odHRwY29tcG9uZW50czwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+aHR0cG1pbWU8L2FydGlmYWN0SWQ+CgkJCTx2ZXJzaW9uPjQuNS4zPC92ZXJzaW9uPgoJCQk8ZXhjbHVzaW9ucz4KCQkJCTxleGNsdXNpb24+CgkJCQkJPGFydGlmYWN0SWQ+aHR0cGNsaWVudDwvYXJ0aWZhY3RJZD4KCQkJCQk8Z3JvdXBJZD5vcmcuYXBhY2hlLmh0dHBjb21wb25lbnRzPC9ncm91cElkPgoJCQkJPC9leGNsdXNpb24+CgkJCTwvZXhjbHVzaW9ucz4KCQk8L2RlcGVuZGVuY3k+</text>
       </register>
       <register name="6" type="2">
-        <text />
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGNkc1VybDsK</text>
+        <text encoding="base64">CgkJPGRlcGVuZGVuY3k+CgkJCTxncm91cElkPmphdmF4PC9ncm91cElkPgoJCQk8YXJ0aWZhY3RJZD5qYXZhZWUtYXBpPC9hcnRpZmFjdElkPgoJCQk8dmVyc2lvbj43LjA8L3ZlcnNpb24+CgkJPC9kZXBlbmRlbmN5Pg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSVJlc3VsdFNlcnZpY2UgcmVzdWx0U2VydmljZTsK</text>
+        <text encoding="base64">CgkJPGRlcGVuZGVuY3k+CgkJCTxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+c3ByaW5nLWJvb3Qtc3RhcnRlci1hbXFwPC9hcnRpZmFjdElkPgoJCTwvZGVwZW5kZW5jeT4=</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
