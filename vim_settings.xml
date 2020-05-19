@@ -51,21 +51,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/duoyuan/BaseDuoYuanBack.java" timestamp="1589855094694">
-        <mark key="[" line="71" column="70" />
-        <mark key="]" line="71" column="71" />
-        <mark key="." line="71" column="71" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/RosterServiceImpl.java" timestamp="1589851923524">
         <mark key="[" line="201" column="28" />
         <mark key="]" line="173" column="64" />
         <mark key="." line="173" column="64" />
         <mark key="^" line="173" column="64" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/controller/RosterController.java" timestamp="1589768796780">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/model/duoyuan/OrderData.java" timestamp="1589854450708">
         <mark key="[" line="20" column="31" />
@@ -73,13 +63,11 @@
       <file name="/a.dummy" timestamp="1589854846926">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/pom.xml" timestamp="1589851512185">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/impl/RosterInfoServiceImpl.java" timestamp="1589857640882">
+        <mark key="'" line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/duoyuan/DuoYuanBack.java" timestamp="1589855061572">
-        <mark key="[" line="26" column="52" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/duoyuan/DuoYuanBack.java" timestamp="1589855789844">
+        <mark key="[" line="17" column="24" />
         <mark key="]" line="26" column="52" />
         <mark key="." line="26" column="52" />
       </file>
@@ -92,10 +80,38 @@
         <mark key="^" line="38" column="19" />
         <mark key="." line="38" column="18" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/adapter/UserDefinedRoster.java" timestamp="1589770397191">
-        <mark key="[" line="12" column="30" />
-        <mark key="]" line="21" column="17" />
-        <mark key="." line="21" column="17" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/duoyuan/BaseDuoYuanBack.java" timestamp="1589855931991">
+        <mark key="[" line="75" column="23" />
+        <mark key="]" line="75" column="23" />
+        <mark key="." line="75" column="23" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1589857143306">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/factory/ResultConsumerFactory.java" timestamp="1589857077596">
+        <mark key="[" line="59" column="11" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/duoyuan/ZhangDanFenQi.java" timestamp="1589856048495" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/duoyuan/BaiBaoXiang.java" timestamp="1589857103214">
+        <mark key="[" line="46" column="54" />
+        <mark key="]" line="50" column="0" />
+        <mark key="^" line="28" column="45" />
+        <mark key="." line="50" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/pom.xml" timestamp="1589851512185">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/model/duoyuan/DuoYuanBackEntity.java" timestamp="1589855886963">
+        <mark key="[" line="12" column="12" />
+        <mark key="]" line="12" column="12" />
+        <mark key="." line="12" column="12" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/ConfigTypeEnum.java" timestamp="1589857215820">
+        <mark key="[" line="19" column="11" />
       </file>
       <file name="/fragment.java" timestamp="1589852331622">
         <mark key="[" line="0" column="0" />
@@ -200,21 +216,22 @@
       <jump line="984" column="16" filename="$MAVEN_REPOSITORY$/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/common/DefaultAgenda.java" />
       <jump line="996" column="8" filename="$MAVEN_REPOSITORY$/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/common/DefaultAgenda.java" />
       <jump line="999" column="15" filename="$MAVEN_REPOSITORY$/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/common/DefaultAgenda.java" />
+      <jump line="49" column="0" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/impl/RosterInfoServiceImpl.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>l</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQE1hcHBpbmcodGFyZ2V0ID0gInByb2R1Y3RfaWQiLHNvdXJjZSA9ICJwcm9kdWN0SWQiKSwK</text>
+        <text encoding="base64">ICAgICAgICBtYXAucHV0KCJvcmRlck5vIix1dWlNYXAuZ2V0KCJvcmRlck5vIikpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -223,28 +240,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGNkc1VybDsK</text>
+        <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSVJlc3VsdFNlcnZpY2UgcmVzdWx0U2VydmljZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHByZElkOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGNkc1VybDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgSVJlc3VsdFNlcnZpY2UgcmVzdWx0U2VydmljZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHByZElkOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGNkc1VybDsKICAgIHByaXZhdGUgU3RyaW5nIHByZElkOwogICAgcHJpdmF0ZSBJUmVzdWx0U2VydmljZSByZXN1bHRTZXJ2aWNlOw==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmNkc1VybCA9IGNkc1VybDsKICAgICAgICB0aGlzLnByZElkID0gcHJkSWQ7CiAgICAgICAgdGhpcy5yZXN1bHRTZXJ2aWNlID0gcmVzdWx0U2VydmljZTs=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGNkc1VybDsKICAgIHByaXZhdGUgU3RyaW5nIHByZElkOwogICAgcHJpdmF0ZSBJUmVzdWx0U2VydmljZSByZXN1bHRTZXJ2aWNlOw==</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
