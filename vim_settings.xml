@@ -57,9 +57,6 @@
         <mark key="." line="184" column="63" />
         <mark key="^" line="180" column="64" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/model/duoyuan/OrderData.java" timestamp="1589854450708">
-        <mark key="[" line="20" column="31" />
-      </file>
       <file name="/a.dummy" timestamp="1589854846926">
         <mark key="[" line="0" column="0" />
       </file>
@@ -115,6 +112,9 @@
       </file>
       <file name="/fragment.java" timestamp="1589859381904">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/controller/RosterDefineController.java" timestamp="1589860618624">
+        <mark key="[" line="8" column="2" />
       </file>
     </filemarks>
     <jumps>
