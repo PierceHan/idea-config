@@ -102,10 +102,10 @@
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/RosterDefineServiceImpl.java" timestamp="1589871691107">
-        <mark key="[" line="46" column="53" />
-        <mark key="]" line="38" column="25" />
-        <mark key="." line="38" column="25" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/RosterDefineServiceImpl.java" timestamp="1589872637712">
+        <mark key="[" line="58" column="4" />
+        <mark key="]" line="55" column="16" />
+        <mark key="." line="55" column="16" />
         <mark key="^" line="38" column="59" />
       </file>
     </filemarks>
@@ -214,11 +214,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>domain1</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
