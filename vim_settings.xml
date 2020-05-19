@@ -80,8 +80,8 @@
         <mark key="^" line="38" column="19" />
         <mark key="." line="38" column="18" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-interim/src/main/java/cc/wellcloud/ocm/service/rosterInfo/RosterInfoServiceImpl.java" timestamp="1589857751731">
-        <mark key="'" line="138" column="46" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-interim/src/main/java/cc/wellcloud/ocm/service/rosterInfo/RosterInfoServiceImpl.java" timestamp="1589858303926">
+        <mark key="'" line="457" column="21" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/duoyuan/BaseDuoYuanBack.java" timestamp="1589855931991">
         <mark key="[" line="75" column="23" />
@@ -121,7 +121,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="226" column="4" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" />
       <jump line="322" column="46" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" />
       <jump line="325" column="0" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" />
       <jump line="331" column="0" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" />
@@ -221,6 +220,7 @@
       <jump line="999" column="15" filename="$MAVEN_REPOSITORY$/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/common/DefaultAgenda.java" />
       <jump line="49" column="0" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/impl/RosterInfoServiceImpl.java" />
       <jump line="138" column="46" filename="$USER_HOME$/IdeaProjects/huijie/roster-interim/src/main/java/cc/wellcloud/ocm/service/rosterInfo/RosterInfoServiceImpl.java" />
+      <jump line="457" column="21" filename="$USER_HOME$/IdeaProjects/huijie/roster-interim/src/main/java/cc/wellcloud/ocm/service/rosterInfo/RosterInfoServiceImpl.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
