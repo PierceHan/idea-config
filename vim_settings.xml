@@ -96,11 +96,11 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/mapper/UserDefinedMapper.java" timestamp="1589879676901">
         <mark key="[" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-interim/src/main/java/cc/wellcloud/ocm/service/info/RosterInfoServiceImpl.java" timestamp="1589946567127">
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-interim/src/main/java/cc/wellcloud/ocm/service/info/RosterInfoServiceImpl.java" timestamp="1589947454229">
         <mark key="'" line="166" column="14" />
-        <mark key="[" line="485" column="44" />
-        <mark key="]" line="485" column="44" />
-        <mark key="." line="485" column="44" />
+        <mark key="[" line="339" column="15" />
+        <mark key="]" line="283" column="20" />
+        <mark key="." line="283" column="20" />
       </file>
     </filemarks>
     <jumps>
@@ -209,10 +209,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>null</text>
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
