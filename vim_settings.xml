@@ -63,8 +63,11 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/aspect/TemplateBeforeAspect.java" timestamp="1589942703324">
         <mark key="[" line="54" column="47" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/util/WellcloudClient.java" timestamp="1589962574405">
-        <mark key="[" line="39" column="77" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/util/WellcloudClient.java" timestamp="1589968109176">
+        <mark key="[" line="48" column="69" />
+        <mark key="]" line="48" column="69" />
+        <mark key="^" line="47" column="31" />
+        <mark key="." line="48" column="69" />
       </file>
       <file name="$MAVEN_REPOSITORY$/cc/wellcloud/framework/core/CC.Core/1.2.0/CC.Core-1.2.0.jar!/cc/wellcloud/framework/core/client/HttpClient.class" timestamp="1589946400199" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/aspect/TemplateAfterAspect.java" timestamp="1589966718881">
@@ -78,15 +81,17 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/subscribe/ResultSubscribeDTO.java" timestamp="1589939257980" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/event/handler/processor/CallResultTransportFactory.java" timestamp="1589939176876" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/entity/TemplateEntity.java" timestamp="1589955037483" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/service/activity/ActivityServiceImpl.java" timestamp="1589961789200">
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/service/activity/ActivityServiceImpl.java" timestamp="1589967736815">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/controller/ActivityController.java" timestamp="1589962419178">
-        <mark key="[" line="48" column="45" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/util/HttpUtils.java" timestamp="1589967323336">
+        <mark key="[" line="50" column="4" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/controller/ActivityController.java" timestamp="1589967793360">
+        <mark key="[" line="65" column="7" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-interim/src/main/java/cc/wellcloud/ocm/util/HttpUtils.java" timestamp="1589961338816">
         <mark key="[" line="43" column="4" />
@@ -207,11 +212,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>?</text>
       </register>
       <register name="-" type="4">
-        <text>v</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
@@ -220,35 +225,31 @@
         <text encoding="base64">ICAgICAgICBtYXAucHV0KCJvcmRlck5vIix1dWlNYXAuZ2V0KCJvcmRlck5vIikpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdXJsID0gY29uZmlnUHJvcGVydGllcy5nZXRPY21VcmwoKSsiL29jbS8yLjAvdGVtcGxhdGVzP3E9ZG9tYWluPT0iK2RvbWFpbisiIGFuZCBuYW1lPT0iK25hbWU7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdXJsID0gY29uZmlnUHJvcGVydGllcy5nZXRPY21VcmwoKSsiL29jbS8yLjAvdGVtcGxhdGVzP3E9ZG9tYWluPT0iK2RvbWFpbisiIGFuZCBuYW1lPT0iK25hbWU7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdXJsID0gY29uZmlnUHJvcGVydGllcy5nZXRPY21VcmwoKSsiL29jbS8yLjAvdGVtcGxhdGVzP3E9ZG9tYWluPT0iK2RvbWFpbisiIGFuZCBuYW1lPT0iK25hbWU7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text>//    @ApiOperation(value = &quot;早上八点获取一次名单&quot;)
-//    @RequestMapping(value = &quot;/day/once&quot;,method = RequestMethod.GET)
-//    public Map uploadRosterInfoAtEight(){
-//        return rosterInfoService.uploadRosterInfoAtEight();
-//    }</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgTWFwIGdldENkc01hcChTdHJpbmcgY2FsbElkKXsKICAgICAgICBTdHJpbmcgdXJsID0gY29uZmlnUHJvcGVydGllcy5nZXRDZHNVcmwoKSsiL2Nkcy8iK2NhbGxJZDsKICAgICAgICByZXR1cm4gSHR0cFV0aWxzLmRvR2V0KHVybCxNYXAuY2xhc3MpOwogICAgfQoKICAgIHB1YmxpYyBNYXAgZ2V0QWN0aXZpdHlCeUlkKFN0cmluZyBpZCl7CgogICAgICAgIFN0cmluZyB1cmwgPSBjb25maWdQcm9wZXJ0aWVzLmdldE9jbVVybCgpKyIvdjEvYWN0aXZpdHkvbGlzdC8iK2lkOwoKICAgICAgICByZXR1cm4gSHR0cFV0aWxzLmRvR2V0KHVybCxNYXAuY2xhc3MpOwogICAgfQ==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdoaWxlIChhc3NpZ25Qb2xpY3lFbnRpdHlJdGVyYXRvci5oYXNOZXh0KCkpewogICAgICAgICAgICAgICAgICAgIEFzc2lnblBvbGljeUVudGl0eSBhc3NpZ25Qb2xpY3lFbnRpdHkgPSAoQXNzaWduUG9saWN5RW50aXR5KSBhc3NpZ25Qb2xpY3lFbnRpdHlJdGVyYXRvci5uZXh0KCk7CgogICAgICAgICAgICAgICAgfQ==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEl0ZXJhdG9yIGFzc2lnblBvbGljeUVudGl0eUl0ZXJhdG9yID0gYXNzaWduUG9saWN5RW50aXR5TGlzdC5pdGVyYXRvcigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
