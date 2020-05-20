@@ -54,38 +54,26 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/model/UserDefinedRoster.java" timestamp="1589877254745">
         <mark key="[" line="16" column="4" />
       </file>
-      <file name="/t_roster_user_defined [开发压测]" timestamp="1589877254188">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/pom.xml" timestamp="1589883336464">
         <mark key="[" line="102" column="0" />
         <mark key="]" line="102" column="0" />
         <mark key="." line="102" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1589874772330">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/default" timestamp="1589877208374">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/dummy.sql" timestamp="1589877242802">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="/dumpDataPreview" timestamp="1589877363086">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-interim/src/main/java/cc/wellcloud/ocm/service/rosterInfo/RosterInfoServiceImpl.java" timestamp="1589937850515" />
       <file name="/Dummy.txt" timestamp="1589883344902">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/subscribe/ResultSubscribeDTO.java" timestamp="1589938753851" />
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/resources/application-develop.yaml" timestamp="1589881244754">
         <mark key="[" line="4" column="50" />
         <mark key="]" line="3" column="42" />
         <mark key="^" line="3" column="42" />
         <mark key="." line="3" column="41" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/pom.xml" timestamp="1589883646400" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/event/handler/processor/CallResultTransportFactory.java" timestamp="1589938823742" />
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/core/scan/cmbc/RosterCheck.java" timestamp="1589879776122">
         <mark key="[" line="34" column="20" />
       </file>
@@ -102,13 +90,16 @@
       <file name="/foo.bar" timestamp="1589877254267">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/develop.t_roster_user_defined" timestamp="1589877254201">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/event/handler/processor/Processor.java" timestamp="1589938713525" />
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/mapper/UserDefinedMapper.java" timestamp="1589879676901">
         <mark key="[" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/core/GiantRostersHandler.java" timestamp="1589879736085" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-interim/src/main/java/cc/wellcloud/ocm/service/info/RosterInfoServiceImpl.java" timestamp="1589938630912">
+        <mark key="'" line="163" column="14" />
+        <mark key="[" line="402" column="32" />
+        <mark key="]" line="402" column="32" />
+        <mark key="." line="402" column="32" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/controller/RosterDefineController.java" timestamp="1589879631735">
         <mark key="'" line="40" column="51" />
         <mark key="[" line="21" column="25" />
@@ -123,7 +114,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="325" column="0" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" />
       <jump line="331" column="0" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" />
       <jump line="335" column="36" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" />
       <jump line="48" column="28" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" />
@@ -223,15 +213,16 @@
       <jump line="138" column="46" filename="$USER_HOME$/IdeaProjects/huijie/roster-interim/src/main/java/cc/wellcloud/ocm/service/rosterInfo/RosterInfoServiceImpl.java" />
       <jump line="457" column="21" filename="$USER_HOME$/IdeaProjects/huijie/roster-interim/src/main/java/cc/wellcloud/ocm/service/rosterInfo/RosterInfoServiceImpl.java" />
       <jump line="34" column="51" filename="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/controller/RosterDefineController.java" />
+      <jump line="163" column="14" filename="$USER_HOME$/IdeaProjects/huijie/roster-interim/src/main/java/cc/wellcloud/ocm/service/info/RosterInfoServiceImpl.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>z</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
@@ -246,28 +237,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUubWF2ZW4ucGx1Z2luczwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLWRlcGxveS1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8dmVyc2lvbj4yPC92ZXJzaW9uPgogICAgICAgICAgICA8L3BsdWdpbj4=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUubWF2ZW4ucGx1Z2luczwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLWRlcGxveS1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8dmVyc2lvbj4yPC92ZXJzaW9uPgogICAgICAgICAgICA8L3BsdWdpbj4=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJPGdyb3VwSWQ+b3JnLmFwYWNoZS5odHRwY29tcG9uZW50czwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+aHR0cG1pbWU8L2FydGlmYWN0SWQ+CgkJCTx2ZXJzaW9uPjQuNS4zPC92ZXJzaW9uPgoJCQk8ZXhjbHVzaW9ucz4KCQkJCTxleGNsdXNpb24+CgkJCQkJPGFydGlmYWN0SWQ+aHR0cGNsaWVudDwvYXJ0aWZhY3RJZD4KCQkJCQk8Z3JvdXBJZD5vcmcuYXBhY2hlLmh0dHBjb21wb25lbnRzPC9ncm91cElkPgoJCQkJPC9leGNsdXNpb24+CgkJCTwvZXhjbHVzaW9ucz4KCQk8L2RlcGVuZGVuY3k+</text>
+        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJPGdyb3VwSWQ+b3JnLmFwYWNoZS5odHRwY29tcG9uZW50czwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+aHR0cG1pbWU8L2FydGlmYWN0SWQ+CgkJCTx2ZXJzaW9uPjQuNS4zPC92ZXJzaW9uPgoJCQk8ZXhjbHVzaW9ucz4KCQkJCTxleGNsdXNpb24+CgkJCQkJPGFydGlmYWN0SWQ+aHR0cGNsaWVudDwvYXJ0aWZhY3RJZD4KCQkJCQk8Z3JvdXBJZD5vcmcuYXBhY2hlLmh0dHBjb21wb25lbnRzPC9ncm91cElkPgoJCQkJPC9leGNsdXNpb24+CgkJCTwvZXhjbHVzaW9ucz4KCQk8L2RlcGVuZGVuY3k+</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CgkJPGRlcGVuZGVuY3k+CgkJCTxncm91cElkPmphdmF4PC9ncm91cElkPgoJCQk8YXJ0aWZhY3RJZD5qYXZhZWUtYXBpPC9hcnRpZmFjdElkPgoJCQk8dmVyc2lvbj43LjA8L3ZlcnNpb24+CgkJPC9kZXBlbmRlbmN5Pg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CgkJPGRlcGVuZGVuY3k+CgkJCTxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+c3ByaW5nLWJvb3Qtc3RhcnRlci1hbXFwPC9hcnRpZmFjdElkPgoJCTwvZGVwZW5kZW5jeT4=</text>
+        <text encoding="base64">CgkJPGRlcGVuZGVuY3k+CgkJCTxncm91cElkPmphdmF4PC9ncm91cElkPgoJCQk8YXJ0aWZhY3RJZD5qYXZhZWUtYXBpPC9hcnRpZmFjdElkPgoJCQk8dmVyc2lvbj43LjA8L3ZlcnNpb24+CgkJPC9kZXBlbmRlbmN5Pg==</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
