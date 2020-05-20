@@ -51,6 +51,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-interim/src/main/java/cc/wellcloud/ocm/util/ScheduleTask.java" timestamp="1589958952810" />
       <file name="/a.dummy" timestamp="1589957146987">
         <mark key="[" line="0" column="0" />
       </file>
@@ -74,33 +75,25 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/subscribe/ResultSubscribeDTO.java" timestamp="1589939257980" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/resources/application-develop.yaml" timestamp="1589881244754">
-        <mark key="[" line="4" column="50" />
-        <mark key="]" line="3" column="42" />
-        <mark key="^" line="3" column="42" />
-        <mark key="." line="3" column="41" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/event/handler/processor/CallResultTransportFactory.java" timestamp="1589939176876" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/entity/TemplateEntity.java" timestamp="1589955037483" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/core/scan/cmbc/RosterCheck.java" timestamp="1589879776122">
-        <mark key="[" line="34" column="20" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/resources/logback-spring.xml" timestamp="1589882735718">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/pom.xml" timestamp="1589883153075">
         <mark key="[" line="114" column="0" />
         <mark key="]" line="114" column="0" />
         <mark key="." line="114" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-interim/src/main/java/cc/wellcloud/ocm/controller/RosterInfoContorller.java" timestamp="1589959155966">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/event/handler/processor/Processor.java" timestamp="1589938713525" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-interim/src/main/java/cc/wellcloud/ocm/service/info/RosterInfoServiceImpl.java" timestamp="1589957948673">
-        <mark key="'" line="167" column="14" />
-        <mark key="[" line="287" column="91" />
-        <mark key="]" line="383" column="41" />
-        <mark key="." line="383" column="41" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-interim/src/main/java/cc/wellcloud/ocm/service/info/RosterInfoServiceImpl.java" timestamp="1589959722795">
+        <mark key="'" line="170" column="14" />
+        <mark key="[" line="123" column="62" />
+        <mark key="]" line="123" column="62" />
+        <mark key="." line="123" column="62" />
+        <mark key="^" line="123" column="62" />
       </file>
       <file name="/fragment.java" timestamp="1589957802170">
         <mark key="[" line="0" column="0" />
@@ -212,10 +205,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>assignPolicyEntity</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>assignPolicyEntity</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
@@ -230,28 +223,32 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdoaWxlIChhc3NpZ25Qb2xpY3lFbnRpdHlJdGVyYXRvci5oYXNOZXh0KCkpewogICAgICAgICAgICAgICAgICAgIEFzc2lnblBvbGljeUVudGl0eSBhc3NpZ25Qb2xpY3lFbnRpdHkgPSAoQXNzaWduUG9saWN5RW50aXR5KSBhc3NpZ25Qb2xpY3lFbnRpdHlJdGVyYXRvci5uZXh0KCk7CgogICAgICAgICAgICAgICAgfQ==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEl0ZXJhdG9yIGFzc2lnblBvbGljeUVudGl0eUl0ZXJhdG9yID0gYXNzaWduUG9saWN5RW50aXR5TGlzdC5pdGVyYXRvcigpOwo=</text>
+        <text>//    @ApiOperation(value = &quot;早上八点获取一次名单&quot;)
+//    @RequestMapping(value = &quot;/day/once&quot;,method = RequestMethod.GET)
+//    public Map uploadRosterInfoAtEight(){
+//        return rosterInfoService.uploadRosterInfoAtEight();
+//    }</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdoaWxlIChhc3NpZ25Qb2xpY3lFbnRpdHlJdGVyYXRvci5oYXNOZXh0KCkpewogICAgICAgICAgICAgICAgICAgIEFzc2lnblBvbGljeUVudGl0eSBhc3NpZ25Qb2xpY3lFbnRpdHkgPSAoQXNzaWduUG9saWN5RW50aXR5KSBhc3NpZ25Qb2xpY3lFbnRpdHlJdGVyYXRvci5uZXh0KCk7CgogICAgICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxBc3NpZ25Qb2xpY3lFbnRpdHk+IGFzc2lnblBvbGljeUVudGl0eUxpc3QgPSBudWxsOwogICAgICAgICAgICB0cnl7CiAgICAgICAgICAgICAgICAvL+mAmui/h+a0u+WKqGlk5p+l5om+5rS75Yqo6YWN572u5YiG6YWN6KeE5YiZ55qEaXZy5rWB56iL5Y+3CiAgICAgICAgICAgICAgICBTdHJpbmcgYXNzaWduUG9saWN5VXJsID0gY29uZmlnUHJvcGVydGllcy5nZXRPY21VcmwoKSArICIvb2NtL3YxL2Fzc2lnbnBvbGljeS9saXN0IjsKICAgICAgICAgICAgICAgIFN0cmluZyBhc3NpZ25Qb2xpY3lKc29uID0gInsnaWRlbnRpZnlJbmZvJzonIiArIGFjdGl2aXR5SWQgKyAiJywncGFnZU51bSc6MCwnc3RhcnRQYWdlJzowfSI7CiAgICAgICAgICAgICAgICBhc3NpZ25Qb2xpY3lFbnRpdHlMaXN0ID0gSHR0cFV0aWxzLmRvUG9zdExpc3QoYXNzaWduUG9saWN5VXJsLCBhc3NpZ25Qb2xpY3lKc29uLCBBc3NpZ25Qb2xpY3lFbnRpdHkuY2xhc3MpOwogICAgICAgICAgICB9Y2F0Y2ggKEV4Y2VwdGlvbiBlKXsKICAgICAgICAgICAgICAgIGxvZy5pbmZvKCLojrflj5bor6XmtLvliqjnmoTliIbphY3op4TliJnlpLHotKUiLGUpOwogICAgICAgICAgICB9</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEl0ZXJhdG9yIGFzc2lnblBvbGljeUVudGl0eUl0ZXJhdG9yID0gYXNzaWduUG9saWN5RW50aXR5TGlzdC5pdGVyYXRvcigpOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmcgYWN0aXZpdHlJZCA9IGFjdGl2aXR5RHRvLmdldElkKCk7CiAgICAgICAgICAgICAgICAgICAgU3RyaW5nIGRvbWFpbiA9IGFjdGl2aXR5RHRvLmdldERvbWFpbigpOw==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxBc3NpZ25Qb2xpY3lFbnRpdHk+IGFzc2lnblBvbGljeUVudGl0eUxpc3QgPSBudWxsOwogICAgICAgICAgICB0cnl7CiAgICAgICAgICAgICAgICAvL+mAmui/h+a0u+WKqGlk5p+l5om+5rS75Yqo6YWN572u5YiG6YWN6KeE5YiZ55qEaXZy5rWB56iL5Y+3CiAgICAgICAgICAgICAgICBTdHJpbmcgYXNzaWduUG9saWN5VXJsID0gY29uZmlnUHJvcGVydGllcy5nZXRPY21VcmwoKSArICIvb2NtL3YxL2Fzc2lnbnBvbGljeS9saXN0IjsKICAgICAgICAgICAgICAgIFN0cmluZyBhc3NpZ25Qb2xpY3lKc29uID0gInsnaWRlbnRpZnlJbmZvJzonIiArIGFjdGl2aXR5SWQgKyAiJywncGFnZU51bSc6MCwnc3RhcnRQYWdlJzowfSI7CiAgICAgICAgICAgICAgICBhc3NpZ25Qb2xpY3lFbnRpdHlMaXN0ID0gSHR0cFV0aWxzLmRvUG9zdExpc3QoYXNzaWduUG9saWN5VXJsLCBhc3NpZ25Qb2xpY3lKc29uLCBBc3NpZ25Qb2xpY3lFbnRpdHkuY2xhc3MpOwogICAgICAgICAgICB9Y2F0Y2ggKEV4Y2VwdGlvbiBlKXsKICAgICAgICAgICAgICAgIGxvZy5pbmZvKCLojrflj5bor6XmtLvliqjnmoTliIbphY3op4TliJnlpLHotKUiLGUpOwogICAgICAgICAgICB9</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
