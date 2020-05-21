@@ -51,11 +51,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-interim/src/main/java/cc/wellcloud/ocm/util/ScheduleTask.java" timestamp="1589960846164">
-        <mark key="[" line="32" column="7" />
-        <mark key="]" line="32" column="8" />
-        <mark key="^" line="32" column="9" />
-        <mark key="." line="32" column="8" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/Dockerfile" timestamp="1590041830869">
+        <mark key="[" line="1" column="7" />
+        <mark key="]" line="1" column="8" />
+        <mark key="." line="1" column="8" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/message/AbstractCmbMessageNote.java" timestamp="1590026130588" />
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/util/WellcloudClient.java" timestamp="1590030116266">
@@ -79,7 +78,7 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/aspect/TemplateAfterAspect.java" timestamp="1589966718881">
         <mark key="[" line="46" column="65" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590041635422">
+      <file name="/Dummy.txt" timestamp="1590041871825">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/service/activity/ActivityService.java" timestamp="1589968579408">
@@ -232,10 +231,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>ActivityDTO</text>
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text>ActivityDTO</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
