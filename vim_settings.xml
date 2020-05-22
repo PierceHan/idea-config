@@ -67,14 +67,16 @@
         <mark key="]" line="24" column="8" />
         <mark key="." line="24" column="8" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/serivce/quart/TemplateJobHelperTest.java" timestamp="1590114634025">
-        <mark key="[" line="14" column="52" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/serivce/quart/TemplateJobHelperTest.java" timestamp="1590115828381">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590054847534">
+      <file name="/Dummy.txt" timestamp="1590116080101">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/util/TestObjectCreator.java" timestamp="1590114892782">
-        <mark key="[" line="46" column="4" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/util/TestObjectCreator.java" timestamp="1590115675768">
+        <mark key="[" line="48" column="8" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/factory/ResultConsumerFactory.java" timestamp="1590041455203">
         <mark key="[" line="79" column="50" />
@@ -216,9 +218,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>LocalDateTime today = LocalDateTime.now();
-        return localDateTime.getDayOfYear() == today.getDayOfYear();</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
@@ -229,36 +230,36 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBtYXAucHV0KCJvcmRlck5vIix1dWlNYXAuZ2V0KCJvcmRlck5vIikpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>LocalDateTime today = LocalDateTime.now();
-        return localDateTime.getDayOfYear() == today.getDayOfYear();</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBPcHRpb25hbDxUZW1wbGF0ZURUTz4gb3B0aW9uYWxUZW1wbGF0ZURUTyA9IHdlbGxjbG91ZENsaWVudC5nZXRUZW1wbGF0ZURUTyhhY3Rpdml0eUlkKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZXhjbHVkZSk7</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QFNwcmluZ0Jvb3RUZXN0Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>LocalDateTime today = LocalDateTime.now();
+        return localDateTime.getDayOfYear() == today.getDayOfYear();</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBSZXNvdXJjZQogICAgcHJpdmF0ZSBDb25maWdQcm9wZXJ0aWVzIGNvbmZpZ1Byb3BlcnRpZXM7</text>
+        <text encoding="base64">ICAgICAgICBPcHRpb25hbDxUZW1wbGF0ZURUTz4gb3B0aW9uYWxUZW1wbGF0ZURUTyA9IHdlbGxjbG91ZENsaWVudC5nZXRUZW1wbGF0ZURUTyhhY3Rpdml0eUlkKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlBY3Rpdml0eUVudGl0eSBhY3Rpdml0eSA9IG51bGw7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text />
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBAQXV0b3dpcmVkCglwcml2YXRlIEV4ZWN1dG9yIGV4ZWN1dG9yU2VydmljZTsKICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgQ29uZmlnUHJvcGVydGllcyBjb25maWc7</text>
+        <text encoding="base64">ICAgIEBSZXNvdXJjZQogICAgcHJpdmF0ZSBDb25maWdQcm9wZXJ0aWVzIGNvbmZpZ1Byb3BlcnRpZXM7</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcm9zdGVyS2V5ID0gQ2FjaGVDb25zdHMucm9zdGVyS2V5KHRlbXBsYXRlRFRPLmdldFRlbXBsYXRlSWQoKSk7Cg==</text>
+        <text encoding="base64">CQlBY3Rpdml0eUVudGl0eSBhY3Rpdml0eSA9IG51bGw7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
