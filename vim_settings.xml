@@ -54,10 +54,10 @@
       <file name="/Dummy.txt" timestamp="1590054847534">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/service/activity/ActivityService.java" timestamp="1589968579408">
-        <mark key="[" line="28" column="52" />
-        <mark key="]" line="28" column="52" />
-        <mark key="." line="28" column="52" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/RosterServiceImpl.java" timestamp="1590111142408">
+        <mark key="[" line="187" column="8" />
+        <mark key="]" line="185" column="8" />
+        <mark key="." line="185" column="8" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/factory/ResultConsumerFactory.java" timestamp="1590041455203">
         <mark key="[" line="79" column="50" />
@@ -69,11 +69,12 @@
         <mark key="]" line="1" column="8" />
         <mark key="." line="1" column="8" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/controller/RosterController.java" timestamp="1590109856329">
-        <mark key="[" line="44" column="47" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/controller/RosterController.java" timestamp="1590111228385">
+        <mark key="[" line="45" column="37" />
         <mark key="]" line="44" column="47" />
         <mark key="." line="44" column="47" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/web/BatchController.java" timestamp="1590110972663" />
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/resources/config/application-develop.properties" timestamp="1590041404291">
         <mark key="[" line="34" column="11" />
       </file>
@@ -83,15 +84,7 @@
         <mark key="^" line="46" column="31" />
         <mark key="." line="28" column="33" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/service/activity/ActivityServiceImpl.java" timestamp="1590025060864">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-        <mark key="^" line="78" column="31" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/util/HttpUtils.java" timestamp="1589967323336">
-        <mark key="[" line="50" column="4" />
-      </file>
+      <file name="$MAVEN_REPOSITORY$/cc/wellcloud/cloud/interface/1.3.1/interface-1.3.1.jar!/cc/wellcloud/cloud/interfaces/web/ApiResponse.class" timestamp="1590110949660" />
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/controller/ActivityController.java" timestamp="1590025429829">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
@@ -226,10 +219,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>dynamic</text>
+        <text encoding="base64">TWFwPFN0cmluZywgU3RyaW5nPiBvYmplY3RPYmplY3RNYXA=</text>
       </register>
       <register name="-" type="4">
-        <text>dynamic</text>
+        <text encoding="base64">TWFwPFN0cmluZywgU3RyaW5nPiBvYmplY3RPYmplY3RNYXA=</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
