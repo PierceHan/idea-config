@@ -60,7 +60,6 @@
         <mark key="." line="368" column="17" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/adapter/EncodeEnum.java" timestamp="1590119662709" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/web/BatchController.java" timestamp="1590117450384" />
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/resources/logback-spring.xml" timestamp="1590131443589">
         <mark key="[" line="19" column="42" />
         <mark key="]" line="19" column="42" />
@@ -76,16 +75,16 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/utils/HttpUtils.java" timestamp="1590132573798">
         <mark key="[" line="54" column="76" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/serivce/quart/TemplateJobHelperTest.java" timestamp="1590115828381">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/duoyuan/BaseDuoYuanBack.java" timestamp="1590128111049" />
       <file name="/Dummy.txt" timestamp="1590133091499">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/web/ApiResponse.java" timestamp="1590118980813" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/factory/ResultConsumerFactory.java" timestamp="1590139040588">
+        <mark key="[" line="79" column="50" />
+        <mark key="]" line="127" column="12" />
+        <mark key="." line="127" column="12" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/resources/application-develop.yaml" timestamp="1590127821072">
         <mark key="[" line="2" column="43" />
       </file>
@@ -104,6 +103,7 @@
         <mark key="]" line="52" column="89" />
         <mark key="." line="52" column="89" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/cuishou/CuiShouNote.java" timestamp="1590139125576" />
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/utils/WellCloudClient.java" timestamp="1590133079485">
         <mark key="[" line="24" column="20" />
         <mark key="]" line="24" column="20" />
