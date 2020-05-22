@@ -54,12 +54,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/RosterServiceImpl.java" timestamp="1590133070933">
-        <mark key="[" line="368" column="17" />
-        <mark key="]" line="368" column="17" />
-        <mark key="." line="368" column="17" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/adapter/EncodeEnum.java" timestamp="1590119662709" />
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/resources/logback-spring.xml" timestamp="1590131443589">
         <mark key="[" line="19" column="42" />
         <mark key="]" line="19" column="42" />
@@ -71,7 +65,38 @@
         <mark key="^" line="46" column="31" />
         <mark key="." line="28" column="33" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/cc/wellcloud/cloud/interface/1.3.2/interface-1.3.2.jar!/cc/wellcloud/cloud/interfaces/event/CallEvent.class" timestamp="1590118593086" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/factory/ResultConsumerFactory.java" timestamp="1590139040588">
+        <mark key="[" line="79" column="50" />
+        <mark key="]" line="127" column="12" />
+        <mark key="." line="127" column="12" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/resources/config/application-develop.properties" timestamp="1590137971193">
+        <mark key="[" line="34" column="11" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/kefu/KefuBack1.java" timestamp="1590141292115">
+        <mark key="[" line="102" column="61" />
+        <mark key="]" line="44" column="127" />
+        <mark key="." line="44" column="127" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/event/handler/processor/CallResultPrivateRedisTranspot.java" timestamp="1590141625631" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/core/GiantRostersHandler.java" timestamp="1590133039116">
+        <mark key="[" line="52" column="89" />
+        <mark key="]" line="52" column="89" />
+        <mark key="." line="52" column="89" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/cuishou/CuiShouNote.java" timestamp="1590142185683" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/utils/WellCloudClient.java" timestamp="1590133079485">
+        <mark key="[" line="24" column="20" />
+        <mark key="]" line="24" column="20" />
+        <mark key="." line="24" column="20" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/RosterServiceImpl.java" timestamp="1590133070933">
+        <mark key="[" line="368" column="17" />
+        <mark key="]" line="368" column="17" />
+        <mark key="." line="368" column="17" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/InstantCallBack.java" timestamp="1590141242305" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/event/handler/processor/CallResultPrivateRedisTransport.java" timestamp="1590141807115" />
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/utils/HttpUtils.java" timestamp="1590132573798">
         <mark key="[" line="54" column="76" />
       </file>
@@ -79,35 +104,11 @@
       <file name="/Dummy.txt" timestamp="1590133091499">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/web/ApiResponse.java" timestamp="1590118980813" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/factory/ResultConsumerFactory.java" timestamp="1590139040588">
-        <mark key="[" line="79" column="50" />
-        <mark key="]" line="127" column="12" />
-        <mark key="." line="127" column="12" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/resources/application-develop.yaml" timestamp="1590127821072">
-        <mark key="[" line="2" column="43" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/resources/config/application-develop.properties" timestamp="1590137971193">
-        <mark key="[" line="34" column="11" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/util/HttpUtils.java" timestamp="1590132947898">
         <mark key="[" line="50" column="4" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/quart/job/StartActivityJob.java" timestamp="1590118891267" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/quart/job/StopActivityJob.java" timestamp="1590118792117" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/entity/DTO/BatchInfoDTO.java" timestamp="1590118241090" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/adapter/FileType.java" timestamp="1590119597391" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/core/GiantRostersHandler.java" timestamp="1590133039116">
-        <mark key="[" line="52" column="89" />
-        <mark key="]" line="52" column="89" />
-        <mark key="." line="52" column="89" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/cuishou/CuiShouNote.java" timestamp="1590139125576" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/utils/WellCloudClient.java" timestamp="1590133079485">
-        <mark key="[" line="24" column="20" />
-        <mark key="]" line="24" column="20" />
-        <mark key="." line="24" column="20" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/kefu/YuYueHuiDian.java" timestamp="1590141300769">
+        <mark key="[" line="10" column="25" />
       </file>
     </filemarks>
     <jumps>
