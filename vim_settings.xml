@@ -86,11 +86,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/web/ApiResponse.java" timestamp="1590118980813" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/util/TestObjectCreator.java" timestamp="1590115675768">
-        <mark key="[" line="48" column="8" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/resources/application-develop.yaml" timestamp="1590127821072">
         <mark key="[" line="2" column="43" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/resources/config/application-develop.properties" timestamp="1590136813448">
+        <mark key="[" line="34" column="11" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/util/HttpUtils.java" timestamp="1590132947898">
         <mark key="[" line="50" column="4" />
