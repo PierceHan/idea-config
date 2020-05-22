@@ -51,63 +51,54 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1590054847534">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/RosterServiceImpl.java" timestamp="1590111142408">
         <mark key="[" line="187" column="8" />
         <mark key="]" line="185" column="8" />
         <mark key="." line="185" column="8" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/factory/ResultConsumerFactory.java" timestamp="1590041455203">
-        <mark key="[" line="79" column="50" />
-        <mark key="]" line="127" column="12" />
-        <mark key="." line="127" column="12" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/Dockerfile" timestamp="1590041830869">
         <mark key="[" line="1" column="7" />
         <mark key="]" line="1" column="8" />
         <mark key="." line="1" column="8" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/controller/RosterController.java" timestamp="1590111228385">
-        <mark key="[" line="45" column="37" />
-        <mark key="]" line="44" column="47" />
-        <mark key="." line="44" column="47" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/web/BatchController.java" timestamp="1590110972663" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/resources/config/application-develop.properties" timestamp="1590041404291">
-        <mark key="[" line="34" column="11" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/util/WellcloudClient.java" timestamp="1590030116266">
         <mark key="[" line="28" column="33" />
         <mark key="]" line="28" column="33" />
         <mark key="^" line="46" column="31" />
         <mark key="." line="28" column="33" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/cc/wellcloud/cloud/interface/1.3.1/interface-1.3.1.jar!/cc/wellcloud/cloud/interfaces/web/ApiResponse.class" timestamp="1590110949660" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/controller/ActivityController.java" timestamp="1590025429829">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/pom.xml" timestamp="1590054637199">
-        <mark key="[" line="72" column="20" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/kefu/KefuHangUpKafka.java" timestamp="1590025555980">
-        <mark key="[" line="90" column="33" />
-        <mark key="]" line="90" column="33" />
-        <mark key="^" line="90" column="34" />
-        <mark key="." line="90" column="33" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/kefu/KefuBack1.java" timestamp="1590026227434">
-        <mark key="[" line="102" column="61" />
-        <mark key="]" line="44" column="127" />
-        <mark key="." line="44" column="127" />
-      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/DateUtil.java" timestamp="1590112110260" />
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/roster/kefu/KeFuKafkaRoster.java" timestamp="1590041170393">
         <mark key="[" line="77" column="21" />
         <mark key="]" line="77" column="21" />
         <mark key="." line="77" column="21" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1590054847534">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/factory/ResultConsumerFactory.java" timestamp="1590041455203">
+        <mark key="[" line="79" column="50" />
+        <mark key="]" line="127" column="12" />
+        <mark key="." line="127" column="12" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/controller/RosterController.java" timestamp="1590111228385">
+        <mark key="[" line="45" column="37" />
+        <mark key="]" line="44" column="47" />
+        <mark key="." line="44" column="47" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/resources/config/application-develop.properties" timestamp="1590041404291">
+        <mark key="[" line="34" column="11" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/cc/wellcloud/cloud/interface/1.3.1/interface-1.3.1.jar!/cc/wellcloud/cloud/interfaces/web/ApiResponse.class" timestamp="1590110949660" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/pom.xml" timestamp="1590054637199">
+        <mark key="[" line="72" column="20" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/quart/TemplateJobHelper.java" timestamp="1590112009676" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/date/LocalDateTime0.java" timestamp="1590112186659">
+        <mark key="[" line="15" column="17" />
+        <mark key="]" line="15" column="17" />
+        <mark key="." line="15" column="17" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/ConfigTypeEnum.java" timestamp="1590056056731">
         <mark key="[" line="15" column="4" />
@@ -219,10 +210,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">TWFwPFN0cmluZywgU3RyaW5nPiBvYmplY3RPYmplY3RNYXA=</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">TWFwPFN0cmluZywgU3RyaW5nPiBvYmplY3RPYmplY3RNYXA=</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
