@@ -61,6 +61,11 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/adapter/EncodeEnum.java" timestamp="1590119662709" />
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/web/BatchController.java" timestamp="1590117450384" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/resources/logback-spring.xml" timestamp="1590131443589">
+        <mark key="[" line="19" column="42" />
+        <mark key="]" line="19" column="42" />
+        <mark key="." line="19" column="42" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/DateUtil.java" timestamp="1590114522226">
         <mark key="[" line="24" column="8" />
         <mark key="]" line="24" column="8" />
@@ -73,7 +78,7 @@
         <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/duoyuan/BaseDuoYuanBack.java" timestamp="1590128111049" />
-      <file name="/Dummy.txt" timestamp="1590126817651">
+      <file name="/Dummy.txt" timestamp="1590131549900">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/web/ApiResponse.java" timestamp="1590118980813" />
@@ -82,11 +87,6 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/resources/application-develop.yaml" timestamp="1590127821072">
         <mark key="[" line="2" column="43" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/controller/RosterController.java" timestamp="1590111228385">
-        <mark key="[" line="45" column="37" />
-        <mark key="]" line="44" column="47" />
-        <mark key="." line="44" column="47" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/quart/TemplateJobHelper.java" timestamp="1590114850944">
         <mark key="[" line="53" column="44" />
@@ -215,11 +215,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>adapter</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>adapter</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
