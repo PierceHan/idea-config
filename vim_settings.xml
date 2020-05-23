@@ -54,7 +54,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1590133091499">
+      <file name="/Dummy.txt" timestamp="1590200627140">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/RosterServiceImpl.java" timestamp="1590133070933">
@@ -62,11 +62,13 @@
         <mark key="]" line="368" column="17" />
         <mark key="." line="368" column="17" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/factory/ResultConsumerFactory.java" timestamp="1590139040588">
-        <mark key="[" line="79" column="50" />
-        <mark key="]" line="127" column="12" />
-        <mark key="." line="127" column="12" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/factory/ResultConsumerFactory.java" timestamp="1590200073328">
+        <mark key="[" line="108" column="19" />
+        <mark key="]" line="129" column="12" />
+        <mark key="." line="129" column="12" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/InstantCallBack.java" timestamp="1590200840338" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/RepeatHttpRequest.java" timestamp="1590199651954" />
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/resources/config/application-develop.properties" timestamp="1590137971193">
         <mark key="[" line="34" column="11" />
       </file>
@@ -109,6 +111,9 @@
         <mark key="[" line="24" column="20" />
         <mark key="]" line="24" column="20" />
         <mark key="." line="24" column="20" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/ConfigTypeEnum.java" timestamp="1590200024349">
+        <mark key="[" line="6" column="27" />
       </file>
       <file name="/fragment.java" timestamp="1590198874452">
         <mark key="[" line="0" column="0" />
