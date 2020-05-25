@@ -67,10 +67,10 @@
         <mark key="]" line="82" column="0" />
         <mark key="." line="82" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/factory/ResultConsumerFactory.java" timestamp="1590377830219">
-        <mark key="[" line="57" column="33" />
-        <mark key="]" line="97" column="66" />
-        <mark key="." line="97" column="66" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/factory/ResultConsumerFactory.java" timestamp="1590387070228">
+        <mark key="[" line="111" column="132" />
+        <mark key="]" line="111" column="132" />
+        <mark key="." line="111" column="132" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/config/ExecutorConfig.java" timestamp="1590377821922" />
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/model/shouquan/CallResult.java" timestamp="1590215618173">
@@ -223,10 +223,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>6</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
