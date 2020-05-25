@@ -49,6 +49,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -62,13 +65,15 @@
         <mark key="]" line="38" column="21" />
         <mark key="." line="38" column="21" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/event/handler/processor/CallResultPrivateRedisTransport.java" timestamp="1590393491348">
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/event/handler/processor/CallResultPrivateRedisTransport.java" timestamp="1590394109869">
         <mark key="[" line="29" column="130" />
         <mark key="]" line="29" column="130" />
         <mark key="." line="29" column="130" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/json/JsonParseTest1.java" timestamp="1590393731876">
-        <mark key="[" line="12" column="7" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/json/JsonParseTest1.java" timestamp="1590394133215">
+        <mark key="[" line="14" column="62" />
+        <mark key="]" line="14" column="62" />
+        <mark key="." line="14" column="62" />
       </file>
       <file name="$MAVEN_REPOSITORY$/cc/wellcloud/framework/core/CC.Core/1.2.0/CC.Core-1.2.0.jar!/cc/wellcloud/framework/core/client/HttpClient.class" timestamp="1590392133229">
         <mark key="'" line="122" column="24" />
@@ -86,11 +91,6 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/duoyuan/BaseDuoYuanBack.java" timestamp="1590389478089" />
       <file name="/Dummy.txt" timestamp="1590221936003">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/shouquan/ShouQuanBack1.java" timestamp="1590217656992">
-        <mark key="[" line="100" column="35" />
-        <mark key="]" line="95" column="0" />
-        <mark key="." line="95" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/factory/ResultConsumerFactory.java" timestamp="1590393632426">
         <mark key="[" line="113" column="132" />
@@ -222,10 +222,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
