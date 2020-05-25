@@ -54,30 +54,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1590221936003">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/shouquan/ShouQuanBack1.java" timestamp="1590217656992">
-        <mark key="[" line="100" column="35" />
-        <mark key="]" line="95" column="0" />
-        <mark key="." line="95" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/diaokou/DiaoKouBack1.java" timestamp="1590216354867">
         <mark key="[" line="50" column="11" />
         <mark key="]" line="82" column="0" />
         <mark key="." line="82" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/factory/ResultConsumerFactory.java" timestamp="1590387070228">
-        <mark key="[" line="111" column="132" />
-        <mark key="]" line="111" column="132" />
-        <mark key="." line="111" column="132" />
-      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/util/CacheConsts.java" timestamp="1590389337284" />
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/config/ExecutorConfig.java" timestamp="1590377821922" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/model/shouquan/CallResult.java" timestamp="1590215618173">
-        <mark key="[" line="19" column="4" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/util/DateUtils.java" timestamp="1590216697542">
         <mark key="[" line="15" column="4" />
         <mark key="]" line="15" column="4" />
@@ -94,6 +77,30 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/TimerBackTemplate.java" timestamp="1590377675739">
+        <mark key="[" line="14" column="103" />
+        <mark key="]" line="14" column="103" />
+        <mark key="." line="14" column="103" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/duoyuan/BaseDuoYuanBack.java" timestamp="1590389478089" />
+      <file name="/Dummy.txt" timestamp="1590221936003">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/shouquan/ShouQuanBack1.java" timestamp="1590217656992">
+        <mark key="[" line="100" column="35" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/factory/ResultConsumerFactory.java" timestamp="1590387070228">
+        <mark key="[" line="113" column="132" />
+        <mark key="]" line="113" column="132" />
+        <mark key="." line="113" column="132" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/duoyuan/BaseTimerDuoYuanBack.java" timestamp="1590389440796">
+        <mark key="[" line="22" column="51" />
+        <mark key="]" line="22" column="51" />
+        <mark key="." line="22" column="51" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/TianAnCallBack.java" timestamp="1590377121469" />
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/kefu/YuYueHuiDian.java" timestamp="1590221888254">
         <mark key="[" line="25" column="35" />
@@ -103,12 +110,7 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/ConfigTypeEnum.java" timestamp="1590219878780">
         <mark key="[" line="6" column="27" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/TimerBackTemplate.java" timestamp="1590377675739">
-        <mark key="[" line="14" column="103" />
-        <mark key="]" line="14" column="103" />
-        <mark key="." line="14" column="103" />
-      </file>
-      <file name="/fragment.java" timestamp="1590213749379">
+      <file name="/fragment.java" timestamp="1590389410553">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/model/shouquan/VipParams.java" timestamp="1590216267181">
@@ -223,10 +225,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>TimerBackTemplate</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>TimerBackTemplate</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
