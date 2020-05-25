@@ -65,23 +65,23 @@
         <mark key="]" line="38" column="21" />
         <mark key="." line="38" column="21" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/event/handler/processor/CallResultPrivateRedisTransport.java" timestamp="1590394109869">
-        <mark key="[" line="29" column="130" />
-        <mark key="]" line="29" column="130" />
-        <mark key="." line="29" column="130" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/event/handler/processor/CallResultPrivateRedisTransport.java" timestamp="1590396171141">
+        <mark key="[" line="34" column="119" />
+        <mark key="]" line="34" column="119" />
+        <mark key="." line="34" column="119" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/json/JsonParseTest1.java" timestamp="1590394133215">
-        <mark key="[" line="14" column="62" />
-        <mark key="]" line="14" column="62" />
-        <mark key="." line="14" column="62" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/resources/logback-spring.xml" timestamp="1590395746439">
+        <mark key="[" line="62" column="28" />
+        <mark key="]" line="62" column="28" />
+        <mark key="." line="62" column="28" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/json/JsonParseTest1.java" timestamp="1590395902250">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/cc/wellcloud/framework/core/CC.Core/1.2.0/CC.Core-1.2.0.jar!/cc/wellcloud/framework/core/client/HttpClient.class" timestamp="1590392133229">
         <mark key="'" line="122" column="24" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/function/Lu48Wrap.java" timestamp="1590221910515">
-        <mark key="[" line="25" column="43" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/TimerBackTemplate.java" timestamp="1590377675739">
         <mark key="[" line="14" column="103" />
@@ -89,7 +89,7 @@
         <mark key="." line="14" column="103" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/duoyuan/BaseDuoYuanBack.java" timestamp="1590389478089" />
-      <file name="/Dummy.txt" timestamp="1590221936003">
+      <file name="/Dummy.txt" timestamp="1590396180912">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/factory/ResultConsumerFactory.java" timestamp="1590393632426">
@@ -98,17 +98,13 @@
         <mark key="." line="113" column="132" />
       </file>
       <file name="$MAVEN_REPOSITORY$/cc/wellcloud/cloud/interface/1.3.2/interface-1.3.2.jar!/cc/wellcloud/cloud/interfaces/entity/strategy/DialStrategyDTO.class" timestamp="1590393847129" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/message/AbstractCmbMessage.java" timestamp="1590395578712" />
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/duoyuan/BaseTimerDuoYuanBack.java" timestamp="1590389440796">
         <mark key="[" line="22" column="51" />
         <mark key="]" line="22" column="51" />
         <mark key="." line="22" column="51" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/TianAnCallBack.java" timestamp="1590377121469" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/kefu/YuYueHuiDian.java" timestamp="1590221888254">
-        <mark key="[" line="25" column="35" />
-        <mark key="]" line="20" column="43" />
-        <mark key="." line="20" column="43" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/ConfigTypeEnum.java" timestamp="1590392854013">
         <mark key="[" line="6" column="27" />
       </file>
@@ -222,10 +218,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>= JSON.parseArray(json, DialStrategyDTO.class).stream().findFirst();</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>= JSON.parseArray(json, DialStrategyDTO.class).stream().findFirst();</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
@@ -240,28 +236,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9IAogICAgICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+Y2Mud2VsbGNsb3VkLmNsb3VkPC9ncm91cElkPgoJCQk8YXJ0aWZhY3RJZD5pbnRlcmZhY2U8L2FydGlmYWN0SWQ+CgkJCTx2ZXJzaW9uPjEuMy4yPC92ZXJzaW9uPgoJCTwvZGVwZW5kZW5jeT4=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExpc3Q8RGlhbFN0cmF0ZWd5RFRPPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgVGltZXIgdGRkaW1lciA9IG5ldyBUaW1lcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBEaWFsU3RyYXRlZ3lEVE8gZGlhbFN0cmF0ZWd5RW50aXR5ID0gSHR0cENsaWVudC5kb0dldCh1cmwsbnVsbCwgRGlhbFN0cmF0ZWd5RFRPLmNsYXNzLDE1MDAwKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFNpbXBsZURhdGVGb3JtYXQgRGF0ZVV0aWxzLkRFRkFVTFRfREFURV9QQVRURVJOID0gbmV3IFNpbXBsZURhdGVGb3JtYXQoInl5eXktTU0tZGQgSEg6bW06c3MiKTsK</text>
+        <text encoding="base64">ICAgIDxsb2dnZXIgbmFtZT0iIiAvPg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0UFJDQ09EKCkgewogICAgICAgIHJldHVybiBQUkNDT0Q7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0UFJDQ09EKFN0cmluZyBQUkNDT0QpIHsKICAgICAgICB0aGlzLlBSQ0NPRCA9IFBSQ0NPRDsKICAgIH0KCiAgICBwdWJsaWMgU3RyaW5nIGdldFdFQkNPRCgpIHsKICAgICAgICByZXR1cm4gV0VCQ09EOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFdFQkNPRChTdHJpbmcgV0VCQ09EKSB7CiAgICAgICAgdGhpcy5XRUJDT0QgPSBXRUJDT0Q7CiAgICB9CgogICAgcHVibGljIFN0cmluZyBnZXRJU1VUSU0oKSB7CiAgICAgICAgcmV0dXJuIElTVVRJTTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRJU1VUSU0oU3RyaW5nIElTVVRJTSkgewogICAgICAgIHRoaXMuSVNVVElNID0gSVNVVElNOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0VEFSU1ZSKCkgewogICAgICAgIHJldHVybiBUQVJTVlI7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0VEFSU1ZSKFN0cmluZyBUQVJTVlIpIHsKICAgICAgICB0aGlzLlRBUlNWUiA9IFRBUlNWUjsKICAgIH0KCiAgICBwdWJsaWMgU3RyaW5nIGdldERBTENPRCgpIHsKICAgICAgICByZXR1cm4gREFMQ09EOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldERBTENPRChTdHJpbmcgREFMQ09EKSB7CiAgICAgICAgdGhpcy5EQUxDT0QgPSBEQUxDT0Q7CiAgICB9CgogICAgcHVibGljIFN0cmluZyBnZXRSVE5MVkwoKSB7CiAgICAgICAgcmV0dXJuIFJUTkxWTDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRSVE5MVkwoU3RyaW5nIFJUTkxWTCkgewogICAgICAgIHRoaXMuUlROTFZMID0gUlROTFZMOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0UlROQ09EKCkgewogICAgICAgIHJldHVybiBSVE5DT0Q7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0UlROQ09EKFN0cmluZyBSVE5DT0QpIHsKICAgICAgICB0aGlzLlJUTkNPRCA9IFJUTkNPRDsKICAgIH0KCiAgICBwdWJsaWMgU3RyaW5nIGdldEVSUk1TRygpIHsKICAgICAgICByZXR1cm4gRVJSTVNHOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldEVSUk1TRyhTdHJpbmcgRVJSTVNHKSB7CiAgICAgICAgdGhpcy5FUlJNU0cgPSBFUlJNU0c7CiAgICB9CgogICAgcHVibGljIE1hcCBnZXRJTkZCRFkoKSB7CiAgICAgICAgcmV0dXJuIElORkJEWTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRJTkZCRFkoTWFwIElORkJEWSkgewogICAgICAgIHRoaXMuSU5GQkRZID0gSU5GQkRZOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0cmluZyB0b1N0cmluZygpIHsKICAgICAgICByZXR1cm4gIlBhcmFtc3siICsKICAgICAgICAgICAgICAgICJQUkNDT0Q9JyIgKyBQUkNDT0QgKyAnXCcnICsKICAgICAgICAgICAgICAgICIsIFdFQkNPRD0nIiArIFdFQkNPRCArICdcJycgKwogICAgICAgICAgICAgICAgIiwgSVNVVElNPSciICsgSVNVVElNICsgJ1wnJyArCiAgICAgICAgICAgICAgICAiLCBUQVJTVlI9JyIgKyBUQVJTVlIgKyAnXCcnICsKICAgICAgICAgICAgICAgICIsIERBTENPRD0nIiArIERBTENPRCArICdcJycgKwogICAgICAgICAgICAgICAgIiwgUlROTFZMPSciICsgUlROTFZMICsgJ1wnJyArCiAgICAgICAgICAgICAgICAiLCBSVE5DT0Q9JyIgKyBSVE5DT0QgKyAnXCcnICsKICAgICAgICAgICAgICAgICIsIEVSUk1TRz0nIiArIEVSUk1TRyArICdcJycgKwogICAgICAgICAgICAgICAgIiwgSU5GQkRZPSIgKyBJTkZCRFkgKwogICAgICAgICAgICAgICAgJ30nOwogICAgfQ==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
