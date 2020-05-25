@@ -83,13 +83,19 @@
       <file name="$MAVEN_REPOSITORY$/cc/wellcloud/framework/core/CC.Core/1.2.0/CC.Core-1.2.0.jar!/cc/wellcloud/framework/core/client/HttpClient.class" timestamp="1590392133229">
         <mark key="'" line="122" column="24" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/TimerBackTemplate.java" timestamp="1590377675739">
-        <mark key="[" line="14" column="103" />
-        <mark key="]" line="14" column="103" />
-        <mark key="." line="14" column="103" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/kefu/KefuHangUpKafka.java" timestamp="1590396851109">
+        <mark key="[" line="27" column="102" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/duoyuan/BaseDuoYuanBack.java" timestamp="1590389478089" />
-      <file name="/Dummy.txt" timestamp="1590396180912">
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/TimerBackTemplate.java" timestamp="1590396715721">
+        <mark key="[" line="13" column="66" />
+        <mark key="]" line="13" column="67" />
+        <mark key="." line="13" column="67" />
+        <mark key="^" line="13" column="68" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/duoyuan/BaseDuoYuanBack.java" timestamp="1590396819336">
+        <mark key="[" line="27" column="107" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1590396979651">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/factory/ResultConsumerFactory.java" timestamp="1590393632426">
@@ -108,7 +114,7 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/ConfigTypeEnum.java" timestamp="1590392854013">
         <mark key="[" line="6" column="27" />
       </file>
-      <file name="/fragment.java" timestamp="1590389410553">
+      <file name="/fragment.java" timestamp="1590396730884">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -218,10 +224,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>= JSON.parseArray(json, DialStrategyDTO.class).stream().findFirst();</text>
+        <text encoding="base64">ID0gRXhlY3V0b3JzLm5ld1NjaGVkdWxlZFRocmVhZFBvb2woMSk7</text>
       </register>
       <register name="-" type="4">
-        <text>= JSON.parseArray(json, DialStrategyDTO.class).stream().findFirst();</text>
+        <text encoding="base64">ID0gRXhlY3V0b3JzLm5ld1NjaGVkdWxlZFRocmVhZFBvb2woMSk7</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
