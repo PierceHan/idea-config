@@ -57,36 +57,24 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/RosterServiceImpl.java" timestamp="1590483282460">
+        <mark key="[" line="315" column="47" />
+        <mark key="]" line="315" column="47" />
+        <mark key="." line="315" column="47" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/model/UserDefinedRoster.java" timestamp="1590483235143">
+        <mark key="[" line="27" column="29" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/util/WellcloudClient.java" timestamp="1590474321942">
         <mark key="[" line="57" column="7" />
         <mark key="]" line="57" column="8" />
         <mark key="." line="57" column="8" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.1.RELEASE/spring-boot-autoconfigure-2.1.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/kafka/KafkaProperties.java" timestamp="1590462126915" />
-      <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/2.0.1/kafka-clients-2.0.1-sources.jar!/org/apache/kafka/clients/consumer/ConsumerConfig.java" timestamp="1590462663113" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/resources/config/application-develop.properties" timestamp="1590462430861">
-        <mark key="[" line="29" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/service/activity/ActivityServiceImpl.java" timestamp="1590474435619">
-        <mark key="[" line="70" column="22" />
-        <mark key="]" line="70" column="22" />
-        <mark key="^" line="49" column="11" />
-        <mark key="." line="70" column="22" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/service/invcod/InvCodServiceImpl.java" timestamp="1590460691881" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/consts/QueueConsts.java" timestamp="1590480997325" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/common/handler/MyBatisList2JsonHandler.java" timestamp="1590479756181">
-        <mark key="[" line="34" column="65" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/model/UserDefinedRoster.java" timestamp="1590479156096">
-        <mark key="[" line="31" column="4" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/message/KafkaMessage.java" timestamp="1590460826788">
-        <mark key="[" line="25" column="81" />
-        <mark key="]" line="16" column="4" />
-        <mark key="." line="16" column="4" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1590474514347">
+      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/model/BaseDceCheckItem.java" timestamp="1590481627624" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/service/impl/CallbackServiceImpl.java" timestamp="1590481662537" />
+      <file name="/Dummy.txt" timestamp="1590482651699">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/service/activity/ActivityService.java" timestamp="1590474404407">
@@ -99,17 +87,34 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/service/activity/ActivityServiceImpl.java" timestamp="1590474435619">
+        <mark key="[" line="70" column="22" />
+        <mark key="]" line="70" column="22" />
+        <mark key="^" line="49" column="11" />
+        <mark key="." line="70" column="22" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/mq/DialRecordReceiver.java" timestamp="1590481490388" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/resources/application.yaml" timestamp="1590483395662">
+        <mark key="[" line="4" column="6" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/controller/ActivityController.java" timestamp="1590474391710">
         <mark key="[" line="53" column="20" />
         <mark key="]" line="53" column="21" />
         <mark key="." line="53" column="21" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/common/handler/MyBatisList2JsonHandler.java" timestamp="1590479756181">
+        <mark key="[" line="34" column="65" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/config/KafkaConfig.java" timestamp="1590462797040">
         <mark key="[" line="41" column="12" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/adapter/FileType.java" timestamp="1590463904956" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/queue/MessageSender.java" timestamp="1590481002080" />
-      <file name="/fragment.java" timestamp="1590479098590">
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/pom.xml" timestamp="1590481510631">
+        <mark key="[" line="101" column="25" />
+        <mark key="]" line="101" column="25" />
+        <mark key="." line="101" column="25" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/queue/MessageSender.java" timestamp="1590481439137" />
+      <file name="/fragment.java" timestamp="1590482651668">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -218,11 +223,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vY20udXRpbC5XZWxsQ2xvdWRTZXJ2aQo=</text>
+      <register name="&quot;" type="4">
+        <text>isHeader</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>isHeader</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
@@ -231,34 +236,34 @@
         <text encoding="base64">ICAgICAgICBtYXAucHV0KCJvcmRlck5vIix1dWlNYXAuZ2V0KCJvcmRlck5vIikpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vY20udXRpbC5XZWxsQ2xvdWRTZXJ2aQo=</text>
+        <text encoding="base64">ICAgIEBDb2x1bW5UeXBlKHR5cGVIYW5kbGVyID0gQm9vbGVhblR5cGVIYW5kbGVyLmNsYXNzKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vY20uY29yZS5kY2UuaGFuZGxlci4qOwppbXBvcnQgY29tLm9jbS51dGlsLldlbGxDbG91ZFNlcnZpCg==</text>
+        <text encoding="base64">ICAgIEBDb2x1bW5UeXBlKHR5cGVIYW5kbGVyID0gQm9vbGVhblR5cGVIYW5kbGVyLmNsYXNzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5vY20udXRpbC5XZWxsQ2xvdWRTZXJ2aQo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICBpZihzdGFydCE9bnVsbCl7CiAgICAgICAgICAgIHJlc3VsdC5zZXRSZXN1bHQoc3RhcnQpOwogICAgCX0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5vY20uY29yZS5kY2UuaGFuZGxlci4qOwppbXBvcnQgY29tLm9jbS51dGlsLldlbGxDbG91ZFNlcnZpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIEBSZXNvdXJjZQogICAgcHJpdmF0ZSBLYWZrYU1lc3NhZ2Uga2Fma2FNZXNzYWdlOw==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICBpZihzdGFydCE9bnVsbCl7CiAgICAgICAgICAgIHJlc3VsdC5zZXRSZXN1bHQoc3RhcnQpOwogICAgCX0=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9IAogICAgICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgIEBSZXNvdXJjZQogICAgcHJpdmF0ZSBLYWZrYU1lc3NhZ2Uga2Fma2FNZXNzYWdlOw==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExpc3Q8RGlhbFN0cmF0ZWd5RFRPPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
