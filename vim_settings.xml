@@ -82,18 +82,16 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/duoyuan/BaiBaoXiang.java" timestamp="1590459913609">
         <mark key="[" line="19" column="103" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/util/KeyUtils.java" timestamp="1590459632928">
-        <mark key="[" line="8" column="3" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/common/handler/MyBatisList2JsonHandler.java" timestamp="1590479136687">
+        <mark key="[" line="34" column="65" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/model/UserDefinedRoster.java" timestamp="1590479156096">
+        <mark key="[" line="31" column="4" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/message/KafkaMessage.java" timestamp="1590460826788">
         <mark key="[" line="25" column="81" />
         <mark key="]" line="16" column="4" />
         <mark key="." line="16" column="4" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/factory/RosterFactory.java" timestamp="1590459766563">
-        <mark key="[" line="44" column="43" />
-        <mark key="]" line="44" column="43" />
-        <mark key="." line="44" column="43" />
       </file>
       <file name="/Dummy.txt" timestamp="1590474514347">
         <mark key="[" line="0" column="0" />
@@ -103,9 +101,6 @@
         <mark key="]" line="28" column="18" />
         <mark key="." line="28" column="18" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/duoyuan/ZhangDanFenQi.java" timestamp="1590459888615">
-        <mark key="[" line="21" column="50" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/controller/ActivityController.java" timestamp="1590474391710">
         <mark key="[" line="53" column="20" />
         <mark key="]" line="53" column="21" />
@@ -114,8 +109,10 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/config/KafkaConfig.java" timestamp="1590462797040">
         <mark key="[" line="41" column="12" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/entity/DTO/BatchInfoDTO.java" timestamp="1590459513632" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/adapter/FileType.java" timestamp="1590463904956" />
+      <file name="/fragment.java" timestamp="1590479098590">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="335" column="36" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" />
