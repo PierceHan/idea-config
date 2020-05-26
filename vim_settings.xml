@@ -57,6 +57,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/util/WellcloudClient.java" timestamp="1590473625785" />
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/kefu/KefuHangUpKafka.java" timestamp="1590460417368">
         <mark key="[" line="25" column="79" />
         <mark key="]" line="25" column="79" />
@@ -85,9 +86,6 @@
         <mark key="[" line="44" column="43" />
         <mark key="]" line="44" column="43" />
         <mark key="." line="44" column="43" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/duoyuan/BaseDuoYuanBack.java" timestamp="1590396819336">
-        <mark key="[" line="27" column="107" />
       </file>
       <file name="/Dummy.txt" timestamp="1590460572819">
         <mark key="[" line="0" column="0" />
