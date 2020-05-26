@@ -57,31 +57,29 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1590482651699">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/RosterServiceImpl.java" timestamp="1590483282460">
         <mark key="[" line="315" column="47" />
         <mark key="]" line="315" column="47" />
         <mark key="." line="315" column="47" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/model/UserDefinedRoster.java" timestamp="1590483235143">
-        <mark key="[" line="27" column="29" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/model/BaseDceCheckItem.java" timestamp="1590481627624" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/service/impl/CallbackServiceImpl.java" timestamp="1590481662537" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/dce/handler/DceHandler.java" timestamp="1590485558868" />
-      <file name="/Dummy.txt" timestamp="1590482651699">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/service/activity/ActivityService.java" timestamp="1590474404407">
         <mark key="[" line="28" column="18" />
         <mark key="]" line="28" column="18" />
         <mark key="." line="28" column="18" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/SQL/t_dnc_time_range.sql" timestamp="1590488704054" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/dce/DceHandlerFactory.java" timestamp="1590481086497">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/model/UserDefinedRoster.java" timestamp="1590483235143">
+        <mark key="[" line="27" column="29" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/service/activity/ActivityServiceImpl.java" timestamp="1590474435619">
         <mark key="[" line="70" column="22" />
@@ -89,14 +87,11 @@
         <mark key="^" line="49" column="11" />
         <mark key="." line="70" column="22" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/mq/DialRecordReceiver.java" timestamp="1590481490388" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/entity/TemplateEntity.java" timestamp="1590487182328" />
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/resources/application.yaml" timestamp="1590485797088">
         <mark key="[" line="1" column="7" />
         <mark key="]" line="1" column="8" />
         <mark key="." line="1" column="8" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/dce/DceProcessor.java" timestamp="1590485252696" />
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/common/handler/MyBatisList2JsonHandler.java" timestamp="1590487195528">
         <mark key="[" line="34" column="65" />
       </file>
@@ -105,7 +100,6 @@
         <mark key="]" line="101" column="25" />
         <mark key="." line="101" column="25" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/queue/MessageSender.java" timestamp="1590481439137" />
       <file name="/fragment.java" timestamp="1590482651668">
         <mark key="[" line="0" column="0" />
       </file>
