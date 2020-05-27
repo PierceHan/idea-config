@@ -61,10 +61,10 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6.jar!/org/apache/ibatis/type/JdbcType.class" timestamp="1590546150002" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/RosterServiceImpl.java" timestamp="1590547148507">
-        <mark key="[" line="315" column="47" />
-        <mark key="]" line="315" column="47" />
-        <mark key="." line="315" column="47" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/RosterServiceImpl.java" timestamp="1590551558064">
+        <mark key="[" line="240" column="17" />
+        <mark key="]" line="213" column="47" />
+        <mark key="." line="213" column="47" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/adapter/EncodeEnum.java" timestamp="1590549377733" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/model/DTO/UserDto.java" timestamp="1590549615152" />
@@ -225,10 +225,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>FileTypeEnumHandler</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>FileTypeEnumHandler</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
@@ -243,29 +243,29 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGQK</text>
-      </register>
-      <register name="3" type="2">
-        <text>import cc.wellcloud.cloud.interfaces.entity.strategy.FileType;</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZGQK</text>
+      </register>
+      <register name="4" type="2">
+        <text>import cc.wellcloud.cloud.interfaces.entity.strategy.FileType;</text>
+      </register>
       <register name="5" type="2">
-        <text>import cc.wellcloud.cloud.interfaces.entity.assign.FieldddInfo;</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text>logging:
-  level: debug</text>
+        <text>import cc.wellcloud.cloud.interfaces.entity.assign.FieldddInfo;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW5UeXBlKHR5cGVIYW5kbGVyID0gQm9vbGVhblR5cGVIYW5kbGVyLmNsYXNzKQo=</text>
+        <text>logging:
+  level: debug</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIEBDb2x1bW5UeXBlKHR5cGVIYW5kbGVyID0gQm9vbGVhblR5cGVIYW5kbGVyLmNsYXNzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vY20udXRpbC5XZWxsQ2xvdWRTZXJ2aQo=</text>
+        <text encoding="base64">ICAgIEBDb2x1bW5UeXBlKHR5cGVIYW5kbGVyID0gQm9vbGVhblR5cGVIYW5kbGVyLmNsYXNzKQo=</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
