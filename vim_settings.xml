@@ -57,13 +57,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6.jar!/org/apache/ibatis/type/JdbcType.class" timestamp="1590546150002" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/RosterServiceImpl.java" timestamp="1590562849879">
-        <mark key="[" line="240" column="17" />
-        <mark key="]" line="213" column="47" />
-        <mark key="." line="213" column="47" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/RosterServiceImpl.java" timestamp="1590563504553">
+        <mark key="[" line="198" column="37" />
+        <mark key="]" line="212" column="47" />
+        <mark key="." line="212" column="47" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/adapter/EncodeEnum.java" timestamp="1590549377733" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/web/BatchController.java" timestamp="1590563004958" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/model/DTO/UserDto.java" timestamp="1590549615152" />
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/model/UserDefinedRoster.java" timestamp="1590549409554">
         <mark key="[" line="31" column="30" />
@@ -95,9 +95,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/common/handler/MyBatisList2JsonHandler.java" timestamp="1590545795365">
-        <mark key="[" line="34" column="65" />
-      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/http/FileUploadServlet.java" timestamp="1590563373111" />
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/common/handler/RosterTypeEnumHandler.java" timestamp="1590548798610">
         <mark key="[" line="31" column="34" />
       </file>
