@@ -57,10 +57,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/RosterServiceImpl.java" timestamp="1590565177584">
-        <mark key="[" line="197" column="19" />
-        <mark key="]" line="197" column="19" />
-        <mark key="." line="197" column="19" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/RosterServiceImpl.java" timestamp="1590565969831">
+        <mark key="[" line="197" column="0" />
+        <mark key="]" line="197" column="0" />
+        <mark key="." line="197" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/adapter/EncodeEnum.java" timestamp="1590549377733" />
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/web/BatchController.java" timestamp="1590563004958" />
@@ -70,10 +70,10 @@
         <mark key="]" line="31" column="30" />
         <mark key="." line="31" column="30" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/utils/HttpUtils.java" timestamp="1590565315168">
-        <mark key="[" line="403" column="47" />
-        <mark key="]" line="445" column="0" />
-        <mark key="." line="445" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/utils/HttpUtils.java" timestamp="1590565946260">
+        <mark key="[" line="403" column="10" />
+        <mark key="]" line="403" column="4" />
+        <mark key="." line="403" column="4" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/strategy/FileType.java" timestamp="1590548882438" />
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/config/ConfigProperties.java" timestamp="1590561459762">
@@ -222,10 +222,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYXAucHV0KCJDb250ZW50LVR5cGUiLCAibXVsdGlwYXJ0L2Zvcm0tZGF0YTsgYm91bmRhcnk9LS0tLVdlYktpdEZvcm1Cb3VuZGFyeWZHdlZ4SUdOQ0JKc1ZVY04iKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>postFile</text>
+        <text>private</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
@@ -234,35 +234,34 @@
         <text encoding="base64">ICAgICAgICBtYXAucHV0KCJvcmRlck5vIix1dWlNYXAuZ2V0KCJvcmRlck5vIikpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYXAucHV0KCJDb250ZW50LVR5cGUiLCAibXVsdGlwYXJ0L2Zvcm0tZGF0YTsgYm91bmRhcnk9LS0tLVdlYktpdEZvcm1Cb3VuZGFyeWZHdlZ4SUdOQ0JKc1ZVY04iKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChodHRwQ2xpZW50ICE9IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICBodHRwQ2xpZW50LmNsb3NlKCk7CiAgICAgICAgICAgICAgICB9</text>
+        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLFN0cmluZz4gbWFwID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGxvZyBsb2cgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihIdHRwVXRpbHMuY2xhc3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE1hcCByZXNwID0gSlNPTk9iamVjdC5wYXJzZU9iamVjdChyZXNwb25zZUVudGl0eSwgTWFwLmNsYXNzKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAoU3RyaW5nKSAoKE1hcCkgcmVzcC5nZXRPckRlZmF1bHQoImRhdGEiLCBuZXcgSGFzaE1hcDw+KCkpKS5nZXQoImJhdGNoSWQiKTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text>import org.slf4j.log;
-import org.slf4j.LoggerFactory;</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChodHRwQ2xpZW50ICE9IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICBodHRwQ2xpZW50LmNsb3NlKCk7CiAgICAgICAgICAgICAgICB9</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbXVsdGlwYXJ0RW50aXR5LmFkZFRleHRCb2R5KCJmaWxlIiwgZmlsZSk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGxvZyBsb2cgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihIdHRwVXRpbHMuY2xhc3MpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRmlsZSBwb3N0RmlsZSA9IG5ldyBGaWxlKFRFTVBfUEFUSCArIEZpbGUuc2VwYXJhdG9yICsgZmlsZU5hbWUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtYXAucHV0KCJDb250ZW50LVR5cGUiLCAibXVsdGlwYXJ0L2Zvcm0tZGF0YTsgYm91bmRhcnk9LS0tLVdlYktpdEZvcm1Cb3VuZGFyeWZHdlZ4SUdOQ0JKc1ZVY04iKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
