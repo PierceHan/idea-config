@@ -57,9 +57,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1590482651699">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6.jar!/org/apache/ibatis/type/JdbcType.class" timestamp="1590546150002" />
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/RosterServiceImpl.java" timestamp="1590551558064">
         <mark key="[" line="240" column="17" />
@@ -73,10 +70,14 @@
         <mark key="]" line="31" column="30" />
         <mark key="." line="31" column="30" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/resources/application.yaml" timestamp="1590485797088">
-        <mark key="[" line="1" column="7" />
-        <mark key="]" line="1" column="8" />
-        <mark key="." line="1" column="8" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/common/handler/FieldInfoJsonHandler.java" timestamp="1590546876392">
+        <mark key="[" line="34" column="72" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/strategy/FileType.java" timestamp="1590548882438" />
+      <file name="/Dummy.txt" timestamp="1590552697056">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/UserDefinedServiceImpl.java" timestamp="1590547158199" />
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/common/handler/FileTypeEnumHandler.java" timestamp="1590548844924">
@@ -87,19 +88,8 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/common/handler/MyBatisList2JsonHandler.java" timestamp="1590545795365">
         <mark key="[" line="34" column="65" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/common/handler/FieldInfoJsonHandler.java" timestamp="1590546876392">
-        <mark key="[" line="34" column="72" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/common/handler/RosterTypeEnumHandler.java" timestamp="1590548798610">
         <mark key="[" line="31" column="34" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/strategy/FileType.java" timestamp="1590548882438" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/dce/pom.xml" timestamp="1590481510631">
-        <mark key="[" line="101" column="25" />
-        <mark key="]" line="101" column="25" />
-        <mark key="." line="101" column="25" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/adapter/FileType.java" timestamp="1590549339999">
         <mark key="[" line="9" column="12" />
