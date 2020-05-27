@@ -58,7 +58,7 @@
     <globalmarks />
     <filemarks>
       <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6.jar!/org/apache/ibatis/type/JdbcType.class" timestamp="1590546150002" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/RosterServiceImpl.java" timestamp="1590551558064">
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/RosterServiceImpl.java" timestamp="1590562849879">
         <mark key="[" line="240" column="17" />
         <mark key="]" line="213" column="47" />
         <mark key="." line="213" column="47" />
