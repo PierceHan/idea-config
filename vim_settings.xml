@@ -57,10 +57,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/RosterServiceImpl.java" timestamp="1590565969831">
-        <mark key="[" line="197" column="0" />
-        <mark key="]" line="197" column="0" />
-        <mark key="." line="197" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/RosterServiceImpl.java" timestamp="1590568414428">
+        <mark key="[" line="152" column="12" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/adapter/EncodeEnum.java" timestamp="1590549377733" />
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/web/BatchController.java" timestamp="1590563004958" />
@@ -70,20 +68,22 @@
         <mark key="]" line="31" column="30" />
         <mark key="." line="31" column="30" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/utils/HttpUtils.java" timestamp="1590565946260">
-        <mark key="[" line="403" column="10" />
-        <mark key="]" line="403" column="4" />
-        <mark key="." line="403" column="4" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/utils/HttpUtils.java" timestamp="1590566685436">
+        <mark key="[" line="419" column="27" />
+        <mark key="]" line="419" column="27" />
+        <mark key="." line="419" column="27" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.5.RELEASE/spring-web-5.1.5.RELEASE.jar!/org/springframework/web/multipart/MultipartFile.class" timestamp="1590568113732" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/strategy/FileType.java" timestamp="1590548882438" />
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/config/ConfigProperties.java" timestamp="1590561459762">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590561659135">
+      <file name="/Dummy.txt" timestamp="1590567000971">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/controller/RosterController.java" timestamp="1590567951249" />
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/resources/application.yaml" timestamp="1590561483555">
         <mark key="[" line="18" column="10" />
         <mark key="]" line="1" column="8" />
@@ -96,9 +96,6 @@
         <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/http/FileUploadServlet.java" timestamp="1590564928217" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/common/handler/RosterTypeEnumHandler.java" timestamp="1590548798610">
-        <mark key="[" line="31" column="34" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/adapter/FileType.java" timestamp="1590549339999">
         <mark key="[" line="9" column="12" />
         <mark key="]" line="9" column="12" />
@@ -109,11 +106,6 @@
       </file>
       <file name="/fragment.java" timestamp="1590561659121">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/RosterDefineServiceImpl.java" timestamp="1590548758182">
-        <mark key="[" line="37" column="38" />
-        <mark key="]" line="37" column="38" />
-        <mark key="." line="37" column="38" />
       </file>
     </filemarks>
     <jumps>
@@ -221,11 +213,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtYXAucHV0KCJDb250ZW50LVR5cGUiLCAibXVsdGlwYXJ0L2Zvcm0tZGF0YTsgYm91bmRhcnk9LS0tLVdlYktpdEZvcm1Cb3VuZGFyeWZHdlZ4SUdOQ0JKc1ZVY04iKTsK</text>
+      <register name="&quot;" type="4">
+        <text>面</text>
       </register>
       <register name="-" type="4">
-        <text>private</text>
+        <text>面</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
