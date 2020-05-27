@@ -60,6 +60,7 @@
       <file name="/Dummy.txt" timestamp="1590482651699">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" timestamp="1590544930468" />
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/RosterServiceImpl.java" timestamp="1590483282460">
         <mark key="[" line="315" column="47" />
         <mark key="]" line="315" column="47" />
@@ -70,7 +71,6 @@
         <mark key="]" line="28" column="18" />
         <mark key="." line="28" column="18" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/SQL/t_dnc_time_range.sql" timestamp="1590488704054" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/dce/DceHandlerFactory.java" timestamp="1590481086497">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
