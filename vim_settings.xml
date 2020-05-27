@@ -76,8 +76,18 @@
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/strategy/FileType.java" timestamp="1590548882438" />
-      <file name="/Dummy.txt" timestamp="1590560072084">
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/config/ConfigProperties.java" timestamp="1590561459762">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1590561220845">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/resources/application.yaml" timestamp="1590561483555">
+        <mark key="[" line="18" column="10" />
+        <mark key="]" line="1" column="8" />
+        <mark key="." line="1" column="8" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/UserDefinedServiceImpl.java" timestamp="1590547158199" />
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/common/handler/FileTypeEnumHandler.java" timestamp="1590548844924">
@@ -99,10 +109,9 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/common/handler/EncodeEnumHandler.java" timestamp="1590549243534">
         <mark key="[" line="31" column="64" />
       </file>
-      <file name="/fragment.java" timestamp="1590549175228">
+      <file name="/fragment.java" timestamp="1590561220828">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/controller/RosterDefineController.java" timestamp="1590545564214" />
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/RosterDefineServiceImpl.java" timestamp="1590548758182">
         <mark key="[" line="37" column="38" />
         <mark key="]" line="37" column="38" />
@@ -214,8 +223,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CS8vbXlzcWwxCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -227,35 +236,34 @@
         <text encoding="base64">ICAgICAgICBtYXAucHV0KCJvcmRlck5vIix1dWlNYXAuZ2V0KCJvcmRlck5vIikpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CS8vbXlzcWwxCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CS8vIHJlZGlzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text>import cc.wellcloud.cloud.interfaces.entity.strategy.FileType;</text>
+        <text>@ConfigurationProperties(prefix = &quot;config&quot;)</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text>import cc.wellcloud.cloud.interfaces.entity.assign.FieldddInfo;</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text>logging:
-  level: debug</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW5UeXBlKHR5cGVIYW5kbGVyID0gQm9vbGVhblR5cGVIYW5kbGVyLmNsYXNzKQo=</text>
+        <text>import cc.wellcloud.cloud.interfaces.entity.strategy.FileType;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW5UeXBlKHR5cGVIYW5kbGVyID0gQm9vbGVhblR5cGVIYW5kbGVyLmNsYXNzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
