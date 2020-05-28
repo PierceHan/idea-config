@@ -57,43 +57,43 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1590649252889">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/shouquan/ShouQuanBack1.java" timestamp="1590632279984">
-        <mark key="[" line="54" column="48" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/factory/ResultConsumerFactory.java" timestamp="1590632540654">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/uui/UserData.java" timestamp="1590649203423" />
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/config/ExecutorConfig.java" timestamp="1590632418029">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/StartRunner.java" timestamp="1590632586964">
-        <mark key="[" line="27" column="4" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/config/KafkaConfig.java" timestamp="1590630874792">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/core/strategy/dial/AbstractDialSolution.java" timestamp="1590649219164">
-        <mark key="'" line="115" column="48" />
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="116" column="0" />
-        <mark key="." line="116" column="0" />
-        <mark key="^" line="116" column="3" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/web/BatchController.java" timestamp="1590651170018" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/impl/InstantServiceImpl.java" timestamp="1590651119461">
+        <mark key="[" line="161" column="8" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/executor/DialTaskExecutor.java" timestamp="1590648763184" />
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/aspect/AuditAspect.java" timestamp="1590632471941">
         <mark key="[" line="34" column="4" />
         <mark key="]" line="33" column="5" />
         <mark key="." line="33" column="5" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/entity/roster/RosterRO.java" timestamp="1590650349937" />
+      <file name="/Dummy.txt" timestamp="1590650122423">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" timestamp="1590651154411" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/factory/ResultConsumerFactory.java" timestamp="1590632540654">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/uui/UserData.java" timestamp="1590649203423" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/service/roster/RosterServiceImpl.java" timestamp="1590650405303" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/StartRunner.java" timestamp="1590632586964">
+        <mark key="[" line="27" column="4" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/facade/BatchAndRosterBehavior.java" timestamp="1590650287374" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/core/strategy/dial/AbstractDialSolution.java" timestamp="1590649219164">
+        <mark key="'" line="14" column="48" />
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="0" />
+        <mark key="." line="114" column="0" />
+        <mark key="^" line="114" column="3" />
       </file>
     </filemarks>
     <jumps>
