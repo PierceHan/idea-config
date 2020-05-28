@@ -57,48 +57,40 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1590572684575">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/RosterServiceImpl.java" timestamp="1590572679277">
         <mark key="[" line="386" column="39" />
         <mark key="]" line="386" column="39" />
         <mark key="." line="386" column="39" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/web/BatchController.java" timestamp="1590563004958" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/model/DTO/UserDto.java" timestamp="1590549615152" />
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/model/UserDefinedRoster.java" timestamp="1590549409554">
         <mark key="[" line="31" column="30" />
         <mark key="]" line="31" column="30" />
         <mark key="." line="31" column="30" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/util/WellcloudClient.java" timestamp="1590571630513" />
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/utils/HttpUtils.java" timestamp="1590566685436">
         <mark key="[" line="419" column="27" />
         <mark key="]" line="419" column="27" />
         <mark key="." line="419" column="27" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.5.RELEASE/spring-web-5.1.5.RELEASE.jar!/org/springframework/web/multipart/MultipartFile.class" timestamp="1590568113732" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/config/ConfigProperties.java" timestamp="1590561459762">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1590572684575">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/controller/RosterController.java" timestamp="1590569050100" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/entity/TemplateEntity.java" timestamp="1590572802065" />
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/resources/application.yaml" timestamp="1590561483555">
         <mark key="[" line="18" column="10" />
         <mark key="]" line="1" column="8" />
         <mark key="." line="1" column="8" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/util/HttpUtils.java" timestamp="1590564881044" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/http/FileUploadServlet.java" timestamp="1590571726003" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/dce/DceProcessor.java" timestamp="1590628902060" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/config/ConfigProperties.java" timestamp="1590561459762">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/core/GiantRostersHandler.java" timestamp="1590572545175">
         <mark key="[" line="69" column="78" />
         <mark key="]" line="69" column="78" />
         <mark key="." line="69" column="78" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-interim/src/main/java/cc/wellcloud/ocm/service/info/RosterInfoServiceImpl.java" timestamp="1590572019483" />
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/utils/WellCloudClient.java" timestamp="1590572204649">
         <mark key="[" line="42" column="19" />
         <mark key="]" line="11" column="0" />
