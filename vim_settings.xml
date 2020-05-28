@@ -58,19 +58,24 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/web/BatchController.java" timestamp="1590651170018" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/impl/InstantServiceImpl.java" timestamp="1590652095567">
-        <mark key="[" line="191" column="16" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/impl/InstantServiceImpl.java" timestamp="1590652824331">
+        <mark key="[" line="333" column="0" />
+        <mark key="]" line="333" column="0" />
+        <mark key="." line="333" column="0" />
+        <mark key="^" line="329" column="24" />
       </file>
       <file name="/InstantServiceImpl.java" timestamp="1590652162746" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/executor/DialTaskExecutor.java" timestamp="1590648763184" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/executor/DialTaskExecutor.java" timestamp="1590652466345" />
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/aspect/AuditAspect.java" timestamp="1590632471941">
         <mark key="[" line="34" column="4" />
         <mark key="]" line="33" column="5" />
         <mark key="." line="33" column="5" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/entity/roster/RosterRO.java" timestamp="1590650349937" />
-      <file name="/Dummy.txt" timestamp="1590650122423">
+      <file name="/Dummy.txt" timestamp="1590652616827">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" timestamp="1590651154411" />
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/factory/ResultConsumerFactory.java" timestamp="1590632540654">
@@ -198,10 +203,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZGRkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LnNldENhbGxJZChVVUlELnJhbmRvbVVVSUQoKS50b1N0cmluZygpKTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">TWFwPFN0cmluZywgT2JqZWN0PiB1c2VyID0gbmV3IEhhc2hNYXA8PigxNik7</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
@@ -210,40 +215,36 @@
         <text encoding="base64">ICAgICAgICBtYXAucHV0KCJvcmRlck5vIix1dWlNYXAuZ2V0KCJvcmRlck5vIikpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGRkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LnNldENhbGxJZChVVUlELnJhbmRvbVVVSUQoKS50b1N0cmluZygpKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IHVzZXIgPSB0YXNrLmdldFVzZXJEYXRhKCkuZ2V0VXNlcigpOwogICAgICAgIGlmICh1c2VyPT1udWxsKXsKICAgICAgICAgICAgCiAgICAgICAgfQ==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LnNldERvbWFpbihkaWFsVGFza0luZm8uZ2V0RG9tYWluKCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LnNldERvbWFpbihkaWFsVGFza0luZm8uZ2V0RG9tYWluKCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QFJlcXVpcmVkQXJnc0NvbnN0cnVjdG9yCg==</text>
+        <text>Revert &quot;fix:客户id写入随路数据的问题&quot;
+
+This reverts commit 250ba553</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBDb25kaXRpb25hbE9uUHJvcGVydHkobmFtZSA9ICJrYWZrYV91cmwiLGhhdmluZ1ZhbHVlID0gKQo=</text>
+        <text encoding="base64">ZGRkCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>finally {
-            try {
-                outputStream.close();
-            } catch (IOException e) {
-                log.warn(&quot;复制文件时发生异常&quot;, e);
-            }
-        }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IHVzZXIgPSB0YXNrLmdldFVzZXJEYXRhKCkuZ2V0VXNlcigpOwogICAgICAgIGlmICh1c2VyPT1udWxsKXsKICAgICAgICAgICAgCiAgICAgICAgfQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0U3RyZWFtID0gbmV3IEZpbGVPdXRwdXRTdHJlYW0ocmVxdWVzdEZpbGUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBPdXRwdXRTdHJlYW0gb3V0cHV0U3RyZWFtID0gbnVsbDsK</text>
+        <text encoding="base64">QFJlcXVpcmVkQXJnc0NvbnN0cnVjdG9yCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLFN0cmluZz4gaGVhZGVyID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
+        <text encoding="base64">ICAgIEBDb25kaXRpb25hbE9uUHJvcGVydHkobmFtZSA9ICJrYWZrYV91cmwiLGhhdmluZ1ZhbHVlID0gKQo=</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
