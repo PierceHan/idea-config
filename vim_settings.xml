@@ -69,11 +69,14 @@
         <mark key="." line="330" column="0" />
         <mark key="^" line="326" column="24" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/SQL/t_call_result_code_dict.sql" timestamp="1590719213507">
+        <mark key="[" line="48" column="0" />
+      </file>
       <file name="/InstantServiceImpl.java" timestamp="1590652162746" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/executor/DialTaskExecutor.java" timestamp="1590652466345" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/impl/CallResultServiceImpl.java" timestamp="1590664310898" />
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/entity/roster/RosterRO.java" timestamp="1590650349937" />
-      <file name="/Dummy.txt" timestamp="1590717009077">
+      <file name="/Dummy.txt" timestamp="1590719249748">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -81,9 +84,6 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" timestamp="1590651154411" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/uui/UserData.java" timestamp="1590649203423" />
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/service/roster/RosterServiceImpl.java" timestamp="1590650405303" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/StartRunner.java" timestamp="1590632586964">
-        <mark key="[" line="27" column="4" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/core/strategy/dial/AbstractDialSolution.java" timestamp="1590649219164">
         <mark key="'" line="14" column="48" />
         <mark key="[" line="114" column="0" />
