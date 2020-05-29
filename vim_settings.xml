@@ -57,8 +57,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/huijie/dncserver/src/main/java/com/wellcloud/dnc/service/impl/BlackServiceImpl.java" timestamp="1590660334922">
-        <mark key="[" line="323" column="36" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/dncserver/src/main/java/com/wellcloud/dnc/service/impl/BlackServiceImpl.java" timestamp="1590716963668">
+        <mark key="'" line="152" column="34" />
+        <mark key="[" line="164" column="30" />
+        <mark key="]" line="161" column="62" />
+        <mark key="." line="161" column="62" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/impl/InstantServiceImpl.java" timestamp="1590659960948">
         <mark key="[" line="330" column="0" />
@@ -70,7 +73,7 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/executor/DialTaskExecutor.java" timestamp="1590652466345" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/impl/CallResultServiceImpl.java" timestamp="1590664310898" />
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/entity/roster/RosterRO.java" timestamp="1590650349937" />
-      <file name="/Dummy.txt" timestamp="1590660387906">
+      <file name="/Dummy.txt" timestamp="1590717009077">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -90,7 +93,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="28" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" />
       <jump line="9" column="0" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" />
       <jump line="33" column="0" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/serivce/impl/InstantServiceImplTest.java" />
       <jump line="60" column="28" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/serivce/impl/InstantServiceImplTest.java" />
@@ -190,15 +192,16 @@
       <jump line="163" column="14" filename="$USER_HOME$/IdeaProjects/huijie/roster-interim/src/main/java/cc/wellcloud/ocm/service/info/RosterInfoServiceImpl.java" />
       <jump line="122" column="24" filename="$MAVEN_REPOSITORY$/cc/wellcloud/framework/core/CC.Core/1.2.0/CC.Core-1.2.0.jar!/cc/wellcloud/framework/core/client/HttpClient.class" />
       <jump line="115" column="48" filename="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/core/strategy/dial/AbstractDialSolution.java" />
+      <jump line="155" column="34" filename="$USER_HOME$/IdeaProjects/huijie/dncserver/src/main/java/com/wellcloud/dnc/service/impl/BlackServiceImpl.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LnNldENhbGxJZChVVUlELnJhbmRvbVVVSUQoKS50b1N0cmluZygpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
