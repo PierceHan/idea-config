@@ -57,7 +57,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1590735729290">
+      <file name="/Dummy.txt" timestamp="1590999250226">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -78,6 +78,7 @@
         <mark key="]" line="161" column="62" />
         <mark key="." line="161" column="62" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/model/UserDefinedRoster.java" timestamp="1590999240409" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/event/handler/processor/CallResultPrivateRedisTransport.java" timestamp="1590735628181">
         <mark key="[" line="41" column="20" />
         <mark key="]" line="40" column="0" />
@@ -89,6 +90,7 @@
       <file name="/HTML File.txt.ft" timestamp="1590724399340">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/sql/t_roster_user_defined.sql" timestamp="1590999303284" />
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/resources/application.yaml" timestamp="1590981338446" />
       <file name="/ActionScript File Header.txt.ft" timestamp="1590724399749">
         <mark key="[" line="0" column="0" />
