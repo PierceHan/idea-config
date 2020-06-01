@@ -62,10 +62,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/RosterServiceImpl.java" timestamp="1591003234006">
-        <mark key="[" line="175" column="59" />
-        <mark key="]" line="159" column="0" />
-        <mark key="." line="159" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/RosterServiceImpl.java" timestamp="1591006928809">
+        <mark key="[" line="208" column="0" />
+        <mark key="]" line="208" column="0" />
+        <mark key="." line="208" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/resources/application-develop.yaml" timestamp="1591001104715">
         <mark key="[" line="25" column="28" />
@@ -235,28 +235,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHJvc3Rlci5nZXQoY3VzdG9tZXJQaG9uZSk9PW51bGwpewogICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgICAgIH0=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICBmb3IgKFN0cmluZyBsaW5lIDogbGluZXMpIHsKICAgICAgICA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICBmb3IgKFN0cmluZyBsaW5lIDogbGluZXMpIHsKICAgICAgICA=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoZmluYWxDb2Rlcy5pc0VtcHR5KCkpewogICAgICAgICAgICAgICAgICAgICAgICBmaW5hbENvZGVzID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgICAgICAgICAgICAgfQ==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LnNldENhbGxJZChVVUlELnJhbmRvbVVVSUQoKS50b1N0cmluZygpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LnNldERvbWFpbihkaWFsVGFza0luZm8uZ2V0RG9tYWluKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoZmluYWxDb2Rlcy5pc0VtcHR5KCkpewogICAgICAgICAgICAgICAgICAgICAgICBmaW5hbENvZGVzID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LnNldERvbWFpbihkaWFsVGFza0luZm8uZ2V0RG9tYWluKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LnNldENhbGxJZChVVUlELnJhbmRvbVVVSUQoKS50b1N0cmluZygpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
