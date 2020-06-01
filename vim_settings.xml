@@ -57,21 +57,21 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1590999250226">
+      <file name="/Dummy.txt" timestamp="1591002008000">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/impl/InstantServiceImpl.java" timestamp="1590659960948">
-        <mark key="[" line="330" column="0" />
-        <mark key="]" line="330" column="0" />
-        <mark key="." line="330" column="0" />
-        <mark key="^" line="326" column="24" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/RosterServiceImpl.java" timestamp="1591002046733">
+        <mark key="[" line="140" column="12" />
+        <mark key="]" line="159" column="0" />
+        <mark key="." line="159" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/SQL/t_call_result_code_dict.sql" timestamp="1590719213507">
-        <mark key="[" line="13" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/resources/application-develop.yaml" timestamp="1591001104715">
+        <mark key="[" line="25" column="28" />
+        <mark key="]" line="25" column="28" />
+        <mark key="." line="25" column="28" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/resources/application-develop.yaml" timestamp="1590981329721" />
       <file name="$USER_HOME$/IdeaProjects/huijie/dncserver/src/main/java/com/wellcloud/dnc/service/impl/BlackServiceImpl.java" timestamp="1590716963668">
         <mark key="'" line="152" column="34" />
         <mark key="[" line="164" column="30" />
@@ -87,11 +87,25 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/bio/BIOServer.java" timestamp="1590932308019">
         <mark key="[" line="64" column="22" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/sql/t_roster_user_defined.sql" timestamp="1590999303284" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/resources/application.yaml" timestamp="1591000936854">
+        <mark key="[" line="6" column="23" />
+        <mark key="]" line="6" column="23" />
+        <mark key="." line="6" column="23" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/impl/InstantServiceImpl.java" timestamp="1590659960948">
+        <mark key="[" line="330" column="0" />
+        <mark key="]" line="330" column="0" />
+        <mark key="." line="330" column="0" />
+        <mark key="^" line="326" column="24" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/SQL/t_call_result_code_dict.sql" timestamp="1590719213507">
+        <mark key="[" line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/TianAnCallBack.java" timestamp="1591001456826" />
       <file name="/HTML File.txt.ft" timestamp="1590724399340">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/sql/t_roster_user_defined.sql" timestamp="1590999303284" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/resources/application.yaml" timestamp="1590981338446" />
       <file name="/ActionScript File Header.txt.ft" timestamp="1590724399749">
         <mark key="[" line="0" column="0" />
       </file>
@@ -205,7 +219,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
@@ -220,30 +234,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoZmluYWxDb2Rlcy5pc0VtcHR5KCkpewogICAgICAgICAgICAgICAgICAgICAgICBmaW5hbENvZGVzID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgICAgICAgICAgICAgfQ==</text>
+        <text encoding="base64">fQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LnNldENhbGxJZChVVUlELnJhbmRvbVVVSUQoKS50b1N0cmluZygpKTsK</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICBmb3IgKFN0cmluZyBsaW5lIDogbGluZXMpIHsKICAgICAgICA=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LnNldERvbWFpbihkaWFsVGFza0luZm8uZ2V0RG9tYWluKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LnNldERvbWFpbihkaWFsVGFza0luZm8uZ2V0RG9tYWluKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text>Revert &quot;fix:客户id写入随路数据的问题&quot;
-
-This reverts commit 250ba553</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoZmluYWxDb2Rlcy5pc0VtcHR5KCkpewogICAgICAgICAgICAgICAgICAgICAgICBmaW5hbENvZGVzID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGRkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LnNldENhbGxJZChVVUlELnJhbmRvbVVVSUQoKS50b1N0cmluZygpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IHVzZXIgPSB0YXNrLmdldFVzZXJEYXRhKCkuZ2V0VXNlcigpOwogICAgICAgIGlmICh1c2VyPT1udWxsKXsKICAgICAgICAgICAgCiAgICAgICAgfQ==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LnNldERvbWFpbihkaWFsVGFza0luZm8uZ2V0RG9tYWluKCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LnNldERvbWFpbihkaWFsVGFza0luZm8uZ2V0RG9tYWluKCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
