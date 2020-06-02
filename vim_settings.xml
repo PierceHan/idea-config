@@ -78,7 +78,6 @@
         <mark key="]" line="161" column="62" />
         <mark key="." line="161" column="62" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/model/UserDefinedRoster.java" timestamp="1590999240409" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/event/handler/processor/CallResultPrivateRedisTransport.java" timestamp="1591004526992">
         <mark key="[" line="41" column="20" />
         <mark key="]" line="40" column="0" />
@@ -87,13 +86,17 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/bio/BIOServer.java" timestamp="1590932308019">
         <mark key="[" line="64" column="22" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/sql/t_roster_user_defined.sql" timestamp="1590999303284" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/ScheduledConsumer.java" timestamp="1591062804237">
+        <mark key="[" line="8" column="6" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/resources/application.yaml" timestamp="1591000936854">
         <mark key="[" line="6" column="23" />
         <mark key="]" line="6" column="23" />
         <mark key="." line="6" column="23" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/bcm/poc/BcmPocBack.java" timestamp="1591002646694" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/bcm/poc/BcmPocBack.java" timestamp="1591062293283">
+        <mark key="[" line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/impl/InstantServiceImpl.java" timestamp="1590659960948">
         <mark key="[" line="330" column="0" />
         <mark key="]" line="330" column="0" />
@@ -103,7 +106,7 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/SQL/t_call_result_code_dict.sql" timestamp="1590719213507">
         <mark key="[" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/TianAnCallBack.java" timestamp="1591001456826" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/container/BackContainerImpl.java" timestamp="1591062672115" />
       <file name="/HTML File.txt.ft" timestamp="1590724399340">
         <mark key="[" line="0" column="0" />
       </file>
@@ -217,7 +220,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTY2hlZHVsZWRDb25zdW1lcihATm9uTnVsbCBTdHJpbmcgdXJsKSB7CiAgICAgICAgc3VwZXIodXJsKTsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHByb3RlY3RlZCBPYmplY3QgY3JlYXRlSnNvbihUIGZpbHRlcmVkRGlhbFRhc2spIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0K</text>
       </register>
       <register name="-" type="4">
         <text>p</text>
@@ -229,34 +232,34 @@
         <text encoding="base64">ICAgICAgICBtYXAucHV0KCJvcmRlck5vIix1dWlNYXAuZ2V0KCJvcmRlck5vIikpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTY2hlZHVsZWRDb25zdW1lcihATm9uTnVsbCBTdHJpbmcgdXJsKSB7CiAgICAgICAgc3VwZXIodXJsKTsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHByb3RlY3RlZCBPYmplY3QgY3JlYXRlSnNvbihUIGZpbHRlcmVkRGlhbFRhc2spIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHJvc3Rlci5nZXQoY3VzdG9tZXJQaG9uZSk9PW51bGwpewogICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgICAgIH0=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHJvc3Rlci5nZXQoY3VzdG9tZXJQaG9uZSk9PW51bGwpewogICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgICAgIH0=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">fQo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgICAgICBmb3IgKFN0cmluZyBsaW5lIDogbGluZXMpIHsKICAgICAgICA=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoZmluYWxDb2Rlcy5pc0VtcHR5KCkpewogICAgICAgICAgICAgICAgICAgICAgICBmaW5hbENvZGVzID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgICAgICAgICAgICAgfQ==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LnNldENhbGxJZChVVUlELnJhbmRvbVVVSUQoKS50b1N0cmluZygpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoZmluYWxDb2Rlcy5pc0VtcHR5KCkpewogICAgICAgICAgICAgICAgICAgICAgICBmaW5hbENvZGVzID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgICAgICAgICAgICAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
