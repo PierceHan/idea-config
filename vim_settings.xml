@@ -62,12 +62,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/RosterServiceImpl.java" timestamp="1591070433611">
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/RosterServiceImpl.java" timestamp="1591084143940">
         <mark key="[" line="167" column="89" />
         <mark key="]" line="174" column="0" />
         <mark key="." line="174" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/container/RosterContainerImpl.java" timestamp="1591066792669" />
       <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/string/StringTest2.java" timestamp="1591070369787">
         <mark key="[" line="17" column="4" />
         <mark key="]" line="17" column="4" />
@@ -92,6 +91,9 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/ScheduledConsumer.java" timestamp="1591062804237">
         <mark key="[" line="8" column="6" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/utils/KeysUtils.java" timestamp="1591084556279">
+        <mark key="[" line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/schedule/ScheduledBack.java" timestamp="1591063952304">
         <mark key="[" line="7" column="4" />
         <mark key="]" line="7" column="4" />
@@ -108,12 +110,12 @@
         <mark key="." line="70" column="30" />
         <mark key="^" line="60" column="46" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/BaseConsumer.java" timestamp="1591080138133" />
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/container/BackContainerImpl.java" timestamp="1591069214785">
         <mark key="[" line="119" column="0" />
         <mark key="]" line="119" column="0" />
         <mark key="." line="119" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/core/scan/cmbc/UploadRoster.java" timestamp="1591084129441" />
       <file name="/HTML File.txt.ft" timestamp="1590724399340">
         <mark key="[" line="0" column="0" />
       </file>
