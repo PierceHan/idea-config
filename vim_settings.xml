@@ -67,7 +67,7 @@
         <mark key="]" line="17" column="4" />
         <mark key="." line="17" column="4" />
       </file>
-      <file name="/a.dummy" timestamp="1591064783397">
+      <file name="/a.dummy" timestamp="1591166590532">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/string/SplitTest3.java" timestamp="1591149369611">
@@ -89,7 +89,7 @@
         <mark key="[" line="7" column="3" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/entity/roster/RosterRO.java" timestamp="1591150717864" />
-      <file name="/Dummy.txt" timestamp="1591152532703">
+      <file name="/Dummy.txt" timestamp="1591167478430">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -112,10 +112,10 @@
         <mark key="." line="70" column="30" />
         <mark key="^" line="60" column="46" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/weikong/WeiKongBask2.java" timestamp="1591165907625">
-        <mark key="[" line="60" column="33" />
-        <mark key="]" line="60" column="33" />
-        <mark key="." line="60" column="33" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/weikong/WeiKongBask2.java" timestamp="1591167271690">
+        <mark key="[" line="155" column="27" />
+        <mark key="]" line="155" column="27" />
+        <mark key="." line="155" column="27" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/container/BackContainerImpl.java" timestamp="1591069214785">
         <mark key="[" line="119" column="0" />
@@ -229,10 +229,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>uuiJsonObject</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>uuiJsonObject</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>fire</text>
@@ -247,25 +247,25 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBNYXAgdXVpTWFwID0gbnVsbDsKICAgICAgICB0cnl7CiAgICAgICAgICAgIC8v6YCa6L+HQ2FsbElk6I635Y+WY2Rz55qE6ZqP6Lev5pWw5o2uCiAgICAgICAgICAgIHV1aU1hcCA9IEh0dHBVdGlscy5kb0dldChjZHNVcmwgKyAiL2Nkcy8iICsgZGlhbFRhc2tSZXN1bHQuZ2V0Q2FsbElkKCksTWFwLmNsYXNzKTsKICAgICAgICAgICAgbG9nLmluZm8oIuivt+axgmNkc+eahOaVsOaNrjp7fSIsSlNPTi50b0pTT05TdHJpbmcodXVpTWFwKSk7CiAgICAgICAgfWNhdGNoIChFeGNlcHRpb24gZSl7CiAgICAgICAgICAgIGxvZy5lcnJvcigi6K+35rGCY2Rz5pe25aSx6LSlIixlKTsKICAgICAgICAgICAgc2xlZXBUd29TZWNvbmQoKTsKICAgICAgICB9CgogICAgICAgIGlmKHV1aU1hcCA9PSBudWxsICB8fCB1dWlNYXAuaXNFbXB0eSgpKXsKICAgICAgICAgICAgLy/lm57kvKAKICAgICAgICAgICAgbG9nLmluZm8oIuayoeacieiOt+WPluWIsOmaj+i3r+aVsOaNrjp7fSIsSlNPTi50b0pTT05TdHJpbmcodXVpTWFwKSk7CiAgICAgICAgICAgIHJldHVybiBzZXRUcmFuTm90aWZ5RGF0YShkaWFsVGFza1Jlc3VsdCxudWxsLG51bGwpOwogICAgICAgIH0KICAgICAgICAvL+iOt+WPlmNkc+eahOmaj+i3r+aVsOaNruOAggogICAgICAgIEpTT05PYmplY3QgdXVpSnNvbk9iamVjdCA9IChKU09OT2JqZWN0KSB1dWlNYXAuZ2V0KCJkYXRhIik7</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2V0TWFpblZpY2VDYXJkSG9sZGVyID0gIjAiOw==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9ZWxzZXs=</text>
+        <text encoding="base64">ICAgICAgICAvL+iOt+WPluWkluWRvOWPt+eggeaVsOaNrgogICAgICAgIFN0cmluZyBjYWxsZWVDYXNlID0gZGlhbFRhc2tSZXN1bHQuZ2V0TnVtYmVyKCk7</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY2FsbGVlQ2FzZSA9PSBudWxsKXsKICAgICAgICAgICAgbG9nLmluZm8oIuiiq+WPq+WPt+eggWNhbGxlZeS4jeWtmOWcqO+8mmNhbGxlZTp7fSIsY2FsbGVlQ2FzZSk7CiAgICAgICAgICAgIHNsZWVwVHdvU2Vjb25kKCk7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlxcIik7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJcXFxcIik7</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBNYXAgZGF0YU1hcCA9IGRhdGFNYXBPYmplY3QodXVpSnNvbk9iamVjdCk7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
