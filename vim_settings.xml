@@ -57,12 +57,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/entity/roster/RosterRO.java" timestamp="1591150717864" />
-      <file name="/Dummy.txt" timestamp="1591152532703">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/RosterServiceImpl.java" timestamp="1591152273101">
         <mark key="[" line="160" column="59" />
         <mark key="]" line="179" column="0" />
@@ -73,15 +67,9 @@
         <mark key="]" line="17" column="4" />
         <mark key="." line="17" column="4" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/resources/application-develop.yaml" timestamp="1591001104715">
-        <mark key="[" line="25" column="28" />
-        <mark key="]" line="25" column="28" />
-        <mark key="." line="25" column="28" />
-      </file>
       <file name="/a.dummy" timestamp="1591064783397">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/service/roster/RosterServiceImpl.java" timestamp="1591148694882" />
       <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/string/SplitTest3.java" timestamp="1591149369611">
         <mark key="[" line="13" column="49" />
         <mark key="]" line="16" column="0" />
@@ -92,9 +80,21 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/ScheduledConsumer.java" timestamp="1591062804237">
-        <mark key="[" line="8" column="6" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/intergraion/TemplateSearchTest.java" timestamp="1591154002980">
+        <mark key="[" line="68" column="40" />
+        <mark key="]" line="68" column="40" />
+        <mark key="." line="68" column="40" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/string/StringTest4.java" timestamp="1591166033344">
+        <mark key="[" line="7" column="3" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/entity/roster/RosterRO.java" timestamp="1591150717864" />
+      <file name="/Dummy.txt" timestamp="1591152532703">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/service/roster/RosterServiceImpl.java" timestamp="1591148694882" />
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/utils/KeysUtils.java" timestamp="1591150980022">
         <mark key="[" line="12" column="107" />
       </file>
@@ -112,15 +112,15 @@
         <mark key="." line="70" column="30" />
         <mark key="^" line="60" column="46" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/weikong/WeiKongBask2.java" timestamp="1591165907625">
+        <mark key="[" line="60" column="33" />
+        <mark key="]" line="60" column="33" />
+        <mark key="." line="60" column="33" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/container/BackContainerImpl.java" timestamp="1591069214785">
         <mark key="[" line="119" column="0" />
         <mark key="]" line="119" column="0" />
         <mark key="." line="119" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/intergraion/TemplateSearchTest.java" timestamp="1591154002980">
-        <mark key="[" line="68" column="40" />
-        <mark key="]" line="68" column="40" />
-        <mark key="." line="68" column="40" />
       </file>
     </filemarks>
     <jumps>
@@ -229,10 +229,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>uuiJsonObject</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>uuiJsonObject</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
@@ -247,28 +247,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBNYXAgdXVpTWFwID0gbnVsbDsKICAgICAgICB0cnl7CiAgICAgICAgICAgIC8v6YCa6L+HQ2FsbElk6I635Y+WY2Rz55qE6ZqP6Lev5pWw5o2uCiAgICAgICAgICAgIHV1aU1hcCA9IEh0dHBVdGlscy5kb0dldChjZHNVcmwgKyAiL2Nkcy8iICsgZGlhbFRhc2tSZXN1bHQuZ2V0Q2FsbElkKCksTWFwLmNsYXNzKTsKICAgICAgICAgICAgbG9nLmluZm8oIuivt+axgmNkc+eahOaVsOaNrjp7fSIsSlNPTi50b0pTT05TdHJpbmcodXVpTWFwKSk7CiAgICAgICAgfWNhdGNoIChFeGNlcHRpb24gZSl7CiAgICAgICAgICAgIGxvZy5lcnJvcigi6K+35rGCY2Rz5pe25aSx6LSlIixlKTsKICAgICAgICAgICAgc2xlZXBUd29TZWNvbmQoKTsKICAgICAgICB9CgogICAgICAgIGlmKHV1aU1hcCA9PSBudWxsICB8fCB1dWlNYXAuaXNFbXB0eSgpKXsKICAgICAgICAgICAgLy/lm57kvKAKICAgICAgICAgICAgbG9nLmluZm8oIuayoeacieiOt+WPluWIsOmaj+i3r+aVsOaNrjp7fSIsSlNPTi50b0pTT05TdHJpbmcodXVpTWFwKSk7CiAgICAgICAgICAgIHJldHVybiBzZXRUcmFuTm90aWZ5RGF0YShkaWFsVGFza1Jlc3VsdCxudWxsLG51bGwpOwogICAgICAgIH0KICAgICAgICAvL+iOt+WPlmNkc+eahOmaj+i3r+aVsOaNruOAggogICAgICAgIEpTT05PYmplY3QgdXVpSnNvbk9iamVjdCA9IChKU09OT2JqZWN0KSB1dWlNYXAuZ2V0KCJkYXRhIik7</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlxcIik7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJcXFxcIik7</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9ZWxzZXs=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odGhpcy5yZW1vdmVXcmFwKCInYWFhYWFhJyIpKTsKICAgIH0=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlxcIik7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJcXFxcIik7</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKExpc3Q8Q29uc3VtZXI8RGlhbFRhc2tSZXN1bHQ+PiB2YWx1ZXMgOiBiYWNrQ29udGFpbmVyTWFwLnZhbHVlcygpKSB7CiAgICAgICAgICAgIGZvciAoQ29uc3VtZXI8RGlhbFRhc2tSZXN1bHQ+IHZhbHVlIDogdmFsdWVzKSB7CiAgICAgICAgICAgICAgICBpZiAodmFsdWUgaW5zdGFuY2VvZiBTY2hlZHVsZWRCYWNrKXsKICAgICAgICAgICAgICAgICAgICBTY2hlZHVsZWRCYWNrIHNjaGVkdWxlZEJhY2sgPSAoU2NoZWR1bGVkQmFjayl2YWx1ZTsKICAgICAgICAgICAgICAgICAgICBzY2hlZHVsZWRCYWNrLnNjaGVkdWxlZFBvc3QoKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
