@@ -57,17 +57,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/entity/roster/RosterRO.java" timestamp="1591148706490" />
       <file name="/Dummy.txt" timestamp="1591094450035">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/RosterServiceImpl.java" timestamp="1591084143940">
-        <mark key="[" line="167" column="89" />
-        <mark key="]" line="174" column="0" />
-        <mark key="." line="174" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/RosterServiceImpl.java" timestamp="1591149214458">
+        <mark key="[" line="150" column="19" />
+        <mark key="]" line="178" column="0" />
+        <mark key="." line="178" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/string/StringTest2.java" timestamp="1591070369787">
+      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/string/StringTest2.java" timestamp="1591148172055">
         <mark key="[" line="17" column="4" />
         <mark key="]" line="17" column="4" />
         <mark key="." line="17" column="4" />
@@ -80,20 +81,22 @@
       <file name="/a.dummy" timestamp="1591064783397">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/service/roster/RosterServiceImpl.java" timestamp="1591148694882" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/string/SplitTest3.java" timestamp="1591148195237">
+        <mark key="[" line="7" column="3" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/event/handler/processor/CallResultPrivateRedisTransport.java" timestamp="1591089425163">
         <mark key="[" line="41" column="20" />
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/bio/BIOServer.java" timestamp="1590932308019">
-        <mark key="[" line="64" column="22" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/ScheduledConsumer.java" timestamp="1591062804237">
         <mark key="[" line="8" column="6" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/utils/KeysUtils.java" timestamp="1591084556279">
-        <mark key="[" line="25" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/utils/KeysUtils.java" timestamp="1591149100207">
+        <mark key="[" line="12" column="45" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/facade/BatchAndRosterBehavior.java" timestamp="1591148671740" />
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/schedule/ScheduledBack.java" timestamp="1591063952304">
         <mark key="[" line="7" column="4" />
         <mark key="]" line="7" column="4" />
@@ -104,6 +107,8 @@
         <mark key="]" line="6" column="23" />
         <mark key="." line="6" column="23" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/src.zip!/java/lang/String.java" timestamp="1591148411445" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/utils/TxtUtils.java" timestamp="1591148863479" />
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/bcm/poc/BcmPocBack.java" timestamp="1591081663122">
         <mark key="[" line="51" column="24" />
         <mark key="]" line="70" column="30" />
@@ -115,11 +120,6 @@
         <mark key="]" line="119" column="0" />
         <mark key="." line="119" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/controller/MonitorController.java" timestamp="1591094389315" />
-      <file name="/ActionScript File Header.txt.ft" timestamp="1590724399749">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/monitor/TaskMonitorService.java" timestamp="1591089512053" />
     </filemarks>
     <jumps>
       <jump line="9" column="0" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" />
@@ -226,8 +226,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>private</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>private</text>
@@ -248,7 +248,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odGhpcy5yZW1vdmVXcmFwKCInYWFhYWFhJyIpKTsKICAgIH0=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlxcIik7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJcXFxcIik7</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -257,16 +257,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKExpc3Q8Q29uc3VtZXI8RGlhbFRhc2tSZXN1bHQ+PiB2YWx1ZXMgOiBiYWNrQ29udGFpbmVyTWFwLnZhbHVlcygpKSB7CiAgICAgICAgICAgIGZvciAoQ29uc3VtZXI8RGlhbFRhc2tSZXN1bHQ+IHZhbHVlIDogdmFsdWVzKSB7CiAgICAgICAgICAgICAgICBpZiAodmFsdWUgaW5zdGFuY2VvZiBTY2hlZHVsZWRCYWNrKXsKICAgICAgICAgICAgICAgICAgICBTY2hlZHVsZWRCYWNrIHNjaGVkdWxlZEJhY2sgPSAoU2NoZWR1bGVkQmFjayl2YWx1ZTsKICAgICAgICAgICAgICAgICAgICBzY2hlZHVsZWRCYWNrLnNjaGVkdWxlZFBvc3QoKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odGhpcy5yZW1vdmVXcmFwKCInYWFhYWFhJyIpKTsKICAgIH0=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3VwZXIucG9zdFJlc3VsdChib2R5KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWFwPFN0cmluZywgT2JqZWN0PiBib2R5ID0gc2NoZWR1bGVkUG9zdChkYXRhcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgTWFwPFN0cmluZyxPYmplY3Q+IGJvZHkgPSBuZXcgSGFzaE1hcDw+KDE2KTs=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgKExpc3Q8Q29uc3VtZXI8RGlhbFRhc2tSZXN1bHQ+PiB2YWx1ZXMgOiBiYWNrQ29udGFpbmVyTWFwLnZhbHVlcygpKSB7CiAgICAgICAgICAgIGZvciAoQ29uc3VtZXI8RGlhbFRhc2tSZXN1bHQ+IHZhbHVlIDogdmFsdWVzKSB7CiAgICAgICAgICAgICAgICBpZiAodmFsdWUgaW5zdGFuY2VvZiBTY2hlZHVsZWRCYWNrKXsKICAgICAgICAgICAgICAgICAgICBTY2hlZHVsZWRCYWNrIHNjaGVkdWxlZEJhY2sgPSAoU2NoZWR1bGVkQmFjayl2YWx1ZTsKICAgICAgICAgICAgICAgICAgICBzY2hlZHVsZWRCYWNrLnNjaGVkdWxlZFBvc3QoKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
