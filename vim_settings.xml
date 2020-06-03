@@ -82,8 +82,10 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/service/roster/RosterServiceImpl.java" timestamp="1591148694882" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/string/SplitTest3.java" timestamp="1591148195237">
-        <mark key="[" line="7" column="3" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/string/SplitTest3.java" timestamp="1591149369611">
+        <mark key="[" line="13" column="49" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/event/handler/processor/CallResultPrivateRedisTransport.java" timestamp="1591089425163">
         <mark key="[" line="41" column="20" />
