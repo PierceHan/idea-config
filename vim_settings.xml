@@ -60,24 +60,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/duoyuan/BaseDuoYuanBack.java" timestamp="1591241977558" />
-      <file name="/Dummy.txt" timestamp="1591242537870">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/RosterServiceImpl.java" timestamp="1591152273101">
         <mark key="[" line="160" column="59" />
         <mark key="]" line="179" column="0" />
         <mark key="." line="179" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/string/StringTest2.java" timestamp="1591148172055">
-        <mark key="[" line="17" column="4" />
-        <mark key="]" line="17" column="4" />
-        <mark key="." line="17" column="4" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/test/java/cc/wellcloud/cloud/roster/web/AssistControllerTest.java" timestamp="1591235907814" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/factory/ResultConsumerFactory.java" timestamp="1591238340968" />
       <file name="/a.dummy" timestamp="1591166590532">
         <mark key="[" line="0" column="0" />
       </file>
@@ -86,10 +74,28 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/duoyuan/ZhangDanFenQi.java" timestamp="1591239536552" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/web/BatchController.java" timestamp="1591251539085" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/strategy/DialActionEnum.java" timestamp="1591252192439" />
       <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/map/IsEmptyTest1.java" timestamp="1591242035803">
         <mark key="[" line="11" column="3" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/intergraion/TemplateSearchTest.java" timestamp="1591154002980">
+        <mark key="[" line="68" column="40" />
+        <mark key="]" line="68" column="40" />
+        <mark key="." line="68" column="40" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/string/StringTest4.java" timestamp="1591166033344">
+        <mark key="[" line="7" column="3" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/status/ErrorStatusEnum.java" timestamp="1591251220317" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/duoyuan/BaseDuoYuanBack.java" timestamp="1591241977558" />
+      <file name="/Dummy.txt" timestamp="1591252245049">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/factory/ResultConsumerFactory.java" timestamp="1591238340968" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/duoyuan/ZhangDanFenQi.java" timestamp="1591239536552" />
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/utils/KeysUtils.java" timestamp="1591150980022">
         <mark key="[" line="12" column="107" />
       </file>
@@ -100,14 +106,6 @@
         <mark key="[" line="155" column="27" />
         <mark key="]" line="155" column="27" />
         <mark key="." line="155" column="27" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/intergraion/TemplateSearchTest.java" timestamp="1591154002980">
-        <mark key="[" line="68" column="40" />
-        <mark key="]" line="68" column="40" />
-        <mark key="." line="68" column="40" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/string/StringTest4.java" timestamp="1591166033344">
-        <mark key="[" line="7" column="3" />
       </file>
     </filemarks>
     <jumps>
