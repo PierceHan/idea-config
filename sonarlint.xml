@@ -6,6 +6,7 @@
         <option value="java:S1144" />
         <option value="java:S1488" />
         <option value="java:S1854" />
+        <option value="java:S2589" />
         <option value="java:S3864" />
         <option value="squid:S1220" />
       </set>
