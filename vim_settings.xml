@@ -60,17 +60,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1591252245049">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1591166590532">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/string/SubTest5.java" timestamp="1591321876662">
-        <mark key="[" line="10" column="3" />
-      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/dce/handler/DefaultHandler.java" timestamp="1591321973874" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/function/FunctionUtils.java" timestamp="1591322043014" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/dce/handler/DncHandler.java" timestamp="1591321646630">
         <mark key="[" line="44" column="30" />
       </file>
@@ -81,6 +72,14 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/consts/KeyUtils.java" timestamp="1591321664174">
         <mark key="[" line="8" column="34" />
       </file>
+      <file name="/Dummy.txt" timestamp="1591322048906">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/string/SubTest5.java" timestamp="1591321876662">
+        <mark key="[" line="10" column="3" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/duoyuan/BaiBaoXiang.java" timestamp="1591242522964">
         <mark key="[" line="49" column="48" />
       </file>
@@ -90,9 +89,6 @@
         <mark key="." line="155" column="27" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/dncserver/src/main/java/com/wellcloud/dnc/service/impl/DoNotCallServiceImpl.java" timestamp="1591321366858" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/string/StringTest4.java" timestamp="1591166033344">
-        <mark key="[" line="7" column="3" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="9" column="0" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" />
