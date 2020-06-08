@@ -72,15 +72,15 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/ProcessorFactory.java" timestamp="1591599635376">
-        <mark key="[" line="28" column="40" />
-        <mark key="]" line="27" column="21" />
-        <mark key="." line="27" column="21" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/ProcessorFactory.java" timestamp="1591599877809">
+        <mark key="[" line="30" column="39" />
+        <mark key="]" line="28" column="21" />
+        <mark key="." line="28" column="21" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/service/process/ProcessServiceImpl.java" timestamp="1591599349622">
-        <mark key="[" line="15" column="4" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/service/process/ProcessServiceImpl.java" timestamp="1591600515875">
+        <mark key="[" line="24" column="80" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/encrypt/DefaultEncryptProcessor.java" timestamp="1591588016828" />
       <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/message/DefaultMessageProcessor.java" timestamp="1591596678166" />
@@ -97,10 +97,10 @@
         <mark key="]" line="9" column="72" />
         <mark key="." line="9" column="72" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/Processor.java" timestamp="1591599161841">
-        <mark key="[" line="30" column="20" />
-        <mark key="]" line="32" column="42" />
-        <mark key="." line="32" column="42" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/Processor.java" timestamp="1591600552605">
+        <mark key="[" line="18" column="56" />
+        <mark key="]" line="18" column="56" />
+        <mark key="." line="18" column="56" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/subscribe/ProcessorDTO.java" timestamp="1591598008603">
         <mark key="[" line="10" column="0" />
@@ -240,11 +240,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>SubscribeEntity</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>SubscribeEntity</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
