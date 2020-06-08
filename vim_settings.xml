@@ -70,7 +70,6 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/resources/logback-spring.xml" timestamp="1591613126559" />
       <file name="/a.dummy" timestamp="1591617853061">
         <mark key="[" line="0" column="0" />
       </file>
@@ -88,10 +87,10 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/weikong/WeiKonbBack1.java" timestamp="1591616975043">
         <mark key="[" line="116" column="32" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/dncserver/src/main/java/com/wellcloud/dnc/config/RedisConfig.java" timestamp="1591614593395">
-        <mark key="[" line="106" column="71" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/dncserver/src/main/java/com/wellcloud/dnc/config/RedisConfig.java" timestamp="1591618279831">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/resources/config/application-dev.yaml" timestamp="1591613624787">
         <mark key="[" line="12" column="0" />
@@ -104,7 +103,7 @@
         <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/file/startup.sh" timestamp="1591618004970" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/dncserver/src/main/java/com/wellcloud/dnc/config/ConfigProperties.java" timestamp="1591614880740">
+      <file name="$USER_HOME$/IdeaProjects/huijie/dncserver/src/main/java/com/wellcloud/dnc/config/ConfigProperties.java" timestamp="1591618243350">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
@@ -114,7 +113,12 @@
         <mark key="]" line="28" column="17" />
         <mark key="." line="28" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591617943251">
+      <file name="$USER_HOME$/IdeaProjects/huijie/dncserver/src/main/resources/application.yaml" timestamp="1591618040265">
+        <mark key="[" line="1" column="7" />
+        <mark key="]" line="1" column="8" />
+        <mark key="." line="1" column="8" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1591618499133">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -135,7 +139,7 @@
         <mark key="]" line="107" column="68" />
         <mark key="." line="107" column="68" />
       </file>
-      <file name="/fragment.java" timestamp="1591617943239">
+      <file name="/fragment.java" timestamp="1591618451626">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -248,7 +252,7 @@
         <text encoding="base64">Owo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFVzZXJJbXBsIHVzZXIgPSBnZXRVc2VyKHNlc3Npb25JZCk=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmFjdG9yeS5zZXRQb3J0KGNvbmZpZ1Byb3BlcnRpZXMuZ2V0UmVkaXNQb3J0KCkp</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
@@ -263,28 +267,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Owo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgVXNlckltcGwgZ2V0VXNlcihTdHJpbmcgc2Vzc2lvbklkKSB7CiAgICAgICAgVXNlciB1ID0gdXNlclNlcnZpY2UuZ2V0Q3VycmVudFVzZXIoc2Vzc2lvbklkKTsKICAgICAgICBpZiAodT09bnVsbCl7CiAgICAgICAgICAgIHRocm93IG5ldyBCbGFja0V4Y2VwdGlvbigic2Vzc2lvbklk5p+l5LiN5Yiw55So5oi3IiwgQmxhY2tFeGNlcHRpb24uRXhjZXB0aW9uTmFtZS5Gb3JiaWRkZW4pOwogICAgICAgIH0KICAgICAgICByZXR1cm4gKFVzZXJJbXBsKSB1OwogICAgfQ==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgVXNlckltcGwgZ2V0VXNlcihTdHJpbmcgc2Vzc2lvbklkKSB7CiAgICAgICAgVXNlciB1ID0gdXNlclNlcnZpY2UuZ2V0Q3VycmVudFVzZXIoc2Vzc2lvbklkKTsKICAgICAgICBpZiAodT09bnVsbCl7CiAgICAgICAgICAgIHRocm93IG5ldyBCbGFja0V4Y2VwdGlvbigic2Vzc2lvbklk5p+l5LiN5Yiw55So5oi3IiwgQmxhY2tFeGNlcHRpb24uRXhjZXB0aW9uTmFtZS5Gb3JiaWRkZW4pOwogICAgICAgIH0KICAgICAgICByZXR1cm4gKFVzZXJJbXBsKSB1OwogICAgfQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBATm9uTnVsbAogICAgcHJpdmF0ZSBmaW5hbCBVc2VyU2VydmljZSB1c2VyU2VydmljZTs=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QEltcG9ydFJlc291cmNlKCJjbGFzc3BhdGg6YXBwbGljYXRpb25Db250ZXh0LWR1YmJvLnhtbCIpCg==</text>
+        <text encoding="base64">CiAgICBATm9uTnVsbAogICAgcHJpdmF0ZSBmaW5hbCBVc2VyU2VydmljZSB1c2VyU2VydmljZTs=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIExvZ2dlciBsb2cgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihnZXRDbGFzcygpKTs=</text>
+        <text encoding="base64">QEltcG9ydFJlc291cmNlKCJjbGFzc3BhdGg6YXBwbGljYXRpb25Db250ZXh0LWR1YmJvLnhtbCIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIExvZ2dlciBsb2cgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihnZXRDbGFzcygpKTs=</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
