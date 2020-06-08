@@ -60,7 +60,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/resources/config/application-stress2.yaml" timestamp="1591609562521">
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/resources/config/application.yaml" timestamp="1591613517061">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/resources/logback-spring.xml" timestamp="1591613126559" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/resources/config/application-stress2.yaml" timestamp="1591613046554">
         <mark key="[" line="3" column="15" />
         <mark key="]" line="3" column="15" />
         <mark key="." line="3" column="15" />
@@ -73,10 +79,11 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/resources/config/application-dev.yaml" timestamp="1591609507883">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/weikong/WeiKonbBack1.java" timestamp="1591614277637" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/resources/config/application-dev.yaml" timestamp="1591613624787">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/pom.xml" timestamp="1591607078531">
         <mark key="[" line="41" column="0" />
@@ -86,34 +93,24 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/file/startup.sh" timestamp="1591613684195" />
       <file name="$USER_HOME$/IdeaProjects/huijie/exporter-service/src/main/resources/application.yml" timestamp="1591607163942" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/Processor.java" timestamp="1591602606809">
-        <mark key="[" line="18" column="56" />
-        <mark key="]" line="18" column="56" />
-        <mark key="." line="18" column="56" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/config/ConfigProperties.java" timestamp="1591609126701">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/queue/handler/ResultDispatcher.java" timestamp="1591602289333">
-        <mark key="[" line="30" column="81" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/file/startup.sh" timestamp="1591614000987">
+        <mark key="[" line="28" column="17" />
+        <mark key="]" line="28" column="17" />
+        <mark key="." line="28" column="17" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/controller/RosterDefineController.java" timestamp="1591604882518" />
       <file name="$USER_HOME$/IdeaProjects/huijie/exporter-service/pom.xml" timestamp="1591606462686" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.1.RELEASE/spring-boot-autoconfigure-2.1.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/quartz/QuartzProperties.java" timestamp="1591607387705" />
       <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/resources/config/application-stress2.yml" timestamp="1591607570380">
         <mark key="[" line="12" column="4" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/service/process/ProcessServiceImpl.java" timestamp="1591602301165">
-        <mark key="[" line="24" column="80" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1591609619160">
+      <file name="/Dummy.txt" timestamp="1591613844237">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -124,13 +121,8 @@
         <mark key="." line="4" column="30" />
         <mark key="^" line="4" column="31" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/controller/MirrorController.java" timestamp="1591604886626">
-        <mark key="[" line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/ProcessorMap.java" timestamp="1591602323412">
-        <mark key="[" line="38" column="97" />
-        <mark key="]" line="38" column="97" />
-        <mark key="." line="38" column="97" />
+      <file name="/fragment.java" timestamp="1591612638984">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -239,10 +231,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>8</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
@@ -257,13 +249,13 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>log_stash: 192.168.40.138:9200</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGJfc2xhdmVfdXJsOiBqZGJjOm15c3FsOi8vMTkyLjE2OC42MC4xMzI6MzMwNi9jdGk/dXNlVW5pY29kZT10cnVlJmNoYXJhY3RlckVuY29kaW5nPVVURi04JmFsbG93TXVsdGlRdWVyaWVzPXRydWUKZGJfc2xhdmVfdXNlcm5hbWU6IHJvb3QKZGJfc2xhdmVfcGFzc3dvcmQ6IHdlbGxjbG91ZA==</text>
+        <text encoding="base64">ICBsb2dfc3Rhc2g6IDE5Mi4xNjguNDAuMTM4OjkyMDAg</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -272,13 +264,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGJfc2xhdmVfdXJsOiBqZGJjOm15c3FsOi8vMTkyLjE2OC40MC4zMDozMzA2L2N0aT91c2VVbmljb2RlPXRydWUmY2hhcmFjdGVyRW5jb2Rpbmc9VVRGLTgmYWxsb3dNdWx0aVF1ZXJpZXM9dHJ1ZQpkYl9zbGF2ZV91c2VybmFtZTogcm9vdApkYl9zbGF2ZV9wYXNzd29yZDogd2VsbGNsb3Vk</text>
+        <text>log_stash: ${log_stash:192.168.40.138:9621}</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGJfc2xhdmVfdXJsOiBqZGJjOm15c3FsOi8vMTkyLjE2OC40MC4zNy9kZXZlbG9wP3VzZVVuaWNvZGU9dHJ1ZSZjaGFyYWN0ZXJFbmNvZGluZz1VVEYtOCZhbGxvd011bHRpUXVlcmllcz10cnVlJnNlcnZlclRpbWV6b25lPUdNVCUyQjgKZGJfc2xhdmVfdXNlcm5hbWU6IHJvb3QKZGJfc2xhdmVfcGFzc3dvcmQ6IFdlY2xvdWRfMDE=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
