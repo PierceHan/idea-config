@@ -61,18 +61,21 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/frequency/InstantFrequencyProcessor.java" timestamp="1591587224918">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/subscribe/FailOperateType.java" timestamp="1591587833723" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/fail/RetryFailProcessor.java" timestamp="1591588540457">
+        <mark key="[" line="9" column="72" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/body/BodyProcess.java" timestamp="1591583463850">
         <mark key="[" line="8" column="3" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/service/process/ProcessServiceImpl.java" timestamp="1591581061805">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/encrypt/DefaultEncryptProcessor.java" timestamp="1591588016828" />
       <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/Processer.java" timestamp="1591584383035">
         <mark key="[" line="21" column="69" />
         <mark key="]" line="21" column="69" />
@@ -80,40 +83,33 @@
         <mark key="." line="21" column="69" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/message/DefaultMessageProcessor.java" timestamp="1591585625639" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/subscribe/MessageType.java" timestamp="1591581443165">
-        <mark key="[" line="8" column="3" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/body/JsonBodyProcess.java" timestamp="1591587109205">
         <mark key="[" line="9" column="72" />
         <mark key="]" line="9" column="72" />
         <mark key="." line="9" column="72" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/core/strategy/toss/MultiPhoneTossStrategy.java" timestamp="1591583396756" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/list/EmptyListTest.java" timestamp="1591580732146">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/transport/ForeTransportProcessor.java" timestamp="1591588241940">
+        <mark key="[" line="9" column="35" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/body/FileBodyProcess.java" timestamp="1591585834313">
         <mark key="[" line="9" column="72" />
         <mark key="]" line="9" column="72" />
         <mark key="." line="9" column="72" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/Processor.java" timestamp="1591587468387">
-        <mark key="[" line="31" column="117" />
-        <mark key="]" line="32" column="81" />
-        <mark key="." line="32" column="81" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/Processor.java" timestamp="1591588256219">
+        <mark key="[" line="52" column="8" />
+        <mark key="]" line="51" column="51" />
+        <mark key="." line="51" column="51" />
+        <mark key="^" line="36" column="47" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/body/DefaultJsonBodyProcess.java" timestamp="1591585512371">
         <mark key="[" line="11" column="35" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/transport/DefaultTransportProcessor.java" timestamp="1591588154694">
+        <mark key="[" line="9" column="38" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/message/DefaultMessageProcess.java" timestamp="1591585570486">
         <mark key="[" line="6" column="34" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/service/impl/SubscribeServiceImpl.java" timestamp="1591580997843">
-        <mark key="[" line="27" column="8" />
-        <mark key="]" line="34" column="30" />
-        <mark key="." line="34" column="30" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/frequency/DailyFrequencyProcessor.java" timestamp="1591587214214">
         <mark key="[" line="9" column="37" />
@@ -231,17 +227,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>DefaultTransportProcessor</text>
       </register>
       <register name="-" type="4">
-        <text>HashMap</text>
+        <text>DefaultTransportProcessor</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTWFwPE1lc3NhZ2VUeXBlLCBGdW5jdGlvbjxDYWxsRXZlbnQsTWFwPFN0cmluZyxPYmplY3Q+Pj4gbWVzc2FnZU1hcCA9IG5ldyBIYXNoTWFwPD4oMTYpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgRW51bU1hcDxGcmVxdWVuY3lUeXBlLFVuYXJ5T3BlcmF0b3I8TWFwPFN0cmluZyxPYmplY3Q+Pj4gZnJlcXVlbmN5TWFwID0gbmV3IEVudW1NYXA8PihGcmVxdWVuY3lUeXBlLmNsYXNzKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
