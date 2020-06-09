@@ -69,7 +69,6 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/model/UserDefinedRoster.java" timestamp="1591684074133">
         <mark key="[" line="0" column="35" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/JdbcInsertkefu.java" timestamp="1591673865415" />
       <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/Hgatest2Application.java" timestamp="1591674499686">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -79,10 +78,15 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/model/define/DefinedTemplateEntity.java" timestamp="1591684221746">
         <mark key="[" line="9" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591683010465">
+      <file name="/Dummy.txt" timestamp="1591686754503">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/pom.xml" timestamp="1591687315878">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/DefinedTemplateServiceImpl.java" timestamp="1591684593843">
         <mark key="[" line="20" column="4" />
@@ -93,7 +97,7 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/config/Person.java" timestamp="1591674996039">
         <mark key="[" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/kafka/KafkaSenderTest.java" timestamp="1591673760599" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/resources/config/application.yml" timestamp="1591687206516" />
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/mapper/DefinedTemplateMapper.java" timestamp="1591684562977">
         <mark key="[" line="10" column="38" />
       </file>
@@ -109,7 +113,7 @@
         <mark key="." line="118" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/JdbcInsertkefu3.java" timestamp="1591673887697" />
-      <file name="/fragment.java" timestamp="1591683010446">
+      <file name="/fragment.java" timestamp="1591686754490">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/controller/RosterDefineController.java" timestamp="1591684031691">
@@ -226,11 +230,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">LnN0cmVhbSgpLmZpbHRlcih1c2VyRGVmaW5lZFJvc3RlciAtPiBpZHMuY29udGFpbnModXNlckRlZmluZWRSb3N0ZXIuZ2V0SWQoKSkpLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Pgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LnN0cmVhbSgpLmZpbHRlcih1c2VyRGVmaW5lZFJvc3RlciAtPiBpZHMuY29udGFpbnModXNlckRlZmluZWRSb3N0ZXIuZ2V0SWQoKSkpLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>fire</text>
@@ -239,31 +243,31 @@
         <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgRW51bU1hcDxGcmVxdWVuY3lUeXBlLFVuYXJ5T3BlcmF0b3I8TWFwPFN0cmluZyxPYmplY3Q+Pj4gZnJlcXVlbmN5TWFwID0gbmV3IEVudW1NYXA8PihGcmVxdWVuY3lUeXBlLmNsYXNzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAidGVtcGxhdGVJZCI6ICJzdHJpbmciLAo=</text>
+        <text encoding="base64">Pgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fCB0ZW1wbGF0ZUlkICB8IFN0cmluZyAgfCDmtLvliqhpZCAgICAgICAgICAgICB8ICAgICAgICAgICAgICAgfAo=</text>
+        <text encoding="base64">ICAidGVtcGxhdGVJZCI6ICJzdHJpbmciLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJ0ZW1wbGF0ZUlkIjogInN0cmluZyIK</text>
+        <text encoding="base64">fCB0ZW1wbGF0ZUlkICB8IFN0cmluZyAgfCDmtLvliqhpZCAgICAgICAgICAgICB8ICAgICAgICAgICAgICAgfAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJ0ZW1wbGF0ZUlkIjogInN0cmluZyIK</text>
       </register>
       <register name="5" type="2">
-        <text />
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text />
       </register>
       <register name="7" type="2">
-        <text>@SpringBootApplication</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>@SpringBootApplication</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
