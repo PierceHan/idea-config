@@ -60,10 +60,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/DefinedTemplateService.java" timestamp="1591689662966">
-        <mark key="[" line="11" column="70" />
-        <mark key="]" line="11" column="70" />
-        <mark key="." line="11" column="70" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/DefinedTemplateService.java" timestamp="1591690933474">
+        <mark key="[" line="13" column="92" />
+        <mark key="]" line="13" column="92" />
+        <mark key="." line="13" column="92" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/RosterServiceImpl.java" timestamp="1591691306338">
+        <mark key="[" line="196" column="66" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/pom.xml" timestamp="1591674313535">
         <mark key="[" line="129" column="12" />
@@ -73,10 +76,10 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/model/UserDefinedRoster.java" timestamp="1591684074133">
         <mark key="[" line="0" column="35" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/controller/DefinedTemplateController.java" timestamp="1591689645336">
-        <mark key="[" line="25" column="78" />
-        <mark key="]" line="25" column="78" />
-        <mark key="." line="25" column="78" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/controller/DefinedTemplateController.java" timestamp="1591690916418">
+        <mark key="[" line="25" column="101" />
+        <mark key="]" line="25" column="91" />
+        <mark key="." line="25" column="91" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/Hgatest2Application.java" timestamp="1591674499686">
         <mark key="[" line="7" column="0" />
@@ -96,11 +99,12 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/DefinedTemplateServiceImpl.java" timestamp="1591689674462">
-        <mark key="[" line="33" column="8" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-        <mark key="^" line="18" column="13" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/DefinedTemplateServiceImpl.java" timestamp="1591690960176">
+        <mark key="'" line="41" column="26" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="41" column="23" />
+        <mark key="." line="41" column="23" />
+        <mark key="^" line="21" column="13" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/config/Person.java" timestamp="1591674996039">
         <mark key="[" line="10" column="0" />
@@ -123,8 +127,7 @@
         <mark key="]" line="118" column="0" />
         <mark key="." line="118" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/JdbcInsertkefu3.java" timestamp="1591673887697" />
-      <file name="/fragment.java" timestamp="1591686754490">
+      <file name="/fragment.java" timestamp="1591690182369">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/controller/RosterDefineController.java" timestamp="1591688766792">
@@ -139,7 +142,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" />
       <jump line="33" column="0" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/serivce/impl/InstantServiceImplTest.java" />
       <jump line="60" column="28" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/serivce/impl/InstantServiceImplTest.java" />
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/serivce/impl/InstantServiceImplTest.java" />
@@ -239,15 +241,16 @@
       <jump line="122" column="24" filename="$MAVEN_REPOSITORY$/cc/wellcloud/framework/core/CC.Core/1.2.0/CC.Core-1.2.0.jar!/cc/wellcloud/framework/core/client/HttpClient.class" />
       <jump line="115" column="48" filename="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/core/strategy/dial/AbstractDialSolution.java" />
       <jump line="155" column="34" filename="$USER_HOME$/IdeaProjects/huijie/dncserver/src/main/java/com/wellcloud/dnc/service/impl/BlackServiceImpl.java" />
+      <jump line="40" column="26" filename="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/DefinedTemplateServiceImpl.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CgogICAgTGlzdDxEZWZpbmVkVGVtcGxhdGVFbnRpdHk+IHJlbGV2YW5jZShMaXN0PERlZmluZWRUZW1wbGF0ZUVudGl0eT4gZGVmaW5lZFRlbXBsYXRlRW50aXRpZXMp</text>
+        <text>definedIds</text>
       </register>
       <register name="-" type="4">
-        <text>definedTemplateEntities</text>
+        <text>definedIds</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
