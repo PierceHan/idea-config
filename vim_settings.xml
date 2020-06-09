@@ -60,66 +60,34 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/resources/config/application-dev.yaml" timestamp="1591613624787">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1591668986082">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/dncserver/src/main/java/com/wellcloud/dnc/service/BlackService.java" timestamp="1591617407606">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/dncserver/src/main/java/com/wellcloud/dnc/DncserverApplication.java" timestamp="1591617805032">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/config/ConfigProperties.java" timestamp="1591671653714">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1591617853061">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/dncserver/src/main/java/com/wellcloud/dnc/controller/BlackController.java" timestamp="1591617334998">
-        <mark key="[" line="103" column="109" />
-        <mark key="]" line="103" column="109" />
-        <mark key="." line="103" column="109" />
-      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.1.RELEASE/spring-boot-autoconfigure-2.1.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/quartz/QuartzProperties.java" timestamp="1591670839843" />
       <file name="$USER_HOME$/IdeaProjects/huijie/dncserver/src/main/java/com/wellcloud/dnc/service/impl/BlackServiceImpl.java" timestamp="1591617913570">
         <mark key="[" line="338" column="0" />
         <mark key="]" line="338" column="0" />
         <mark key="." line="338" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/dncserver/src/main/java/com/wellcloud/dnc/config/ConfigProperties.java" timestamp="1591618243350">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/dncserver/src/main/java/com/wellcloud/dnc/service/BlacklistService.java" timestamp="1591617581384">
-        <mark key="[" line="18" column="70" />
-        <mark key="]" line="20" column="46" />
-        <mark key="." line="20" column="46" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/dncserver/src/main/java/com/wellcloud/dnc/controller/BlacklistController.java" timestamp="1591617720671">
         <mark key="[" line="49" column="25" />
         <mark key="]" line="73" column="44" />
         <mark key="." line="73" column="44" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/dce/file/startup.sh" timestamp="1591668913182">
-        <mark key="[" line="28" column="17" />
-        <mark key="]" line="28" column="17" />
-        <mark key="." line="28" column="17" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/dncserver/src/main/java/com/wellcloud/dnc/service/impl/BlacklistServiceImpl.java" timestamp="1591617613675">
-        <mark key="[" line="107" column="68" />
-        <mark key="]" line="107" column="68" />
-        <mark key="." line="107" column="68" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/weikong/WeiKonbBack1.java" timestamp="1591616975043">
-        <mark key="[" line="116" column="32" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/resources/config/application-stress2.yml" timestamp="1591671656368">
+        <mark key="[" line="36" column="20" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/dncserver/src/main/resources/application.yaml" timestamp="1591618040265">
         <mark key="[" line="1" column="7" />
@@ -135,6 +103,46 @@
         <mark key="[" line="28" column="235" />
         <mark key="]" line="28" column="235" />
         <mark key="." line="28" column="235" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1591668986082">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/pom.xml" timestamp="1591672142880">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/dncserver/src/main/java/com/wellcloud/dnc/DncserverApplication.java" timestamp="1591617805032">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/dncserver/src/main/java/com/wellcloud/dnc/controller/BlackController.java" timestamp="1591617334998">
+        <mark key="[" line="103" column="109" />
+        <mark key="]" line="103" column="109" />
+        <mark key="." line="103" column="109" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/dncserver/src/main/java/com/wellcloud/dnc/config/ConfigProperties.java" timestamp="1591618243350">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/dncserver/src/main/java/com/wellcloud/dnc/service/BlacklistService.java" timestamp="1591617581384">
+        <mark key="[" line="18" column="70" />
+        <mark key="]" line="20" column="46" />
+        <mark key="." line="20" column="46" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/file/startup.sh" timestamp="1591668913182">
+        <mark key="[" line="28" column="17" />
+        <mark key="]" line="28" column="17" />
+        <mark key="." line="28" column="17" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/dncserver/src/main/java/com/wellcloud/dnc/service/impl/BlacklistServiceImpl.java" timestamp="1591617613675">
+        <mark key="[" line="107" column="68" />
+        <mark key="]" line="107" column="68" />
+        <mark key="." line="107" column="68" />
       </file>
       <file name="/fragment.java" timestamp="1591618451626">
         <mark key="[" line="0" column="0" />
@@ -245,8 +253,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPG9wdGlvbmFsPnRydWU8L29wdGlvbmFsPgo=</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
@@ -258,34 +266,34 @@
         <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgRW51bU1hcDxGcmVxdWVuY3lUeXBlLFVuYXJ5T3BlcmF0b3I8TWFwPFN0cmluZyxPYmplY3Q+Pj4gZnJlcXVlbmN5TWFwID0gbmV3IEVudW1NYXA8PihGcmVxdWVuY3lUeXBlLmNsYXNzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPG9wdGlvbmFsPnRydWU8L29wdGlvbmFsPgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Owo=</text>
+        <text encoding="base64">QFByb3BlcnR5U291cmNlKHZhbHVlID0geyJjbGFzc3BhdGg6Li9jb25maWcvYXBwbGljYXRpb24ueW1sIn0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHJvc1VybDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyZGRpbmcgb2NtVXJsOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgVXNlckltcGwgZ2V0VXNlcihTdHJpbmcgc2Vzc2lvbklkKSB7CiAgICAgICAgVXNlciB1ID0gdXNlclNlcnZpY2UuZ2V0Q3VycmVudFVzZXIoc2Vzc2lvbklkKTsKICAgICAgICBpZiAodT09bnVsbCl7CiAgICAgICAgICAgIHRocm93IG5ldyBCbGFja0V4Y2VwdGlvbigic2Vzc2lvbklk5p+l5LiN5Yiw55So5oi3IiwgQmxhY2tFeGNlcHRpb24uRXhjZXB0aW9uTmFtZS5Gb3JiaWRkZW4pOwogICAgICAgIH0KICAgICAgICByZXR1cm4gKFVzZXJJbXBsKSB1OwogICAgfQ==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZGJfdXJsOiBqZGJjOm15c3FsOi8vMTkyLjE2OC42MC4xMzI6MzMwNi9jdGk/dXNlVW5pY29kZT10cnVlJmNoYXJhY3RlckVuY29kaW5nPVVURi04JmFsbG93TXVsdGlRdWVyaWVzPXRydWUKZGJfdXNlcm5hbWU6IHJvb3QKZGJfcGFzc3dvcmQ6IHdlbGxjbG91ZAoKZGJfc2xhdmVfdXJsOiBqZGJjOm15c3FsOi8vMTkyLjE2OC42MC4xMzI6MzMwNi9jdGk/dXNlVW5pY29kZT10cnVlJmNoYXJhY3RlckVuY29kaW5nPVVURi04JmFsbG93TXVsdGlRdWVyaWVzPXRydWUKZGJfc2xhdmVfdXNlcm5hbWU6IHJvb3QKZGJfc2xhdmVfcGFzc3dvcmQ6IHdlbGxjbG91ZAoKcm9zdGVyX3VybDogaHR0cDovLzEyNy4wLjAuMTo4MDgwCm1hc3Rlcl91cmw6IGh0dHA6Ly8xOTIuMTY4LjYwLjEyNDozMTAyNApsb2dfc3Rhc2g6IDE5Mi4xNjguNDAuMTM4Ojk2MjEKbW9uaXRvcl91cmw6IGh0dHA6Ly8xOTIuMTY4LjQwLjEwNzozMjAyNwoKb2NtOgogIHNka19ob3N0OiBzZGtzZXJ2ZXI6NTgwODAKICBtb25pdG9yX2hvc3Q6IG1vbml0b3I6NTgwODI=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBATm9uTnVsbAogICAgcHJpdmF0ZSBmaW5hbCBVc2VyU2VydmljZSB1c2VyU2VydmljZTs=</text>
+        <text encoding="base64">QENvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzKCJzcHJpbmcucXVhcnR6IikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QEltcG9ydFJlc291cmNlKCJjbGFzc3BhdGg6YXBwbGljYXRpb25Db250ZXh0LWR1YmJvLnhtbCIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIExvZ2dlciBsb2cgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihnZXRDbGFzcygpKTs=</text>
+        <text>@ConfigurationProperties(prefix = )</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
