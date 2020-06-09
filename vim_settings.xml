@@ -60,59 +60,39 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/DefinedTemplateService.java" timestamp="1591690933474">
-        <mark key="[" line="13" column="92" />
-        <mark key="]" line="13" column="92" />
-        <mark key="." line="13" column="92" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1591692810838">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/RosterServiceImpl.java" timestamp="1591691306338">
-        <mark key="[" line="196" column="66" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/DefinedTemplateServiceImpl.java" timestamp="1591692081533">
-        <mark key="[" line="67" column="15" />
-        <mark key="]" line="67" column="15" />
-        <mark key="." line="67" column="15" />
-      </file>
-      <file name="/a.dummy" timestamp="1591691688332">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/controller/DefinedTemplateController.java" timestamp="1591693357595">
-        <mark key="[" line="25" column="101" />
-        <mark key="]" line="25" column="91" />
-        <mark key="." line="25" column="91" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/Service-OAM/src/main/java/wellcloud/ServiceOAM/util/FlywayService.java" timestamp="1591704008863" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/resources/config/application.yaml" timestamp="1591703365409">
+        <mark key="[" line="5" column="4" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/json/JsonParse2.java" timestamp="1591696046844">
         <mark key="[" line="16" column="83" />
       </file>
-      <file name="/FindBoxProOrderHandler.java" timestamp="1591696779899" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/etl-service/src/main/resources/application.yml" timestamp="1591703565104" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/impl/InstantServiceImpl.java" timestamp="1591696110997">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/etl-service/pom.xml" timestamp="1591703054704" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/config/DruidConfig.java" timestamp="1591703665540" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/etl-service/src/main/java/cc/wellcloud/etl/configs/FlywayConfig.java" timestamp="1591702857282" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/config/FlywayConfig.java" timestamp="1591704246423">
+        <mark key="[" line="31" column="25" />
+        <mark key="]" line="27" column="42" />
+        <mark key="." line="27" column="42" />
+      </file>
+      <file name="/FindBoxProOrderHandler.java" timestamp="1591696779899" />
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/doc/自定义名单.md" timestamp="1591696032586">
         <mark key="[" line="118" column="0" />
         <mark key="]" line="118" column="0" />
         <mark key="." line="118" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/pom.xml" timestamp="1591703023300">
+        <mark key="[" line="23" column="8" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/dce/handler/FindBoxProOrderHandler.java" timestamp="1591696670658" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/controller/RosterDefineController.java" timestamp="1591688766792">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1591690182369">
+      <file name="/fragment.java" timestamp="1591703144776">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/RosterDefineServiceImpl.java" timestamp="1591687878223">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -220,11 +200,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>dce_schema_history</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>dce_schema_history</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
