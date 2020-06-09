@@ -115,11 +115,10 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/controller/RosterDefineController.java" timestamp="1591684031691">
         <mark key="[" line="21" column="45" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/RosterDefineServiceImpl.java" timestamp="1591685228501">
-        <mark key="[" line="46" column="21" />
-        <mark key="]" line="46" column="21" />
-        <mark key="^" line="46" column="6" />
-        <mark key="." line="46" column="21" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/RosterDefineServiceImpl.java" timestamp="1591686022030">
+        <mark key="[" line="50" column="33" />
+        <mark key="]" line="50" column="33" />
+        <mark key="." line="50" column="33" />
       </file>
     </filemarks>
     <jumps>
@@ -228,10 +227,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>collect</text>
+        <text encoding="base64">LnN0cmVhbSgpLmZpbHRlcih1c2VyRGVmaW5lZFJvc3RlciAtPiBpZHMuY29udGFpbnModXNlckRlZmluZWRSb3N0ZXIuZ2V0SWQoKSkpLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7</text>
       </register>
       <register name="-" type="4">
-        <text>collect</text>
+        <text encoding="base64">LnN0cmVhbSgpLmZpbHRlcih1c2VyRGVmaW5lZFJvc3RlciAtPiBpZHMuY29udGFpbnModXNlckRlZmluZWRSb3N0ZXIuZ2V0SWQoKSkpLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
