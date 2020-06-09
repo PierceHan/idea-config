@@ -98,26 +98,20 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/config/Person.java" timestamp="1591674553905">
+      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/config/Person.java" timestamp="1591674996039">
         <mark key="[" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/kafka/KafkaSenderTest.java" timestamp="1591673760599" />
       <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/resources/application.yaml" timestamp="1591673032033">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/resources/application-stress.properties" timestamp="1591673714887" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/resources/application-stress.properties" timestamp="1591675001775" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/doc/自定义名单.md" timestamp="1591675892721" />
       <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/test/java/com/test/config/PersonTest.java" timestamp="1591673092238">
         <mark key="[" line="14" column="2" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/JdbcInsertkefu3.java" timestamp="1591673887697" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/dce/file/startup.sh" timestamp="1591668913182">
-        <mark key="[" line="28" column="17" />
-        <mark key="]" line="28" column="17" />
-        <mark key="." line="28" column="17" />
-      </file>
-      <file name="/fragment.java" timestamp="1591618451626">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/controller/RosterDefineController.java" timestamp="1591675146710" />
     </filemarks>
     <jumps>
       <jump line="9" column="0" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" />
