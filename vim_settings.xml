@@ -100,7 +100,11 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/RosterServiceImpl.java" timestamp="1591691306338">
         <mark key="[" line="196" column="66" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/impl/InstantServiceImpl.java" timestamp="1591694391460" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/impl/InstantServiceImpl.java" timestamp="1591696110997">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/config/mybatis/typehandler/MyBatisList2JsonPropertyHandler.java" timestamp="1591694595251" />
       <file name="/Dummy.txt" timestamp="1591692810838">
         <mark key="[" line="0" column="0" />
@@ -224,8 +228,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>null</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>null</text>
@@ -237,34 +241,34 @@
         <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgRW51bU1hcDxGcmVxdWVuY3lUeXBlLFVuYXJ5T3BlcmF0b3I8TWFwPFN0cmluZyxPYmplY3Q+Pj4gZnJlcXVlbmN5TWFwID0gbmV3IEVudW1NYXA8PihGcmVxdWVuY3lUeXBlLmNsYXNzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZGRkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBkZGRkCg==</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">CgogICAgTGlzdDxEZWZpbmVkVGVtcGxhdGVFbnRpdHk+IHJlbGV2YW5jZShMaXN0PERlZmluZWRUZW1wbGF0ZUVudGl0eT4gZGVmaW5lZFRlbXBsYXRlRW50aXRpZXMp</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBMaXN0PERlZmluZWRUZW1wbGF0ZUVudGl0eT4gcmVsZXZhbmNlKExpc3Q8RGVmaW5lZFRlbXBsYXRlRW50aXR5PiBkZWZpbmVkVGVtcGxhdGVFbnRpdGllcykgewogICAgICAgIGRlZmluZWRUZW1wbGF0ZU1hcHBlcgogICAgICAgIHJldHVybiBudWxsOwogICAgfQ==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIAoKCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text />
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Pgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAidGVtcGxhdGVJZCI6ICJzdHJpbmciLAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">fCB0ZW1wbGF0ZUlkICB8IFN0cmluZyAgfCDmtLvliqhpZCAgICAgICAgICAgICB8ICAgICAgICAgICAgICAgfAo=</text>
+        <text encoding="base64">ICAidGVtcGxhdGVJZCI6ICJzdHJpbmciLAo=</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
