@@ -114,6 +114,10 @@
           <option name="url" value="http://gitlab.wellcloud.cc:30000/cloud/security-service.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.wellcloud.cc:30000/cloud/Service-OAM.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/huijie" />
