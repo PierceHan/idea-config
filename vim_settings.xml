@@ -60,7 +60,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/JdbcInsertkefu2.java" timestamp="1591673881340" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/DefinedTemplateService.java" timestamp="1591689662966">
+        <mark key="[" line="11" column="70" />
+        <mark key="]" line="11" column="70" />
+        <mark key="." line="11" column="70" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/pom.xml" timestamp="1591674313535">
         <mark key="[" line="129" column="12" />
         <mark key="]" line="102" column="0" />
@@ -69,12 +73,16 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/model/UserDefinedRoster.java" timestamp="1591684074133">
         <mark key="[" line="0" column="35" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/controller/DefinedTemplateController.java" timestamp="1591689645336">
+        <mark key="[" line="25" column="78" />
+        <mark key="]" line="25" column="78" />
+        <mark key="." line="25" column="78" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/Hgatest2Application.java" timestamp="1591674499686">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/JdbcInsert.java" timestamp="1591673873469" />
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/model/define/DefinedTemplateEntity.java" timestamp="1591684221746">
         <mark key="[" line="9" column="2" />
       </file>
@@ -88,14 +96,17 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/DefinedTemplateServiceImpl.java" timestamp="1591684593843">
-        <mark key="[" line="20" column="4" />
-        <mark key="]" line="18" column="13" />
-        <mark key="." line="18" column="12" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/DefinedTemplateServiceImpl.java" timestamp="1591689674462">
+        <mark key="[" line="33" column="8" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
         <mark key="^" line="18" column="13" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/config/Person.java" timestamp="1591674996039">
         <mark key="[" line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/RosterDefineService.java" timestamp="1591687444347">
+        <mark key="[" line="15" column="44" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/resources/config/application.yml" timestamp="1591687206516" />
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/mapper/DefinedTemplateMapper.java" timestamp="1591684562977">
@@ -116,13 +127,15 @@
       <file name="/fragment.java" timestamp="1591686754490">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/controller/RosterDefineController.java" timestamp="1591684031691">
-        <mark key="[" line="21" column="45" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/controller/RosterDefineController.java" timestamp="1591688766792">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/RosterDefineServiceImpl.java" timestamp="1591686022030">
-        <mark key="[" line="50" column="33" />
-        <mark key="]" line="50" column="33" />
-        <mark key="." line="50" column="33" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/RosterDefineServiceImpl.java" timestamp="1591687878223">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -230,11 +243,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CgogICAgTGlzdDxEZWZpbmVkVGVtcGxhdGVFbnRpdHk+IHJlbGV2YW5jZShMaXN0PERlZmluZWRUZW1wbGF0ZUVudGl0eT4gZGVmaW5lZFRlbXBsYXRlRW50aXRpZXMp</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>definedTemplateEntities</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
@@ -242,35 +255,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgRW51bU1hcDxGcmVxdWVuY3lUeXBlLFVuYXJ5T3BlcmF0b3I8TWFwPFN0cmluZyxPYmplY3Q+Pj4gZnJlcXVlbmN5TWFwID0gbmV3IEVudW1NYXA8PihGcmVxdWVuY3lUeXBlLmNsYXNzKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Pgo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CgogICAgTGlzdDxEZWZpbmVkVGVtcGxhdGVFbnRpdHk+IHJlbGV2YW5jZShMaXN0PERlZmluZWRUZW1wbGF0ZUVudGl0eT4gZGVmaW5lZFRlbXBsYXRlRW50aXRpZXMp</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAidGVtcGxhdGVJZCI6ICJzdHJpbmciLAo=</text>
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBMaXN0PERlZmluZWRUZW1wbGF0ZUVudGl0eT4gcmVsZXZhbmNlKExpc3Q8RGVmaW5lZFRlbXBsYXRlRW50aXR5PiBkZWZpbmVkVGVtcGxhdGVFbnRpdGllcykgewogICAgICAgIGRlZmluZWRUZW1wbGF0ZU1hcHBlcgogICAgICAgIHJldHVybiBudWxsOwogICAgfQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fCB0ZW1wbGF0ZUlkICB8IFN0cmluZyAgfCDmtLvliqhpZCAgICAgICAgICAgICB8ICAgICAgICAgICAgICAgfAo=</text>
+        <text encoding="base64">ICAgIAoKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJ0ZW1wbGF0ZUlkIjogInN0cmluZyIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text />
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Pgo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAidGVtcGxhdGVJZCI6ICJzdHJpbmciLAo=</text>
       </register>
       <register name="8" type="2">
-        <text>@SpringBootApplication</text>
+        <text encoding="base64">fCB0ZW1wbGF0ZUlkICB8IFN0cmluZyAgfCDmtLvliqhpZCAgICAgICAgICAgICB8ICAgICAgICAgICAgICAgfAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJ0ZW1wbGF0ZUlkIjogInN0cmluZyIK</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
