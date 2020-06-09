@@ -68,10 +68,8 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/RosterServiceImpl.java" timestamp="1591691306338">
         <mark key="[" line="196" column="66" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/pom.xml" timestamp="1591674313535">
-        <mark key="[" line="129" column="12" />
-        <mark key="]" line="102" column="0" />
-        <mark key="." line="102" column="0" />
+      <file name="/a.dummy" timestamp="1591691688332">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/model/UserDefinedRoster.java" timestamp="1591684074133">
         <mark key="[" line="0" column="35" />
@@ -99,12 +97,10 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/DefinedTemplateServiceImpl.java" timestamp="1591690960176">
-        <mark key="'" line="41" column="26" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="41" column="23" />
-        <mark key="." line="41" column="23" />
-        <mark key="^" line="21" column="13" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/DefinedTemplateServiceImpl.java" timestamp="1591691698368">
+        <mark key="[" line="67" column="15" />
+        <mark key="]" line="67" column="15" />
+        <mark key="." line="67" column="15" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/config/Person.java" timestamp="1591674996039">
         <mark key="[" line="10" column="0" />
@@ -247,10 +243,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>definedIds</text>
+        <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>definedIds</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
@@ -258,35 +254,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgRW51bU1hcDxGcmVxdWVuY3lUeXBlLFVuYXJ5T3BlcmF0b3I8TWFwPFN0cmluZyxPYmplY3Q+Pj4gZnJlcXVlbmN5TWFwID0gbmV3IEVudW1NYXA8PihGcmVxdWVuY3lUeXBlLmNsYXNzKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CgogICAgTGlzdDxEZWZpbmVkVGVtcGxhdGVFbnRpdHk+IHJlbGV2YW5jZShMaXN0PERlZmluZWRUZW1wbGF0ZUVudGl0eT4gZGVmaW5lZFRlbXBsYXRlRW50aXRpZXMp</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBkZGRkCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBMaXN0PERlZmluZWRUZW1wbGF0ZUVudGl0eT4gcmVsZXZhbmNlKExpc3Q8RGVmaW5lZFRlbXBsYXRlRW50aXR5PiBkZWZpbmVkVGVtcGxhdGVFbnRpdGllcykgewogICAgICAgIGRlZmluZWRUZW1wbGF0ZU1hcHBlcgogICAgICAgIHJldHVybiBudWxsOwogICAgfQ==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CgogICAgTGlzdDxEZWZpbmVkVGVtcGxhdGVFbnRpdHk+IHJlbGV2YW5jZShMaXN0PERlZmluZWRUZW1wbGF0ZUVudGl0eT4gZGVmaW5lZFRlbXBsYXRlRW50aXRpZXMp</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAoKCg==</text>
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBMaXN0PERlZmluZWRUZW1wbGF0ZUVudGl0eT4gcmVsZXZhbmNlKExpc3Q8RGVmaW5lZFRlbXBsYXRlRW50aXR5PiBkZWZpbmVkVGVtcGxhdGVFbnRpdGllcykgewogICAgICAgIGRlZmluZWRUZW1wbGF0ZU1hcHBlcgogICAgICAgIHJldHVybiBudWxsOwogICAgfQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAoKCg==</text>
       </register>
       <register name="5" type="2">
-        <text />
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Pgo=</text>
+        <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAidGVtcGxhdGVJZCI6ICJzdHJpbmciLAo=</text>
+        <text encoding="base64">Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fCB0ZW1wbGF0ZUlkICB8IFN0cmluZyAgfCDmtLvliqhpZCAgICAgICAgICAgICB8ICAgICAgICAgICAgICAgfAo=</text>
+        <text encoding="base64">ICAidGVtcGxhdGVJZCI6ICJzdHJpbmciLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJ0ZW1wbGF0ZUlkIjogInN0cmluZyIK</text>
+        <text encoding="base64">fCB0ZW1wbGF0ZUlkICB8IFN0cmluZyAgfCDmtLvliqhpZCAgICAgICAgICAgICB8ICAgICAgICAgICAgICAgfAo=</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
