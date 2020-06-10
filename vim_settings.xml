@@ -60,10 +60,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/entity/roster/RosterRO.java" timestamp="1591756918238" />
-      <file name="/Dummy.txt" timestamp="1591756804688">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/RosterServiceImpl.java" timestamp="1591756781757">
         <mark key="[" line="214" column="51" />
         <mark key="]" line="168" column="19" />
@@ -73,6 +69,25 @@
         <mark key="[" line="53" column="8" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/entity/roster/MultiNumberRosterRO.java" timestamp="1591756958839" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/ProcessorFactory.java" timestamp="1591755577753">
+        <mark key="[" line="37" column="19" />
+        <mark key="]" line="37" column="29" />
+        <mark key="." line="37" column="29" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/entity/strategy/DialStrategyEntity.java" timestamp="1591756988121" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/service/process/ProcessServiceImpl.java" timestamp="1591757950594">
+        <mark key="[" line="23" column="78" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/DelayProcessor.java" timestamp="1591755254655">
+        <mark key="[" line="22" column="17" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/entity/roster/RosterRO.java" timestamp="1591756918238" />
+      <file name="/Dummy.txt" timestamp="1591756804688">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/message/DefaultMessageProcessor.java" timestamp="1591757562365">
+        <mark key="[" line="17" column="8" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/config/FlywayConfig.java" timestamp="1591753902173">
         <mark key="[" line="27" column="42" />
         <mark key="]" line="27" column="42" />
@@ -84,17 +99,8 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/log/LogTest1.java" timestamp="1591755404306">
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/ProcessorFactory.java" timestamp="1591755577753">
-        <mark key="[" line="37" column="19" />
-        <mark key="]" line="37" column="29" />
-        <mark key="." line="37" column="29" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/pom.xml" timestamp="1591703023300">
         <mark key="[" line="23" column="8" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/entity/strategy/DialStrategyEntity.java" timestamp="1591756988121" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/DelayProcessor.java" timestamp="1591755254655">
-        <mark key="[" line="22" column="17" />
       </file>
       <file name="/fragment.java" timestamp="1591703144776">
         <mark key="[" line="0" column="0" />
