@@ -60,7 +60,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1591754006289">
+      <file name="/Dummy.txt" timestamp="1591755530705">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/resources/config/application.yaml" timestamp="1591752772789">
@@ -79,6 +79,11 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/json/JsonParse2.java" timestamp="1591696046844">
         <mark key="[" line="16" column="83" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/ProcessorFactory.java" timestamp="1591755577753">
+        <mark key="[" line="37" column="19" />
+        <mark key="]" line="37" column="29" />
+        <mark key="." line="37" column="29" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/impl/InstantServiceImpl.java" timestamp="1591696110997">
         <mark key="[" line="24" column="0" />
@@ -206,10 +211,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>messageProcessor,bodyProcessor,frequencyProcessor,</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>messageProcessor,bodyProcessor,frequencyProcessor,</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
@@ -224,28 +229,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZGRkCg==</text>
+        <text encoding="base64">ICAgICAgICBGdW5jdGlvbjxDYWxsRXZlbnQsIE1hcDxTdHJpbmcsIE9iamVjdD4+IG1lc3NhZ2VQcm9jZXNzb3IgPSBwcm9jZXNzb3JNYXAuZ2V0TWVzc2FnZU1hcCgpLmdldChzdWJzY3JpYmVFbnRpdHkuZ2V0TWVzc2FnZVR5cGUoKSk7CiAgICAgICAgVW5hcnlPcGVyYXRvcjxNYXA8U3RyaW5nLCBPYmplY3Q+PiBib2R5UHJvY2Vzc29yID0gcHJvY2Vzc29yTWFwLmdldEJvZHlNYXAoKS5nZXQoc3Vic2NyaWJlRW50aXR5LmdldEJvZHlUeXBlKCkpOwogICAgICAgIFByZWRpY2F0ZTxNYXA8U3RyaW5nLCBPYmplY3Q+PiBmcmVxdWVuY3lQcm9jZXNzb3IgPSBwcm9jZXNzb3JNYXAuZ2V0RnJlcXVlbmN5TWFwKCkuZ2V0KHN1YnNjcmliZUVudGl0eS5nZXRGcmVxdWVuY3lUeXBlKCkpOw==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CgogICAgTGlzdDxEZWZpbmVkVGVtcGxhdGVFbnRpdHk+IHJlbGV2YW5jZShMaXN0PERlZmluZWRUZW1wbGF0ZUVudGl0eT4gZGVmaW5lZFRlbXBsYXRlRW50aXRpZXMp</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBMaXN0PERlZmluZWRUZW1wbGF0ZUVudGl0eT4gcmVsZXZhbmNlKExpc3Q8RGVmaW5lZFRlbXBsYXRlRW50aXR5PiBkZWZpbmVkVGVtcGxhdGVFbnRpdGllcykgewogICAgICAgIGRlZmluZWRUZW1wbGF0ZU1hcHBlcgogICAgICAgIHJldHVybiBudWxsOwogICAgfQ==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAoKCg==</text>
-      </register>
-      <register name="6" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBkZGRkCg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">CgogICAgTGlzdDxEZWZpbmVkVGVtcGxhdGVFbnRpdHk+IHJlbGV2YW5jZShMaXN0PERlZmluZWRUZW1wbGF0ZUVudGl0eT4gZGVmaW5lZFRlbXBsYXRlRW50aXRpZXMp</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBMaXN0PERlZmluZWRUZW1wbGF0ZUVudGl0eT4gcmVsZXZhbmNlKExpc3Q8RGVmaW5lZFRlbXBsYXRlRW50aXR5PiBkZWZpbmVkVGVtcGxhdGVFbnRpdGllcykgewogICAgICAgIGRlZmluZWRUZW1wbGF0ZU1hcHBlcgogICAgICAgIHJldHVybiBudWxsOwogICAgfQ==</text>
+      </register>
       <register name="7" type="2">
-        <text />
+        <text encoding="base64">ICAgIAoKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAidGVtcGxhdGVJZCI6ICJzdHJpbmciLAo=</text>
+        <text />
       </register>
       <register name=":" type="4">
         <text>close</text>
