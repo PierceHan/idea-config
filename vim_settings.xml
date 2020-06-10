@@ -60,28 +60,22 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/huijie/Service-OAM/src/main/java/wellcloud/ServiceOAM/util/FlywayService.java" timestamp="1591704008863" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/resources/config/application.yaml" timestamp="1591703365409">
-        <mark key="[" line="5" column="4" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/resources/config/application.yaml" timestamp="1591752772789">
+        <mark key="[" line="53" column="8" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/config/FlywayConfig.java" timestamp="1591752848722">
+        <mark key="[" line="27" column="42" />
+        <mark key="]" line="27" column="42" />
+        <mark key="." line="27" column="42" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/json/JsonParse2.java" timestamp="1591696046844">
         <mark key="[" line="16" column="83" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/etl-service/src/main/resources/application.yml" timestamp="1591703565104" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/impl/InstantServiceImpl.java" timestamp="1591696110997">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/etl-service/pom.xml" timestamp="1591703054704" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/config/DruidConfig.java" timestamp="1591703665540" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/etl-service/src/main/java/cc/wellcloud/etl/configs/FlywayConfig.java" timestamp="1591702857282" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/config/FlywayConfig.java" timestamp="1591704246423">
-        <mark key="[" line="31" column="25" />
-        <mark key="]" line="27" column="42" />
-        <mark key="." line="27" column="42" />
-      </file>
-      <file name="/FindBoxProOrderHandler.java" timestamp="1591696779899" />
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/doc/自定义名单.md" timestamp="1591696032586">
         <mark key="[" line="118" column="0" />
         <mark key="]" line="118" column="0" />
@@ -90,7 +84,6 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/pom.xml" timestamp="1591703023300">
         <mark key="[" line="23" column="8" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/dce/handler/FindBoxProOrderHandler.java" timestamp="1591696670658" />
       <file name="/fragment.java" timestamp="1591703144776">
         <mark key="[" line="0" column="0" />
       </file>
@@ -201,10 +194,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>dce_schema_history</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>dce_schema_history</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
