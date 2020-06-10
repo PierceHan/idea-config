@@ -65,21 +65,18 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/entity/TenantResourcePool.java" timestamp="1591773753366" />
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/web/TaskController.java" timestamp="1591760274942" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/command/CreateResourceCommand.java" timestamp="1591773638970" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/entity/strategy/DialStrategyEntity.java" timestamp="1591756988121" />
       <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/service/process/ProcessServiceImpl.java" timestamp="1591770588590">
         <mark key="[" line="23" column="78" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/executor/DialTaskExecutor.java" timestamp="1591760932336" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/executor/DialTaskExecutor.java" timestamp="1591776978168" />
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/entity/roster/RosterRO.java" timestamp="1591758435603" />
-      <file name="/Dummy.txt" timestamp="1591756804688">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/message/DefaultMessageProcessor.java" timestamp="1591757562365">
         <mark key="[" line="17" column="8" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/repo/TenantResourceRepository.java" timestamp="1591773808057" />
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/service/roster/RosterServiceImpl.java" timestamp="1591758541605" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/executor/TaskSenderWorker.java" timestamp="1591775032463" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/executor/TaskSenderWorker.java" timestamp="1591777697541" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application.yml" timestamp="1591777755010" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/service/ResourceService.java" timestamp="1591773830724" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/entity/CampaignResourcePool.java" timestamp="1591773662411" />
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/core/strategy/dial/MultiPhoneDialStrategy.java" timestamp="1591761071660" />
