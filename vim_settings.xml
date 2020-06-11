@@ -69,10 +69,10 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/entity/Resource.java" timestamp="1591859594431">
         <mark key="[" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/service/IResource.java" timestamp="1591859534109">
-        <mark key="[" line="12" column="26" />
-        <mark key="]" line="12" column="26" />
-        <mark key="." line="12" column="26" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/service/IResource.java" timestamp="1591865382235">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/event/adapter/OcmEventListener.java" timestamp="1591845930138">
         <mark key="[" line="40" column="12" />
@@ -84,10 +84,10 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/status/ErrorStatusEnum.java" timestamp="1591864305014">
         <mark key="[" line="102" column="4" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/service/PredictiveResource.java" timestamp="1591863303123">
-        <mark key="[" line="39" column="8" />
-        <mark key="]" line="32" column="24" />
-        <mark key="." line="32" column="24" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/service/PredictiveResource.java" timestamp="1591865411955">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSender.java" timestamp="1591864716783">
         <mark key="[" line="96" column="16" />
@@ -97,10 +97,10 @@
       <file name="/Dummy.txt" timestamp="1591858444351">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/service/PreOccupiedResource.java" timestamp="1591861520323">
-        <mark key="[" line="23" column="5" />
-        <mark key="]" line="23" column="5" />
-        <mark key="." line="23" column="5" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/service/PreOccupiedResource.java" timestamp="1591865400794">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/cc/wellcloud/cloud/interface/2.0.0/interface-2.0.0.jar!/cc/wellcloud/cloud/interfaces/status/ErrorStatusEnum.class" timestamp="1591864118343" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/executor/preocciped/PreOccipedTaskExecutor.java" timestamp="1591848393186">
@@ -115,20 +115,20 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/command/AbstractResourceCommand.java" timestamp="1591862063715">
         <mark key="[" line="37" column="4" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/service/ResourceService.java" timestamp="1591861639356">
-        <mark key="[" line="54" column="8" />
-        <mark key="]" line="39" column="49" />
-        <mark key="." line="39" column="49" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/service/ResourceService.java" timestamp="1591865420688">
+        <mark key="[" line="110" column="0" />
+        <mark key="]" line="110" column="0" />
+        <mark key="." line="110" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/Dialer.java" timestamp="1591861316166">
         <mark key="[" line="146" column="17" />
         <mark key="]" line="146" column="17" />
         <mark key="." line="146" column="17" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/message/CampaignStatusConsumer.java" timestamp="1591864694836">
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="116" column="0" />
-        <mark key="." line="116" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/message/CampaignStatusConsumer.java" timestamp="1591865126330">
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="145" column="0" />
+        <mark key="." line="145" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -255,25 +255,25 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGFza1NlbmRlciA9PSBudWxsKSByZXR1cm47</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgbW9kaWZ5V29ya1N0YXRlKGJvb2xlYW4gaXNTdG9wKSB7CiAgICAgICAgbG9nLmluZm8oIuayoeacieWunueOsCIpOwogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIG1vZGlmeVdvcmtTdGF0ZShib29sZWFuIGlzU3RvcCkgewogICAgICAgIGxvZy5pbmZvKCLkv67mlLnlt6XkvZznirbmgIE6e30iLGlzU3RvcCk7CiAgICAgICAgdGhpcy5zdG9wID0gaXNTdG9wOwogICAgfQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIG1vZGlmeVdvcmtTdGF0ZShib29sZWFuIHN0b3BXb3JrKSB7CiAgICAgICAgbG9nLmluZm8oIuS/ruaUuei1hOa6kOiOt+WPlueKtuaAgTp7fSIsc3RvcFdvcmspOwogICAgICAgIHRoaXMuc3RvcCA9IHN0b3BXb3JrOwogICAgfQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY2FtcGFpZ25EVE8uZ2V0Q2FtcGFpZ25UeXBlKCkgPT0gQ2FtcGFpZ25UeXBlRW51bS5JVlIKICAgICAgICAgICAgICAgIHx8IGNhbXBhaWduRFRPLmdldENhbXBhaWduVHlwZSgpID09IENhbXBhaWduVHlwZUVudW0uWElBT0hVSSkgewoKCiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgVGFza0NvbnRhaW5lci5zaHV0ZG93bihjYW1wYWlnbkRUTy5nZXRUZW1wbGF0ZUlkKCkpOwogICAgICAgIH0=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIGlzU3RvcCB0cnVlOnN0b3Agd29yayxmYWxzZTpzdGFydCB3b3JrCiAgICAgKi8KICAgIHZvaWQgbW9kaWZ5V29ya1N0YXRlKGJvb2xlYW4gaXNTdG9wKTs=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhcnRBY3Rpdml0eVR5cGVXaXRoQWdlbnQoY2FtcGFpZ25EVE8pOw==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhcnRUYXNrU2VuZGVyV29ya2VyKGNhbXBhaWduRFRPKTsK</text>
+        <text>@Service</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
