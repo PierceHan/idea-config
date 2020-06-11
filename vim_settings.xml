@@ -60,10 +60,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSender.java" timestamp="1591842222793">
-        <mark key="[" line="134" column="0" />
-        <mark key="]" line="134" column="0" />
-        <mark key="." line="134" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSender.java" timestamp="1591845315560">
+        <mark key="[" line="131" column="0" />
+        <mark key="]" line="130" column="115" />
+        <mark key="." line="130" column="115" />
       </file>
       <file name="/Dummy.txt" timestamp="1591844697836">
         <mark key="[" line="0" column="0" />
@@ -120,8 +120,8 @@
         <mark key="]" line="146" column="17" />
         <mark key="." line="146" column="17" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/message/CampaignStatusConsumer.java" timestamp="1591839813748">
-        <mark key="[" line="168" column="74" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/message/CampaignStatusConsumer.java" timestamp="1591844910934">
+        <mark key="[" line="170" column="73" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/monitor/TaskMonitorService.java" timestamp="1591841071413">
         <mark key="[" line="130" column="29" />
@@ -232,11 +232,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>campaignDTO</text>
       </register>
       <register name="-" type="4">
-        <text>ResultEventCreator</text>
+        <text>campaignDTO</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
