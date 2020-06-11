@@ -65,7 +65,7 @@
         <mark key="]" line="134" column="0" />
         <mark key="." line="134" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591840251100">
+      <file name="/Dummy.txt" timestamp="1591844697836">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/monitor/IMonitor.java" timestamp="1591790810773">
@@ -79,18 +79,29 @@
         <mark key="]" line="27" column="11" />
         <mark key="." line="27" column="11" />
       </file>
+      <file name="/a.dummy" timestamp="1591842792988">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="16" />
+        <mark key="." line="0" column="16" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskInfoSender.java" timestamp="1591790489773">
         <mark key="[" line="50" column="41" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/event/adapter/OcmEventListener.java" timestamp="1591842637605">
-        <mark key="[" line="43" column="22" />
-        <mark key="]" line="43" column="22" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/queue/CallResultReceiver.java" timestamp="1591843489275" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/event/adapter/OcmEventListener.java" timestamp="1591844564719">
+        <mark key="[" line="40" column="12" />
+        <mark key="]" line="40" column="12" />
         <mark key="^" line="43" column="22" />
-        <mark key="." line="43" column="21" />
+        <mark key="." line="40" column="12" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/dce/DceProcessor.java" timestamp="1591841037904" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/infrastructure/config/CmsClientConfig.java" timestamp="1591838747705">
-        <mark key="[" line="66" column="46" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/event/adapter/ResultEventCreator.java" timestamp="1591844510171">
+        <mark key="[" line="22" column="9" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/infrastructure/config/CmsClientConfig.java" timestamp="1591844681724">
+        <mark key="[" line="59" column="31" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/IDialer.java" timestamp="1591839540868">
         <mark key="[" line="42" column="0" />
@@ -221,11 +232,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>void</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>void</text>
+        <text>ResultEventCreator</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
@@ -234,34 +245,34 @@
         <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgRW51bU1hcDxGcmVxdWVuY3lUeXBlLFVuYXJ5T3BlcmF0b3I8TWFwPFN0cmluZyxPYmplY3Q+Pj4gZnJlcXVlbmN5TWFwID0gbmV3IEVudW1NYXA8PihGcmVxdWVuY3lUeXBlLmNsYXNzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGxvbmcgICAgICAgICAgICAgIGFjcXVpcmVUYXNrU3RlcE1pbGxpcyA9IFdBSVRfU1RFUF9NSUxMSVM7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBFdmVudExpc3RlbmVyIGV2ZW50TGlzdGVuZXIgPSBuZXcgT2NtRXZlbnRMaXN0ZW5lcigpOw==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgUmVzdWx0RXZlbnRDcmVhdG9yICByZXN1bHRFdmVudENyZWF0b3I7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGRkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY3JlYXRlRGlhbFRhc2tSZXN1bHQoZGlhbGVyVGFzaywgLTkpOw==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmNhbGxFdmVudEJ1c0FkYXB0ZXIgPSBjYWxsRXZlbnRCdXNBZGFwdGVyOw==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text />
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhc2tNb25pdG9yU2VydmljZS5kaWFsTW9uaXRvcihkaWFsZXJUYXNrKTs=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
