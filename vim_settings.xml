@@ -61,8 +61,8 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/executor/predictive/PreDictiveTaskExecutor.java" timestamp="1591861219180" />
-      <file name="/a.dummy" timestamp="1591846811785">
-        <mark key="[" line="0" column="6" />
+      <file name="/a.dummy" timestamp="1591864034778">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
@@ -81,20 +81,18 @@
         <mark key="." line="40" column="12" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/config/RedisConfig.java" timestamp="1591862892852" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/infrastructure/config/CmsClientConfig.java" timestamp="1591844681724">
-        <mark key="[" line="59" column="31" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/status/ErrorStatusEnum.java" timestamp="1591864305014">
+        <mark key="[" line="102" column="4" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/service/PredictiveResource.java" timestamp="1591863303123">
         <mark key="[" line="39" column="8" />
         <mark key="]" line="32" column="24" />
         <mark key="." line="32" column="24" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSender.java" timestamp="1591863569799">
-        <mark key="[" line="60" column="18" />
-        <mark key="]" line="60" column="18" />
-        <mark key="." line="60" column="18" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSender.java" timestamp="1591864716783">
+        <mark key="[" line="96" column="16" />
+        <mark key="]" line="61" column="18" />
+        <mark key="." line="61" column="18" />
       </file>
       <file name="/Dummy.txt" timestamp="1591858444351">
         <mark key="[" line="0" column="0" />
@@ -104,10 +102,10 @@
         <mark key="]" line="23" column="5" />
         <mark key="." line="23" column="5" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/cc/wellcloud/cloud/interface/2.0.0/interface-2.0.0.jar!/cc/wellcloud/cloud/interfaces/status/ErrorStatusEnum.class" timestamp="1591864118343" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/executor/preocciped/PreOccipedTaskExecutor.java" timestamp="1591848393186">
         <mark key="[" line="23" column="35" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/queue/CallResultReceiver.java" timestamp="1591843489275" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/service/PreOccipedResource.java" timestamp="1591846708917">
         <mark key="[" line="13" column="0" />
       </file>
@@ -127,10 +125,10 @@
         <mark key="]" line="146" column="17" />
         <mark key="." line="146" column="17" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/message/CampaignStatusConsumer.java" timestamp="1591863859917">
-        <mark key="[" line="200" column="0" />
-        <mark key="]" line="200" column="0" />
-        <mark key="." line="200" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/message/CampaignStatusConsumer.java" timestamp="1591864694836">
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="0" />
+        <mark key="." line="116" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -242,7 +240,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>ResourceService</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
@@ -257,28 +255,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAodGFza1NlbmRlciA9PSBudWxsKSByZXR1cm47</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY2FtcGFpZ25EVE8uZ2V0Q2FtcGFpZ25UeXBlKCkgPT0gQ2FtcGFpZ25UeXBlRW51bS5JVlIKICAgICAgICAgICAgICAgIHx8IGNhbXBhaWduRFRPLmdldENhbXBhaWduVHlwZSgpID09IENhbXBhaWduVHlwZUVudW0uWElBT0hVSSkgewoKCiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgVGFza0NvbnRhaW5lci5zaHV0ZG93bihjYW1wYWlnbkRUTy5nZXRUZW1wbGF0ZUlkKCkpOwogICAgICAgIH0=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhcnRBY3Rpdml0eVR5cGVXaXRoQWdlbnQoY2FtcGFpZ25EVE8pOw==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY2FtcGFpZ25EVE8uZ2V0Q2FtcGFpZ25UeXBlKCkgPT0gQ2FtcGFpZ25UeXBlRW51bS5JVlIKICAgICAgICAgICAgICAgIHx8IGNhbXBhaWduRFRPLmdldENhbXBhaWduVHlwZSgpID09IENhbXBhaWduVHlwZUVudW0uWElBT0hVSSkgewoKCiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgVGFza0NvbnRhaW5lci5zaHV0ZG93bihjYW1wYWlnbkRUTy5nZXRUZW1wbGF0ZUlkKCkpOwogICAgICAgIH0=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhcnRUYXNrU2VuZGVyV29ya2VyKGNhbXBhaWduRFRPKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhcnRBY3Rpdml0eVR5cGVXaXRoQWdlbnQoY2FtcGFpZ25EVE8pOw==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhcnRUYXNrU2VuZGVyV29ya2VyKGNhbXBhaWduRFRPKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBFdmVudExpc3RlbmVyIGV2ZW50TGlzdGVuZXIgPSBuZXcgT2NtRXZlbnRMaXN0ZW5lcigpOw==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
