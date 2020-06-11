@@ -78,10 +78,10 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/status/ErrorStatusEnum.java" timestamp="1591864305014">
         <mark key="[" line="102" column="4" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/service/PredictiveResource.java" timestamp="1591872816895">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/service/PredictiveResource.java" timestamp="1591873353472">
+        <mark key="[" line="32" column="20" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSender.java" timestamp="1591867311144">
         <mark key="[" line="95" column="16" />
@@ -111,6 +111,11 @@
         <mark key="[" line="39" column="28" />
         <mark key="]" line="122" column="0" />
         <mark key="." line="122" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/service/BaseResource.java" timestamp="1591873403240">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/Dialer.java" timestamp="1591861316166">
         <mark key="[" line="146" column="17" />
@@ -229,10 +234,11 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>@Getter
+@Setter</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGltcGxlbWVudHMgSVJlc291cmNl</text>
+        <text>implements</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
@@ -241,31 +247,32 @@
         <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgRW51bU1hcDxGcmVxdWVuY3lUeXBlLFVuYXJ5T3BlcmF0b3I8TWFwPFN0cmluZyxPYmplY3Q+Pj4gZnJlcXVlbmN5TWFwID0gbmV3IEVudW1NYXA8PihGcmVxdWVuY3lUeXBlLmNsYXNzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>@Getter
+@Setter</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBzdG9wOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBSZXNvdXJjZQ==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBib29sZWFuIHJlbGVhc2VSZXNvdXJjZShSZWxlYXNlUmVzb3VyY2VDb21tYW5kIGNvbW1hbmQpIHsKICAgICAgICByZXR1cm4gZmFsc2U7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCBjcmVhdGVSZXNvdXJjZShDcmVhdGVSZXNvdXJjZUNvbW1hbmQgY29tbWFuZCkgewoKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIGRlbGV0ZVJlc291cmNlKElDb21tYW5kIGNvbW1hbmQpIHsKCiAgICB9</text>
+        <text encoding="base64">ICAgIEBSZXNvdXJjZQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBib29sZWFuIHJlbGVhc2VSZXNvdXJjZShSZWxlYXNlUmVzb3VyY2VDb21tYW5kIGNvbW1hbmQpIHsKICAgICAgICByZXR1cm4gZmFsc2U7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCBjcmVhdGVSZXNvdXJjZShDcmVhdGVSZXNvdXJjZUNvbW1hbmQgY29tbWFuZCkgewoKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIGRlbGV0ZVJlc291cmNlKElDb21tYW5kIGNvbW1hbmQpIHsKCiAgICB9</text>
+      </register>
       <register name="8" type="2">
-        <text>@Service</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
