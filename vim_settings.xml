@@ -61,8 +61,8 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/executor/predictive/PreDictiveTaskExecutor.java" timestamp="1591861219180" />
-      <file name="/a.dummy" timestamp="1591864034778">
-        <mark key="[" line="0" column="0" />
+      <file name="/a.dummy" timestamp="1591868987310">
+        <mark key="[" line="0" column="14" />
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
@@ -73,12 +73,6 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/event/adapter/OcmEventListener.java" timestamp="1591845930138">
-        <mark key="[" line="40" column="12" />
-        <mark key="]" line="40" column="12" />
-        <mark key="^" line="43" column="22" />
-        <mark key="." line="40" column="12" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/config/RedisConfig.java" timestamp="1591862892852" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/status/ErrorStatusEnum.java" timestamp="1591864305014">
@@ -109,16 +103,17 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/service/PreOccipedResource.java" timestamp="1591846708917">
         <mark key="[" line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/service/IvrResource.java" timestamp="1591869536583" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/event/adapter/ResultEventCreator.java" timestamp="1591858649231">
         <mark key="[" line="22" column="9" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/command/AbstractResourceCommand.java" timestamp="1591862063715">
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/command/AbstractResourceCommand.java" timestamp="1591869561154">
         <mark key="[" line="37" column="4" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/service/ResourceService.java" timestamp="1591867965924">
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="." line="102" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/service/ResourceService.java" timestamp="1591869563950">
+        <mark key="[" line="23" column="4" />
+        <mark key="]" line="122" column="0" />
+        <mark key="." line="122" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/Dialer.java" timestamp="1591861316166">
         <mark key="[" line="146" column="17" />
