@@ -60,15 +60,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application-2.0.yml" timestamp="1591949364149">
+        <mark key="[" line="17" column="46" />
+        <mark key="]" line="17" column="46" />
+        <mark key="." line="17" column="46" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/resources/application.properties" timestamp="1591947508151">
         <mark key="[" line="2" column="37" />
         <mark key="]" line="2" column="37" />
         <mark key="." line="2" column="37" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskInfoSender.java" timestamp="1591930705032">
-        <mark key="[" line="44" column="18" />
-        <mark key="]" line="44" column="18" />
-        <mark key="." line="44" column="18" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/service/context/DialContextServiceImpl.java" timestamp="1591943731044" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application-develop.yml" timestamp="1591947941561">
@@ -84,12 +84,7 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/DialerTest.java" timestamp="1591931035339" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSenderTest.java" timestamp="1591931342998">
-        <mark key="[" line="110" column="106" />
-        <mark key="]" line="109" column="64" />
-        <mark key="." line="109" column="64" />
-      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/resource/service/TenantResourcePoolService.java" timestamp="1591950263533" />
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/resources/application-dev.properties" timestamp="1591935472455" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSender.java" timestamp="1591946698898">
         <mark key="[" line="119" column="16" />
@@ -97,6 +92,7 @@
       <file name="/Dummy.txt" timestamp="1591933448026">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" timestamp="1591949490073" />
       <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/json/JsonParse3.java" timestamp="1591943047090">
         <mark key="[" line="8" column="3" />
       </file>
@@ -117,15 +113,11 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/Dialer.java" timestamp="1591931040573">
-        <mark key="[" line="151" column="4" />
-        <mark key="]" line="148" column="17" />
-        <mark key="." line="148" column="17" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/message/CampaignStatusConsumer.java" timestamp="1591934356700" />
       <file name="/fragment.java" timestamp="1591933448006">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/model/TenantQuotaDTO.java" timestamp="1591949553716" />
     </filemarks>
     <jumps>
       <jump line="33" column="0" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/serivce/impl/InstantServiceImplTest.java" />
@@ -233,10 +225,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>develop</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>develop</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
