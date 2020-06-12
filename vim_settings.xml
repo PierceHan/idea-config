@@ -71,7 +71,11 @@
         <mark key="." line="44" column="18" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/service/context/DialContextServiceImpl.java" timestamp="1591943731044" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application-develop.yml" timestamp="1591933703280" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application-develop.yml" timestamp="1591945518649">
+        <mark key="[" line="21" column="19" />
+        <mark key="]" line="21" column="19" />
+        <mark key="." line="21" column="19" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/cc/wellcloud/cloud/aocs/domain/resource/service/ResourceServiceTest.java" timestamp="1591931384809">
         <mark key="[" line="63" column="27" />
       </file>
@@ -229,10 +233,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>p</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
