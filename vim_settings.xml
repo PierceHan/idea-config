@@ -60,31 +60,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskInfoSender.java" timestamp="1591875682778">
-        <mark key="[" line="52" column="41" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/core/event/handler/CallFailedHandlerTest.java" timestamp="1591875151185" />
-      <file name="$MAVEN_REPOSITORY$/cc/wellcloud/cloud/cms-interface/1.2.0/cms-interface-1.2.0.jar!/cc/wellcloud/cloud/cms/vo/MakePredictiveCallVO.class" timestamp="1591876646824" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/event/adapter/OcmEventListener.java" timestamp="1591876712976">
-        <mark key="[" line="40" column="12" />
-        <mark key="]" line="40" column="12" />
-        <mark key="^" line="43" column="22" />
-        <mark key="." line="40" column="12" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/event/CallEventHandlerTemplate.java" timestamp="1591875100961" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/infrastructure/config/CmsClientConfig.java" timestamp="1591876693080">
-        <mark key="[" line="59" column="31" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/event/handler/CallFailedHandler.java" timestamp="1591875129329" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/service/PredictiveResource.java" timestamp="1591875338073">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSender.java" timestamp="1591876638721" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/core/event/handler/CallAnswerHandlerTest.java" timestamp="1591875070267" />
       <file name="/Dummy.txt" timestamp="1591875959158">
         <mark key="[" line="0" column="0" />
       </file>
@@ -93,19 +68,29 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/event/handler/CallHungupHandler.java" timestamp="1591875235539" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/uui/UserData.java" timestamp="1591876371523" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/event/handler/CallAnswerHandler.java" timestamp="1591875086686" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/TaskBucketHandler.java" timestamp="1591875118151" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/Dialer.java" timestamp="1591876757514">
-        <mark key="[" line="146" column="17" />
-        <mark key="]" line="146" column="17" />
-        <mark key="." line="146" column="17" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskInfoSender.java" timestamp="1591875682778">
+        <mark key="[" line="52" column="41" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/message/CampaignStatusConsumer.java" timestamp="1591877120422">
-        <mark key="[" line="126" column="47" />
-        <mark key="]" line="126" column="47" />
-        <mark key="." line="126" column="47" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/event/adapter/OcmEventListener.java" timestamp="1591876712976">
+        <mark key="[" line="40" column="12" />
+        <mark key="]" line="40" column="12" />
+        <mark key="^" line="43" column="22" />
+        <mark key="." line="40" column="12" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/infrastructure/config/CmsClientConfig.java" timestamp="1591876693080">
+        <mark key="[" line="59" column="31" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/service/PredictiveResource.java" timestamp="1591875338073">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/Dialer.java" timestamp="1591876757514">
+        <mark key="[" line="147" column="17" />
+        <mark key="]" line="147" column="17" />
+        <mark key="." line="147" column="17" />
       </file>
     </filemarks>
     <jumps>
