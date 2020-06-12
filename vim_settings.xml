@@ -60,10 +60,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/resources/application.properties" timestamp="1591935366626">
-        <mark key="[" line="2" column="34" />
-        <mark key="]" line="2" column="34" />
-        <mark key="." line="2" column="34" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/resources/application.properties" timestamp="1591944924093">
+        <mark key="[" line="2" column="37" />
+        <mark key="]" line="2" column="37" />
+        <mark key="." line="2" column="37" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskInfoSender.java" timestamp="1591930705032">
         <mark key="[" line="44" column="18" />
@@ -98,8 +98,8 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/cc/wellcloud/cloud/cms-client/1.2.0/cms-client-1.2.0.jar!/cc/wellcloud/cloud/cms/client/DefaultCMSClient.class" timestamp="1591933654817" />
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/facade/BatchAndRosterBehavior.java" timestamp="1591942846535" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application.yml" timestamp="1591942197791">
-        <mark key="[" line="19" column="13" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application.yml" timestamp="1591944895976">
+        <mark key="[" line="2" column="26" />
         <mark key="]" line="19" column="13" />
         <mark key="." line="19" column="13" />
       </file>
@@ -229,10 +229,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
