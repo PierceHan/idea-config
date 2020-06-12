@@ -60,7 +60,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/resources/application.properties" timestamp="1591944924093">
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/resources/application.properties" timestamp="1591947508151">
         <mark key="[" line="2" column="37" />
         <mark key="]" line="2" column="37" />
         <mark key="." line="2" column="37" />
@@ -71,7 +71,7 @@
         <mark key="." line="44" column="18" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/service/context/DialContextServiceImpl.java" timestamp="1591943731044" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application-develop.yml" timestamp="1591945518649">
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application-develop.yml" timestamp="1591947941561">
         <mark key="[" line="21" column="19" />
         <mark key="]" line="21" column="19" />
         <mark key="." line="21" column="19" />
@@ -91,8 +91,8 @@
         <mark key="." line="109" column="64" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/resources/application-dev.properties" timestamp="1591935472455" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSender.java" timestamp="1591945790410">
-        <mark key="[" line="61" column="46" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSender.java" timestamp="1591946698898">
+        <mark key="[" line="119" column="16" />
       </file>
       <file name="/Dummy.txt" timestamp="1591933448026">
         <mark key="[" line="0" column="0" />
@@ -107,10 +107,10 @@
         <mark key="]" line="19" column="13" />
         <mark key="." line="19" column="13" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application-dev.yml" timestamp="1591935323101">
-        <mark key="[" line="19" column="16" />
-        <mark key="]" line="19" column="16" />
-        <mark key="." line="19" column="16" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application-dev.yml" timestamp="1591947945127">
+        <mark key="[" line="15" column="10" />
+        <mark key="]" line="15" column="10" />
+        <mark key="." line="15" column="10" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/resources/application-develop.properties" timestamp="1591935500073">
         <mark key="[" line="20" column="0" />
@@ -233,10 +233,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
