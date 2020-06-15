@@ -65,6 +65,11 @@
         <mark key="]" line="9" column="25" />
         <mark key="." line="9" column="25" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/resources/application.properties" timestamp="1592204013725">
+        <mark key="[" line="2" column="34" />
+        <mark key="]" line="2" column="34" />
+        <mark key="." line="2" column="34" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/RosterServiceImpl.java" timestamp="1592193491754">
         <mark key="[" line="85" column="51" />
         <mark key="]" line="85" column="51" />
@@ -85,12 +90,7 @@
         <mark key="." line="26" column="72" />
         <mark key="^" line="26" column="73" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/resources/application-2.0.properties" timestamp="1592203864825" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/serivce/priority/PriorityServiceImplTest.java" timestamp="1591951216259">
-        <mark key="[" line="123" column="0" />
-        <mark key="]" line="123" column="0" />
-        <mark key="." line="123" column="0" />
-      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/resources/application-2.0.properties" timestamp="1592203969512" />
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/IUserDefinedService.java" timestamp="1592191816691">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -248,10 +248,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>g</text>
+        <text>v</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>v</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
