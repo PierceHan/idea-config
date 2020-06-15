@@ -70,7 +70,9 @@
         <mark key="]" line="85" column="51" />
         <mark key="." line="85" column="51" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/config/ConfigProperties.java" timestamp="1592201262363" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/config/ConfigProperties.java" timestamp="1592220596737">
+        <mark key="[" line="60" column="4" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/string/SplitTest3.java" timestamp="1592217065089">
         <mark key="[" line="23" column="27" />
       </file>
@@ -91,7 +93,11 @@
       <file name="/Dummy.txt" timestamp="1592215081453">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" timestamp="1592214741109" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" timestamp="1592220568468">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/controller/RosterController.java" timestamp="1592193501600">
         <mark key="[" line="47" column="74" />
         <mark key="]" line="46" column="75" />
@@ -230,17 +236,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>v</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>v</text>
+        <text>L</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgRW51bU1hcDxGcmVxdWVuY3lUeXBlLFVuYXJ5T3BlcmF0b3I8TWFwPFN0cmluZyxPYmplY3Q+Pj4gZnJlcXVlbmN5TWFwID0gbmV3IEVudW1NYXA8PihGcmVxdWVuY3lUeXBlLmNsYXNzKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBURU5UQU5UX1FVT1RBID0gInswfS9hcGkvb3BlcmF0aW9uL29wZXJhdGlvbi9xdW90YS97MX0iOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -249,25 +255,25 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>//    private static final String TENTANT_QUOTA = &quot;{0}/api/operation/operation/quota/{1}&quot;;</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFVzZXJEZWZpbmVkUm9zdGVyIGdldEJ5VGVtcGxhdGVJZChTdHJpbmcgdGVtcGxhdGVJZCkgewogICAgICAgIERlZmluZWRUZW1wbGF0ZUVudGl0eSBkZWZpbmVkVGVtcGxhdGVFbnRpdHkgPSBkZWZpbmVkVGVtcGxhdGVTZXJ2aWNlLnNlbGVjdEJ5VGVtcGxhdGVJZCh0ZW1wbGF0ZUlkKTsKICAgICAgICByZXR1cm4gdXNlckRlZmluZWRNYXBwZXIuc2VsZWN0QnlQcmltYXJ5S2V5KGRlZmluZWRUZW1wbGF0ZUVudGl0eS5nZXREZWZpbmVkSWQoKSk7CiAgICB9</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICBAUmVzb3VyY2UKICAgIHByaXZhdGUgRGVmaW5lZFRlbXBsYXRlU2VydmljZSBkZWZpbmVkVGVtcGxhdGVTZXJ2aWNlOw==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBFeGFtcGxlIGV4YW1wbGUgPSBuZXcgRXhhbXBsZShVc2VyRGVmaW5lZFJvc3Rlci5jbGFzcyk7CiAgICAgICAgZXhhbXBsZS5jcmVhdGVDcml0ZXJpYSgpLmFuZEVxdWFsVG8oInRlbXBsYXRlSWQiLHRlbXBsYXRlSWQpOw==</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFVzZXJEZWZpbmVkUm9zdGVyIGdldEJ5VGVtcGxhdGVJZChTdHJpbmcgdGVtcGxhdGVJZCkgewogICAgICAgIERlZmluZWRUZW1wbGF0ZUVudGl0eSBkZWZpbmVkVGVtcGxhdGVFbnRpdHkgPSBkZWZpbmVkVGVtcGxhdGVTZXJ2aWNlLnNlbGVjdEJ5VGVtcGxhdGVJZCh0ZW1wbGF0ZUlkKTsKICAgICAgICByZXR1cm4gdXNlckRlZmluZWRNYXBwZXIuc2VsZWN0QnlQcmltYXJ5S2V5KGRlZmluZWRUZW1wbGF0ZUVudGl0eS5nZXREZWZpbmVkSWQoKSk7CiAgICB9</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICBAUmVzb3VyY2UKICAgIHByaXZhdGUgRGVmaW5lZFRlbXBsYXRlU2VydmljZSBkZWZpbmVkVGVtcGxhdGVTZXJ2aWNlOw==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxTdHJpbmc+IGlkcyA9IGRlZmluZWRUZW1wbGF0ZUVudGl0aWVzLnN0cmVhbSgpLm1hcChEZWZpbmVkVGVtcGxhdGVFbnRpdHk6OmdldERlZmluZWRJZCkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsKICAgICAgICAgICAgZXhhbXBsZS5jcmVhdGVDcml0ZXJpYSgpLmFuZEluKCJpZCIsaWRzKTs=</text>
+        <text encoding="base64">ICAgICAgICBFeGFtcGxlIGV4YW1wbGUgPSBuZXcgRXhhbXBsZShVc2VyRGVmaW5lZFJvc3Rlci5jbGFzcyk7CiAgICAgICAgZXhhbXBsZS5jcmVhdGVDcml0ZXJpYSgpLmFuZEVxdWFsVG8oInRlbXBsYXRlSWQiLHRlbXBsYXRlSWQpOw==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
