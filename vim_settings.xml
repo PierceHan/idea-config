@@ -60,7 +60,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/resources/application.properties" timestamp="1592210090982">
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/resources/application.properties" timestamp="1592211821008">
         <mark key="[" line="2" column="34" />
         <mark key="]" line="2" column="34" />
         <mark key="." line="2" column="34" />
@@ -79,18 +79,15 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/controller/DefinedTemplateController.java" timestamp="1592184331543">
-        <mark key="[" line="26" column="72" />
-        <mark key="]" line="26" column="72" />
-        <mark key="." line="26" column="72" />
-        <mark key="^" line="26" column="73" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/resources/application-2.0.properties" timestamp="1592203969512" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/status/ErrorStatusEnum.java" timestamp="1592204986182" />
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/IUserDefinedService.java" timestamp="1592191816691">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSender.java" timestamp="1592212075616">
+        <mark key="[" line="273" column="33" />
       </file>
       <file name="/Dummy.txt" timestamp="1592205432580">
         <mark key="[" line="0" column="0" />
@@ -130,10 +127,8 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-interim/src/main/java/cc/wellcloud/ocm/service/info/RosterInfoServiceImpl.java" timestamp="1592203304704">
         <mark key="[" line="503" column="57" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/RosterDefineServiceImpl.java" timestamp="1591953884108">
-        <mark key="[" line="45" column="112" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/Dialer.java" timestamp="1592212137715">
+        <mark key="[" line="42" column="54" />
       </file>
     </filemarks>
     <jumps>
