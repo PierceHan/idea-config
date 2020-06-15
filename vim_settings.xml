@@ -75,7 +75,7 @@
         <mark key="]" line="9" column="25" />
         <mark key="." line="9" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592193952328">
+      <file name="/Dummy.txt" timestamp="1592201391638">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/RosterServiceImpl.java" timestamp="1592193491754">
@@ -93,6 +93,7 @@
         <mark key="]" line="46" column="75" />
         <mark key="." line="46" column="75" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/config/ConfigProperties.java" timestamp="1592201262363" />
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/controller/TestUseController.java" timestamp="1592193668569">
         <mark key="[" line="27" column="93" />
       </file>
@@ -111,11 +112,6 @@
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application-dev.yml" timestamp="1591947945127">
-        <mark key="[" line="15" column="10" />
-        <mark key="]" line="15" column="10" />
-        <mark key="." line="15" column="10" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/doc/自定义名单.md" timestamp="1592193591685">
         <mark key="[" line="13" column="26" />
