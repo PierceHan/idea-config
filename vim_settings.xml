@@ -124,8 +124,10 @@
         <mark key="]" line="15" column="10" />
         <mark key="." line="15" column="10" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/doc/自定义名单.md" timestamp="1591951791452">
-        <mark key="[" line="13" column="26" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/doc/自定义名单.md" timestamp="1592186478429">
+        <mark key="[" line="280" column="24" />
+        <mark key="]" line="280" column="24" />
+        <mark key="." line="280" column="24" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/serivce/priority/PriorityServiceImplTest.java" timestamp="1591951216259">
         <mark key="[" line="123" column="0" />
@@ -253,11 +255,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>选</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>选</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
