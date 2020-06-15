@@ -85,6 +85,7 @@
         <mark key="." line="26" column="72" />
         <mark key="^" line="26" column="73" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/resources/application-2.0.properties" timestamp="1592203864825" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/serivce/priority/PriorityServiceImplTest.java" timestamp="1591951216259">
         <mark key="[" line="123" column="0" />
         <mark key="]" line="123" column="0" />
@@ -129,11 +130,6 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-interim/src/main/java/cc/wellcloud/ocm/service/info/RosterInfoServiceImpl.java" timestamp="1592203304704">
         <mark key="[" line="503" column="57" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/intergraion/CampaignIntegrationTest.java" timestamp="1591951208888">
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="." line="93" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/model/TenantQuotaDTO.java" timestamp="1591951254773">
         <mark key="[" line="53" column="0" />
