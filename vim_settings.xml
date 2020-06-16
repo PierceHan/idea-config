@@ -65,7 +65,7 @@
         <mark key="]" line="266" column="0" />
         <mark key="." line="266" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592311465126">
+      <file name="/Dummy.txt" timestamp="1592313284521">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/service/PreOccupiedResource.java" timestamp="1592308213199">
@@ -94,6 +94,7 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/service/IResource.java" timestamp="1592308103952">
         <mark key="[" line="12" column="79" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/common/exception/handler/GlobalExceptionHandler.java" timestamp="1592312904000" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/command/AbstractResourceCommand.java" timestamp="1592294374664">
         <mark key="[" line="32" column="4" />
       </file>
@@ -110,10 +111,10 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/entity/ResourceType.java" timestamp="1592299159852">
         <mark key="[" line="6" column="12" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/common/exception/GlobalExceptionHandler.java" timestamp="1592311394569">
-        <mark key="[" line="87" column="29" />
-        <mark key="]" line="84" column="22" />
-        <mark key="." line="84" column="22" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/common/exception/GlobalExceptionHandler.java" timestamp="1592313253792">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/status/ErrorStatusEnum.java" timestamp="1592311460435">
         <mark key="[" line="81" column="32" />
@@ -238,8 +239,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>NotFoundException</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>NotFoundException</text>
@@ -251,34 +252,34 @@
         <text encoding="base64">ICAgICAgICBsb25nIGNvdW50ID0gZmllbGRzLnN0cmVhbSgpLmZpbHRlcihmaWVsZEluZm8gLT4gInJvc3RlcklkIi5lcXVhbHMoZmllbGRJbmZvLmdldEtleSgpKSkuY291bnQoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEtFWV9DQU5OT1RfUkVQRUFUKDE5MTI0LCLlj4LmlbDkuI3nrKblkIjnuqblrpoiKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEtFWV9DQU5OT1RfUkVQRUFUKDE5MTI0LCLlj4LmlbDkuI3nrKblkIjnuqblrpoiKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QEVxdWFsc0FuZEhhc2hDb2RlKGNhbGxTdXBlciA9IHRydWUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBFeGNlcHRpb25IYW5kbGVyKHZhbHVlID0gQWRhcHRlckV4Y2VwdGlvbi5jbGFzcykKICAgIEBSZXNwb25zZUJvZHkKICAgIHB1YmxpYyBXZWJSZXNwb25zZSBqc29uRXJyb3JIYW5kbGVyKEh0dHBTZXJ2bGV0UmVzcG9uc2UgcmVzcCwgQWRhcHRlckV4Y2VwdGlvbiBleGNlcHRpb24pIHsKCiAgICAgICAgV2ViUmVzcG9uc2Ugd2ViUmVzcG9uc2UgPSBuZXcgV2ViUmVzcG9uc2UoKTsKICAgICAgICB3ZWJSZXNwb25zZS5zZXRNZXNzYWdlKGV4Y2VwdGlvbi5nZXRNZXNzYWdlKCkpOwogICAgICAgIHdlYlJlc3BvbnNlLnNldENvZGUoZXhjZXB0aW9uLmdldEV4Y2VwdGlvbk5hbWUoKS5nZXRDb2RlKCkpOwogICAgICAgIHdlYlJlc3BvbnNlLnNldEluc3RhbmNlSWQoY29uZmlnUHJvcGVydGllcy5nZXRJbnN0YW5jZUlkKCkpOwogICAgICAgIHJlc3Auc2V0U3RhdHVzKGV4Y2VwdGlvbi5nZXRFeGNlcHRpb25OYW1lKCkuZ2V0Q29kZSgpKTsKICAgICAgICBsb2cud2Fybigi5omT5Y2w5Ye66Ieq5a6a5LmJ5byC5bi477yM5pa55L6/6Zeu6aKY5p+l55yLLHJlc3VsdDp7fSIsd2ViUmVzcG9uc2UsZXhjZXB0aW9uKTsKICAgICAgICByZXR1cm4gd2ViUmVzcG9uc2U7CgogICAgfQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBSZXNvdXJjZShib29sZWFuIHBlcm1pc3Npb24sIEFnZW50IGFnZW50KSB7CiAgICAgICAgCiAgICAgICAgdGhpcy5hZ2VudCA9IGFnZW50OwogICAgfQoKICAgIHB1YmxpYyBSZXNvdXJjZShib29sZWFuIHBlcm1pc3Npb24sIFJlc291cmNlVHlwZSBzdGF0ZSwgaW50IGFnZW50VGltZW91dCkgewogICAgICAgIHRoaXMucGVybWlzc2lvbiA9IHBlcm1pc3Npb247CiAgICAgICAgdGhpcy5zdGF0ZSA9IHN0YXRlOwogICAgICAgIHRoaXMuYWdlbnRUaW1lb3V0ID0gYWdlbnRUaW1lb3V0OwogICAgfQ==</text>
+        <text encoding="base64">ICAgIEtFWV9DQU5OT1RfUkVQRUFUKDE5MTI0LCLlj4LmlbDkuI3nrKblkIjnuqblrpoiKSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiAgICAgIHBlcm1pc3Npb247Cg==</text>
+        <text encoding="base64">ICAgIEtFWV9DQU5OT1RfUkVQRUFUKDE5MTI0LCLlj4LmlbDkuI3nrKblkIjnuqblrpoiKSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QEVxdWFsc0FuZEhhc2hDb2RlKGNhbGxTdXBlciA9IHRydWUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFza1NlbmRlci53YWl0QWdlbnQoKTs=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGRkCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBSZXNvdXJjZShib29sZWFuIHBlcm1pc3Npb24sIEFnZW50IGFnZW50KSB7CiAgICAgICAgCiAgICAgICAgdGhpcy5hZ2VudCA9IGFnZW50OwogICAgfQoKICAgIHB1YmxpYyBSZXNvdXJjZShib29sZWFuIHBlcm1pc3Npb24sIFJlc291cmNlVHlwZSBzdGF0ZSwgaW50IGFnZW50VGltZW91dCkgewogICAgICAgIHRoaXMucGVybWlzc2lvbiA9IHBlcm1pc3Npb247CiAgICAgICAgdGhpcy5zdGF0ZSA9IHN0YXRlOwogICAgICAgIHRoaXMuYWdlbnRUaW1lb3V0ID0gYWdlbnRUaW1lb3V0OwogICAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
