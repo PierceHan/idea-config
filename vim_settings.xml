@@ -87,7 +87,7 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSender.java" timestamp="1592212075616">
         <mark key="[" line="273" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592215081453">
+      <file name="/Dummy.txt" timestamp="1592292660332">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" timestamp="1592274538178">
@@ -100,10 +100,10 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/sql/t_roster_user_defined.sql" timestamp="1592208121878">
         <mark key="[" line="41" column="140" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/doc/自定义名单.md" timestamp="1592205753270">
-        <mark key="[" line="13" column="26" />
-        <mark key="]" line="279" column="24" />
-        <mark key="." line="279" column="24" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/doc/自定义名单.md" timestamp="1592292653526">
+        <mark key="[" line="6" column="33" />
+        <mark key="]" line="6" column="34" />
+        <mark key="." line="6" column="34" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/Dialer.java" timestamp="1592213271855">
         <mark key="[" line="42" column="54" />
@@ -219,11 +219,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>L</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
