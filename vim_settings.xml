@@ -65,24 +65,12 @@
         <mark key="]" line="19" column="46" />
         <mark key="." line="19" column="46" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSender.java" timestamp="1592212075616">
-        <mark key="[" line="273" column="33" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1592215081453">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" timestamp="1592274538178">
-        <mark key="[" line="238" column="96" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/resources/application.properties" timestamp="1592211821008">
         <mark key="[" line="2" column="34" />
         <mark key="]" line="2" column="34" />
         <mark key="." line="2" column="34" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/resources/mapper/RosterMapper.xml" timestamp="1592273722520" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/service/roster/RosterServiceImpl.java" timestamp="1592273518618" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/RosterServiceImpl.java" timestamp="1592290724843" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/config/ConfigProperties.java" timestamp="1592287827144">
         <mark key="[" line="63" column="4" />
       </file>
@@ -94,25 +82,33 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/resources/mapper/BatchMapper.xml" timestamp="1592272862070" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/service/batch/BatchServiceImpl.java" timestamp="1592272806503" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSender.java" timestamp="1592212075616">
+        <mark key="[" line="273" column="33" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1592215081453">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" timestamp="1592274538178">
+        <mark key="[" line="238" column="96" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/resources/mapper/RosterMapper.xml" timestamp="1592273722520" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/service/roster/RosterServiceImpl.java" timestamp="1592273518618" />
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/sql/t_roster_user_defined.sql" timestamp="1592208121878">
         <mark key="[" line="41" column="140" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/resources/mapper/BatchMapper.xml" timestamp="1592272862070" />
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/doc/自定义名单.md" timestamp="1592205753270">
         <mark key="[" line="13" column="26" />
         <mark key="]" line="279" column="24" />
         <mark key="." line="279" column="24" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-interim/src/main/java/cc/wellcloud/ocm/util/HttpUtils.java" timestamp="1592203319867">
-        <mark key="[" line="258" column="81" />
-        <mark key="]" line="258" column="81" />
-        <mark key="." line="258" column="81" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/service/batch/BatchServiceImpl.java" timestamp="1592272806503" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/Dialer.java" timestamp="1592213271855">
         <mark key="[" line="42" column="54" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/RosterDefineServiceImpl.java" timestamp="1592214946254">
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/RosterDefineServiceImpl.java" timestamp="1592291069949">
         <mark key="[" line="46" column="111" />
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
