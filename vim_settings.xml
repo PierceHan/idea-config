@@ -86,8 +86,10 @@
         <mark key="]" line="18" column="18" />
         <mark key="." line="18" column="18" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSender.java" timestamp="1592383521015">
-        <mark key="[" line="162" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSender.java" timestamp="1592385760100">
+        <mark key="[" line="136" column="21" />
+        <mark key="]" line="136" column="21" />
+        <mark key="." line="136" column="21" />
       </file>
       <file name="/Dummy.txt" timestamp="1592384440918">
         <mark key="[" line="0" column="0" />
@@ -117,10 +119,11 @@
         <mark key="]" line="59" column="19" />
         <mark key="." line="59" column="19" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSenderMap.java" timestamp="1592384660068">
-        <mark key="[" line="16" column="57" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSenderMap.java" timestamp="1592385831796">
+        <mark key="[" line="16" column="4" />
+        <mark key="]" line="16" column="4" />
+        <mark key="." line="16" column="4" />
+        <mark key="^" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/web/RosterController.java" timestamp="1592383301662" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/ISwitch.java" timestamp="1592374879791">
@@ -237,11 +240,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>public</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>public</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
