@@ -60,8 +60,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSender.java" timestamp="1592308077598">
-        <mark key="[" line="126" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSender.java" timestamp="1592357557401">
+        <mark key="[" line="97" column="87" />
         <mark key="]" line="266" column="0" />
         <mark key="." line="266" column="0" />
       </file>
