@@ -60,13 +60,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/repo/DialerTaskRepository.java" timestamp="1592360985500">
-        <mark key="[" line="60" column="12" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/type/SwitchTypeEnum.java" timestamp="1592374972493">
         <mark key="[" line="6" column="27" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/executor/predictive/PreDictiveTaskExecutor.java" timestamp="1592364184030" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/aop/PagingAspect.java" timestamp="1592379307211" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/type/SwitchType.java" timestamp="1592375033794">
         <mark key="[" line="6" column="7" />
         <mark key="]" line="6" column="7" />
@@ -86,21 +84,15 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/common/exception/GlobalExceptionHandler.java" timestamp="1592313253792">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/consts/RedisKeysUtils.java" timestamp="1592364193391">
         <mark key="[" line="24" column="57" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSender.java" timestamp="1592378427646">
-        <mark key="[" line="86" column="67" />
-        <mark key="]" line="326" column="9" />
-        <mark key="." line="326" column="8" />
-        <mark key="^" line="326" column="9" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSender.java" timestamp="1592380125125">
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="140" column="0" />
+        <mark key="." line="140" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592379103426">
+      <file name="/Dummy.txt" timestamp="1592379376101">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/service/PreOccupiedResource.java" timestamp="1592365403094">
@@ -113,17 +105,21 @@
         <mark key="]" line="12" column="37" />
         <mark key="." line="12" column="37" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/service/roster/RosterServiceImpl.java" timestamp="1592379702433">
+        <mark key="[" line="179" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/config/ThreadPoolConfiguration.java" timestamp="1592378369347">
         <mark key="[" line="58" column="4" />
         <mark key="]" line="59" column="19" />
         <mark key="." line="59" column="19" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/web/RosterController.java" timestamp="1592379281148" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/ISwitch.java" timestamp="1592374879791">
         <mark key="[" line="11" column="9" />
         <mark key="]" line="11" column="9" />
         <mark key="." line="11" column="9" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/Dialer.java" timestamp="1592377137448">
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/Dialer.java" timestamp="1592380141957">
         <mark key="[" line="42" column="54" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/message/CampaignStatusConsumer.java" timestamp="1592361060500" />
@@ -234,7 +230,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZGRkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cmluZ1JlZGlzVGVtcGxhdGUub3BzRm9yWlNldCgpLmFkZChSZWRpc0tleXNVdGlscy5QUkVPQ0NVUElFRF9XQUlUX09SREVSLCBkaWFsZXJUYXNrLmdldENhbGxJZCgpLCBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSArIHdhaXRUaW1lKTsK</text>
       </register>
       <register name="-" type="4">
         <text>S</text>
@@ -246,25 +242,25 @@
         <text encoding="base64">ICAgICAgICBsb25nIGNvdW50ID0gZmllbGRzLnN0cmVhbSgpLmZpbHRlcihmaWVsZEluZm8gLT4gInJvc3RlcklkIi5lcXVhbHMoZmllbGRJbmZvLmdldEtleSgpKSkuY291bnQoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGRkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cmluZ1JlZGlzVGVtcGxhdGUub3BzRm9yWlNldCgpLmFkZChSZWRpc0tleXNVdGlscy5QUkVPQ0NVUElFRF9XQUlUX09SREVSLCBkaWFsZXJUYXNrLmdldENhbGxJZCgpLCBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSArIHdhaXRUaW1lKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGRkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oInt9OiDnrYnlvoUge30gcyIsIGNhbXBhaWduRFRPLmdldENhbXBhaWduSWQoKSwgV0FJVF9TVEVQX01JTExJUyk7</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oInt9OiDnrYnlvoUge30gcyIsIGNhbXBhaWduRFRPLmdldENhbXBhaWduSWQoKSwgV0FJVF9TVEVQX01JTExJUyk7</text>
       </register>
       <register name="5" type="2">
-        <text />
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text />
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -273,7 +269,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBFeGNlcHRpb25IYW5kbGVyKHZhbHVlID0gQWRhcHRlckV4Y2VwdGlvbi5jbGFzcykKICAgIEBSZXNwb25zZUJvZHkKICAgIHB1YmxpYyBXZWJSZXNwb25zZSBqc29uRXJyb3JIYW5kbGVyKEh0dHBTZXJ2bGV0UmVzcG9uc2UgcmVzcCwgQWRhcHRlckV4Y2VwdGlvbiBleGNlcHRpb24pIHsKCiAgICAgICAgV2ViUmVzcG9uc2Ugd2ViUmVzcG9uc2UgPSBuZXcgV2ViUmVzcG9uc2UoKTsKICAgICAgICB3ZWJSZXNwb25zZS5zZXRNZXNzYWdlKGV4Y2VwdGlvbi5nZXRNZXNzYWdlKCkpOwogICAgICAgIHdlYlJlc3BvbnNlLnNldENvZGUoZXhjZXB0aW9uLmdldEV4Y2VwdGlvbk5hbWUoKS5nZXRDb2RlKCkpOwogICAgICAgIHdlYlJlc3BvbnNlLnNldEluc3RhbmNlSWQoY29uZmlnUHJvcGVydGllcy5nZXRJbnN0YW5jZUlkKCkpOwogICAgICAgIHJlc3Auc2V0U3RhdHVzKGV4Y2VwdGlvbi5nZXRFeGNlcHRpb25OYW1lKCkuZ2V0Q29kZSgpKTsKICAgICAgICBsb2cud2Fybigi5omT5Y2w5Ye66Ieq5a6a5LmJ5byC5bi477yM5pa55L6/6Zeu6aKY5p+l55yLLHJlc3VsdDp7fSIsd2ViUmVzcG9uc2UsZXhjZXB0aW9uKTsKICAgICAgICByZXR1cm4gd2ViUmVzcG9uc2U7CgogICAgfQ==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
