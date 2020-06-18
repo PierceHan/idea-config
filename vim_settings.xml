@@ -65,26 +65,6 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/aop/PagingAspect.java" timestamp="1592381269914" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/type/SwitchType.java" timestamp="1592386563712">
-        <mark key="[" line="6" column="7" />
-        <mark key="]" line="6" column="7" />
-        <mark key="." line="6" column="7" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/docs/api/名单管理.md" timestamp="1592383327996">
-        <mark key="[" line="45" column="9" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/type/SwitchMap.java" timestamp="1592382707003">
-        <mark key="[" line="25" column="25" />
-        <mark key="]" line="18" column="18" />
-        <mark key="." line="18" column="18" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/message/AgentEventReceiver.java" timestamp="1592394070260">
-        <mark key="[" line="28" column="75" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="27" column="62" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/config/ConfigProperties.java" timestamp="1592387529254" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSender.java" timestamp="1592395377179">
         <mark key="[" line="108" column="39" />
         <mark key="]" line="135" column="0" />
@@ -98,31 +78,41 @@
         <mark key="]" line="17" column="24" />
         <mark key="." line="17" column="24" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/type/SwitchType.java" timestamp="1592386563712">
+        <mark key="[" line="6" column="7" />
+        <mark key="]" line="6" column="7" />
+        <mark key="." line="6" column="7" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/docs/api/名单管理.md" timestamp="1592383327996">
+        <mark key="[" line="45" column="9" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/service/roster/RosterServiceImpl.java" timestamp="1592384439186">
         <mark key="[" line="179" column="0" />
         <mark key="]" line="179" column="0" />
         <mark key="." line="179" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/config/ThreadPoolConfiguration.java" timestamp="1592378369347">
-        <mark key="[" line="58" column="4" />
-        <mark key="]" line="59" column="19" />
-        <mark key="." line="59" column="19" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/controller/RosterController.java" timestamp="1592462998086" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/type/SwitchMap.java" timestamp="1592382707003">
+        <mark key="[" line="25" column="25" />
+        <mark key="]" line="18" column="18" />
+        <mark key="." line="18" column="18" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/pom.xml" timestamp="1592392910672" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.1.RELEASE/spring-boot-autoconfigure-2.1.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/kafka/KafkaProperties.java" timestamp="1592387817929" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSenderMap.java" timestamp="1592394047901">
         <mark key="[" line="16" column="4" />
         <mark key="]" line="16" column="4" />
         <mark key="." line="16" column="4" />
         <mark key="^" line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/message/AgentEventReceiver.java" timestamp="1592394070260">
+        <mark key="[" line="28" column="75" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="27" column="62" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/pom.xml" timestamp="1592387632507">
         <mark key="[" line="426" column="0" />
         <mark key="]" line="426" column="0" />
         <mark key="." line="426" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/config/KafkaConfig.java" timestamp="1592393524574" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/web/RosterController.java" timestamp="1592383301662" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/Dialer.java" timestamp="1592395070463">
         <mark key="[" line="42" column="54" />
       </file>
