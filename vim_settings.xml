@@ -72,7 +72,11 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="27" column="62" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSender.java" timestamp="1592472533679" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSender.java" timestamp="1592475100909">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1592473477058">
         <mark key="[" line="0" column="0" />
       </file>
@@ -88,16 +92,13 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/controller/RosterController.java" timestamp="1592462998086" />
       <file name="/ResultEventCreator.java" timestamp="1592472448050" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/controller/CallResultController.java" timestamp="1592472715579" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSenderMap.java" timestamp="1592394047901">
-        <mark key="[" line="16" column="4" />
-        <mark key="]" line="16" column="4" />
-        <mark key="." line="16" column="4" />
-        <mark key="^" line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application.yml" timestamp="1592471035721">
         <mark key="[" line="2" column="23" />
         <mark key="]" line="2" column="23" />
         <mark key="." line="2" column="23" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/command/AbstractResourceCommand.java" timestamp="1592475077669">
+        <mark key="[" line="32" column="4" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/entity/CallResultEntity.java" timestamp="1592472486609" />
       <file name="$MAVEN_REPOSITORY$/cc/wellcloud/cloud/cms-interface/1.2.0/cms-interface-1.2.0.jar!/cc/wellcloud/cloud/cms/call/model/CallType.class" timestamp="1592472179411" />
@@ -216,8 +217,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -235,30 +236,30 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>import com.alibaba.fastjson.JSON;</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBzZW5kKFN0cmluZyB0ZW5hbnRJZCwgRGlhbGVyVGFzayBkaWFsZXJUYXNrKSB7CiAgICAgICAgU2VpemVSZXNvdXJjZUNvbW1hbmQgc2VpemVSZXNvdXJjZUNvbW1hbmQgPSBuZXcgU2VpemVSZXNvdXJjZUNvbW1hbmQodGVuYW50SWQsIGRpYWxlclRhc2suZ2V0Q2FtcGFpZ25JZCgpLCBkaWFsZXJUYXNrLmNhbGxJZCgpKTsKICAgICAgICBSZXNvdXJjZSByZXNvdXJjZSA9IHJlc291cmNlU2VydmljZS5zZWl6ZVJlc291cmNlKHNlaXplUmVzb3VyY2VDb21tYW5kKTsKICAgICAgICBpZiAocmVzb3VyY2UuaXNQZXJtaXNzaW9uKCkpIHsKICAgICAgICAgICAgbG9nLmRlYnVnKCJ7fTog5oiQ5Yqf6I635Y+W5aSW5ZG86K645Y+vIiwgZGlhbGVyVGFzay5nZXRDYW1wYWlnbklkKCkpOwogICAgICAgICAgICBpZiAoZG9EY2UodGVuYW50SWQsIGRpYWxlclRhc2spKSByZXR1cm4gdHJ1ZTsKICAgICAgICAgICAgbG9nLmluZm8oInt9OiDojrflj5blkI3ljZU6IHt9LCB7fSIsIGRpYWxlclRhc2suZ2V0Q2FtcGFpZ25JZCgpLCBkaWFsZXJUYXNrLmdldEFjdGl2aXR5Um9zdGVySWQoKSwgZGlhbGVyVGFzay5nZXRSb3N0ZXJJZCgpKTsKICAgICAgICAgICAgcmF0ZUxpbWl0ZXIuYWNxdWlyZSgpOwogICAgICAgICAgICB0YXNrTW9uaXRvclNlcnZpY2UuaW5jcmVtZW50KFRhc2tNb25pdG9yU2VydmljZS4KICAgICAgICAgICAgICAgICAgICBkaWFsaW5nTm90QW5zd2VyZWRUYXNrc0tleShkaWFsZXJUYXNrLmdldENhbXBhaWduSWQoKSksIGRpYWxlclRhc2suZ2V0Q2FsbElkKCkpOwogICAgICAgICAgICBNYWtlUHJlZGljdGl2ZUNhbGxWTyBtYWtlUHJlZGljdGl2ZUNhbGxWTyA9IGNyZWF0ZUNhbGxWTyhkaWFsZXJUYXNrKTsKCiAgICAgICAgICAgIGNtc0NsaWVudC5wcmVkaWN0aXZlQ2FsbChtYWtlUHJlZGljdGl2ZUNhbGxWTyk7CiAgICAgICAgICAgIHNlbmRVdWkoZGlhbGVyVGFzayk7CiAgICAgICAgICAgIGRpYWxlclRhc2tSZXBvc2l0b3J5LnNhdmUoZGlhbGVyVGFzayk7CiAgICAgICAgICAgIHRhc2tNb25pdG9yU2VydmljZS5kaWFsTW9uaXRvcihkaWFsZXJUYXNrKTsKICAgICAgICAgICAgdGFzayA9IG51bGw7CiAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgIH0gZWxzZSBpZiAocmVzb3VyY2Uud2FpdEFnZW50KCkpIHsKICAgICAgICAgICAgYXN5bmNocm9ub3VzU3RhdGVsZXNzUHJlb2NjdXBpZWQoZGlhbGVyVGFzaywgcmVzb3VyY2UpOwogICAgICAgIH0KICAgICAgICByZXR1cm4gZmFsc2U7CiAgICB9</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>else {
                 callable.onResourceLimited();
             }</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text />
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAg4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCUCiAgICAgIOeJiOadg+WjsOaYju+8muacrOaWh+S4ukNTRE7ljZrkuLvjgIzpobnlk6XjgI3nmoTljp/liJvmlofnq6DvvIzpgbXlvqpDQyA0LjAgQlktU0HniYjmnYPljY/orq7vvIzovazovb3or7fpmYTkuIrljp/mloflh7rlpITpk77mjqXlj4rmnKzlo7DmmI7jgIIKICAgICAg5Y6f5paH6ZO+5o6l77yaaHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xpdWZhbmcxOTkxL2FydGljbGUvZGV0YWlscy83MDIzMTMzOA==</text>
+        <text />
       </register>
       <register name=":" type="4">
         <text>close</text>
