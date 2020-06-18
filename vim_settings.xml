@@ -60,14 +60,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/resources/application-stress2.yaml" timestamp="1592466274788">
-        <mark key="[" line="25" column="26" />
-      </file>
-      <file name="/ConfigProperties.java" timestamp="1592471226437" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/config/ConfigProperties.java" timestamp="1592471093516">
-        <mark key="[" line="35" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/event/handler/CallFailedHandler.java" timestamp="1592475905427" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSender.java" timestamp="1592475100909">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -76,29 +68,29 @@
       <file name="/Dummy.txt" timestamp="1592473477058">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/service/PreOccupiedResource.java" timestamp="1592475846858" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" timestamp="1592475878953">
         <mark key="[" line="238" column="85" />
         <mark key="]" line="238" column="85" />
         <mark key="." line="238" column="85" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/RosterServiceImpl.java" timestamp="1592485766005" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application-2.0.yaml" timestamp="1592471287533">
         <mark key="[" line="24" column="4" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/controller/RosterController.java" timestamp="1592462998086" />
-      <file name="/ResultEventCreator.java" timestamp="1592472448050" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/controller/CallResultController.java" timestamp="1592472715579" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/resources/application-stress2.yaml" timestamp="1592466274788">
+        <mark key="[" line="25" column="26" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/config/ConfigProperties.java" timestamp="1592471093516">
+        <mark key="[" line="35" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application.yml" timestamp="1592471035721">
         <mark key="[" line="2" column="23" />
         <mark key="]" line="2" column="23" />
         <mark key="." line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/event/adapter/ResultEventCreator.java" timestamp="1592475786910" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/command/AbstractResourceCommand.java" timestamp="1592475077669">
         <mark key="[" line="32" column="4" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/entity/CallResultEntity.java" timestamp="1592472486609" />
-      <file name="$MAVEN_REPOSITORY$/cc/wellcloud/cloud/cms-interface/1.2.0/cms-interface-1.2.0.jar!/cc/wellcloud/cloud/cms/call/model/CallType.class" timestamp="1592472179411" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/Dialer.java" timestamp="1592395070463">
         <mark key="[" line="42" column="54" />
       </file>
