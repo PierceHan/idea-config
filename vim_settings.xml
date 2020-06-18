@@ -65,46 +65,33 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSender.java" timestamp="1592395377179">
-        <mark key="[" line="108" column="39" />
-        <mark key="]" line="135" column="0" />
-        <mark key="." line="135" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1592384440918">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/ITaskSender.java" timestamp="1592394515787">
-        <mark key="[" line="19" column="4" />
-        <mark key="]" line="17" column="24" />
-        <mark key="." line="17" column="24" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/type/SwitchType.java" timestamp="1592386563712">
-        <mark key="[" line="6" column="7" />
-        <mark key="]" line="6" column="7" />
-        <mark key="." line="6" column="7" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/docs/api/名单管理.md" timestamp="1592383327996">
-        <mark key="[" line="45" column="9" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/service/roster/RosterServiceImpl.java" timestamp="1592384439186">
-        <mark key="[" line="179" column="0" />
-        <mark key="]" line="179" column="0" />
-        <mark key="." line="179" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/controller/RosterController.java" timestamp="1592462998086" />
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/resources/application-stress2.yaml" timestamp="1592466274788">
         <mark key="[" line="25" column="26" />
       </file>
+      <file name="/ConfigProperties.java" timestamp="1592471226437" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/config/ConfigProperties.java" timestamp="1592471093516">
+        <mark key="[" line="35" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/message/AgentEventReceiver.java" timestamp="1592394070260">
+        <mark key="[" line="28" column="75" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="27" column="62" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1592470741179">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/service/PreOccupiedResource.java" timestamp="1592470622120" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/controller/RosterController.java" timestamp="1592462998086" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSenderMap.java" timestamp="1592394047901">
         <mark key="[" line="16" column="4" />
         <mark key="]" line="16" column="4" />
         <mark key="." line="16" column="4" />
         <mark key="^" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/message/AgentEventReceiver.java" timestamp="1592394070260">
-        <mark key="[" line="28" column="75" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="27" column="62" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application.yml" timestamp="1592471035721">
+        <mark key="[" line="2" column="23" />
+        <mark key="]" line="2" column="23" />
+        <mark key="." line="2" column="23" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/pom.xml" timestamp="1592387632507">
         <mark key="[" line="426" column="0" />
@@ -115,10 +102,10 @@
         <mark key="[" line="42" column="54" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/message/CampaignStatusConsumer.java" timestamp="1592395093990">
-        <mark key="[" line="137" column="92" />
-        <mark key="]" line="137" column="118" />
-        <mark key="^" line="137" column="118" />
-        <mark key="." line="137" column="117" />
+        <mark key="[" line="37" column="92" />
+        <mark key="]" line="37" column="118" />
+        <mark key="^" line="37" column="118" />
+        <mark key="." line="37" column="117" />
       </file>
     </filemarks>
     <jumps>
@@ -226,11 +213,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>develop</text>
       </register>
       <register name="-" type="4">
-        <text>tenantId</text>
+        <text>develop</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
