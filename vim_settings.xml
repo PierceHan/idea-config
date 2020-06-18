@@ -92,10 +92,8 @@
         <mark key="." line="179" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/controller/RosterController.java" timestamp="1592462998086" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/type/SwitchMap.java" timestamp="1592382707003">
-        <mark key="[" line="25" column="25" />
-        <mark key="]" line="18" column="18" />
-        <mark key="." line="18" column="18" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/resources/application-stress2.yaml" timestamp="1592466274788">
+        <mark key="[" line="25" column="26" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSenderMap.java" timestamp="1592394047901">
         <mark key="[" line="16" column="4" />
