@@ -63,23 +63,26 @@
       <file name="/Dummy.txt" timestamp="1592617889637">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" timestamp="1592622381847">
-        <mark key="[" line="250" column="0" />
-        <mark key="]" line="238" column="85" />
-        <mark key="." line="238" column="85" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" timestamp="1592624723540">
+        <mark key="[" line="281" column="8" />
+        <mark key="]" line="105" column="123" />
+        <mark key="." line="105" column="0" />
+        <mark key="^" line="104" column="64" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application-2.0.yaml" timestamp="1592622785558" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/cms/PreoccupiedRequest.java" timestamp="1592619061957">
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application-2.0.yaml" timestamp="1592623350825">
+        <mark key="[" line="24" column="4" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/cms/PreoccupiedRequest.java" timestamp="1592624313290">
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/config/ConfigProperties.java" timestamp="1592623005393">
-        <mark key="[" line="89" column="4" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/config/ConfigProperties.java" timestamp="1592623228701">
+        <mark key="[" line="65" column="4" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/cms/PreoccupiedResponse.java" timestamp="1592622312689">
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application.yml" timestamp="1592623012061">
-        <mark key="[" line="17" column="4" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application.yml" timestamp="1592623307498">
+        <mark key="[" line="18" column="4" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/bcm/poc/BcmPocBack.java" timestamp="1592555929028">
         <mark key="[" line="48" column="85" />
@@ -196,48 +199,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBBTExPQ0FURV9BR0VOVF9VUkwgPSAiezB9L2FwaS9jc3RhL291dGJvdW5kL2FsbG9jYXRlL3sxfT9zZXE9ezJ9JmFsbG9jYXRlVHlwZT1QcmVPY2N1cGllZCI7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Map</text>
+        <text>Agent</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb25nIGNvdW50ID0gZmllbGRzLnN0cmVhbSgpLmZpbHRlcihmaWVsZEluZm8gLT4gInJvc3RlcklkIi5lcXVhbHMoZmllbGRJbmZvLmdldEtleSgpKSkuY291bnQoKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBBTExPQ0FURV9BR0VOVF9VUkwgPSAiezB9L2FwaS9jc3RhL291dGJvdW5kL2FsbG9jYXRlL3sxfT9zZXE9ezJ9JmFsbG9jYXRlVHlwZT1QcmVPY2N1cGllZCI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGRkZGQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">CglwdWJsaWMgU3RyaW5nIGdldFN0YXRpb25JZCgpIHsKCQlyZXR1cm4gc3RhdGlvbklkOwoJfQoKCXB1YmxpYyB2b2lkIHNldFN0YXRpb25JZChTdHJpbmcgc3RhdGlvbklkKSB7CgkJdGhpcy5zdGF0aW9uSWQgPSBzdGF0aW9uSWQ7Cgl9CgoJcHVibGljIFN0cmluZyBnZXRBZ2VudElkKCkgewoJCXJldHVybiBhZ2VudElkOwoJfQoKCXB1YmxpYyB2b2lkIHNldEFnZW50SWQoU3RyaW5nIGFnZW50SWQpIHsKCQl0aGlzLmFnZW50SWQgPSBhZ2VudElkOwoJfQoKCXB1YmxpYyBTdHJpbmcgZ2V0U2VxSWQoKSB7CgkJcmV0dXJuIHNlcUlkOwoJfQoKCXB1YmxpYyB2b2lkIHNldFNlcUlkKFN0cmluZyBzZXFJZCkgewoJCXRoaXMuc2VxSWQgPSBzZXFJZDsKCX0KCglwdWJsaWMgbG9uZyBnZXRUaW1lSWQoKSB7CgkJcmV0dXJuIHRpbWVJZDsKCX0KCglwdWJsaWMgdm9pZCBzZXRUaW1lSWQobG9uZyB0aW1lSWQpIHsKCQl0aGlzLnRpbWVJZCA9IHRpbWVJZDsKCX0KCglwdWJsaWMgaW50IGdldEFzc2lnbkNvdW50KCkgewoJCXJldHVybiBhc3NpZ25Db3VudDsKCX0KCglwdWJsaWMgdm9pZCBzZXRBc3NpZ25Db3VudChpbnQgYXNzaWduQ291bnQpIHsKCQl0aGlzLmFzc2lnbkNvdW50ID0gYXNzaWduQ291bnQ7Cgl9CgoJcHVibGljIHZvaWQgYWRkQXNzaWduQ291bnQoKXsKCQl0aGlzLmFzc2lnbkNvdW50Kys7Cgl9</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">Ci8vCQlyZXR1cm4gIkFnZW50OiBhZ2VudElkPVsiK2FnZW50KyJdIHNlcUlkPVsiK3NlcUlkKyJdIHRpbWVJZD1bIit0aW1lSWQrIl0gYXNzaWduQ291bnQ9WyIrYXNzaWduQ291bnQrIl0iOw==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text>import com.alibaba.fastjson.JSON;</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>import com.alibaba.fastjson.JSON;</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBzZW5kKFN0cmluZyB0ZW5hbnRJZCwgRGlhbGVyVGFzayBkaWFsZXJUYXNrKSB7CiAgICAgICAgU2VpemVSZXNvdXJjZUNvbW1hbmQgc2VpemVSZXNvdXJjZUNvbW1hbmQgPSBuZXcgU2VpemVSZXNvdXJjZUNvbW1hbmQodGVuYW50SWQsIGRpYWxlclRhc2suZ2V0Q2FtcGFpZ25JZCgpLCBkaWFsZXJUYXNrLmNhbGxJZCgpKTsKICAgICAgICBSZXNvdXJjZSByZXNvdXJjZSA9IHJlc291cmNlU2VydmljZS5zZWl6ZVJlc291cmNlKHNlaXplUmVzb3VyY2VDb21tYW5kKTsKICAgICAgICBpZiAocmVzb3VyY2UuaXNQZXJtaXNzaW9uKCkpIHsKICAgICAgICAgICAgbG9nLmRlYnVnKCJ7fTog5oiQ5Yqf6I635Y+W5aSW5ZG86K645Y+vIiwgZGlhbGVyVGFzay5nZXRDYW1wYWlnbklkKCkpOwogICAgICAgICAgICBpZiAoZG9EY2UodGVuYW50SWQsIGRpYWxlclRhc2spKSByZXR1cm4gdHJ1ZTsKICAgICAgICAgICAgbG9nLmluZm8oInt9OiDojrflj5blkI3ljZU6IHt9LCB7fSIsIGRpYWxlclRhc2suZ2V0Q2FtcGFpZ25JZCgpLCBkaWFsZXJUYXNrLmdldEFjdGl2aXR5Um9zdGVySWQoKSwgZGlhbGVyVGFzay5nZXRSb3N0ZXJJZCgpKTsKICAgICAgICAgICAgcmF0ZUxpbWl0ZXIuYWNxdWlyZSgpOwogICAgICAgICAgICB0YXNrTW9uaXRvclNlcnZpY2UuaW5jcmVtZW50KFRhc2tNb25pdG9yU2VydmljZS4KICAgICAgICAgICAgICAgICAgICBkaWFsaW5nTm90QW5zd2VyZWRUYXNrc0tleShkaWFsZXJUYXNrLmdldENhbXBhaWduSWQoKSksIGRpYWxlclRhc2suZ2V0Q2FsbElkKCkpOwogICAgICAgICAgICBNYWtlUHJlZGljdGl2ZUNhbGxWTyBtYWtlUHJlZGljdGl2ZUNhbGxWTyA9IGNyZWF0ZUNhbGxWTyhkaWFsZXJUYXNrKTsKCiAgICAgICAgICAgIGNtc0NsaWVudC5wcmVkaWN0aXZlQ2FsbChtYWtlUHJlZGljdGl2ZUNhbGxWTyk7CiAgICAgICAgICAgIHNlbmRVdWkoZGlhbGVyVGFzayk7CiAgICAgICAgICAgIGRpYWxlclRhc2tSZXBvc2l0b3J5LnNhdmUoZGlhbGVyVGFzayk7CiAgICAgICAgICAgIHRhc2tNb25pdG9yU2VydmljZS5kaWFsTW9uaXRvcihkaWFsZXJUYXNrKTsKICAgICAgICAgICAgdGFzayA9IG51bGw7CiAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgIH0gZWxzZSBpZiAocmVzb3VyY2Uud2FpdEFnZW50KCkpIHsKICAgICAgICAgICAgYXN5bmNocm9ub3VzU3RhdGVsZXNzUHJlb2NjdXBpZWQoZGlhbGVyVGFzaywgcmVzb3VyY2UpOwogICAgICAgIH0KICAgICAgICByZXR1cm4gZmFsc2U7CiAgICB9</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>else {
-                callable.onResourceLimited();
-            }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBzZW5kKFN0cmluZyB0ZW5hbnRJZCwgRGlhbGVyVGFzayBkaWFsZXJUYXNrKSB7CiAgICAgICAgU2VpemVSZXNvdXJjZUNvbW1hbmQgc2VpemVSZXNvdXJjZUNvbW1hbmQgPSBuZXcgU2VpemVSZXNvdXJjZUNvbW1hbmQodGVuYW50SWQsIGRpYWxlclRhc2suZ2V0Q2FtcGFpZ25JZCgpLCBkaWFsZXJUYXNrLmNhbGxJZCgpKTsKICAgICAgICBSZXNvdXJjZSByZXNvdXJjZSA9IHJlc291cmNlU2VydmljZS5zZWl6ZVJlc291cmNlKHNlaXplUmVzb3VyY2VDb21tYW5kKTsKICAgICAgICBpZiAocmVzb3VyY2UuaXNQZXJtaXNzaW9uKCkpIHsKICAgICAgICAgICAgbG9nLmRlYnVnKCJ7fTog5oiQ5Yqf6I635Y+W5aSW5ZG86K645Y+vIiwgZGlhbGVyVGFzay5nZXRDYW1wYWlnbklkKCkpOwogICAgICAgICAgICBpZiAoZG9EY2UodGVuYW50SWQsIGRpYWxlclRhc2spKSByZXR1cm4gdHJ1ZTsKICAgICAgICAgICAgbG9nLmluZm8oInt9OiDojrflj5blkI3ljZU6IHt9LCB7fSIsIGRpYWxlclRhc2suZ2V0Q2FtcGFpZ25JZCgpLCBkaWFsZXJUYXNrLmdldEFjdGl2aXR5Um9zdGVySWQoKSwgZGlhbGVyVGFzay5nZXRSb3N0ZXJJZCgpKTsKICAgICAgICAgICAgcmF0ZUxpbWl0ZXIuYWNxdWlyZSgpOwogICAgICAgICAgICB0YXNrTW9uaXRvclNlcnZpY2UuaW5jcmVtZW50KFRhc2tNb25pdG9yU2VydmljZS4KICAgICAgICAgICAgICAgICAgICBkaWFsaW5nTm90QW5zd2VyZWRUYXNrc0tleShkaWFsZXJUYXNrLmdldENhbXBhaWduSWQoKSksIGRpYWxlclRhc2suZ2V0Q2FsbElkKCkpOwogICAgICAgICAgICBNYWtlUHJlZGljdGl2ZUNhbGxWTyBtYWtlUHJlZGljdGl2ZUNhbGxWTyA9IGNyZWF0ZUNhbGxWTyhkaWFsZXJUYXNrKTsKCiAgICAgICAgICAgIGNtc0NsaWVudC5wcmVkaWN0aXZlQ2FsbChtYWtlUHJlZGljdGl2ZUNhbGxWTyk7CiAgICAgICAgICAgIHNlbmRVdWkoZGlhbGVyVGFzayk7CiAgICAgICAgICAgIGRpYWxlclRhc2tSZXBvc2l0b3J5LnNhdmUoZGlhbGVyVGFzayk7CiAgICAgICAgICAgIHRhc2tNb25pdG9yU2VydmljZS5kaWFsTW9uaXRvcihkaWFsZXJUYXNrKTsKICAgICAgICAgICAgdGFzayA9IG51bGw7CiAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgIH0gZWxzZSBpZiAocmVzb3VyY2Uud2FpdEFnZW50KCkpIHsKICAgICAgICAgICAgYXN5bmNocm9ub3VzU3RhdGVsZXNzUHJlb2NjdXBpZWQoZGlhbGVyVGFzaywgcmVzb3VyY2UpOwogICAgICAgIH0KICAgICAgICByZXR1cm4gZmFsc2U7CiAgICB9</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
