@@ -71,6 +71,7 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/config/ConfigProperties.java" timestamp="1592623228701">
         <mark key="[" line="65" column="4" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/cc/wellcloud/cloud/cms-interface/1.2.0/cms-interface-1.2.0.jar!/cc/wellcloud/cloud/cms/vo/MakePredictiveCallVO.class" timestamp="1592642772835" />
       <file name="$MAVEN_REPOSITORY$/cc/wellcloud/framework/core/CC.Core/1.2.0/CC.Core-1.2.0.jar!/cc/wellcloud/framework/core/client/HttpClient.class" timestamp="1592625152749" />
       <file name="$MAVEN_REPOSITORY$/com/ocm/ocm-api/1.0.1-SNAPSHOT/ocm-api-1.0.1-20190906.111929-3.jar!/com/ocm/api/acd/Agent.class" timestamp="1592637149883" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/cms/Agent.java" timestamp="1592641155064">
@@ -86,7 +87,11 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/DialerTask.java" timestamp="1592641134554">
         <mark key="[" line="66" column="47" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSender.java" timestamp="1592641100634" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSender.java" timestamp="1592642689176">
+        <mark key="[" line="155" column="8" />
+        <mark key="]" line="96" column="56" />
+        <mark key="." line="96" column="56" />
+      </file>
       <file name="/Dummy.txt" timestamp="1592617889637">
         <mark key="[" line="0" column="0" />
       </file>
@@ -227,11 +232,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>new SeizeResourceCommand(campaignDTO.getTenantId(), campaignDTO.getTemplateId(), dialerTask.callId());</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>new SeizeResourceCommand(campaignDTO.getTenantId(), campaignDTO.getTemplateId(), dialerTask.callId());</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
