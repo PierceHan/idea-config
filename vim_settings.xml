@@ -60,6 +60,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/entity/Resource.java" timestamp="1592640538443">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/cms/PreoccupiedRequest.java" timestamp="1592624313290">
         <mark key="[" line="8" column="0" />
       </file>
@@ -68,24 +73,31 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/cc/wellcloud/framework/core/CC.Core/1.2.0/CC.Core-1.2.0.jar!/cc/wellcloud/framework/core/client/HttpClient.class" timestamp="1592625152749" />
       <file name="$MAVEN_REPOSITORY$/com/ocm/ocm-api/1.0.1-SNAPSHOT/ocm-api-1.0.1-20190906.111929-3.jar!/com/ocm/api/acd/Agent.class" timestamp="1592637149883" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/cms/Agent.java" timestamp="1592636981336">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/cms/Agent.java" timestamp="1592641155064">
+        <mark key="[" line="11" column="18" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/event/handler/CallFailedHandler.java" timestamp="1592637553855">
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/event/handler/CallFailedHandler.java" timestamp="1592639195735">
         <mark key="[" line="91" column="103" />
         <mark key="]" line="91" column="0" />
         <mark key="." line="91" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/DialerTask.java" timestamp="1592641134554">
+        <mark key="[" line="66" column="47" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSender.java" timestamp="1592641100634" />
       <file name="/Dummy.txt" timestamp="1592617889637">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" timestamp="1592636336219">
-        <mark key="[" line="290" column="0" />
-        <mark key="]" line="290" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/service/PreOccupiedResource.java" timestamp="1592640490031">
+        <mark key="[" line="37" column="91" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" timestamp="1592640329231">
+        <mark key="[" line="266" column="12" />
+        <mark key="]" line="293" column="0" />
         <mark key="^" line="107" column="40" />
-        <mark key="." line="290" column="0" />
+        <mark key="." line="293" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application-2.0.yaml" timestamp="1592623350825">
         <mark key="[" line="24" column="4" />
@@ -215,8 +227,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -234,19 +246,19 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text />
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text />
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHNraWxsSWQ7</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -255,7 +267,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXNSZWRpc0FnZW50QXZhaWxhYmxlID0gZmFsc2U7</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
