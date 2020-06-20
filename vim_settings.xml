@@ -63,11 +63,11 @@
       <file name="/Dummy.txt" timestamp="1592617889637">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" timestamp="1592624723540">
-        <mark key="[" line="281" column="8" />
-        <mark key="]" line="105" column="123" />
-        <mark key="." line="105" column="0" />
-        <mark key="^" line="104" column="64" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" timestamp="1592625842724">
+        <mark key="[" line="274" column="123" />
+        <mark key="]" line="274" column="54" />
+        <mark key="." line="274" column="54" />
+        <mark key="^" line="105" column="64" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application-2.0.yaml" timestamp="1592623350825">
         <mark key="[" line="24" column="4" />
@@ -81,6 +81,11 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/cms/PreoccupiedResponse.java" timestamp="1592622312689">
         <mark key="[" line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/RedisUtils.java" timestamp="1592626084695">
+        <mark key="[" line="163" column="79" />
+        <mark key="]" line="163" column="79" />
+        <mark key="." line="163" column="79" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application.yml" timestamp="1592623307498">
         <mark key="[" line="18" column="4" />
       </file>
@@ -89,6 +94,7 @@
         <mark key="]" line="47" column="81" />
         <mark key="." line="47" column="81" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/cc/wellcloud/framework/core/CC.Core/1.2.0/CC.Core-1.2.0.jar!/cc/wellcloud/framework/core/client/HttpClient.class" timestamp="1592625152749" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/cms/Agent.java" timestamp="1592618664880">
         <mark key="[" line="8" column="0" />
       </file>
@@ -198,11 +204,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBBTExPQ0FURV9BR0VOVF9VUkwgPSAiezB9L2FwaS9jc3RhL291dGJvdW5kL2FsbG9jYXRlL3sxfT9zZXE9ezJ9JmFsbG9jYXRlVHlwZT1QcmVPY2N1cGllZCI7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>skill</text>
       </register>
       <register name="-" type="4">
-        <text>Agent</text>
+        <text>skill</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
