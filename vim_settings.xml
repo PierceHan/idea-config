@@ -63,24 +63,28 @@
       <file name="/Dummy.txt" timestamp="1592617889637">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" timestamp="1592618073507">
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" timestamp="1592622381847">
         <mark key="[" line="250" column="0" />
         <mark key="]" line="238" column="85" />
         <mark key="." line="238" column="85" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application-2.0.yaml" timestamp="1592622785558" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/cms/PreoccupiedRequest.java" timestamp="1592619061957">
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/cms/PreoccupiedResponse.java" timestamp="1592619002067">
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/config/ConfigProperties.java" timestamp="1592623005393">
+        <mark key="[" line="89" column="4" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/cms/PreoccupiedResponse.java" timestamp="1592622312689">
         <mark key="[" line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application.yml" timestamp="1592623012061">
+        <mark key="[" line="17" column="4" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/bcm/poc/BcmPocBack.java" timestamp="1592555929028">
         <mark key="[" line="48" column="85" />
         <mark key="]" line="47" column="81" />
         <mark key="." line="47" column="81" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/command/AbstractResourceCommand.java" timestamp="1592475077669">
-        <mark key="[" line="32" column="4" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/cms/Agent.java" timestamp="1592618664880">
         <mark key="[" line="8" column="0" />
