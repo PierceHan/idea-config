@@ -64,26 +64,16 @@
       <file name="/a.dummy" timestamp="1592812830344">
         <mark key="[" line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/frequency/InstantFrequencyProcessor.java" timestamp="1592814128780">
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/frequency/InstantFrequencyProcessor.java" timestamp="1592816814510">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskInfoSender.java" timestamp="1592809776281" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/OldProcessor.java" timestamp="1592814575244">
-        <mark key="[" line="32" column="21" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/fail/RetryFailProcessor.java" timestamp="1592816865546">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/ProcessorFactory.java" timestamp="1592815730025">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSenderTest.java" timestamp="1592810486653">
-        <mark key="[" line="84" column="34" />
-        <mark key="]" line="84" column="34" />
-        <mark key="." line="84" column="34" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/service/process/ProcessServiceImpl.java" timestamp="1592811847155" />
       <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/DelayProcessor.java" timestamp="1592814614576">
         <mark key="[" line="23" column="47" />
         <mark key="]" line="23" column="47" />
@@ -94,53 +84,63 @@
         <mark key="]" line="135" column="8" />
         <mark key="." line="135" column="8" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/message/DefaultMessageProcessor.java" timestamp="1592813793967">
-        <mark key="[" line="11" column="68" />
-        <mark key="]" line="11" column="68" />
-        <mark key="." line="11" column="68" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/message/DefaultMessageProcessor.java" timestamp="1592816736975">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/body/JsonBodyProcess.java" timestamp="1592815816731">
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/body/JsonBodyProcess.java" timestamp="1592816069925">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/model/ProcessorDTO.java" timestamp="1592815658413">
-        <mark key="[" line="11" column="4" />
-        <mark key="]" line="15" column="12" />
-        <mark key="." line="15" column="12" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/Processor.java" timestamp="1592817785352">
+        <mark key="[" line="18" column="49" />
+        <mark key="]" line="18" column="44" />
+        <mark key="." line="18" column="44" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/Processor.java" timestamp="1592812921837">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/transport/DefaultTransportProcessor.java" timestamp="1592816887723">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/transport/DefaultTransportProcessor.java" timestamp="1592814474705">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/transport/FormTransportProcessor.java" timestamp="1592816904653">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/transport/FormTransportProcessor.java" timestamp="1592814492857">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/ProcessorMap.java" timestamp="1592815750383">
-        <mark key="[" line="36" column="50" />
-        <mark key="]" line="36" column="50" />
-        <mark key="." line="36" column="50" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/frequency/MinuteFrequencyProcessor.java" timestamp="1592814157576">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/frequency/DailyFrequencyProcessor.java" timestamp="1592814451864">
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/frequency/MinuteFrequencyProcessor.java" timestamp="1592816840422">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/model/ProcessorResponse.java" timestamp="1592812774365">
         <mark key="[" line="11" column="3" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/OldProcessor.java" timestamp="1592814575244">
+        <mark key="[" line="32" column="21" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/ProcessorFactory.java" timestamp="1592817776597">
+        <mark key="[" line="32" column="45" />
+        <mark key="]" line="32" column="45" />
+        <mark key="." line="32" column="45" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/service/process/ProcessServiceImpl.java" timestamp="1592811847155" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/model/ProcessorDTO.java" timestamp="1592817148792">
+        <mark key="[" line="13" column="12" />
+        <mark key="]" line="13" column="12" />
+        <mark key="." line="13" column="12" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/body/FileBodyProcess.java" timestamp="1592816090692" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/ProcessorMap.java" timestamp="1592817223260">
+        <mark key="[" line="30" column="67" />
+        <mark key="]" line="30" column="67" />
+        <mark key="." line="30" column="67" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/frequency/DailyFrequencyProcessor.java" timestamp="1592816829500">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -248,11 +248,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>processorDTOProcessorDTOFunction</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">TWFwPFN0cmluZywgT2JqZWN0Pg==</text>
+        <text>processorDTOProcessorDTOFunction</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
@@ -261,31 +261,31 @@
         <text encoding="base64">ICAgICAgICAgICAgQE1hcHBpbmcoc291cmNlID0gImlkIix0YXJnZXQgPSAidGFza0lkIiksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBNYXA8U3RyaW5nLCBPYmplY3Q+IGFwcGx5KE1hcDxTdHJpbmcsT2JqZWN0PiBkYXRhKSB7CgogICAgICAgIHJldHVybiBudWxsOwogICAgfQ==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBPbGRQcm9jZXNzb3IgY3JlYXRlT2xkUHJvY2Vzc29yKFN1YnNjcmliZUVudGl0eSBzdWJzY3JpYmVFbnRpdHkpewogICAgICAgIEZ1bmN0aW9uPENhbGxFdmVudCwgTWFwPFN0cmluZywgT2JqZWN0Pj4gbWVzc2FnZVByb2Nlc3NvciA9IHByb2Nlc3Nvck1hcC5nZXRNZXNzYWdlTWFwKCkuZ2V0KHN1YnNjcmliZUVudGl0eS5nZXRNZXNzYWdlVHlwZSgpKTsKICAgICAgICBVbmFyeU9wZXJhdG9yPE1hcDxTdHJpbmcsIE9iamVjdD4+IGJvZHlQcm9jZXNzb3IgPSBwcm9jZXNzb3JNYXAuZ2V0Qm9keU1hcCgpLmdldChzdWJzY3JpYmVFbnRpdHkuZ2V0Qm9keVR5cGUoKSk7CiAgICAgICAgRnVuY3Rpb248TWFwPFN0cmluZywgT2JqZWN0PiwgUHJvY2Vzc29yUmVzcG9uc2U+ICBmcmVxdWVuY3lQcm9jZXNzb3IgPSBwcm9jZXNzb3JNYXAuZ2V0RnJlcXVlbmN5TWFwKCkuZ2V0KHN1YnNjcmliZUVudGl0eS5nZXRGcmVxdWVuY3lUeXBlKCkpOwogICAgICAgIEZ1bmN0aW9uPE1hcDxTdHJpbmcsIE9iamVjdD4sIFByb2Nlc3NvclJlc3BvbnNlPiAgdHJhbnNwb3J0UHJvY2Vzc29yID0gcHJvY2Vzc29yTWFwLmdldFRyYW5zcG9ydE1hcCgpLmdldChzdWJzY3JpYmVFbnRpdHkuZ2V0VHJhbnNwb3J0VHlwZSgpKTsKICAgICAgICBDb25zdW1lcjxNYXA8U3RyaW5nLCBPYmplY3Q+PiBmYWlsUHJvY2Vzc29yID0gcHJvY2Vzc29yTWFwLmdldEZhaWxNYXAoKS5nZXQoc3Vic2NyaWJlRW50aXR5LmdldEZhaWxPcGVyYXRlKCkpOwogICAgICAgIHJldHVybiBuZXcgT2xkUHJvY2Vzc29yKG1lc3NhZ2VQcm9jZXNzb3IsYm9keVByb2Nlc3NvcixmcmVxdWVuY3lQcm9jZXNzb3IsdHJhbnNwb3J0UHJvY2Vzc29yLGZhaWxQcm9jZXNzb3IpOwogICAgfQoKICAgIHB1YmxpYyBEZWxheVByb2Nlc3NvciBjcmVhdGVEZWxheVByb2Nlc3NvcihTdWJzY3JpYmVFbnRpdHkgc3Vic2NyaWJlRW50aXR5KXsKICAgICAgICBGdW5jdGlvbjxNYXA8U3RyaW5nLCBPYmplY3Q+LCBQcm9jZXNzb3JSZXNwb25zZT4gdHJhbnNwb3J0UHJvY2Vzc29yID0gcHJvY2Vzc29yTWFwLmdldFRyYW5zcG9ydE1hcCgpLmdldChzdWJzY3JpYmVFbnRpdHkuZ2V0VHJhbnNwb3J0VHlwZSgpKTsKICAgICAgICBDb25zdW1lcjxNYXA8U3RyaW5nLCBPYmplY3Q+PiBmYWlsUHJvY2Vzc29yID0gcHJvY2Vzc29yTWFwLmdldEZhaWxNYXAoKS5nZXQoc3Vic2NyaWJlRW50aXR5LmdldEZhaWxPcGVyYXRlKCkpOwogICAgICAgIHJldHVybiBuZXcgRGVsYXlQcm9jZXNzb3IodHJhbnNwb3J0UHJvY2Vzc29yLGZhaWxQcm9jZXNzb3IpOwogICAgfQ==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyA8Vj4gRnVuY3Rpb248ViwgTWFwPFN0cmluZywgT2JqZWN0Pj4gY29tcG9zZShGdW5jdGlvbjw/IHN1cGVyIFYsID8gZXh0ZW5kcyBNYXA8U3RyaW5nLCBPYmplY3Q+PiBiZWZvcmUpIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgUHJvY2Vzc29yPFQ+IGNyZWF0ZVByb2Nlc3NvcihTdWJzY3JpYmVFbnRpdHkgc3Vic2NyaWJlRW50aXR5KXsKICAgICAgICBGdW5jdGlvbjxDYWxsRXZlbnQsIE1hcDxTdHJpbmcsIE9iamVjdD4+IG1lc3NhZ2VQcm9jZXNzb3IgPSBwcm9jZXNzb3JNYXAuZ2V0TWVzc2FnZU1hcCgpLmdldChzdWJzY3JpYmVFbnRpdHkuZ2V0TWVzc2FnZVR5cGUoKSk7CiAgICAgICAgVW5hcnlPcGVyYXRvcjxNYXA8U3RyaW5nLCBPYmplY3Q+PiBib2R5UHJvY2Vzc29yID0gcHJvY2Vzc29yTWFwLmdldEJvZHlNYXAoKS5nZXQoc3Vic2NyaWJlRW50aXR5LmdldEJvZHlUeXBlKCkpOwogICAgICAgIEZ1bmN0aW9uPE1hcDxTdHJpbmcsIE9iamVjdD4sIFByb2Nlc3NvclJlc3BvbnNlPiAgZnJlcXVlbmN5UHJvY2Vzc29yID0gcHJvY2Vzc29yTWFwLmdldEZyZXF1ZW5jeU1hcCgpLmdldChzdWJzY3JpYmVFbnRpdHkuZ2V0RnJlcXVlbmN5VHlwZSgpKTsKICAgICAgICBGdW5jdGlvbjxNYXA8U3RyaW5nLCBPYmplY3Q+LCBQcm9jZXNzb3JSZXNwb25zZT4gIHRyYW5zcG9ydFByb2Nlc3NvciA9IHByb2Nlc3Nvck1hcC5nZXRUcmFuc3BvcnRNYXAoKS5nZXQoc3Vic2NyaWJlRW50aXR5LmdldFRyYW5zcG9ydFR5cGUoKSk7CiAgICAgICAgQ29uc3VtZXI8TWFwPFN0cmluZywgT2JqZWN0Pj4gZmFpbFByb2Nlc3NvciA9IHByb2Nlc3Nvck1hcC5nZXRGYWlsTWFwKCkuZ2V0KHN1YnNjcmliZUVudGl0eS5nZXRGYWlsT3BlcmF0ZSgpKTsKICAgICAgICByZXR1cm4gbmV3IFByb2Nlc3NvcjxDYWxsRXZlbnQ+KG1lc3NhZ2VQcm9jZXNzb3IuYW5kVGhlbihib2R5UHJvY2Vzc29yKS5hbmRUaGVuKGZyZXF1ZW5jeVByb2Nlc3NvcikpOwogICAgfQ==</text>
+        <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBQcm9jZXNzb3JSZXNwb25zZSBhcHBseShNYXA8U3RyaW5nLCBPYmplY3Q+IHN0cmluZ09iamVjdE1hcCkgewogICAgICAgIHJldHVybiBudWxsOwogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIGJvb2xlYW4gdGVzdChNYXA8U3RyaW5nLCBPYmplY3Q+IHN0cmluZ09iamVjdE1hcCkgewoKICAgICAgICByZXR1cm4gZmFsc2U7CiAgICB9</text>
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBQcm9jZXNzb3JSZXNwb25zZSBhcHBseShNYXA8U3RyaW5nLCBPYmplY3Q+IHN0cmluZ09iamVjdE1hcCkgewogICAgICAgIHJldHVybiBudWxsOwogICAgfQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
