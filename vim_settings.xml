@@ -60,59 +60,68 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSender.java" timestamp="1592790016054">
+        <mark key="[" line="225" column="8" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/resources/application.properties" timestamp="1592647099266">
         <mark key="[" line="2" column="34" />
         <mark key="]" line="2" column="34" />
         <mark key="." line="2" column="34" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/entity/TenantResourcePool.java" timestamp="1592648019000">
-        <mark key="[" line="142" column="8" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/resources/application-2.0.properties" timestamp="1592646772252" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/infrastructure/config/CmsClientConfig.java" timestamp="1592648413779" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/serivce/priority/PriorityServiceImplTest.java" timestamp="1592644654224">
-        <mark key="[" line="123" column="0" />
-        <mark key="]" line="123" column="0" />
-        <mark key="." line="123" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/core/event/handler/CallHungupHandlerTest.java" timestamp="1592644634315">
-        <mark key="[" line="135" column="8" />
-        <mark key="]" line="135" column="8" />
-        <mark key="." line="135" column="8" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSender.java" timestamp="1592648635281">
-        <mark key="[" line="223" column="0" />
-        <mark key="]" line="223" column="0" />
-        <mark key="." line="223" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/result/ResultServiceImpl.java" timestamp="1592645612929">
         <mark key="[" line="85" column="44" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application-2.0.yaml" timestamp="1592646761400" />
-      <file name="$MAVEN_REPOSITORY$/cc/wellcloud/cloud/cms-client/1.2.0/cms-client-1.2.0.jar!/cc/wellcloud/cloud/cms/client/DefaultCMSClient.class" timestamp="1592648856260" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application-2.0.yaml" timestamp="1592789482885">
+        <mark key="[" line="25" column="56" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/config/ConfigProperties.java" timestamp="1592789326167">
+        <mark key="[" line="70" column="4" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/mapper/CallResultMapper.java" timestamp="1592645394873">
         <mark key="[" line="3" column="15" />
         <mark key="]" line="3" column="15" />
         <mark key="." line="3" column="15" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/entity/TenantResourcePool.java" timestamp="1592648019000">
+        <mark key="[" line="142" column="8" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/resource/domain/valobj/CampaignResourcePool.java" timestamp="1592647360150">
         <mark key="[" line="100" column="8" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application.yml" timestamp="1592789449789">
+        <mark key="[" line="19" column="4" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/resource/domain/valobj/TenantResourcePool.java" timestamp="1592647726639">
         <mark key="[" line="134" column="15" />
         <mark key="]" line="134" column="15" />
         <mark key="." line="134" column="15" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/service/ResourceService.java" timestamp="1592647970273" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/serivce/priority/PriorityServiceImplTest.java" timestamp="1592644654224">
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="123" column="0" />
+        <mark key="." line="123" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/mapper/CallResultMapper.xml" timestamp="1592645549755">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/DialerTask.java" timestamp="1592789897622">
+        <mark key="[" line="45" column="12" />
+        <mark key="]" line="45" column="12" />
+        <mark key="." line="45" column="12" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/intergraion/CampaignIntegrationTest.java" timestamp="1592644575504">
         <mark key="[" line="93" column="0" />
         <mark key="]" line="93" column="0" />
         <mark key="." line="93" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/core/event/handler/CallHungupHandlerTest.java" timestamp="1592644634315">
+        <mark key="[" line="135" column="8" />
+        <mark key="]" line="135" column="8" />
+        <mark key="." line="135" column="8" />
       </file>
     </filemarks>
     <jumps>
@@ -220,11 +229,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>false</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>final</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
@@ -239,25 +248,25 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHRhc2tJZCA9IFVVSUQucmFuZG9tVVVJRCgpLnRvU3RyaW5nKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CTxyZXN1bHRNYXAgaWQ9IlJlc3VsdE1hcCIgdHlwZT0iY29tLm9jbS5lbnRpdHkuQ2FsbFJlc3VsdEVudGl0eSI+CgkJPGlkIGNvbHVtbj0iY2FsbF9pZCIgcHJvcGVydHk9ImNhbGxJZCIgLz4KCQk8cmVzdWx0IGNvbHVtbj0iY2FtcGFpZ25faWQiIHByb3BlcnR5PSJjYW1wYWlnbklkIiAvPgoJCTxyZXN1bHQgY29sdW1uPSJjYW1wYWlnbl90eXBlIiBwcm9wZXJ0eT0iY2FtcGFpZ25UeXBlIiAvPgoJCTxyZXN1bHQgY29sdW1uPSJyb3N0ZXJfaWQiIHByb3BlcnR5PSJyb3N0ZXJJZCIgLz4KCQk8cmVzdWx0IGNvbHVtbj0iYmF0Y2hfaWQiIHByb3BlcnR5PSJiYXRjaElkIiAvPgoJCTxyZXN1bHQgY29sdW1uPSJjdXN0b21lcl9pZCIgcHJvcGVydHk9ImN1c3RvbWVySWQiIC8+CgkJPHJlc3VsdCBjb2x1bW49ImN1c3RvbWVyX25vIiBwcm9wZXJ0eT0iY3VzdG9tZXJObyIgLz4KCQk8cmVzdWx0IGNvbHVtbj0icGhvbmVfcG9zIiBwcm9wZXJ0eT0icGhvbmVQb3MiIC8+CgkJPHJlc3VsdCBjb2x1bW49InJvdW5kIiBwcm9wZXJ0eT0icm91bmQiIC8+CgkJPHJlc3VsdCBjb2x1bW49ImRlc3Rfbm8iIHByb3BlcnR5PSJkZXN0Tm8iIC8+CgkJPHJlc3VsdCBjb2x1bW49InRhc2tfY3JlYXRlX3RpbWUiIHByb3BlcnR5PSJ0YXNrQ3JlYXRlVGltZSIgLz4KCQk8cmVzdWx0IGNvbHVtbj0idGFza19zZW5kX3RpbWUiIHByb3BlcnR5PSJ0YXNrU2VuZFRpbWUiIC8+CgkJPHJlc3VsdCBjb2x1bW49InRlbmFudF9pZCIgcHJvcGVydHk9InRlbmFudElkIiAvPgoJCTxyZXN1bHQgY29sdW1uPSJhZ2VudCIgcHJvcGVydHk9ImFnZW50IiAvPgoJCTxyZXN1bHQgY29sdW1uPSJ0aW1lX2lkIiBwcm9wZXJ0eT0idGltZUlkIiAvPgoJCTxyZXN1bHQgY29sdW1uPSJyZXN1bHQiIHByb3BlcnR5PSJyZXN1bHQiIC8+CgoJPC9yZXN1bHRNYXA+</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGlhbGVyVGFzay5zZXRJZCh0YXNrSWQpOw==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgk8c2VsZWN0IGlkPSJjb3VudEJ5QWN0aXZpdHlJZEFuZFJvc3RlcklkIiByZXN1bHRUeXBlPSJqYXZhLmxhbmcuTG9uZyI+CgkJc2VsZWN0IGNvdW50KCopIGZyb20gdF9jYWxsX3Jlc3VsdCByZXN1bHQgd2hlcmUgcmVzdWx0LmFjdGl2aXR5X2lkID0KCQkje2FjdGl2aXR5X2lkfSBhbmQgcmVzdWx0LnJvc3RlcmluZm9faWQgPSAje3Jvc3RlcmluZm9faWR9IG9yZGVyCgkJYnkgcmVzdWx0LmNhbGxfdGltZSBkZXNjCgk8L3NlbGVjdD4=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CTxyZXN1bHRNYXAgaWQ9IlJlc3VsdE1hcCIgdHlwZT0iY29tLm9jbS5lbnRpdHkuQ2FsbFJlc3VsdEVudGl0eSI+CgkJPGlkIGNvbHVtbj0iY2FsbF9pZCIgcHJvcGVydHk9ImNhbGxJZCIgLz4KCQk8cmVzdWx0IGNvbHVtbj0iY2FtcGFpZ25faWQiIHByb3BlcnR5PSJjYW1wYWlnbklkIiAvPgoJCTxyZXN1bHQgY29sdW1uPSJjYW1wYWlnbl90eXBlIiBwcm9wZXJ0eT0iY2FtcGFpZ25UeXBlIiAvPgoJCTxyZXN1bHQgY29sdW1uPSJyb3N0ZXJfaWQiIHByb3BlcnR5PSJyb3N0ZXJJZCIgLz4KCQk8cmVzdWx0IGNvbHVtbj0iYmF0Y2hfaWQiIHByb3BlcnR5PSJiYXRjaElkIiAvPgoJCTxyZXN1bHQgY29sdW1uPSJjdXN0b21lcl9pZCIgcHJvcGVydHk9ImN1c3RvbWVySWQiIC8+CgkJPHJlc3VsdCBjb2x1bW49ImN1c3RvbWVyX25vIiBwcm9wZXJ0eT0iY3VzdG9tZXJObyIgLz4KCQk8cmVzdWx0IGNvbHVtbj0icGhvbmVfcG9zIiBwcm9wZXJ0eT0icGhvbmVQb3MiIC8+CgkJPHJlc3VsdCBjb2x1bW49InJvdW5kIiBwcm9wZXJ0eT0icm91bmQiIC8+CgkJPHJlc3VsdCBjb2x1bW49ImRlc3Rfbm8iIHByb3BlcnR5PSJkZXN0Tm8iIC8+CgkJPHJlc3VsdCBjb2x1bW49InRhc2tfY3JlYXRlX3RpbWUiIHByb3BlcnR5PSJ0YXNrQ3JlYXRlVGltZSIgLz4KCQk8cmVzdWx0IGNvbHVtbj0idGFza19zZW5kX3RpbWUiIHByb3BlcnR5PSJ0YXNrU2VuZFRpbWUiIC8+CgkJPHJlc3VsdCBjb2x1bW49InRlbmFudF9pZCIgcHJvcGVydHk9InRlbmFudElkIiAvPgoJCTxyZXN1bHQgY29sdW1uPSJhZ2VudCIgcHJvcGVydHk9ImFnZW50IiAvPgoJCTxyZXN1bHQgY29sdW1uPSJ0aW1lX2lkIiBwcm9wZXJ0eT0idGltZUlkIiAvPgoJCTxyZXN1bHQgY29sdW1uPSJyZXN1bHQiIHByb3BlcnR5PSJyZXN1bHQiIC8+CgoJPC9yZXN1bHRNYXA+</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text>//import com.ocm.api.response.MonitorCallResultInfo;</text>
+        <text encoding="base64">Cgk8c2VsZWN0IGlkPSJjb3VudEJ5QWN0aXZpdHlJZEFuZFJvc3RlcklkIiByZXN1bHRUeXBlPSJqYXZhLmxhbmcuTG9uZyI+CgkJc2VsZWN0IGNvdW50KCopIGZyb20gdF9jYWxsX3Jlc3VsdCByZXN1bHQgd2hlcmUgcmVzdWx0LmFjdGl2aXR5X2lkID0KCQkje2FjdGl2aXR5X2lkfSBhbmQgcmVzdWx0LnJvc3RlcmluZm9faWQgPSAje3Jvc3RlcmluZm9faWR9IG9yZGVyCgkJYnkgcmVzdWx0LmNhbGxfdGltZSBkZXNjCgk8L3NlbGVjdD4=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
