@@ -60,15 +60,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/resources/application.properties" timestamp="1592647099266">
-        <mark key="[" line="2" column="34" />
-        <mark key="]" line="2" column="34" />
-        <mark key="." line="2" column="34" />
-      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/entity/Resource.java" timestamp="1592806911611" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/config/ConfigProperties.java" timestamp="1592795552615">
         <mark key="[" line="143" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskInfoSender.java" timestamp="1592804832033" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskInfoSender.java" timestamp="1592805801254" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/entity/TenantResourcePool.java" timestamp="1592794341166">
         <mark key="[" line="142" column="0" />
         <mark key="]" line="142" column="0" />
@@ -80,18 +76,18 @@
         <mark key="]" line="45" column="12" />
         <mark key="." line="45" column="12" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/impl/CallResultServiceImpl.java" timestamp="1592797995905">
-        <mark key="[" line="319" column="0" />
-        <mark key="]" line="319" column="0" />
-        <mark key="." line="319" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/impl/CallResultServiceImpl.java" timestamp="1592806110696">
+        <mark key="[" line="319" column="30" />
+        <mark key="]" line="320" column="0" />
+        <mark key="." line="320" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/service/task/TaskServiceImpl.java" timestamp="1592796957822" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSender.java" timestamp="1592797482738">
-        <mark key="[" line="215" column="8" />
-        <mark key="]" line="99" column="0" />
-        <mark key="." line="99" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSender.java" timestamp="1592806506627">
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592792535731">
+      <file name="/Dummy.txt" timestamp="1592806575706">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" timestamp="1592794699274">
@@ -101,21 +97,17 @@
         <mark key="[" line="26" column="4" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/ocm/ocm-api/1.0.1-SNAPSHOT/ocm-api-1.0.1-20190906.111929-3.jar!/com/ocm/api/task/DialTaskResult.class" timestamp="1592796832949" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/resource/domain/valobj/CampaignResourcePool.java" timestamp="1592647360150">
-        <mark key="[" line="100" column="8" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/mapstruct/DialerTaskMapStruct.java" timestamp="1592796846567">
         <mark key="[" line="32" column="53" />
         <mark key="]" line="32" column="53" />
         <mark key="^" line="32" column="54" />
         <mark key="." line="32" column="53" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/resource/domain/valobj/TenantResourcePool.java" timestamp="1592647726639">
-        <mark key="[" line="134" column="15" />
-        <mark key="]" line="134" column="15" />
-        <mark key="." line="134" column="15" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/event/adapter/ResultEventCreator.java" timestamp="1592797595198" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/pom.xml" timestamp="1592806934651" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/entity/CallResultEntity.java" timestamp="1592806075051">
+        <mark key="[" line="72" column="4" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/core/strategy/dial/AbstractDialSolution.java" timestamp="1592797000229" />
       <file name="/Clipboard.txt" timestamp="1592794305381">
         <mark key="[" line="0" column="0" />
@@ -227,10 +219,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>result</text>
+        <text>resource.setPermission(true);</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
@@ -239,34 +231,34 @@
         <text encoding="base64">ICAgICAgICAgICAgQE1hcHBpbmcoc291cmNlID0gImlkIix0YXJnZXQgPSAidGFza0lkIiksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKGNhbGxFdmVudC5nZXRTdGF0ZSgpICE9IDApIHsKICAgICAgICAgICAgICAgIHJlc3VsdC5zZXRUaW1lSWQoRGF0ZVV0aWxzLnRvVGltZUlkKGNhbGxFdmVudC5nZXRFbmRUaW1lKCkpKTsKICAgICAgICAgICAgfQ==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">LAogICAgICAgICAgICBATWFwcGluZyhzb3VyY2UgPSAicm9zdGVySWQiLHRhcmdldCA9ICJyb3N0ZXJpbmZvSWQiKSwg</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmVzb3VyY2Uuc2V0UGVybWlzc2lvbih0cnVlKTsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvL3RvZG8KICAgICAgICByZXR1cm4gdHJ1ZTs=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL3RvZG8KICAgICAgICByZXR1cm4gdHJ1ZTs=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHRhc2tJZCA9IFVVSUQucmFuZG9tVVVJRCgpLnRvU3RyaW5nKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGlhbGVyVGFzay5zZXRJZCh0YXNrSWQpOw==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHRhc2tJZCA9IFVVSUQucmFuZG9tVVVJRCgpLnRvU3RyaW5nKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
