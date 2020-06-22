@@ -61,9 +61,12 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSender.java" timestamp="1592790016054">
-        <mark key="[" line="225" column="8" />
+        <mark key="[" line="226" column="8" />
         <mark key="]" line="96" column="0" />
         <mark key="." line="96" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1592792535731">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/resources/application.properties" timestamp="1592647099266">
         <mark key="[" line="2" column="34" />
