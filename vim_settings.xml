@@ -63,10 +63,10 @@
       <file name="/Dummy.txt" timestamp="1592818790717">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/message/DefaultMessageProcessor.java" timestamp="1592878695049">
-        <mark key="[" line="37" column="18" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/message/DefaultMessageProcessor.java" timestamp="1592879103155">
+        <mark key="[" line="42" column="32" />
+        <mark key="]" line="45" column="33" />
+        <mark key="." line="45" column="13" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/body/JsonBodyProcess.java" timestamp="1592818186827">
         <mark key="[" line="11" column="0" />
@@ -75,11 +75,6 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/subscribe/MessageType.java" timestamp="1592818332654">
         <mark key="[" line="8" column="11" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/fail/RetryFailProcessor.java" timestamp="1592816865546">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/model/ProcessorDTO.java" timestamp="1592878952094">
         <mark key="[" line="18" column="4" />
@@ -134,6 +129,7 @@
       <file name="/fragment.java" timestamp="1592819632970">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/event/handler/processor/CallResultCommonTool.java" timestamp="1592879769095" />
     </filemarks>
     <jumps>
       <jump line="33" column="0" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/serivce/impl/InstantServiceImplTest.java" />
@@ -241,7 +237,8 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>processorDTO</text>
+        <text>case &quot;prdType&quot;:
+                return callEvent;</text>
       </register>
       <register name="-" type="4">
         <text>processorDTO</text>
@@ -249,8 +246,9 @@
       <register name="/" type="4">
         <text>fire</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQE1hcHBpbmcoc291cmNlID0gImlkIix0YXJnZXQgPSAidGFza0lkIiksCg==</text>
+      <register name="0" type="4">
+        <text>case &quot;prdType&quot;:
+                return callEvent;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBQcm9jZXNzb3JEVE8gcHJvY2Vzc29yRFRPID0gbmV3IFByb2Nlc3NvckRUTyhjYWxsRXZlbnQpOwo=</text>
