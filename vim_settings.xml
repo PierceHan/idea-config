@@ -68,8 +68,11 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/config/ConfigProperties.java" timestamp="1592983394572">
         <mark key="[" line="37" column="4" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/event/CallEvent.java" timestamp="1592981525242">
+      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/event/CallEvent.java" timestamp="1592985761229">
         <mark key="[" line="47" column="4" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/event/CallEventHandlerTemplate.java" timestamp="1592986146774">
+        <mark key="[" line="164" column="4" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/util/StartRunner.java" timestamp="1592982225557">
         <mark key="[" line="10" column="24" />
@@ -81,27 +84,14 @@
         <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/impl/CallResultServiceImpl.java" timestamp="1592981777902" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/fail/SkipFailProcessor.java" timestamp="1592980183218">
-        <mark key="[" line="13" column="15" />
-        <mark key="]" line="13" column="15" />
-        <mark key="." line="13" column="15" />
-      </file>
       <file name="/Dummy.txt" timestamp="1592982799571">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/util/HttpUtils.java" timestamp="1592979168617">
-        <mark key="[" line="220" column="50" />
-        <mark key="]" line="216" column="4" />
-        <mark key="." line="216" column="4" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/message/DefaultMessageProcessor.java" timestamp="1592982856786">
         <mark key="[" line="54" column="23" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/model/ProcessorDTO.java" timestamp="1592978671690">
-        <mark key="[" line="19" column="4" />
-        <mark key="]" line="19" column="4" />
-        <mark key="." line="19" column="4" />
-      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/config/RabbitConfig.java" timestamp="1592985252014" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/queue/CallResultReceiver.java" timestamp="1592984536010" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application.yml" timestamp="1592983408315">
         <mark key="[" line="14" column="0" />
       </file>
@@ -110,15 +100,19 @@
         <mark key="]" line="33" column="20" />
         <mark key="." line="33" column="20" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/body/custom/KefuKafkaProxyBody.java" timestamp="1592978747427">
-        <mark key="[" line="36" column="15" />
-        <mark key="]" line="36" column="15" />
-        <mark key="." line="36" column="15" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/consts/QueueConsts.java" timestamp="1592985278775">
+        <mark key="[" line="37" column="4" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/NothingProcessor.java" timestamp="1592981211371">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/queue/ResultReceiver.java" timestamp="1592985281636" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/queue/MessageSender.java" timestamp="1592986026505">
+        <mark key="[" line="114" column="9" />
+        <mark key="]" line="114" column="0" />
+        <mark key="." line="114" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -226,8 +220,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>private</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>private</text>
@@ -245,22 +239,22 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9jZXNzb3JEVE8uc2V0TmV4dCh0cnVlKTs=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5yYWJiaXRUZW1wbGF0ZS5jb252ZXJ0QW5kU2VuZChRdWV1ZUNvbgogICAgICAgIH0K</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">c3RzLkNBTExfUkVTVUxUX0VWRU5ULGNhbGxFdmVudCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9jZXNzb3JEVE8uc2V0TmV4dCh0cnVlKTs=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcm9jZXNzb3JEVE8uc2V0TmV4dCh0cnVlKTs=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBSZXNvdXJjZQogICAgcHJpdmF0ZSBQcm9jZXNzb3JNYXAgcHJvY2Vzc29yTWFwOw==</text>
+        <text encoding="base64">ICAgICAgICBwcm9jZXNzb3JEVE8uc2V0TmV4dCh0cnVlKTs=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
