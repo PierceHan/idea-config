@@ -65,6 +65,11 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/src/main/java/com/hga/hgatest3/mq/MessageSender.java" timestamp="1592993119903">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1592992095913">
         <mark key="[" line="0" column="16" />
       </file>
@@ -80,18 +85,17 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/resources/application-2.0.properties" timestamp="1592990590920" />
       <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/pom.xml" timestamp="1592989443780" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/event/handler/CallHungupHandler.java" timestamp="1592986820727">
-        <mark key="[" line="53" column="91" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/src/main/resources/application.yaml" timestamp="1592989253676">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/src/main/java/com/hga/hgatest3/util/StartRunner.java" timestamp="1592990877858">
-        <mark key="[" line="10" column="24" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/src/main/java/com/hga/hgatest3/util/StartRunner.java" timestamp="1592993965057">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/RosterServiceImpl.java" timestamp="1592990496019" />
       <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/src/main/java/com/hga/hgatest3/mock/event/CallEventCreator.java" timestamp="1592992768324">
-        <mark key="[" line="15" column="4" />
+        <mark key="[" line="16" column="4" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/src/main/java/com/hga/hgatest3/config/Config.java" timestamp="1592989263375">
         <mark key="[" line="9" column="0" />
@@ -109,22 +113,19 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/event/handler/CallFailedHandler.java" timestamp="1592987085952">
-        <mark key="[" line="38" column="91" />
-      </file>
       <file name="/Dummy.txt" timestamp="1592987443781">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/src/main/java/com/hga/hgatest3/mock/event/DialTaskResultCreator.java" timestamp="1592992120027">
         <mark key="[" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/event/handler/CallAnswerHandler.java" timestamp="1592986746657">
-        <mark key="[" line="69" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/queue/MessageSender.java" timestamp="1592987364603">
         <mark key="[" line="114" column="9" />
         <mark key="]" line="114" column="0" />
         <mark key="." line="114" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1592993074362">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -232,11 +233,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>spring:rabbitmq:</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>spring:rabbitmq:</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
@@ -251,6 +252,18 @@
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">LyoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKgogKiBQcm9qZWN0OiAgICAgICAgb2NtLXNlcnZpY2UKICogPHA+CiAqIENvcHlyaWdodCDCqQogKiA8cD4KICogKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioKICogPHA+CiAqIEhlYWRlciBOYW1lOiBXZWxsSm9pbnQKICogPHA+CiAqIERlc2NyaXB0aW9uOgogKgogKiDlsIbkv6Hmga/lj5HpgIHoh7NtcQogKgogKiA8cD4KICogUmV2aXNpb24gSGlzdG9yeToKICogTW9kaWZpY2F0aW9uCiAqIEF1dGhvciAgICAgICAgICAgICAgICAgIERhdGUoTU0vREQvWVlZWSkgICAgICAgICAgICAgSmlyYUlEICAgICAgICAgICAgRGVzY3JpcHRpb24gb2YgQ2hhbmdlcwogKiAtLS0tLS0tLS0tLS0tLS0tICAgICAgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tICAgICAgIC0tLS0tLS0tLS0tLS0gICAgIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICogemhhbmdsdSAgICAgICAgICAgICAgIDIwMTcvMDUvMDYtMTc6MzgKICoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKg==</text>
+      </register>
+      <register name="4" type="2">
+        <text>@Component(&quot;sender&quot;)</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text>server:
   servlet:
     context-path: /hga/test
@@ -259,25 +272,11 @@ spring:
   profiles:
     active: ${env_name:develop}</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5hbXFwPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctcmFiYml0LXRlc3Q8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDxzY29wZT50ZXN0PC9zY29wZT4KICAgICAgICA8L2RlcGVuZGVuY3k+</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text>appPath=../..
-path=$appPath/</text>
-      </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text>appPath=../..
-path=$appPath/</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5hbXFwPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctcmFiYml0LXRlc3Q8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDxzY29wZT50ZXN0PC9zY29wZT4KICAgICAgICA8L2RlcGVuZGVuY3k+</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
