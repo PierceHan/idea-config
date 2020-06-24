@@ -2,11 +2,13 @@
   <component name="SonarLintGlobalSettings">
     <rules>
       <Rule active="false" key="squid:S1220" />
+      <Rule active="false" key="java:S1301" />
       <Rule active="false" key="java:S1488" />
+      <Rule active="false" key="java:S1872" />
       <Rule active="false" key="java:S1144" />
       <Rule active="false" key="java:S107" />
-      <Rule active="false" key="java:S1854" />
       <Rule active="false" key="java:S3864" />
+      <Rule active="false" key="java:S1854" />
       <Rule active="false" key="java:S2589" />
     </rules>
   </component>
