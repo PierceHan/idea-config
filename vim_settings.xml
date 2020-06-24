@@ -81,8 +81,8 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/body/custom/KafkaProxyBody.java" timestamp="1592902035563">
-        <mark key="[" line="11" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/body/custom/KafkaProxyBody.java" timestamp="1592965165394">
+        <mark key="[" line="15" column="4" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/body/FileBodyProcess.java" timestamp="1592901856004">
         <mark key="[" line="13" column="8" />
@@ -95,6 +95,7 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/transport/custom/KefuKefkaProxy.java" timestamp="1592894906592">
         <mark key="[" line="10" column="27" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/config/ConfigProperties.java" timestamp="1592965148944" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/event/DoNotCallEnum.java" timestamp="1592962464623" />
       <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/transport/custom/KefuKafkaProxy.java" timestamp="1592900175268">
         <mark key="[" line="10" column="27" />
