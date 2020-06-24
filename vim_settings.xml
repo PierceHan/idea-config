@@ -60,22 +60,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/RosterServiceImpl.java" timestamp="1592990496019" />
       <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/pom.xml" timestamp="1592991026381">
         <mark key="[" line="34" column="12" />
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1592992095913">
+        <mark key="[" line="0" column="16" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/file/startup.sh" timestamp="1592988568915">
         <mark key="[" line="18" column="6" />
         <mark key="]" line="18" column="6" />
         <mark key="." line="18" column="6" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/src/main/java/com/hga/hgatest3/config/Config.java" timestamp="1592989263375">
-        <mark key="[" line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/event/CallEvent.java" timestamp="1592985761229">
-        <mark key="[" line="47" column="4" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/event/CallEventHandlerTemplate.java" timestamp="1592987120293">
         <mark key="[" line="167" column="4" />
@@ -83,12 +79,29 @@
         <mark key="." line="167" column="4" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/resources/application-2.0.properties" timestamp="1592990590920" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/pom.xml" timestamp="1592989443780" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/event/handler/CallHungupHandler.java" timestamp="1592986820727">
+        <mark key="[" line="53" column="91" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/src/main/resources/application.yaml" timestamp="1592989253676">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/src/main/java/com/hga/hgatest3/util/StartRunner.java" timestamp="1592990877858">
+        <mark key="[" line="10" column="24" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/RosterServiceImpl.java" timestamp="1592990496019" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/src/main/java/com/hga/hgatest3/mock/event/CallEventCreator.java" timestamp="1592992768324">
+        <mark key="[" line="15" column="4" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/src/main/java/com/hga/hgatest3/config/Config.java" timestamp="1592989263375">
+        <mark key="[" line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/Dockerfile" timestamp="1592988621143">
         <mark key="[" line="4" column="11" />
         <mark key="]" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/src/main/java/com/hga/hgatest3/mock/event/CallEventCreater.java" timestamp="1592991183934">
+      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/src/main/java/com/hga/hgatest3/mock/event/CallEventCreater.java" timestamp="1592992089878">
         <mark key="[" line="16" column="4" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/src/main/resources/application-develop.yaml" timestamp="1592990723087">
@@ -102,23 +115,12 @@
       <file name="/Dummy.txt" timestamp="1592987443781">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/pom.xml" timestamp="1592989443780" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/event/handler/CallHungupHandler.java" timestamp="1592986820727">
-        <mark key="[" line="53" column="91" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/src/main/resources/application.yaml" timestamp="1592989253676">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/src/main/java/com/hga/hgatest3/util/StartRunner.java" timestamp="1592990877858">
-        <mark key="[" line="10" column="24" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/src/main/java/com/hga/hgatest3/mock/event/DialTaskResultCreator.java" timestamp="1592992120027">
+        <mark key="[" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/event/handler/CallAnswerHandler.java" timestamp="1592986746657">
         <mark key="[" line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/config/EventBusConfig.java" timestamp="1592986400371">
-        <mark key="[" line="54" column="4" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/queue/ResultReceiver.java" timestamp="1592985281636" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/queue/MessageSender.java" timestamp="1592987364603">
         <mark key="[" line="114" column="9" />
         <mark key="]" line="114" column="0" />
