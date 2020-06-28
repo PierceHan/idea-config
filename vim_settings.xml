@@ -65,14 +65,13 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/file/startup.sh" timestamp="1593327800293">
-        <mark key="[" line="27" column="196" />
-        <mark key="]" line="18" column="6" />
-        <mark key="." line="18" column="6" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/config/ConfigProperties.java" timestamp="1593333961327">
+        <mark key="[" line="70" column="3" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cds/cds-server/src/main/java/org/cds/nesty/jedis/JedisUtils.java" timestamp="1593324587841" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/event/CallEvent.java" timestamp="1593328657649">
-        <mark key="[" line="34" column="22" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/event/CallEvent.java" timestamp="1593332469835">
+        <mark key="[" line="30" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/Cti-Components/spring/src/main/java/component/spring/BootSpring.java" timestamp="1593331333083" />
       <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/src/main/java/com/hga/hgatest3/config/RabbitConfig.java" timestamp="1593332236688">
@@ -80,24 +79,23 @@
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/src/main/resources/application-develop.yaml" timestamp="1593328307203">
-        <mark key="[" line="2" column="22" />
-        <mark key="]" line="2" column="22" />
-        <mark key="." line="2" column="22" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/resources/config/application-stress2.yml" timestamp="1593328042540">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/Cti-Components/service/service/src/main/java/component/service/impl/ServiceFacility.java" timestamp="1593331224102" />
       <file name="$USER_HOME$/IdeaProjects/huijie/dialer-service/src/main/resources/config/application.yml" timestamp="1593331585959">
         <mark key="[" line="7" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593328668080">
+      <file name="/Dummy.txt" timestamp="1593334059310">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/src/test/java/com/hga/hgatest3/Hgatest3ApplicationTests.java" timestamp="1593328270613" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" timestamp="1593333939444">
+        <mark key="[" line="262" column="85" />
+        <mark key="]" line="262" column="85" />
+        <mark key="." line="262" column="85" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application-2.0.yaml" timestamp="1593334002136">
+        <mark key="[" line="29" column="4" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/config/RabbitConfig.java" timestamp="1593332090366">
         <mark key="[" line="66" column="0" />
         <mark key="]" line="66" column="0" />
@@ -114,6 +112,8 @@
         <mark key="]" line="3" column="24" />
         <mark key="." line="3" column="24" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/model/SubscribeEntity.java" timestamp="1593332600963" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/service/impl/SubscribeServiceImpl.java" timestamp="1593332646191" />
       <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/queue/ResultReceiver.java" timestamp="1593331458972">
         <mark key="[" line="32" column="4" />
       </file>
@@ -227,11 +227,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog6Kej5Yaz5pa55rOVOua3u+WKoOi/meS4quexu+i/m+ihjOW6j+WIl+WMluino+aekAogICAgICog5Lya6Ieq5Yqo6K+G5YirCiAgICAgKiBAcmV0dXJuIG1xIOa2iOaBr+W6j+WIl+WMluW3peWFtwogICAgICovCiAgICBAQmVhbgogICAgcHVibGljIE1lc3NhZ2VDb252ZXJ0ZXIganNvbk1lc3NhZ2VDb252ZXJ0ZXIoKSB7CiAgICAgICAgT2JqZWN0TWFwcGVyIG9iamVjdE1hcHBlciA9IG5ldyBPYmplY3RNYXBwZXIoKTsKICAgICAgICByZXR1cm4gbmV3IEphY2tzb24ySnNvbk1lc3NhZ2VDb252ZXJ0ZXIob2JqZWN0TWFwcGVyKTsKICAgIH0=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
