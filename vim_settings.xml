@@ -60,10 +60,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/pom.xml" timestamp="1593328729018">
-        <mark key="[" line="34" column="12" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/pom.xml" timestamp="1593332398226">
+        <mark key="[" line="24" column="12" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/file/startup.sh" timestamp="1593327800293">
         <mark key="[" line="27" column="196" />
@@ -75,6 +75,11 @@
         <mark key="[" line="34" column="22" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/Cti-Components/spring/src/main/java/component/spring/BootSpring.java" timestamp="1593331333083" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/src/main/java/com/hga/hgatest3/config/RabbitConfig.java" timestamp="1593332236688">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/src/main/resources/application-develop.yaml" timestamp="1593328307203">
         <mark key="[" line="2" column="22" />
         <mark key="]" line="2" column="22" />
@@ -86,10 +91,18 @@
         <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/Cti-Components/service/service/src/main/java/component/service/impl/ServiceFacility.java" timestamp="1593331224102" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/dialer-service/src/main/resources/config/application.yml" timestamp="1593331585959">
+        <mark key="[" line="7" column="39" />
+      </file>
       <file name="/Dummy.txt" timestamp="1593328668080">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/src/test/java/com/hga/hgatest3/Hgatest3ApplicationTests.java" timestamp="1593328270613" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/config/RabbitConfig.java" timestamp="1593332090366">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/dialer-service/src/main/java/com/ocm/config/RabbitConfig.java" timestamp="1593330409902" />
       <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/src/main/resources/application.yaml" timestamp="1593329468392">
         <mark key="[" line="6" column="23" />
@@ -101,8 +114,12 @@
         <mark key="]" line="3" column="24" />
         <mark key="." line="3" column="24" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cds/cds-server/src/main/java/org/cds/server/handler/HttpServerHandler.java" timestamp="1593324569389" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cds/cds-server/src/main/java/org/cds/nesty/handler/SimpleHandler.java" timestamp="1593324527601" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/queue/ResultReceiver.java" timestamp="1593331458972">
+        <mark key="[" line="32" column="4" />
+      </file>
+      <file name="/fragment.java" timestamp="1593332224934">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/dialer-service/src/main/java/com/ocm/queue/MessageSender.java" timestamp="1593330554290" />
     </filemarks>
     <jumps>
@@ -210,11 +227,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>develop</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICog6Kej5Yaz5pa55rOVOua3u+WKoOi/meS4quexu+i/m+ihjOW6j+WIl+WMluino+aekAogICAgICog5Lya6Ieq5Yqo6K+G5YirCiAgICAgKiBAcmV0dXJuIG1xIOa2iOaBr+W6j+WIl+WMluW3peWFtwogICAgICovCiAgICBAQmVhbgogICAgcHVibGljIE1lc3NhZ2VDb252ZXJ0ZXIganNvbk1lc3NhZ2VDb252ZXJ0ZXIoKSB7CiAgICAgICAgT2JqZWN0TWFwcGVyIG9iamVjdE1hcHBlciA9IG5ldyBPYmplY3RNYXBwZXIoKTsKICAgICAgICByZXR1cm4gbmV3IEphY2tzb24ySnNvbk1lc3NhZ2VDb252ZXJ0ZXIob2JqZWN0TWFwcGVyKTsKICAgIH0=</text>
       </register>
       <register name="-" type="4">
-        <text>develop</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
@@ -223,34 +240,36 @@
         <text encoding="base64">ICAgICAgICBVbmFyeU9wZXJhdG9yPFByb2Nlc3NvckRUTz4gYm9keVByb2Nlc3NvciA9IHByb2Nlc3Nvck1hcC5nZXRCb2R5TWFwKCkuZ2V0KHN1YnNjcmliZUVudGl0eS5nZXRCb2R5VHlwZSgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog6Kej5Yaz5pa55rOVOua3u+WKoOi/meS4quexu+i/m+ihjOW6j+WIl+WMluino+aekAogICAgICog5Lya6Ieq5Yqo6K+G5YirCiAgICAgKiBAcmV0dXJuIG1xIOa2iOaBr+W6j+WIl+WMluW3peWFtwogICAgICovCiAgICBAQmVhbgogICAgcHVibGljIE1lc3NhZ2VDb252ZXJ0ZXIganNvbk1lc3NhZ2VDb252ZXJ0ZXIoKSB7CiAgICAgICAgT2JqZWN0TWFwcGVyIG9iamVjdE1hcHBlciA9IG5ldyBPYmplY3RNYXBwZXIoKTsKICAgICAgICByZXR1cm4gbmV3IEphY2tzb24ySnNvbk1lc3NhZ2VDb252ZXJ0ZXIob2JqZWN0TWFwcGVyKTsKICAgIH0=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFkZHJlc3NlczogJHtyYWJiaXRfYWRkcjp9</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBvYmplY3RNYXBwZXIganNvbuW6j+WIl+WMluWunueOsOexuwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text>master_url: htddtp://192.168.40.149:31024</text>
+        <text>————————————————
+    版权声明：本文为CSDN博主「适一」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
+    原文链接：https://blog.csdn.net/pltang/article/details/103994214</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text>roster_url: http://127.0.0.1:8080</text>
+        <text encoding="base64">ICAgIGFkZHJlc3NlczogJHtyYWJiaXRfYWRkcjp9</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text>cds_url: http://192.168.40.149:31304/cds</text>
+        <text>master_url: htddtp://192.168.40.149:31024</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBTZXR0ZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
