@@ -60,6 +60,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$MAVEN_REPOSITORY$/tk/mybatis/mapper-core/1.1.2/mapper-core-1.1.2-sources.jar!/tk/mybatis/mapper/entity/Example.java" timestamp="1593335282948" />
       <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/pom.xml" timestamp="1593332398226">
         <mark key="[" line="24" column="12" />
         <mark key="]" line="62" column="0" />
@@ -86,6 +87,11 @@
       <file name="/Dummy.txt" timestamp="1593334059310">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/pom.xml" timestamp="1593335382929">
+        <mark key="[" line="118" column="4" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" timestamp="1593333939444">
         <mark key="[" line="262" column="85" />
         <mark key="]" line="262" column="85" />
@@ -102,18 +108,15 @@
         <mark key="." line="66" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/dialer-service/src/main/java/com/ocm/config/RabbitConfig.java" timestamp="1593330409902" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/src/main/resources/application.yaml" timestamp="1593329468392">
-        <mark key="[" line="6" column="23" />
-        <mark key="]" line="6" column="23" />
-        <mark key="." line="6" column="23" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/src/main/resources/application-stress2.yaml" timestamp="1593329534513">
         <mark key="[" line="3" column="24" />
         <mark key="]" line="3" column="24" />
         <mark key="." line="3" column="24" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/model/SubscribeEntity.java" timestamp="1593332600963" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/service/impl/SubscribeServiceImpl.java" timestamp="1593332646191" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/model/SubscribeEntity.java" timestamp="1593334551546">
+        <mark key="[" line="22" column="12" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/service/impl/SubscribeServiceImpl.java" timestamp="1593334534602" />
       <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/queue/ResultReceiver.java" timestamp="1593331458972">
         <mark key="[" line="32" column="4" />
       </file>
