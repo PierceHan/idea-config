@@ -60,30 +60,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1593312720544">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/pom.xml" timestamp="1593312398731">
-        <mark key="[" line="118" column="4" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/src/main/java/com/hga/hgatest3/mock/event/CallEventCreator.java" timestamp="1592992768324">
         <mark key="[" line="16" column="4" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/model/rule/RuleNode.java" timestamp="1593314856400" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/pom.xml" timestamp="1592991026381">
-        <mark key="[" line="34" column="12" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/src/main/java/com/hga/hgatest3/mq/MessageSender.java" timestamp="1592993119903">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/src/main/java/com/hga/hgatest3/mock/event/DialTaskResultCreator.java" timestamp="1592992120027">
-        <mark key="[" line="13" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1592992095913">
         <mark key="[" line="0" column="16" />
@@ -93,6 +76,11 @@
         <mark key="]" line="18" column="6" />
         <mark key="." line="18" column="6" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/config/ConfigProperties.java" timestamp="1593316198664">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/util/StartRunner.java" timestamp="1593308959162">
         <mark key="[" line="14" column="0" />
       </file>
@@ -101,24 +89,36 @@
         <mark key="]" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/pom.xml" timestamp="1593312402151" />
       <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/src/main/java/com/hga/hgatest3/mock/event/CallEventCreater.java" timestamp="1592992089878">
         <mark key="[" line="16" column="4" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/resources/config/application-stress2.yml" timestamp="1593309603059">
+        <mark key="[" line="33" column="69" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1593316265103">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/pom.xml" timestamp="1593312398731">
+        <mark key="[" line="118" column="4" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/model/rule/RuleNode.java" timestamp="1593314856400" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/src/main/java/com/hga/hgatest3/mock/event/DialTaskResultCreator.java" timestamp="1592992120027">
+        <mark key="[" line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application-2.0.yaml" timestamp="1593316258081">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/pom.xml" timestamp="1593312402151" />
       <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/src/main/java/com/hga/hgatest3/util/StartRunner.java" timestamp="1592993965057">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/pom.xml" timestamp="1593311680767" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/src/main/resources/application-develop.yaml" timestamp="1592990723087">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/resources/config/application-stress2.yml" timestamp="1593309603059">
-        <mark key="[" line="33" column="69" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/queue/MessageSender.java" timestamp="1593308832087">
         <mark key="[" line="114" column="9" />
         <mark key="]" line="114" column="0" />
@@ -252,28 +252,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y2Mud2VsbGNsb3VkLmZyYW1ld29yay5jb3JlPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5DQy5Db3JlPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4xLjEuMC1TTkFQU0hPVDwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+</text>
+        <text>master_url: htddtp://192.168.40.149:31024</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text />
+        <text>roster_url: http://127.0.0.1:8080</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1zdGFydGVyLXF1YXJ0ejwvYXJ0aWZhY3RJZD4KICAgICAgICA8L2RlcGVuZGVuY3k+</text>
+        <text>cds_url: http://192.168.40.149:31304/cds</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBTZXR0ZXIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBTZXR0ZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKgogKiBQcm9qZWN0OiAgICAgICAgb2NtLXNlcnZpY2UKICogPHA+CiAqIENvcHlyaWdodCDCqQogKiA8cD4KICogKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioKICogPHA+CiAqIEhlYWRlciBOYW1lOiBXZWxsSm9pbnQKICogPHA+CiAqIERlc2NyaXB0aW9uOgogKgogKiDlsIbkv6Hmga/lj5HpgIHoh7NtcQogKgogKiA8cD4KICogUmV2aXNpb24gSGlzdG9yeToKICogTW9kaWZpY2F0aW9uCiAqIEF1dGhvciAgICAgICAgICAgICAgICAgIERhdGUoTU0vREQvWVlZWSkgICAgICAgICAgICAgSmlyYUlEICAgICAgICAgICAgRGVzY3JpcHRpb24gb2YgQ2hhbmdlcwogKiAtLS0tLS0tLS0tLS0tLS0tICAgICAgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tICAgICAgIC0tLS0tLS0tLS0tLS0gICAgIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICogemhhbmdsdSAgICAgICAgICAgICAgIDIwMTcvMDUvMDYtMTc6MzgKICoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKg==</text>
+        <text encoding="base64">ICAgIEBTZXR0ZXIK</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
