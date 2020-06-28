@@ -63,10 +63,10 @@
       <file name="/Dummy.txt" timestamp="1593309614286">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/pom.xml" timestamp="1593309612007">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/pom.xml" timestamp="1593311650931">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/src/main/java/com/hga/hgatest3/mock/event/CallEventCreator.java" timestamp="1592992768324">
         <mark key="[" line="16" column="4" />
@@ -255,28 +255,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text />
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y2Mud2VsbGNsb3VkLmZyYW1ld29yay5jb3JlPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5DQy5Db3JlPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4xLjEuMC1TTkFQU0hPVDwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1zdGFydGVyLXF1YXJ0ejwvYXJ0aWZhY3RJZD4KICAgICAgICA8L2RlcGVuZGVuY3k+</text>
+        <text />
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1zdGFydGVyLXF1YXJ0ejwvYXJ0aWZhY3RJZD4KICAgICAgICA8L2RlcGVuZGVuY3k+</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKgogKiBQcm9qZWN0OiAgICAgICAgb2NtLXNlcnZpY2UKICogPHA+CiAqIENvcHlyaWdodCDCqQogKiA8cD4KICogKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioKICogPHA+CiAqIEhlYWRlciBOYW1lOiBXZWxsSm9pbnQKICogPHA+CiAqIERlc2NyaXB0aW9uOgogKgogKiDlsIbkv6Hmga/lj5HpgIHoh7NtcQogKgogKiA8cD4KICogUmV2aXNpb24gSGlzdG9yeToKICogTW9kaWZpY2F0aW9uCiAqIEF1dGhvciAgICAgICAgICAgICAgICAgIERhdGUoTU0vREQvWVlZWSkgICAgICAgICAgICAgSmlyYUlEICAgICAgICAgICAgRGVzY3JpcHRpb24gb2YgQ2hhbmdlcwogKiAtLS0tLS0tLS0tLS0tLS0tICAgICAgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tICAgICAgIC0tLS0tLS0tLS0tLS0gICAgIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICogemhhbmdsdSAgICAgICAgICAgICAgIDIwMTcvMDUvMDYtMTc6MzgKICoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text>@Component(&quot;sender&quot;)</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKgogKiBQcm9qZWN0OiAgICAgICAgb2NtLXNlcnZpY2UKICogPHA+CiAqIENvcHlyaWdodCDCqQogKiA8cD4KICogKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioKICogPHA+CiAqIEhlYWRlciBOYW1lOiBXZWxsSm9pbnQKICogPHA+CiAqIERlc2NyaXB0aW9uOgogKgogKiDlsIbkv6Hmga/lj5HpgIHoh7NtcQogKgogKiA8cD4KICogUmV2aXNpb24gSGlzdG9yeToKICogTW9kaWZpY2F0aW9uCiAqIEF1dGhvciAgICAgICAgICAgICAgICAgIERhdGUoTU0vREQvWVlZWSkgICAgICAgICAgICAgSmlyYUlEICAgICAgICAgICAgRGVzY3JpcHRpb24gb2YgQ2hhbmdlcwogKiAtLS0tLS0tLS0tLS0tLS0tICAgICAgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tICAgICAgIC0tLS0tLS0tLS0tLS0gICAgIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICogemhhbmdsdSAgICAgICAgICAgICAgIDIwMTcvMDUvMDYtMTc6MzgKICoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKg==</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
