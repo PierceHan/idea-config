@@ -66,8 +66,8 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/config/ConfigProperties.java" timestamp="1593333961327">
-        <mark key="[" line="70" column="3" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/config/ConfigProperties.java" timestamp="1593336411467">
+        <mark key="[" line="70" column="19" />
         <mark key="]" line="69" column="0" />
         <mark key="." line="69" column="0" />
       </file>
@@ -80,11 +80,16 @@
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/resources/config/application-stress2.yml" timestamp="1593335488648">
+        <mark key="[" line="11" column="32" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/Cti-Components/service/service/src/main/java/component/service/impl/ServiceFacility.java" timestamp="1593331224102" />
       <file name="$USER_HOME$/IdeaProjects/huijie/dialer-service/src/main/resources/config/application.yml" timestamp="1593331585959">
         <mark key="[" line="7" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593334059310">
+      <file name="/Dummy.txt" timestamp="1593336492528">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/pom.xml" timestamp="1593335382929">
@@ -92,15 +97,15 @@
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" timestamp="1593333939444">
-        <mark key="[" line="262" column="85" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" timestamp="1593336434874">
+        <mark key="[" line="262" column="87" />
         <mark key="]" line="262" column="85" />
         <mark key="." line="262" column="85" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application-2.0.yaml" timestamp="1593334002136">
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application-2.0.yaml" timestamp="1593336415803">
         <mark key="[" line="29" column="4" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+        <mark key="]" line="29" column="4" />
+        <mark key="." line="29" column="4" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/config/RabbitConfig.java" timestamp="1593332090366">
         <mark key="[" line="66" column="0" />
@@ -108,11 +113,6 @@
         <mark key="." line="66" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/dialer-service/src/main/java/com/ocm/config/RabbitConfig.java" timestamp="1593330409902" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/src/main/resources/application-stress2.yaml" timestamp="1593329534513">
-        <mark key="[" line="3" column="24" />
-        <mark key="]" line="3" column="24" />
-        <mark key="." line="3" column="24" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/model/SubscribeEntity.java" timestamp="1593334551546">
         <mark key="[" line="22" column="12" />
       </file>
@@ -231,10 +231,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>rcsUrl</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>rcsUrl</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
