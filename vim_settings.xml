@@ -84,8 +84,10 @@
         <mark key="]" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/resources/config/application-stress2.yml" timestamp="1593309603059">
-        <mark key="[" line="33" column="69" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/resources/config/application-stress2.yml" timestamp="1593327134080">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1593316265103">
         <mark key="[" line="0" column="0" />
@@ -240,25 +242,25 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text>master_url: htddtp://192.168.40.149:31024</text>
+        <text encoding="base64">ICAgIGFkZHJlc3NlczogJHtyYWJiaXRfYWRkcjp9</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text>roster_url: http://127.0.0.1:8080</text>
+        <text>master_url: htddtp://192.168.40.149:31024</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text>cds_url: http://192.168.40.149:31304/cds</text>
+        <text>roster_url: http://127.0.0.1:8080</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBTZXR0ZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBTZXR0ZXIK</text>
+        <text>cds_url: http://192.168.40.149:31304/cds</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIEBTZXR0ZXIK</text>
