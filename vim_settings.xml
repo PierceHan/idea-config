@@ -92,11 +92,6 @@
       <file name="/Dummy.txt" timestamp="1593328668080">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/pom.xml" timestamp="1593312398731">
-        <mark key="[" line="118" column="4" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/model/rule/RuleNode.java" timestamp="1593314856400" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application-2.0.yaml" timestamp="1593316258081">
         <mark key="[" line="41" column="0" />
@@ -104,8 +99,17 @@
         <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/src/test/java/com/hga/hgatest3/Hgatest3ApplicationTests.java" timestamp="1593328270613" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/src/main/resources/application.yaml" timestamp="1593329468392">
+        <mark key="[" line="6" column="23" />
+        <mark key="]" line="6" column="23" />
+        <mark key="." line="6" column="23" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/pom.xml" timestamp="1593312402151" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/pom.xml" timestamp="1593311680767" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/src/main/resources/application-stress2.yaml" timestamp="1593329534513">
+        <mark key="[" line="3" column="24" />
+        <mark key="]" line="3" column="24" />
+        <mark key="." line="3" column="24" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cds/cds-server/src/main/java/org/cds/server/handler/HttpServerHandler.java" timestamp="1593324569389" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cds/cds-server/src/main/java/org/cds/nesty/handler/SimpleHandler.java" timestamp="1593324527601" />
     </filemarks>
@@ -215,10 +219,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>develop</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>develop</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
