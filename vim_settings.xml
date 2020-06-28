@@ -60,11 +60,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1593309614286">
+      <file name="/Dummy.txt" timestamp="1593312720544">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/pom.xml" timestamp="1593311650931">
-        <mark key="[" line="56" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/pom.xml" timestamp="1593312398731">
+        <mark key="[" line="118" column="4" />
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
@@ -92,20 +92,15 @@
         <mark key="]" line="18" column="6" />
         <mark key="." line="18" column="6" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/src/main/java/com/hga/hgatest3/config/Config.java" timestamp="1592989263375">
-        <mark key="[" line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/util/StartRunner.java" timestamp="1593308959162">
         <mark key="[" line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/src/main/resources/application.yaml" timestamp="1592989253676">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/Dockerfile" timestamp="1593308886209">
         <mark key="[" line="4" column="11" />
         <mark key="]" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/pom.xml" timestamp="1593312402151" />
       <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/src/main/java/com/hga/hgatest3/mock/event/CallEventCreater.java" timestamp="1592992089878">
         <mark key="[" line="16" column="4" />
       </file>
@@ -114,6 +109,7 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/pom.xml" timestamp="1593311680767" />
       <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/src/main/resources/application-develop.yaml" timestamp="1592990723087">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
