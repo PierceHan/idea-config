@@ -60,12 +60,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$MAVEN_REPOSITORY$/tk/mybatis/mapper-core/1.1.2/mapper-core-1.1.2-sources.jar!/tk/mybatis/mapper/entity/Example.java" timestamp="1593394103282" />
       <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/pom.xml" timestamp="1593401135079">
         <mark key="[" line="21" column="8" />
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/common/handler/BodyType.java" timestamp="1593402399842" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskInfoSender.java" timestamp="1593399262103" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/cms/PreoccupiedRequest.java" timestamp="1593399800352">
         <mark key="[" line="14" column="12" />
@@ -79,7 +79,6 @@
       <file name="/Dummy.txt" timestamp="1593400271312">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/service/PreOccupiedResource.java" timestamp="1593399246837" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" timestamp="1593399821624">
         <mark key="[" line="260" column="78" />
         <mark key="]" line="262" column="85" />
@@ -96,6 +95,11 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application.yml" timestamp="1593400019981">
         <mark key="[" line="21" column="48" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/common/handler/BodyTypeHandler.java" timestamp="1593402443778">
+        <mark key="[" line="9" column="64" />
+        <mark key="]" line="8" column="53" />
+        <mark key="." line="8" column="53" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/cc/wellcloud/framework/core/CC.Core/1.2.0/CC.Core-1.2.0-sources.jar!/cc/wellcloud/framework/core/client/HttpClient.java" timestamp="1593399982019" />
       <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/src/main/resources/application.yaml" timestamp="1593401388107">
         <mark key="[" line="3" column="7" />
@@ -106,12 +110,15 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/common/handler/EnumTypeHandler.java" timestamp="1593401647956">
         <mark key="[" line="14" column="28" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/model/SubscribeEntity.java" timestamp="1593402085164">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/model/SubscribeEntity.java" timestamp="1593402441764">
+        <mark key="[" line="25" column="4" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6.jar!/org/apache/ibatis/type/EnumTypeHandler.class" timestamp="1593402025419" />
+      <file name="/fragment.java" timestamp="1593402413618">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="33" column="0" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/serivce/impl/InstantServiceImplTest.java" />
@@ -218,11 +225,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>MessageType</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">QENvbHVtblR5cGUodHlwZUhhbmRsZXIgPSBFbnVtVHlwZUhhbmRsZXI8TWVzc2FnZVR5cGU+LmNsYXNzKQ==</text>
+        <text>MessageType</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
