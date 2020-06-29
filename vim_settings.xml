@@ -61,23 +61,19 @@
     <globalmarks />
     <filemarks>
       <file name="$MAVEN_REPOSITORY$/tk/mybatis/mapper-core/1.1.2/mapper-core-1.1.2-sources.jar!/tk/mybatis/mapper/entity/Example.java" timestamp="1593394103282" />
-      <file name="/Dummy.txt" timestamp="1593336492528">
+      <file name="/Dummy.txt" timestamp="1593398219137">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/service/PreOccupiedResource.java" timestamp="1593398055729" />
       <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/pom.xml" timestamp="1593335382929">
         <mark key="[" line="118" column="4" />
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" timestamp="1593336434874">
-        <mark key="[" line="262" column="87" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" timestamp="1593398282710">
+        <mark key="[" line="405" column="63" />
         <mark key="]" line="262" column="85" />
         <mark key="." line="262" column="85" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/pom.xml" timestamp="1593332398226">
-        <mark key="[" line="24" column="12" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application-2.0.yaml" timestamp="1593336415803">
         <mark key="[" line="29" column="4" />
@@ -102,7 +98,7 @@
         <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/DialerTask.java" timestamp="1593337787485">
-        <mark key="[" line="39" column="0" />
+        <mark key="[" line="37" column="0" />
       </file>
     </filemarks>
     <jumps>
