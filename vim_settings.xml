@@ -60,22 +60,21 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/pom.xml" timestamp="1593401135079">
-        <mark key="[" line="21" column="8" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/subscribe/ChannalType.java" timestamp="1593412718583">
+        <mark key="[" line="6" column="23" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/common/handler/BodyType.java" timestamp="1593402399842" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/cms/PreoccupiedRequest.java" timestamp="1593399800352">
-        <mark key="[" line="14" column="12" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/common/handler/FormatTypeHandler.java" timestamp="1593411388393" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/common/handler/ChannelTypeHandler.java" timestamp="1593412693520">
+        <mark key="[" line="9" column="32" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/common/handler/ChannalTypeHandler.java" timestamp="1593412681624">
+        <mark key="[" line="6" column="31" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/subscribe/BodyType.java" timestamp="1593411321960">
         <mark key="[" line="6" column="21" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/src/main/java/com/hga/hgatest3/controller/SenderController.java" timestamp="1593401105794">
-        <mark key="[" line="14" column="0" />
-      </file>
+      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6.jar!/org/apache/ibatis/type/ArrayTypeHandler.class" timestamp="1593413183797" />
       <file name="/Dummy.txt" timestamp="1593410882663">
         <mark key="[" line="0" column="0" />
       </file>
@@ -87,6 +86,9 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/common/handler/MessageTypeHandler.java" timestamp="1593402133501">
         <mark key="[" line="9" column="31" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/common/handler/FrequencyTypeHandler.java" timestamp="1593412634795">
+        <mark key="[" line="9" column="34" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application.yml" timestamp="1593410865809">
         <mark key="[" line="21" column="51" />
       </file>
@@ -95,22 +97,21 @@
         <mark key="]" line="8" column="53" />
         <mark key="." line="8" column="53" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/cc/wellcloud/framework/core/CC.Core/1.2.0/CC.Core-1.2.0-sources.jar!/cc/wellcloud/framework/core/client/HttpClient.java" timestamp="1593399982019" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/src/main/resources/application.yaml" timestamp="1593401388107">
-        <mark key="[" line="3" column="7" />
-        <mark key="]" line="3" column="8" />
-        <mark key="." line="3" column="8" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/common/handler/list/IntegerListHandler.java" timestamp="1593413007575">
+        <mark key="[" line="8" column="32" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/src/main/java/com/hga/hgatest3/util/StartRunner.java" timestamp="1593401303149" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/common/handler/EnumTypeHandler.java" timestamp="1593401647956">
-        <mark key="[" line="14" column="28" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/common/handler/EncryptTypeHandler.java" timestamp="1593412779425">
+        <mark key="[" line="9" column="32" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/model/SubscribeEntity.java" timestamp="1593412073668">
-        <mark key="[" line="33" column="25" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/model/SubscribeEntity.java" timestamp="1593413304840">
+        <mark key="[" line="32" column="30" />
+        <mark key="]" line="32" column="30" />
+        <mark key="." line="32" column="30" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6.jar!/org/apache/ibatis/type/EnumTypeHandler.class" timestamp="1593402025419" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/common/handler/FailOperateTypeHandler.java" timestamp="1593412749625">
+        <mark key="[" line="9" column="36" />
+      </file>
       <file name="/fragment.java" timestamp="1593402413618">
         <mark key="[" line="0" column="0" />
       </file>
@@ -220,11 +221,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>FormatTypeHandler</text>
       </register>
       <register name="-" type="4">
-        <text>MessageType</text>
+        <text>FormatTypeHandler</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
