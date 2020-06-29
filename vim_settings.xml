@@ -61,44 +61,37 @@
     <globalmarks />
     <filemarks>
       <file name="$MAVEN_REPOSITORY$/tk/mybatis/mapper-core/1.1.2/mapper-core-1.1.2-sources.jar!/tk/mybatis/mapper/entity/Example.java" timestamp="1593394103282" />
-      <file name="/Dummy.txt" timestamp="1593398219137">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/service/PreOccupiedResource.java" timestamp="1593398055729" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/pom.xml" timestamp="1593335382929">
-        <mark key="[" line="118" column="4" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" timestamp="1593398282710">
-        <mark key="[" line="405" column="63" />
-        <mark key="]" line="262" column="85" />
-        <mark key="." line="262" column="85" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application-2.0.yaml" timestamp="1593336415803">
-        <mark key="[" line="29" column="4" />
-        <mark key="]" line="29" column="4" />
-        <mark key="." line="29" column="4" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/config/ConfigProperties.java" timestamp="1593336411467">
-        <mark key="[" line="70" column="19" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/event/CallEvent.java" timestamp="1593332469835">
-        <mark key="[" line="30" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/tk/mybatis/mapper-core/1.1.2/mapper-core-1.1.2.jar!/META-INF/maven/tk.mybatis/mapper-core/pom.xml" timestamp="1593394072497" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/model/SubscribeEntity.java" timestamp="1593341822385">
-        <mark key="[" line="15" column="16" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/resources/config/application-stress2.yml" timestamp="1593335488648">
-        <mark key="[" line="11" column="32" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskInfoSender.java" timestamp="1593399262103" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/cms/PreoccupiedRequest.java" timestamp="1593399800352">
+        <mark key="[" line="14" column="12" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/DialerTask.java" timestamp="1593337787485">
         <mark key="[" line="37" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSender.java" timestamp="1593399283241">
+        <mark key="[" line="128" column="43" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1593400271312">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/service/PreOccupiedResource.java" timestamp="1593399246837" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" timestamp="1593399821624">
+        <mark key="[" line="260" column="78" />
+        <mark key="]" line="262" column="85" />
+        <mark key="." line="262" column="85" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/config/RabbitConfig.java" timestamp="1593399614647">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application.yml" timestamp="1593400019981">
+        <mark key="[" line="21" column="48" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/cc/wellcloud/framework/core/CC.Core/1.2.0/CC.Core-1.2.0-sources.jar!/cc/wellcloud/framework/core/client/HttpClient.java" timestamp="1593399982019" />
+      <file name="$MAVEN_REPOSITORY$/tk/mybatis/mapper-core/1.1.2/mapper-core-1.1.2.jar!/META-INF/maven/tk.mybatis/mapper-core/pom.xml" timestamp="1593394072497" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/model/SubscribeEntity.java" timestamp="1593341822385">
+        <mark key="[" line="15" column="16" />
       </file>
     </filemarks>
     <jumps>
@@ -206,8 +199,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>rcsUrl</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>rcsUrl</text>
@@ -219,33 +212,33 @@
         <text encoding="base64">ICAgICAgICBVbmFyeU9wZXJhdG9yPFByb2Nlc3NvckRUTz4gYm9keVByb2Nlc3NvciA9IHByb2Nlc3Nvck1hcC5nZXRCb2R5TWFwKCkuZ2V0KHN1YnNjcmliZUVudGl0eS5nZXRCb2R5VHlwZSgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog6Kej5Yaz5pa55rOVOua3u+WKoOi/meS4quexu+i/m+ihjOW6j+WIl+WMluino+aekAogICAgICog5Lya6Ieq5Yqo6K+G5YirCiAgICAgKiBAcmV0dXJuIG1xIOa2iOaBr+W6j+WIl+WMluW3peWFtwogICAgICovCiAgICBAQmVhbgogICAgcHVibGljIE1lc3NhZ2VDb252ZXJ0ZXIganNvbk1lc3NhZ2VDb252ZXJ0ZXIoKSB7CiAgICAgICAgT2JqZWN0TWFwcGVyIG9iamVjdE1hcHBlciA9IG5ldyBPYmplY3RNYXBwZXIoKTsKICAgICAgICByZXR1cm4gbmV3IEphY2tzb24ySnNvbk1lc3NhZ2VDb252ZXJ0ZXIob2JqZWN0TWFwcGVyKTsKICAgIH0=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBvYmplY3RNYXBwZXIganNvbuW6j+WIl+WMluWunueOsOexuwo=</text>
+        <text encoding="base64">ICAgICAqCiAgICAgKiBAcGFyYW0gY29ubmVjdGlvbkZhY3RvcnkKICAgICAqIEByZXR1cm4=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text>————————————————
-    版权声明：本文为CSDN博主「适一」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
-    原文链接：https://blog.csdn.net/pltang/article/details/103994214</text>
+        <text encoding="base64">ICAgICAqCiAgICAgKiBAcGFyYW0gY29ubmVjdGlvbkZhY3RvcnkKICAgICAqIEByZXR1cm4=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog6Kej5Yaz5pa55rOVOua3u+WKoOi/meS4quexu+i/m+ihjOW6j+WIl+WMluino+aekAogICAgICog5Lya6Ieq5Yqo6K+G5YirCiAgICAgKiBAcmV0dXJuIG1xIOa2iOaBr+W6j+WIl+WMluW3peWFtwogICAgICovCiAgICBAQmVhbgogICAgcHVibGljIE1lc3NhZ2VDb252ZXJ0ZXIganNvbk1lc3NhZ2VDb252ZXJ0ZXIoKSB7CiAgICAgICAgT2JqZWN0TWFwcGVyIG9iamVjdE1hcHBlciA9IG5ldyBPYmplY3RNYXBwZXIoKTsKICAgICAgICByZXR1cm4gbmV3IEphY2tzb24ySnNvbk1lc3NhZ2VDb252ZXJ0ZXIob2JqZWN0TWFwcGVyKTsKICAgIH0=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFkZHJlc3NlczogJHtyYWJiaXRfYWRkcjp9</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBvYmplY3RNYXBwZXIganNvbuW6j+WIl+WMluWunueOsOexuwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text>master_url: htddtp://192.168.40.149:31024</text>
+        <text>————————————————
+    版权声明：本文为CSDN博主「适一」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
+    原文链接：https://blog.csdn.net/pltang/article/details/103994214</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
