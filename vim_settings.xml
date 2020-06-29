@@ -61,12 +61,17 @@
     <globalmarks />
     <filemarks>
       <file name="$MAVEN_REPOSITORY$/tk/mybatis/mapper-core/1.1.2/mapper-core-1.1.2-sources.jar!/tk/mybatis/mapper/entity/Example.java" timestamp="1593394103282" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/pom.xml" timestamp="1593401135079">
+        <mark key="[" line="21" column="8" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskInfoSender.java" timestamp="1593399262103" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/cms/PreoccupiedRequest.java" timestamp="1593399800352">
         <mark key="[" line="14" column="12" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/DialerTask.java" timestamp="1593337787485">
-        <mark key="[" line="37" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/src/main/java/com/hga/hgatest3/controller/SenderController.java" timestamp="1593401105794">
+        <mark key="[" line="14" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSender.java" timestamp="1593399283241">
         <mark key="[" line="128" column="43" />
@@ -80,6 +85,9 @@
         <mark key="]" line="262" column="85" />
         <mark key="." line="262" column="85" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/common/handler/MessageTypeHandler.java" timestamp="1593402133501">
+        <mark key="[" line="9" column="31" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/config/RabbitConfig.java" timestamp="1593399614647">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
@@ -89,10 +97,21 @@
         <mark key="[" line="21" column="48" />
       </file>
       <file name="$MAVEN_REPOSITORY$/cc/wellcloud/framework/core/CC.Core/1.2.0/CC.Core-1.2.0-sources.jar!/cc/wellcloud/framework/core/client/HttpClient.java" timestamp="1593399982019" />
-      <file name="$MAVEN_REPOSITORY$/tk/mybatis/mapper-core/1.1.2/mapper-core-1.1.2.jar!/META-INF/maven/tk.mybatis/mapper-core/pom.xml" timestamp="1593394072497" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/model/SubscribeEntity.java" timestamp="1593341822385">
-        <mark key="[" line="15" column="16" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/src/main/resources/application.yaml" timestamp="1593401388107">
+        <mark key="[" line="3" column="7" />
+        <mark key="]" line="3" column="8" />
+        <mark key="." line="3" column="8" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/src/main/java/com/hga/hgatest3/util/StartRunner.java" timestamp="1593401303149" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/common/handler/EnumTypeHandler.java" timestamp="1593401647956">
+        <mark key="[" line="14" column="28" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/model/SubscribeEntity.java" timestamp="1593402085164">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6.jar!/org/apache/ibatis/type/EnumTypeHandler.class" timestamp="1593402025419" />
     </filemarks>
     <jumps>
       <jump line="33" column="0" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/serivce/impl/InstantServiceImplTest.java" />
@@ -200,10 +219,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>rcsUrl</text>
+        <text encoding="base64">QENvbHVtblR5cGUodHlwZUhhbmRsZXIgPSBFbnVtVHlwZUhhbmRsZXI8TWVzc2FnZVR5cGU+LmNsYXNzKQ==</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
@@ -212,36 +231,36 @@
         <text encoding="base64">ICAgICAgICBVbmFyeU9wZXJhdG9yPFByb2Nlc3NvckRUTz4gYm9keVByb2Nlc3NvciA9IHByb2Nlc3Nvck1hcC5nZXRCb2R5TWFwKCkuZ2V0KHN1YnNjcmliZUVudGl0eS5nZXRCb2R5VHlwZSgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqCiAgICAgKiBAcGFyYW0gY29ubmVjdGlvbkZhY3RvcnkKICAgICAqIEByZXR1cm4=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAqCiAgICAgKiBAcGFyYW0gY29ubmVjdGlvbkZhY3RvcnkKICAgICAqIEByZXR1cm4=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog6Kej5Yaz5pa55rOVOua3u+WKoOi/meS4quexu+i/m+ihjOW6j+WIl+WMluino+aekAogICAgICog5Lya6Ieq5Yqo6K+G5YirCiAgICAgKiBAcmV0dXJuIG1xIOa2iOaBr+W6j+WIl+WMluW3peWFtwogICAgICovCiAgICBAQmVhbgogICAgcHVibGljIE1lc3NhZ2VDb252ZXJ0ZXIganNvbk1lc3NhZ2VDb252ZXJ0ZXIoKSB7CiAgICAgICAgT2JqZWN0TWFwcGVyIG9iamVjdE1hcHBlciA9IG5ldyBPYmplY3RNYXBwZXIoKTsKICAgICAgICByZXR1cm4gbmV3IEphY2tzb24ySnNvbk1lc3NhZ2VDb252ZXJ0ZXIob2JqZWN0TWFwcGVyKTsKICAgIH0=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBvYmplY3RNYXBwZXIganNvbuW6j+WIl+WMluWunueOsOexuwo=</text>
-      </register>
-      <register name="7" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAqCiAgICAgKiBAcGFyYW0gY29ubmVjdGlvbkZhY3RvcnkKICAgICAqIEByZXR1cm4=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICog6Kej5Yaz5pa55rOVOua3u+WKoOi/meS4quexu+i/m+ihjOW6j+WIl+WMluino+aekAogICAgICog5Lya6Ieq5Yqo6K+G5YirCiAgICAgKiBAcmV0dXJuIG1xIOa2iOaBr+W6j+WIl+WMluW3peWFtwogICAgICovCiAgICBAQmVhbgogICAgcHVibGljIE1lc3NhZ2VDb252ZXJ0ZXIganNvbk1lc3NhZ2VDb252ZXJ0ZXIoKSB7CiAgICAgICAgT2JqZWN0TWFwcGVyIG9iamVjdE1hcHBlciA9IG5ldyBPYmplY3RNYXBwZXIoKTsKICAgICAgICByZXR1cm4gbmV3IEphY2tzb24ySnNvbk1lc3NhZ2VDb252ZXJ0ZXIob2JqZWN0TWFwcGVyKTsKICAgIH0=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBvYmplY3RNYXBwZXIganNvbuW6j+WIl+WMluWunueOsOexuwo=</text>
+      </register>
       <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
         <text>————————————————
     版权声明：本文为CSDN博主「适一」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
     原文链接：https://blog.csdn.net/pltang/article/details/103994214</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
