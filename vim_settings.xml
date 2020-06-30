@@ -60,12 +60,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSender.java" timestamp="1593485436012">
+        <mark key="[" line="165" column="12" />
+        <mark key="]" line="164" column="63" />
+        <mark key="." line="164" column="63" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/service/PreOccupiedResource.java" timestamp="1593425211407">
         <mark key="[" line="41" column="83" />
         <mark key="]" line="41" column="83" />
         <mark key="." line="41" column="83" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593428831541">
+      <file name="/Dummy.txt" timestamp="1593485627366">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/message/DefaultMessageProcessor.java" timestamp="1593480939471">
@@ -104,17 +109,18 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/event/handler/CallAnswerHandler.java" timestamp="1593428656777">
         <mark key="[" line="69" column="8" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/cms/Agent.java" timestamp="1593485424304">
+        <mark key="[" line="15" column="4" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/event/handler/CallFailedHandler.java" timestamp="1593428674154">
         <mark key="[" line="60" column="8" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/service/process/ProcessServiceImpl.java" timestamp="1593419831221">
-        <mark key="[" line="29" column="12" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/service/PredictiveResource.java" timestamp="1593425244957">
         <mark key="[" line="36" column="36" />
         <mark key="]" line="36" column="36" />
         <mark key="." line="36" column="36" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/mapstruct/AgentStruct.java" timestamp="1593485625662" />
     </filemarks>
     <jumps>
       <jump line="33" column="0" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/serivce/impl/InstantServiceImplTest.java" />
@@ -222,10 +228,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>.andThen(failProcessor);</text>
+        <text>getStationId</text>
       </register>
       <register name="-" type="4">
-        <text>.andThen(failProcessor);</text>
+        <text>getStationId</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
