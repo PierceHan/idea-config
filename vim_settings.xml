@@ -60,16 +60,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSender.java" timestamp="1593502207843">
-        <mark key="[" line="236" column="72" />
-        <mark key="]" line="236" column="72" />
-        <mark key="." line="236" column="72" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/service/PreOccupiedResource.java" timestamp="1593501165798">
-        <mark key="[" line="52" column="8" />
-        <mark key="]" line="74" column="28" />
-        <mark key="." line="74" column="28" />
-      </file>
       <file name="/Dummy.txt" timestamp="1593487874442">
         <mark key="[" line="0" column="0" />
       </file>
@@ -85,9 +75,7 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/src/main/java/com/hga/hgatest3/mock/event/DialTaskResultCreator.java" timestamp="1593481278853">
         <mark key="[" line="38" column="8" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/command/ReleaseResourceCommand.java" timestamp="1593501674069">
-        <mark key="[" line="29" column="4" />
-      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/command/ReleaseResourceCommand.java" timestamp="1593501674069" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/command/AbstractResourceCommand.java" timestamp="1593501715214">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
