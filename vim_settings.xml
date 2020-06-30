@@ -63,9 +63,6 @@
       <file name="/Dummy.txt" timestamp="1593487874442">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/src/main/java/com/hga/hgatest3/mock/event/CallEventCreator.java" timestamp="1593480417608">
-        <mark key="[" line="24" column="8" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/message/DefaultMessageProcessor.java" timestamp="1593480939471">
         <mark key="[" line="77" column="16" />
       </file>
@@ -100,6 +97,7 @@
         <mark key="]" line="94" column="0" />
         <mark key="." line="94" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/SQL/t_dial_strategy.sql" timestamp="1593530241145" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/Dialer.java" timestamp="1593501887011">
         <mark key="[" line="87" column="33" />
       </file>
