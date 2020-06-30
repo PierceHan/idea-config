@@ -60,10 +60,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSender.java" timestamp="1593498581651">
-        <mark key="[" line="317" column="8" />
-        <mark key="]" line="165" column="63" />
-        <mark key="." line="165" column="63" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSender.java" timestamp="1593502207843">
+        <mark key="[" line="236" column="72" />
+        <mark key="]" line="236" column="72" />
+        <mark key="." line="236" column="72" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/service/PreOccupiedResource.java" timestamp="1593501165798">
         <mark key="[" line="52" column="8" />
@@ -79,22 +79,19 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/message/DefaultMessageProcessor.java" timestamp="1593480939471">
         <mark key="[" line="77" column="16" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/event/handler/CallHungupHandler.java" timestamp="1593428689373">
-        <mark key="[" line="77" column="8" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/ITaskSender.java" timestamp="1593501917530">
+        <mark key="[" line="17" column="23" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/src/main/java/com/hga/hgatest3/mock/event/DialTaskResultCreator.java" timestamp="1593481278853">
         <mark key="[" line="38" column="8" />
       </file>
-      <file name="/a.dummy" timestamp="1593480297760">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/command/ReleaseResourceCommand.java" timestamp="1593501674069">
+        <mark key="[" line="29" column="4" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/ProcessorFactory.java" timestamp="1593480360136">
-        <mark key="[" line="33" column="71" />
-        <mark key="]" line="33" column="72" />
-        <mark key="." line="33" column="72" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/command/AbstractResourceCommand.java" timestamp="1593501275215">
-        <mark key="[" line="41" column="4" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/command/AbstractResourceCommand.java" timestamp="1593501715214">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/java/com/wellcloud/subscribe/process/body/custom/KefuKafkaProxyBody.java" timestamp="1593487690446">
         <mark key="[" line="25" column="0" />
@@ -114,6 +111,9 @@
         <mark key="[" line="94" column="0" />
         <mark key="]" line="94" column="0" />
         <mark key="." line="94" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/Dialer.java" timestamp="1593501887011">
+        <mark key="[" line="87" column="33" />
       </file>
     </filemarks>
     <jumps>
@@ -222,10 +222,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>!</text>
+        <text>callId</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>callId</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
@@ -234,28 +234,28 @@
         <text encoding="base64">ICAgICAgICBVbmFyeU9wZXJhdG9yPFByb2Nlc3NvckRUTz4gYm9keVByb2Nlc3NvciA9IHByb2Nlc3Nvck1hcC5nZXRCb2R5TWFwKCkuZ2V0KHN1YnNjcmliZUVudGl0eS5nZXRCb2R5VHlwZSgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGVtcGxhdGVFbnRpdHkuc2V0U3RhdGUoQ2FtcGFpZ25TdGF0ZUVudW0uU1RPUCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBTZXR0ZXIKICAgIHByaXZhdGUgICAgICAgICBBZ2VudCAgYWdlbnQ7</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKENhbXBhaWduSW5zdGFuY2VMb2NhbENhY2hlLmdldEJ5VGVtcGxhdGVJZCh0ZW1wbGF0ZUlkKSE9bnVsbCkKICAgICAgICAgICAgICAgIHRlbXBsYXRlRW50aXR5LnNldFN0YXRlKENhbXBhaWduU3RhdGVFbnVtLlNUQVJUKTs=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGVtcGxhdGVFbnRpdHkuc2V0U3RhdGUoQ2FtcGFpZ25TdGF0ZUVudW0uU1RPUCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGRkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGRkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKENhbXBhaWduSW5zdGFuY2VMb2NhbENhY2hlLmdldEJ5VGVtcGxhdGVJZCh0ZW1wbGF0ZUlkKSE9bnVsbCkKICAgICAgICAgICAgICAgIHRlbXBsYXRlRW50aXR5LnNldFN0YXRlKENhbXBhaWduU3RhdGVFbnVtLlNUQVJUKTs=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGRkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGRkCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
