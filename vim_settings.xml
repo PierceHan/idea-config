@@ -60,20 +60,21 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/huijie/dncserver/src/main/java/com/wellcloud/dnc/runnable/BlackTask.java" timestamp="1593585766168">
-        <mark key="[" line="42" column="64" />
-        <mark key="]" line="42" column="64" />
-        <mark key="." line="42" column="64" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/dncserver/src/main/java/com/wellcloud/dnc/runnable/BlackTask.java" timestamp="1593598219407">
+        <mark key="[" line="48" column="43" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/diaokou/DiaoKouBack1.java" timestamp="1593589361877" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/diaokou/DiaoKouBack1.java" timestamp="1593595460437" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskInfoSender.java" timestamp="1593575430870">
         <mark key="[" line="229" column="24" />
         <mark key="]" line="240" column="0" />
         <mark key="." line="240" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/dncserver/src/main/java/com/wellcloud/dnc/service/impl/BlackServiceImpl.java" timestamp="1593587419395" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/dncserver/src/main/java/com/wellcloud/dnc/service/impl/BlackServiceImpl.java" timestamp="1593598642682">
+        <mark key="[" line="394" column="11" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application-develop.yml" timestamp="1593584229836" />
-      <file name="$MAVEN_REPOSITORY$/cc/wellcloud/cloud/interface/1.3.2/interface-1.3.2.jar!/cc/wellcloud/cloud/interfaces/event/CallEvent.class" timestamp="1593535560698" />
       <file name="$MAVEN_REPOSITORY$/com/ocm/ocm-api/1.0.1-SNAPSHOT/ocm-api-1.0.1-20190906.111929-3.jar!/com/ocm/api/acd/Agent.class" timestamp="1593574890790" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/cms/Agent.java" timestamp="1593574899183">
         <mark key="[" line="21" column="0" />
@@ -86,9 +87,10 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/dncserver/src/main/resources/application.yaml" timestamp="1593584243180">
         <mark key="[" line="9" column="4" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/weikong/WeiKonbBack1.java" timestamp="1593596576319" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSender.java" timestamp="1593575410317" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/service/PreOccupiedResource.java" timestamp="1593574856690" />
-      <file name="/Dummy.txt" timestamp="1593586599266">
+      <file name="/Dummy.txt" timestamp="1593598777723">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/dncserver/src/main/java/com/wellcloud/dnc/config/ConfigProperties.java" timestamp="1593584134298" />
@@ -99,8 +101,7 @@
         <mark key="." line="40" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.1.8.RELEASE/spring-data-redis-2.1.8.RELEASE-sources.jar!/org/springframework/data/redis/core/types/Expiration.java" timestamp="1593586090929" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.1.5.RELEASE/spring-data-redis-2.1.5.RELEASE.jar!/org/springframework/data/redis/core/ValueOperations.class" timestamp="1593536550415" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/cuishou/CuiShouNote.java" timestamp="1593535920036" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/TranNotifyCallBack.java" timestamp="1593596301035" />
       <file name="/fragment.java" timestamp="1593585026139">
         <mark key="[" line="0" column="0" />
       </file>
@@ -210,8 +211,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>blackRedisDTO</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>blackRedisDTO</text>
@@ -229,15 +230,18 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text>monitor_url: http://192.168.40.149:32027</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text>monitor_url: http://192.168.40.149:32027</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text>spring:
   rabbitmq:
     host: ${rabbitmq_host:192.168.40.107}
@@ -245,13 +249,13 @@
     username: ${rabbitmq_username:guest}
     password: ${rabbitmq_password:guest}</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text>redis_database: 6</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text>server:
   port: 8381
   servlet:
@@ -262,9 +266,6 @@ logging:
   level:
     com.wellcloud.dnc: debug #不同目录下的日志可配置不同级别
     org.springfromework.web: info</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
