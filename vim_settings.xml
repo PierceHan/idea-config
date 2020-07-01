@@ -68,24 +68,30 @@
         <mark key="." line="240" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/dncserver/src/main/java/com/wellcloud/dnc/service/impl/BlackServiceImpl.java" timestamp="1593536535088" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/message/AbstractCmbMessageNote.java" timestamp="1593533371150" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application-develop.yml" timestamp="1593584229836" />
       <file name="$MAVEN_REPOSITORY$/cc/wellcloud/cloud/interface/1.3.2/interface-1.3.2.jar!/cc/wellcloud/cloud/interfaces/event/CallEvent.class" timestamp="1593535560698" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/config/ConfigProperties.java" timestamp="1593533085982" />
       <file name="$MAVEN_REPOSITORY$/com/ocm/ocm-api/1.0.1-SNAPSHOT/ocm-api-1.0.1-20190906.111929-3.jar!/com/ocm/api/acd/Agent.class" timestamp="1593574890790" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/cms/Agent.java" timestamp="1593574899183">
         <mark key="[" line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/dncserver/src/main/resources/application-develop.yaml" timestamp="1593584208145">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="17" column="36" />
+        <mark key="." line="17" column="36" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/dncserver/src/main/resources/application.yaml" timestamp="1593584243180">
+        <mark key="[" line="9" column="4" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSender.java" timestamp="1593575410317" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/service/PreOccupiedResource.java" timestamp="1593574856690" />
-      <file name="/Dummy.txt" timestamp="1593575439049">
+      <file name="/Dummy.txt" timestamp="1593583785656">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/container/RosterContainerImpl.java" timestamp="1593534626493">
         <mark key="[" line="35" column="24" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/factory/ResultConsumerFactory.java" timestamp="1593533405045" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/dncserver/src/main/java/com/wellcloud/dnc/config/ConfigProperties.java" timestamp="1593584134298" />
       <file name="$USER_HOME$/IdeaProjects/huijie/dialer-service/src/main/java/com/ocm/ces/fssvc/handler/FSHangupEventHandler.java" timestamp="1593574577962" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/kefu/KefuMessageNote.java" timestamp="1593533378288" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/command/AbstractResourceCommand.java" timestamp="1593574756205">
         <mark key="[" line="37" column="28" />
         <mark key="]" line="40" column="0" />
@@ -93,7 +99,7 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.1.5.RELEASE/spring-data-redis-2.1.5.RELEASE.jar!/org/springframework/data/redis/core/ValueOperations.class" timestamp="1593536550415" />
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/cuishou/CuiShouNote.java" timestamp="1593535920036" />
-      <file name="/fragment.java" timestamp="1593575384050">
+      <file name="/fragment.java" timestamp="1593583785637">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -202,11 +208,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>callId</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
@@ -221,28 +227,42 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text />
+        <text>monitor_url: http://192.168.40.149:32027</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBTZXR0ZXIKICAgIHByaXZhdGUgICAgICAgICBBZ2VudCAgYWdlbnQ7</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGVtcGxhdGVFbnRpdHkuc2V0U3RhdGUoQ2FtcGFpZ25TdGF0ZUVudW0uU1RPUCk7Cg==</text>
+        <text>spring:
+  rabbitmq:
+    host: ${rabbitmq_host:192.168.40.107}
+    port: ${rabbitmq_port:32673}
+    username: ${rabbitmq_username:guest}
+    password: ${rabbitmq_password:guest}</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKENhbXBhaWduSW5zdGFuY2VMb2NhbENhY2hlLmdldEJ5VGVtcGxhdGVJZCh0ZW1wbGF0ZUlkKSE9bnVsbCkKICAgICAgICAgICAgICAgIHRlbXBsYXRlRW50aXR5LnNldFN0YXRlKENhbXBhaWduU3RhdGVFbnVtLlNUQVJUKTs=</text>
+        <text>redis_database: 6</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGRkCg==</text>
+        <text>server:
+  port: 8381
+  servlet:
+    context-path: /dnc
+#配置日志
+logging:
+  #配置日志文件路径
+  level:
+    com.wellcloud.dnc: debug #不同目录下的日志可配置不同级别
+    org.springfromework.web: info</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGRkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
