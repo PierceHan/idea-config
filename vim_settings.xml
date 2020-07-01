@@ -74,7 +74,7 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/cms/Agent.java" timestamp="1593574899183">
         <mark key="[" line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/dncserver/src/main/resources/application-develop.yaml" timestamp="1593584208145">
+      <file name="$USER_HOME$/IdeaProjects/huijie/dncserver/src/main/resources/application-develop.yaml" timestamp="1593585023518">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="17" column="36" />
         <mark key="." line="17" column="36" />
@@ -84,7 +84,7 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSender.java" timestamp="1593575410317" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/service/PreOccupiedResource.java" timestamp="1593574856690" />
-      <file name="/Dummy.txt" timestamp="1593583785656">
+      <file name="/Dummy.txt" timestamp="1593585026149">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/container/RosterContainerImpl.java" timestamp="1593534626493">
@@ -99,7 +99,7 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.1.5.RELEASE/spring-data-redis-2.1.5.RELEASE.jar!/org/springframework/data/redis/core/ValueOperations.class" timestamp="1593536550415" />
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/cuishou/CuiShouNote.java" timestamp="1593535920036" />
-      <file name="/fragment.java" timestamp="1593583785637">
+      <file name="/fragment.java" timestamp="1593585026139">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
