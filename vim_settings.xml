@@ -65,7 +65,11 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/diaokou/DiaoKouBack1.java" timestamp="1593595460437" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/diaokou/DiaoKouBack1.java" timestamp="1593602938758">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskInfoSender.java" timestamp="1593575430870">
         <mark key="[" line="229" column="24" />
         <mark key="]" line="240" column="0" />
@@ -87,7 +91,7 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/dncserver/src/main/resources/application.yaml" timestamp="1593584243180">
         <mark key="[" line="9" column="4" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/weikong/WeiKonbBack1.java" timestamp="1593596576319" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/weikong/WeiKonbBack1.java" timestamp="1593602888963" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSender.java" timestamp="1593599429627">
         <mark key="[" line="167" column="12" />
       </file>
@@ -217,7 +221,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>blackRedisDTO</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
@@ -232,42 +236,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBKU09OT2JqZWN0IGRhdGFKc29uT2JqZWN0ID0gKEpTT05PYmplY3QpIHV1aU1hcC5nZXQoImRhdGEiKTsKICAgICAgICBTdHJpbmcgcmVjb2duaXRpb24gPSBkYXRhSnNvbk9iamVjdC5nZXRTdHJpbmcoInJlY29nbml0aW9uIik7CiAgICAgICAgaWYgKHJlY29nbml0aW9uIT1udWxsKXsKICAgICAgICB9</text>
       </register>
       <register name="3" type="2">
-        <text>monitor_url: http://192.168.40.149:32027</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAodXVpTWFwICE9IG51bGwgJiYgdXVpTWFwLnNpemUoKSA+IDApIHsKICAgICAgICAgICAgaWYodXVpTWFwLmdldCgiZGF0YSIpIT1udWxsKXsKICAgICAgICAgICAgfQogICAgICAgIH0=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBNYXAgdXVpTWFwID0gIEh0dHBVdGlscy5kb0dldChjZHNVcmwgKyAiL2Nkcy8iICsgZGlhbFRhc2tSZXN1bHQuZ2V0Q2FsbElkKCksIE1hcC5jbGFzcyk7Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text>spring:
-  rabbitmq:
-    host: ${rabbitmq_host:192.168.40.107}
-    port: ${rabbitmq_port:32673}
-    username: ${rabbitmq_username:guest}
-    password: ${rabbitmq_password:guest}</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text>redis_database: 6</text>
+        <text>monitor_url: http://192.168.40.149:32027</text>
       </register>
       <register name="9" type="2">
-        <text>server:
-  port: 8381
-  servlet:
-    context-path: /dnc
-#配置日志
-logging:
-  #配置日志文件路径
-  level:
-    com.wellcloud.dnc: debug #不同目录下的日志可配置不同级别
-    org.springfromework.web: info</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
