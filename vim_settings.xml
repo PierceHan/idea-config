@@ -60,40 +60,43 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSender.java" timestamp="1593599429627">
-        <mark key="[" line="167" column="12" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/dncserver/src/main/java/com/wellcloud/dnc/runnable/BlackTask.java" timestamp="1593598219407">
-        <mark key="[" line="48" column="43" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1593658525247">
+      <file name="vim_settings.xml" timestamp="1593673693704">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/src/main/java/com/hga/hgatest3/mock/event/CallEventCreator.java" timestamp="1593670371932" />
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/diaokou/DiaoKouBack1.java" timestamp="1593656978054">
         <mark key="[" line="77" column="16" />
         <mark key="]" line="80" column="0" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/dncserver/src/main/java/com/wellcloud/dnc/service/impl/BlackServiceImpl.java" timestamp="1593598642682">
-        <mark key="[" line="394" column="11" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/App.java" timestamp="1593662201380" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/test/java/cc/wellcloud/ocm/core/back/kefu/YuYueHuiDianTest.java" timestamp="1593660577162">
+      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/pom.xml" timestamp="1593673754762" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/BaseConsumer.java" timestamp="1593674033187" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/test/java/cc/wellcloud/ocm/core/back/kefu/YuYueHuiDianTest.java" timestamp="1593673889198">
         <mark key="[" line="24" column="4" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/cms/Agent.java" timestamp="1593599329914">
-        <mark key="[" line="21" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/test/data/CallEventCreator.java" timestamp="1593670465651">
+        <mark key="[" line="14" column="10" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/dncserver/src/main/resources/application-develop.yaml" timestamp="1593585023518">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="17" column="36" />
-        <mark key="." line="17" column="36" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSender.java" timestamp="1593599429627">
+        <mark key="[" line="167" column="12" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/dncserver/src/main/resources/application.yaml" timestamp="1593584243180">
-        <mark key="[" line="9" column="4" />
+      <file name="/Dummy.txt" timestamp="1593658525247">
+        <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/test/data/DialTaskResultCreator.java" timestamp="1593670810312">
+        <mark key="[" line="42" column="57" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/src/main/java/com/hga/hgatest3/mock/event/DialTaskResultCreator.java" timestamp="1593670304067" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/test/data/ResultCodeDict.java" timestamp="1593670493595">
+        <mark key="[" line="11" column="4" />
+        <mark key="]" line="11" column="4" />
+        <mark key="." line="11" column="4" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/file/startup.sh" timestamp="1593673230073" />
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/model/kefu/SCallResult.java" timestamp="1593658458142">
         <mark key="[" line="14" column="22" />
       </file>
