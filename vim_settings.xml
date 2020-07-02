@@ -65,10 +65,10 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/test/java/cc/wellcloud/cloud/roster/IntegrationTemplate.java" timestamp="1593680823096" />
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/BaseConsumer.java" timestamp="1593680255682" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/test/java/cc/wellcloud/ocm/core/back/kefu/YuYueHuiDianTest.java" timestamp="1593681308656">
-        <mark key="[" line="32" column="8" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/test/java/cc/wellcloud/ocm/core/back/kefu/YuYueHuiDianTest.java" timestamp="1593685633331">
+        <mark key="[" line="11" column="25" />
+        <mark key="]" line="11" column="25" />
+        <mark key="." line="11" column="25" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/test/data/CallEventCreator.java" timestamp="1593670465651">
         <mark key="[" line="14" column="10" />
@@ -206,11 +206,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>午</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>午</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
