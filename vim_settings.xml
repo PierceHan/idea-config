@@ -60,24 +60,45 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSender.java" timestamp="1593599429627">
+        <mark key="[" line="167" column="12" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/dncserver/src/main/java/com/wellcloud/dnc/runnable/BlackTask.java" timestamp="1593598219407">
         <mark key="[" line="48" column="43" />
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1593658525247">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/src/main/java/com/hga/hgatest3/mock/event/CallEventCreator.java" timestamp="1593670371932" />
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/diaokou/DiaoKouBack1.java" timestamp="1593656978054">
         <mark key="[" line="77" column="16" />
         <mark key="]" line="80" column="0" />
         <mark key="." line="80" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/test/data/DialTaskResultCreator.java" timestamp="1593670810312">
+        <mark key="[" line="42" column="57" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/src/main/java/com/hga/hgatest3/mock/event/DialTaskResultCreator.java" timestamp="1593670304067" />
       <file name="$USER_HOME$/IdeaProjects/huijie/dncserver/src/main/java/com/wellcloud/dnc/service/impl/BlackServiceImpl.java" timestamp="1593598642682">
         <mark key="[" line="394" column="11" />
       </file>
-      <file name="/DiaoKouBack1.java" timestamp="1593656884106" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/test/java/cc/wellcloud/ocm/core/back/kefu/YuYueHuiDianTest.java" timestamp="1593660577162">
-        <mark key="[" line="24" column="4" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/test/java/cc/wellcloud/ocm/core/back/kefu/YuYueHuiDianTest.java" timestamp="1593671067332">
+        <mark key="[" line="26" column="77" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/core/dce/handler/QueryByCustNoHandlerTest.java" timestamp="1593660673643" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/test/data/CallEventCreator.java" timestamp="1593670465651">
+        <mark key="[" line="14" column="10" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/test/data/ResultCodeDict.java" timestamp="1593670493595">
+        <mark key="[" line="11" column="4" />
+        <mark key="]" line="11" column="4" />
+        <mark key="." line="11" column="4" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/cms/Agent.java" timestamp="1593599329914">
         <mark key="[" line="21" column="0" />
       </file>
@@ -86,22 +107,15 @@
         <mark key="]" line="17" column="36" />
         <mark key="." line="17" column="36" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSender.java" timestamp="1593599429627">
-        <mark key="[" line="167" column="12" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1593658525247">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/model/kefu/SCallResult.java" timestamp="1593658458142">
         <mark key="[" line="14" column="22" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/kefu/YuYueHuiDian.java" timestamp="1593660571183" />
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/ConfigTypeEnum.java" timestamp="1593660053411">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1593660544466">
+      <file name="/fragment.java" timestamp="1593670381189">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -214,7 +228,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>public</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
@@ -229,28 +243,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7CiAgICAgICAgaW50IGxlbiA9IENvbmZpZ1R5cGVFbnVtLnZhbHVlcygpLmxlbmd0aDsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obGVuKTsKICAgIH0=</text>
+        <text>import junit.framework.TestCase;</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBKU09OT2JqZWN0IGRhdGFKc29uT2JqZWN0ID0gKEpTT05PYmplY3QpIHV1aU1hcC5nZXQoImRhdGEiKTsKICAgICAgICBTdHJpbmcgcmVjb2duaXRpb24gPSBkYXRhSnNvbk9iamVjdC5nZXRTdHJpbmcoInJlY29nbml0aW9uIik7CiAgICAgICAgaWYgKHJlY29nbml0aW9uIT1udWxsKXsKICAgICAgICB9</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7CiAgICAgICAgaW50IGxlbiA9IENvbmZpZ1R5cGVFbnVtLnZhbHVlcygpLmxlbmd0aDsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obGVuKTsKICAgIH0=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodXVpTWFwICE9IG51bGwgJiYgdXVpTWFwLnNpemUoKSA+IDApIHsKICAgICAgICAgICAgaWYodXVpTWFwLmdldCgiZGF0YSIpIT1udWxsKXsKICAgICAgICAgICAgfQogICAgICAgIH0=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBNYXAgdXVpTWFwID0gIEh0dHBVdGlscy5kb0dldChjZHNVcmwgKyAiL2Nkcy8iICsgZGlhbFRhc2tSZXN1bHQuZ2V0Q2FsbElkKCksIE1hcC5jbGFzcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBKU09OT2JqZWN0IGRhdGFKc29uT2JqZWN0ID0gKEpTT05PYmplY3QpIHV1aU1hcC5nZXQoImRhdGEiKTsKICAgICAgICBTdHJpbmcgcmVjb2duaXRpb24gPSBkYXRhSnNvbk9iamVjdC5nZXRTdHJpbmcoInJlY29nbml0aW9uIik7CiAgICAgICAgaWYgKHJlY29nbml0aW9uIT1udWxsKXsKICAgICAgICB9</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAodXVpTWFwICE9IG51bGwgJiYgdXVpTWFwLnNpemUoKSA+IDApIHsKICAgICAgICAgICAgaWYodXVpTWFwLmdldCgiZGF0YSIpIT1udWxsKXsKICAgICAgICAgICAgfQogICAgICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
