@@ -63,9 +63,6 @@
       <file name="vim_settings.xml" timestamp="1593673693704">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSender.java" timestamp="1593599429627">
-        <mark key="[" line="167" column="12" />
-      </file>
       <file name="/Dummy.txt" timestamp="1593658525247">
         <mark key="[" line="0" column="0" />
       </file>
@@ -80,7 +77,8 @@
         <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/factory/ResultConsumerFactory.java" timestamp="1593676504256" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/BaseConsumer.java" timestamp="1593678231725" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/test/java/cc/wellcloud/cloud/roster/IntegrationTemplate.java" timestamp="1593680293850" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/BaseConsumer.java" timestamp="1593680255682" />
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/test/java/cc/wellcloud/ocm/core/back/kefu/YuYueHuiDianTest.java" timestamp="1593678067253">
         <mark key="[" line="26" column="8" />
         <mark key="]" line="4" column="0" />
