@@ -76,11 +76,6 @@
         <mark key="]" line="80" column="0" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskInfoSender.java" timestamp="1593575430870">
-        <mark key="[" line="229" column="24" />
-        <mark key="]" line="240" column="0" />
-        <mark key="." line="240" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/dncserver/src/main/java/com/wellcloud/dnc/service/impl/BlackServiceImpl.java" timestamp="1593598642682">
         <mark key="[" line="394" column="11" />
       </file>
@@ -100,6 +95,9 @@
         <mark key="[" line="14" column="22" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/kefu/YuYueHuiDian.java" timestamp="1593657309067" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/ConfigTypeEnum.java" timestamp="1593659869689">
+        <mark key="[" line="45" column="4" />
+      </file>
       <file name="/fragment.java" timestamp="1593585026139">
         <mark key="[" line="0" column="0" />
       </file>
