@@ -77,11 +77,7 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/resources/config/application.properties" timestamp="1593764947105">
         <mark key="[" line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/test/data/TestConstant.java" timestamp="1593749482947">
-        <mark key="[" line="23" column="38" />
-        <mark key="]" line="26" column="31" />
-        <mark key="." line="26" column="31" />
-      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/message/RebuildContextComsumer.java" timestamp="1593767286775" />
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/test/java/cc/wellcloud/ocm/core/back/kefu/YuYueHuiDianTest.java" timestamp="1593762217989">
         <mark key="[" line="31" column="8" />
         <mark key="]" line="44" column="8" />
