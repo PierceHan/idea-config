@@ -66,19 +66,27 @@
       <file name="/Dummy.txt" timestamp="1593682286639">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/service/monitor/MonitorServiceTest.java" timestamp="1593741366731" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/test/data/DialTaskResultCreator.java" timestamp="1593670810312">
         <mark key="[" line="42" column="57" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/pom.xml" timestamp="1593681100249">
-        <mark key="[" line="26" column="8" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/pom.xml" timestamp="1593741323090">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/test/java/cc/wellcloud/ocm/core/back/kefu/YuYueHuiDianTest.java" timestamp="1593740045214">
-        <mark key="[" line="49" column="8" />
-        <mark key="]" line="37" column="26" />
-        <mark key="." line="37" column="26" />
+      <file name="$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/Assert.java" timestamp="1593741432602" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/intergraion/AbstractIntegrationContext.java" timestamp="1593740499027" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/BaseConsumer.java" timestamp="1593741909761" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/test/java/cc/wellcloud/ocm/core/back/kefu/YuYueHuiDianTest.java" timestamp="1593741936126">
+        <mark key="'" line="63" column="25" />
+        <mark key="[" line="61" column="20" />
+        <mark key="]" line="44" column="26" />
+        <mark key="." line="44" column="26" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/pom.xml" timestamp="1593741090115" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/test/data/CallEventCreator.java" timestamp="1593670465651">
         <mark key="[" line="14" column="10" />
       </file>
@@ -100,7 +108,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="0" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/serivce/impl/InstantServiceImplTest.java" />
       <jump line="60" column="28" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/serivce/impl/InstantServiceImplTest.java" />
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/serivce/impl/InstantServiceImplTest.java" />
       <jump line="46" column="9" filename="$USER_HOME$/IdeaProjects/huijie/dce/src/test/java/com/wellcloud/dce/service/impl/DceServiceImplTest.java" />
@@ -200,12 +207,13 @@
       <jump line="115" column="48" filename="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/core/strategy/dial/AbstractDialSolution.java" />
       <jump line="155" column="34" filename="$USER_HOME$/IdeaProjects/huijie/dncserver/src/main/java/com/wellcloud/dnc/service/impl/BlackServiceImpl.java" />
       <jump line="40" column="26" filename="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/DefinedTemplateServiceImpl.java" />
+      <jump line="58" column="25" filename="$USER_HOME$/IdeaProjects/huijie/custom-module/src/test/java/cc/wellcloud/ocm/core/back/kefu/YuYueHuiDianTest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>JSON.toJSONString()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>JSON.toJSONString()</text>
@@ -217,31 +225,31 @@
         <text encoding="base64">ICAgICAgICBVbmFyeU9wZXJhdG9yPFByb2Nlc3NvckRUTz4gYm9keVByb2Nlc3NvciA9IHByb2Nlc3Nvck1hcC5nZXRCb2R5TWFwKCkuZ2V0KHN1YnNjcmliZUVudGl0eS5nZXRCb2R5VHlwZSgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC53aXRoUGF0aChIdHRwVXJpcy5BUElfU0VDVVJJVFlfU0VTU0lPTl9TSU1QTElGWSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC53aXRoUGF0aChIdHRwVXJpcy5BUElfU0VDVVJJVFlfU0VTU0lPTl9TSU1QTElGWSkK</text>
+        <text encoding="base64">CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmp1bml0PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5qdW5pdDwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgogICAgICAgIDwvZGVwZW5kZW5jeT4=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC53aXRoUGF0aChIdHRwVXJpcy5BUElfU0VDVVJJVFlfU0VTU0lPTl9TSU1QTElGWSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC53aXRoUGF0aChIdHRwVXJpcy5BUElfU0VDVVJJVFlfU0VTU0lPTl9TSU1QTElGWSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC53aXRoUGF0aChIdHRwVXJpcy5BUElfU0VDVVJJVFlfU0VTU0lPTl9TSU1QTElGWSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7CiAgICAgICAgaW50IGxlbiA9IENvbmZpZ1R5cGVFbnVtLnZhbHVlcygpLmxlbmd0aDsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obGVuKTsKICAgIH0=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBKU09OT2JqZWN0IGRhdGFKc29uT2JqZWN0ID0gKEpTT05PYmplY3QpIHV1aU1hcC5nZXQoImRhdGEiKTsKICAgICAgICBTdHJpbmcgcmVjb2duaXRpb24gPSBkYXRhSnNvbk9iamVjdC5nZXRTdHJpbmcoInJlY29nbml0aW9uIik7CiAgICAgICAgaWYgKHJlY29nbml0aW9uIT1udWxsKXsKICAgICAgICB9</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7CiAgICAgICAgaW50IGxlbiA9IENvbmZpZ1R5cGVFbnVtLnZhbHVlcygpLmxlbmd0aDsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obGVuKTsKICAgIH0=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
