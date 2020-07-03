@@ -65,9 +65,6 @@
         <mark key="]" line="53" column="31" />
         <mark key="." line="53" column="31" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/test/util/DateUtils.java" timestamp="1593757011934">
-        <mark key="[" line="10" column="3" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/dncserver/src/main/java/com/wellcloud/dnc/service/impl/BlackServiceImpl.java" timestamp="1593757549355" />
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/test/java/cc/wellcloud/ocm/core/back/BaseBackTest.java" timestamp="1593762912616">
         <mark key="[" line="18" column="4" />
@@ -97,6 +94,7 @@
         <mark key="]" line="125" column="105" />
         <mark key="." line="125" column="105" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/entity/TemplateEntity.java" timestamp="1593768791170" />
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/container/BackContainerImpl.java" timestamp="1593765533577">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
