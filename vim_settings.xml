@@ -63,25 +63,6 @@
       <file name="vim_settings.xml" timestamp="1593673693704">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/test/java/cc/wellcloud/cloud/roster/IntegrationTemplate.java" timestamp="1593680823096" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/BaseConsumer.java" timestamp="1593680255682" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/test/java/cc/wellcloud/ocm/core/back/kefu/YuYueHuiDianTest.java" timestamp="1593686100844">
-        <mark key="[" line="33" column="16" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/test/data/CallEventCreator.java" timestamp="1593670465651">
-        <mark key="[" line="14" column="10" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/web/MonitorController.java" timestamp="1593677486791" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/service/batch/BatchServiceImpl.java" timestamp="1593682235554">
-        <mark key="[" line="294" column="34" />
-        <mark key="]" line="287" column="0" />
-        <mark key="." line="287" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/test/data/HttpUris.java" timestamp="1593686069738">
-        <mark key="[" line="8" column="3" />
-      </file>
       <file name="/Dummy.txt" timestamp="1593682286639">
         <mark key="[" line="0" column="0" />
       </file>
@@ -90,19 +71,33 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/factory/ResultConsumerFactory.java" timestamp="1593676504256" />
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/pom.xml" timestamp="1593681100249">
         <mark key="[" line="26" column="8" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/message/AbstractCmbMessage.java" timestamp="1593681648408" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/intergraion/AbstractIntegrationContext.java" timestamp="1593681052105" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/pom.xml" timestamp="1593682102408" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/test/java/cc/wellcloud/ocm/core/back/kefu/YuYueHuiDianTest.java" timestamp="1593740045214">
+        <mark key="[" line="49" column="8" />
+        <mark key="]" line="37" column="26" />
+        <mark key="." line="37" column="26" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/test/data/CallEventCreator.java" timestamp="1593670465651">
+        <mark key="[" line="14" column="10" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/test/data/ResultCodeDict.java" timestamp="1593670493595">
         <mark key="[" line="11" column="4" />
         <mark key="]" line="11" column="4" />
         <mark key="." line="11" column="4" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/kefu/YuYueHuiDian.java" timestamp="1593678056818" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/test/data/ResponseCreator.java" timestamp="1593739690152">
+        <mark key="[" line="13" column="4" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/service/batch/BatchServiceImpl.java" timestamp="1593682235554">
+        <mark key="[" line="294" column="34" />
+        <mark key="]" line="287" column="0" />
+        <mark key="." line="287" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/test/data/HttpUris.java" timestamp="1593686069738">
+        <mark key="[" line="8" column="3" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="33" column="0" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/serivce/impl/InstantServiceImplTest.java" />
@@ -209,11 +204,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC53aXRoUGF0aChIdHRwVXJpcy5BUElfU0VDVVJJVFlfU0VTU0lPTl9TSU1QTElGWSkK</text>
+      <register name="&quot;" type="4">
+        <text>JSON.toJSONString()</text>
       </register>
       <register name="-" type="4">
-        <text>午</text>
+        <text>JSON.toJSONString()</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
