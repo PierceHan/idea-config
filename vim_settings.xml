@@ -77,9 +77,6 @@
         <mark key="[" line="13" column="4" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-interim/src/main/java/cc/wellcloud/ocm/service/rosterInfo/RosterInfoServiceImpl.java" timestamp="1593743145566" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/test/data/HttpUris.java" timestamp="1593686069738">
-        <mark key="[" line="8" column="3" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/service/monitor/MonitorServiceTest.java" timestamp="1593741366731" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/test/data/DialTaskResultCreator.java" timestamp="1593744079589">
         <mark key="[" line="18" column="33" />
@@ -92,6 +89,7 @@
         <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/intergraion/AbstractIntegrationContext.java" timestamp="1593740499027" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/http/FileUploadServlet.java" timestamp="1593747411141" />
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/pom.xml" timestamp="1593741090115" />
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/container/BackContainerImpl.java" timestamp="1593743644478">
         <mark key="[" line="74" column="33" />
