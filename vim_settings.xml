@@ -74,6 +74,9 @@
       </file>
       <file name="/AobResultServiceImpl.java" timestamp="1593918650036" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/DialerTask.java" timestamp="1593918964787" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSender.java" timestamp="1593921638909">
+        <mark key="[" line="112" column="16" />
+      </file>
       <file name="/Dummy.txt" timestamp="1593919904200">
         <mark key="[" line="0" column="0" />
       </file>
