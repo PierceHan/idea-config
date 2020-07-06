@@ -66,25 +66,23 @@
       <file name="/Dummy.txt" timestamp="1593934783193">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/service/PreOccupiedResource.java" timestamp="1593934755135" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" timestamp="1593939979750" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/result/AobResultServiceImpl.java" timestamp="1593918698676">
         <mark key="[" line="30" column="58" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application-2.0.yaml" timestamp="1593940222265" />
-      <file name="$MAVEN_REPOSITORY$/cc/wellcloud/cloud/cms-client/1.2.0/cms-client-1.2.0.jar!/cc/wellcloud/cloud/cms/client/DefaultCMSClient.class" timestamp="1593940168205" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/lua/acquire_campaign_resource.lua" timestamp="1593934327615" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/event/adapter/ResultEventCreator.java" timestamp="1593928968960">
         <mark key="[" line="71" column="8" />
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/infrastructure/config/CmsClientConfig.java" timestamp="1593940384065" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/test/java/cc/wellcloud/ocm/core/back/kefu/YuYueHuiDianTest.java" timestamp="1593770533242">
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/test/java/cc/wellcloud/ocm/core/back/kefu/YuYueHuiDianTest.java" timestamp="1594000455736">
         <mark key="[" line="4" column="56" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/pom.xml" timestamp="1593940357883" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/entity/CampaignResourcePool.java" timestamp="1593934736011" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/test/java/cc/wellcloud/ocm/core/back/cuishou/CuiShouNoteTest.java" timestamp="1594000900909">
+        <mark key="[" line="33" column="8" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/test/data/HttpUris.java" timestamp="1594000973207">
+        <mark key="[" line="11" column="4" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="60" column="28" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/serivce/impl/InstantServiceImplTest.java" />
