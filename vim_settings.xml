@@ -72,11 +72,18 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/impl/MonitorServiceImpl.java" timestamp="1594018720254" />
       <file name="/AobResultServiceImpl.java" timestamp="1594025344301" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/DialerTask.java" timestamp="1594026308051">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/test/data/HttpUris.java" timestamp="1594000973207">
         <mark key="[" line="13" column="4" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSender.java" timestamp="1594025207198">
-        <mark key="[" line="112" column="16" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSender.java" timestamp="1594028165221">
+        <mark key="[" line="213" column="0" />
+        <mark key="]" line="213" column="0" />
+        <mark key="." line="213" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/repository/BatchContextRepository.java" timestamp="1594009969989" />
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/message/AbstractCmbMessage.java" timestamp="1594021292704">
@@ -204,7 +211,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>private</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
@@ -219,25 +226,25 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKXsKICAgICAgICAgICAgbG9nLmVycm9yKCLlj5HpgIHmlbDmja7lvILluLgiLGUpOwogICAgICAgIH0=</text>
+        <text encoding="base64">ICAgICAqCiAgICAgKiBAcmV0dXJuIHtAbGluayBEaWFsVGFza0luZm8gdGFza0luZm99</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text />
+        <text>import com.ocm.api.task.DialTaskInfo;</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIHZvaWQgY3JlYXRlRGlhbFRhc2tSZXN1bHQoRGlhbFRhc2tJbmZvIGRpYWxUYXNrSW5mbywgaW50IHN0YXRlKSB7CiAgICAgICAgZGlhbFRhc2tJbmZvLnNldFN0YXRlKC01KTsKICAgICAgICBEaWFsVGFza1Jlc3VsdCByZXN1bHQgPSBuZXcgRGlhbFRhc2tSZXN1bHQoKTsKICAgICAgICB0cnkgewogICAgICAgICAgICAvLyDlpI3liLbnm7jlkIzlsZ7mgKcKICAgICAgICAgICAgQmVhblV0aWxzLmNvcHlQcm9wZXJ0aWVzKHJlc3VsdCwgZGlhbFRhc2tJbmZvKTsKICAgICAgICAgICAgcmVzdWx0LnNldE51bWJlcihkaWFsVGFza0luZm8uZ2V0Q3VzdG9tZXJQaG9uZSgpKTsKICAgICAgICAgICAgcmVzdWx0LnNldFJvc3RlcklkKGRpYWxUYXNrSW5mby5nZXRSb3N0ZXJJZCgpKTsKICAgICAgICAgICAgcmVzdWx0LnNldEFjdGl2aXR5Um9zdGVySWQoZGlhbFRhc2tJbmZvLmdldEFjdGl2aXR5Um9zdGVySWQoKSk7CiAgICAgICAgICAgIHJlc3VsdC5zZXREb21haW4oZGlhbFRhc2tJbmZvLmdldERvbWFpbigpKTsKICAgICAgICAgICAgcmVzdWx0LnNldFByZFR5cGUoZGlhbFRhc2tJbmZvLmdldFByZFR5cGUoKSk7CiAgICAgICAgICAgIHJlc3VsdC5zZXRTdGF0ZShzdGF0ZSk7CiAgICAgICAgICAgIHJlc3VsdC5zZXRSZXN1bHRDb2RlKHN0YXRlKTsKICAgICAgICAgICAgcmVzdWx0LnNldFJlY3ljbGVfZGF5KGRpYWxUYXNrSW5mby5nZXRSZWN5Y2xlX2RheSgpICsgMSk7CiAgICAgICAgICAgIHJlc3VsdC5zZXRSZWN5Y2xlX3RvdGFsKGRpYWxUYXNrSW5mby5nZXRSZWN5Y2xlX3RvdGFsKCkgKyAxKTsKCiAgICAgICAgfSBjYXRjaCAoSWxsZWdhbEFjY2Vzc0V4Y2VwdGlvbiB8IEludm9jYXRpb25UYXJnZXRFeGNlcHRpb24gZSkgewogICAgICAgICAgICBsb2cuZXJyb3IoImNhbid0IG5vdCBjb3B5IHByb3BlcnRpZXMuIiwgZSk7CiAgICAgICAgfQovLyAgICAgICAgc2VuZGVyLnNlbmQocmVzdWx0KTsKICAgIH0=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeXVZdWVIdWlEaWFuLmFjY2VwdChkaWFsVGFza1Jlc3VsdCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIEBTY2hlZHVsZWQoY3JvbiA9ICIwICogKiAqICogPyAiKQogICAgcHVibGljIHZvaWQgc2NoZWR1bGVkUG9zdCgpIHsKICAgICAgICBsb2cuaW5mbygiPj4+Pj4+Pj4+Pj4g5omr5o+P5a6a5pe25Zue5LygIDw8PDw8PDw8PDw8PCIpOwogICAgICAgIEJBQ0tfQ09OVEFJTkVSX01BUC52YWx1ZXMoKS5mb3JFYWNoKHZhbHVlcyAtPnZhbHVlcy5zdHJlYW0oKQogICAgICAgICAgICAgICAgLmZpbHRlcih2YWx1ZSAtPiB2YWx1ZSBpbnN0YW5jZW9mIFNjaGVkdWxlZEJhY2spCiAgICAgICAgICAgICAgICAuZm9yRWFjaCh2YWx1ZSAtPiB7CiAgICAgICAgICAgICAgICAgICAgU2NoZWR1bGVkQmFjayBzY2hlZHVsZWRCYWNrID0gKFNjaGVkdWxlZEJhY2spdmFsdWU7CiAgICAgICAgICAgICAgICAgICAgc2NoZWR1bGVkQmFjay5zY2hlZHVsZWRQb3N0KCk7CiAgICAgICAgICAgICAgICB9KSk7CiAgICAgICAgbG9nLmluZm8oIj4+Pj4+Pj4+Pj4+IOaJq+aPj+WumuaXtuWbnuS8oOe7k+adnyA8PDw8PDw8PDw8PDwiKTsKICAgIH0=</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIE1hcDxTdHJpbmcsIE9iamVjdD4gdXVpKERpYWxlclRhc2sgZGlhbGVyVGFzaykgewogICAgICAgIERpYWxUYXNrSW5mbyBkaWFsVGFza0luZm8gPSBEaWFsZXJUYXNrTWFwU3RydWN0LklOU1RBTkNFLnRvRGlhbFRhc2tJbmZvKGRpYWxlclRhc2spOwogICAgICAgIGRpYWxUYXNrSW5mby5nZXRVc2VyRGF0YSgpLnNldFByb3BlcnR5KCJ3ZWxsY2xvdWRfY2FsbFR5cGUiLCB0cmFuc2ZlckNhbGxUeXBlKGRpYWxlclRhc2suZ2V0Q2FtcGFpZ25UeXBlKCkpKTsKICAgICAgICBVc2VyRGF0YSB1c2VyRGF0YSA9IG5ldyBVc2VyRGF0YSgpOwogICAgICAgIHVzZXJEYXRhLnNldERhdGEoZGlhbGVyVGFzay5nZXRVc2VyRGF0YSgpLmdldFVzZXIoKSk7CiAgICAgICAgZGlhbFRhc2tJbmZvLnNldFVzZXJEYXRhKHVzZXJEYXRhKTsKICAgICAgICByZXR1cm4gdXVpKGRpYWxUYXNrSW5mbyk7CiAgICB9</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
