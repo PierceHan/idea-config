@@ -66,14 +66,13 @@
       <file name="/Dummy.txt" timestamp="1593934783193">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/result/AobResultServiceImpl.java" timestamp="1593918698676">
-        <mark key="[" line="30" column="58" />
-      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/diaokou/DiaoKouBack1.java" timestamp="1594015617170" />
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/repository/BatchContextRepository.java" timestamp="1594009969989" />
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/test/java/cc/wellcloud/ocm/core/back/BaseBackTest.java" timestamp="1594005570460">
         <mark key="[" line="48" column="8" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/message/AbstractCmbMessage.java" timestamp="1594007537871" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/event/handler/processor/CallResultPrivateRedisTransport.java" timestamp="1594015807407" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/event/adapter/ResultEventCreator.java" timestamp="1593928968960">
         <mark key="[" line="71" column="8" />
         <mark key="]" line="90" column="0" />
