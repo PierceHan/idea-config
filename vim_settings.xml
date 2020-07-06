@@ -74,14 +74,17 @@
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/test/java/cc/wellcloud/ocm/core/back/kefu/YuYueHuiDianTest.java" timestamp="1594000455736">
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/test/java/cc/wellcloud/ocm/core/back/kefu/YuYueHuiDianTest.java" timestamp="1594003238131">
         <mark key="[" line="4" column="56" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/test/java/cc/wellcloud/ocm/core/back/cuishou/CuiShouNoteTest.java" timestamp="1594000900909">
-        <mark key="[" line="33" column="8" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/cuishou/CuiShouNote.java" timestamp="1594002724493" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/test/java/cc/wellcloud/ocm/core/back/cuishou/CuiShouNoteTest.java" timestamp="1594003379583">
+        <mark key="[" line="80" column="23" />
+        <mark key="]" line="80" column="23" />
+        <mark key="." line="80" column="23" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/test/data/HttpUris.java" timestamp="1594000973207">
-        <mark key="[" line="11" column="4" />
+        <mark key="[" line="13" column="4" />
       </file>
     </filemarks>
     <jumps>
@@ -189,11 +192,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>String</text>
       </register>
       <register name="-" type="4">
-        <text>getBACK_CONTAINER_MAP</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
