@@ -68,12 +68,17 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/event/handler/processor/CallResultPrivateRedisTransport.java" timestamp="1594025069028" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/impl/MonitorServiceImpl.java" timestamp="1594018720254" />
       <file name="/AobResultServiceImpl.java" timestamp="1594025344301" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSender.java" timestamp="1594029495338">
-        <mark key="[" line="213" column="0" />
-        <mark key="]" line="213" column="0" />
-        <mark key="." line="213" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/DialerTask.java" timestamp="1594032774376">
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594029344269">
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSender.java" timestamp="1594033178114">
+        <mark key="[" line="172" column="0" />
+        <mark key="]" line="172" column="0" />
+        <mark key="." line="172" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1594033189828">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/message/AbstractCmbMessage.java" timestamp="1594021292704">
@@ -207,7 +212,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
@@ -222,16 +227,16 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqCiAgICAgKiBAcmV0dXJuIHtAbGluayBEaWFsVGFza0luZm8gdGFza0luZm99</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY3VzdG9tZXJQaG9uZS5sZW5ndGgoKT4xMSl7CiAgICAgICAgfQogICAgICAgIHJldHVybiBjdXN0b21lclBob25lOw==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text>import com.ocm.api.task.DialTaskInfo;</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgdm9pZCBzZXRDdXN0b21lclBob25lKFN0cmluZyBjdXN0b21lclBob25lKSB7CiAgICAgICAgaWYgKGN1c3RvbWVyUGhvbmU9PW51bGwpewogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQogICAgICAgIGlmIChjdXN0b21lclBob25lLmxlbmd0aCgpPjExKXsKICAgICAgICAgICAgdGhpcy5jdXN0b21lclBob25lID0gY3VzdG9tZXJQaG9uZS5zdWJzdHJpbmcoY3VzdG9tZXJQaG9uZS5sZW5ndGgoKS0xMSk7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9CiAgICAgICAgdGhpcy5jdXN0b21lclBob25lID0gY3VzdG9tZXJQaG9uZTsKICAgIH0=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIHZvaWQgY3JlYXRlRGlhbFRhc2tSZXN1bHQoRGlhbFRhc2tJbmZvIGRpYWxUYXNrSW5mbywgaW50IHN0YXRlKSB7CiAgICAgICAgZGlhbFRhc2tJbmZvLnNldFN0YXRlKC01KTsKICAgICAgICBEaWFsVGFza1Jlc3VsdCByZXN1bHQgPSBuZXcgRGlhbFRhc2tSZXN1bHQoKTsKICAgICAgICB0cnkgewogICAgICAgICAgICAvLyDlpI3liLbnm7jlkIzlsZ7mgKcKICAgICAgICAgICAgQmVhblV0aWxzLmNvcHlQcm9wZXJ0aWVzKHJlc3VsdCwgZGlhbFRhc2tJbmZvKTsKICAgICAgICAgICAgcmVzdWx0LnNldE51bWJlcihkaWFsVGFza0luZm8uZ2V0Q3VzdG9tZXJQaG9uZSgpKTsKICAgICAgICAgICAgcmVzdWx0LnNldFJvc3RlcklkKGRpYWxUYXNrSW5mby5nZXRSb3N0ZXJJZCgpKTsKICAgICAgICAgICAgcmVzdWx0LnNldEFjdGl2aXR5Um9zdGVySWQoZGlhbFRhc2tJbmZvLmdldEFjdGl2aXR5Um9zdGVySWQoKSk7CiAgICAgICAgICAgIHJlc3VsdC5zZXREb21haW4oZGlhbFRhc2tJbmZvLmdldERvbWFpbigpKTsKICAgICAgICAgICAgcmVzdWx0LnNldFByZFR5cGUoZGlhbFRhc2tJbmZvLmdldFByZFR5cGUoKSk7CiAgICAgICAgICAgIHJlc3VsdC5zZXRTdGF0ZShzdGF0ZSk7CiAgICAgICAgICAgIHJlc3VsdC5zZXRSZXN1bHRDb2RlKHN0YXRlKTsKICAgICAgICAgICAgcmVzdWx0LnNldFJlY3ljbGVfZGF5KGRpYWxUYXNrSW5mby5nZXRSZWN5Y2xlX2RheSgpICsgMSk7CiAgICAgICAgICAgIHJlc3VsdC5zZXRSZWN5Y2xlX3RvdGFsKGRpYWxUYXNrSW5mby5nZXRSZWN5Y2xlX3RvdGFsKCkgKyAxKTsKCiAgICAgICAgfSBjYXRjaCAoSWxsZWdhbEFjY2Vzc0V4Y2VwdGlvbiB8IEludm9jYXRpb25UYXJnZXRFeGNlcHRpb24gZSkgewogICAgICAgICAgICBsb2cuZXJyb3IoImNhbid0IG5vdCBjb3B5IHByb3BlcnRpZXMuIiwgZSk7CiAgICAgICAgfQovLyAgICAgICAgc2VuZGVyLnNlbmQocmVzdWx0KTsKICAgIH0=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -240,7 +245,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIE1hcDxTdHJpbmcsIE9iamVjdD4gdXVpKERpYWxlclRhc2sgZGlhbGVyVGFzaykgewogICAgICAgIERpYWxUYXNrSW5mbyBkaWFsVGFza0luZm8gPSBEaWFsZXJUYXNrTWFwU3RydWN0LklOU1RBTkNFLnRvRGlhbFRhc2tJbmZvKGRpYWxlclRhc2spOwogICAgICAgIGRpYWxUYXNrSW5mby5nZXRVc2VyRGF0YSgpLnNldFByb3BlcnR5KCJ3ZWxsY2xvdWRfY2FsbFR5cGUiLCB0cmFuc2ZlckNhbGxUeXBlKGRpYWxlclRhc2suZ2V0Q2FtcGFpZ25UeXBlKCkpKTsKICAgICAgICBVc2VyRGF0YSB1c2VyRGF0YSA9IG5ldyBVc2VyRGF0YSgpOwogICAgICAgIHVzZXJEYXRhLnNldERhdGEoZGlhbGVyVGFzay5nZXRVc2VyRGF0YSgpLmdldFVzZXIoKSk7CiAgICAgICAgZGlhbFRhc2tJbmZvLnNldFVzZXJEYXRhKHVzZXJEYXRhKTsKICAgICAgICByZXR1cm4gdXVpKGRpYWxUYXNrSW5mbyk7CiAgICB9</text>
+        <text encoding="base64">ICAgICAqCiAgICAgKiBAcmV0dXJuIHtAbGluayBEaWFsVGFza0luZm8gdGFza0luZm99</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
