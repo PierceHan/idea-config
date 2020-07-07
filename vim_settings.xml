@@ -79,10 +79,10 @@
       <file name="/Dummy.txt" timestamp="1594087644724">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" timestamp="1594094629799">
-        <mark key="[" line="120" column="4" />
-        <mark key="]" line="151" column="21" />
-        <mark key="." line="151" column="21" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" timestamp="1594094785766">
+        <mark key="[" line="131" column="60" />
+        <mark key="]" line="153" column="21" />
+        <mark key="." line="153" column="21" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/executor/predictive/PredictiveContextLoader.java" timestamp="1594088590660" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/quart/job/CalPreDictiveRateJob.java" timestamp="1594088899548" />
