@@ -62,6 +62,9 @@
     <filemarks>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/executor/predictive/PreDictiveTaskExecutor.java" timestamp="1594088559863" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/executor/predictive/math/Erlang/AbandonBasedPredictive.java" timestamp="1594091030343" />
+      <file name="/a.dummy" timestamp="1594092759012">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/DialerTask.java" timestamp="1594032774376">
         <mark key="[" line="83" column="0" />
         <mark key="]" line="83" column="0" />
@@ -76,10 +79,10 @@
       <file name="/Dummy.txt" timestamp="1594087644724">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" timestamp="1594092373498">
-        <mark key="[" line="120" column="42" />
-        <mark key="]" line="117" column="65" />
-        <mark key="." line="117" column="65" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" timestamp="1594094629799">
+        <mark key="[" line="120" column="4" />
+        <mark key="]" line="151" column="21" />
+        <mark key="." line="151" column="21" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/executor/predictive/PredictiveContextLoader.java" timestamp="1594088590660" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/quart/job/CalPreDictiveRateJob.java" timestamp="1594088899548" />
@@ -88,17 +91,15 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/executor/predictive/math/Erlang/SimpleCalPredictive.java" timestamp="1594087123484" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/executor/predictive/math/Erlang/CalPredictive.java" timestamp="1594088872474" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/event/adapter/ResultEventCreator.java" timestamp="1594029531428">
-        <mark key="[" line="71" column="8" />
-        <mark key="]" line="90" column="0" />
-        <mark key="." line="90" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/preditive/RouteTarget.java" timestamp="1594091979432">
         <mark key="[" line="17" column="30" />
         <mark key="]" line="17" column="30" />
         <mark key="." line="17" column="30" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/model/ReadyStatusDTO.java" timestamp="1594090320946" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/preditive/SkillMonitor.java" timestamp="1594093758713">
+        <mark key="[" line="6" column="25" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/monitor/TaskMonitorService.java" timestamp="1594085785328" />
     </filemarks>
     <jumps>
@@ -207,10 +208,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>RoundMonitor</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>RoundMonitor</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
@@ -219,7 +220,7 @@
         <text encoding="base64">ICAgICAgICByZXN1bHQucHV0KCJzdGFydFRpbWUiLCBEYXRlVXRpbHMuU0lNUExFX0RBVEVfRk9STUFULmZvcm1hdChUZXN0Q29uc3RhbnQuQ0FMTF9USU1FKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIE9BTV9TS0lMTF9CWV9ST1VURSA9ICJ7MH0vb2FtLzIuMC90ZW5hbnQvcm91dGluZ3BvaW50IjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiByb3VuZE1vbml0b3JzLnN0cmVhbSgpLmZpbHRlcihPYmplY3RzOjpub25OdWxsKS5tYXAocm91bmRNb25pdG9yIC0+IHsKICAgICAgICAgICAgICAgICAgICBSb3VuZE1vbml0b3I8SW50ZWdlcj4gaW50ZWdlclJvdW5kTW9uaXRvciA9IG5ldyBSb3VuZE1vbml0b3I8PigpOwogICAgICAgICAgICAgICAgICAgIGludGVnZXJSb3VuZE1vbml0b3Iuc2V0Um91bmQoKEludGVnZXIpIHJvdW5kTW9uaXRvci5nZXRSb3VuZCgpKTsKICAgICAgICAgICAgICAgICAgICBpbnRlZ2VyUm91bmRNb25pdG9yLnNldFRvZGF5KChJbnRlZ2VyKSByb3VuZE1vbml0b3IuZ2V0VG9kYXkoKSk7CiAgICAgICAgICAgICAgICAgICAgaW50ZWdlclJvdW5kTW9uaXRvci5zZXROZXh0RGF5KChJbnRlZ2VyKSByb3VuZE1vbml0b3IuZ2V0TmV4dERheSgpKTsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gaW50ZWdlclJvdW5kTW9uaXRvcjsKICAgICAgICAgICAgICAgIH0pLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -228,25 +229,25 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIE9BTV9TS0lMTF9CWV9ST1VURSA9ICJ7MH0vb2FtLzIuMC90ZW5hbnQvcm91dGluZ3BvaW50IjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIE9BTV9TS0lMTF9CWV9ST1VURSA9ICJ7QkFTRVVSTH0vb2FtLzIuMC90ZW5hbnQvcm91dGluZ3BvaW50IjsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIE9BTV9TS0lMTF9CWV9ST1VURSA9ICJ7MH0vb2FtLzIuMC90ZW5hbnQvcm91dGluZ3BvaW50IjsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIE9BTV9TS0lMTF9CWV9ST1VURSA9ICJ7QkFTRVVSTH0vb2FtLzIuMC90ZW5hbnQvcm91dGluZ3BvaW50IjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIE9BTV9TS0lMTF9CWV9ST1VURSA9ICJ7QkFTRVVSTH0vb2FtLzIuMC90ZW5hbnQvcm91dGluZ3BvaW50IjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY3VzdG9tZXJQaG9uZS5sZW5ndGgoKT4xMSl7CiAgICAgICAgfQogICAgICAgIHJldHVybiBjdXN0b21lclBob25lOw==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY3VzdG9tZXJQaG9uZS5sZW5ndGgoKT4xMSl7CiAgICAgICAgfQogICAgICAgIHJldHVybiBjdXN0b21lclBob25lOw==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgdm9pZCBzZXRDdXN0b21lclBob25lKFN0cmluZyBjdXN0b21lclBob25lKSB7CiAgICAgICAgaWYgKGN1c3RvbWVyUGhvbmU9PW51bGwpewogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQogICAgICAgIGlmIChjdXN0b21lclBob25lLmxlbmd0aCgpPjExKXsKICAgICAgICAgICAgdGhpcy5jdXN0b21lclBob25lID0gY3VzdG9tZXJQaG9uZS5zdWJzdHJpbmcoY3VzdG9tZXJQaG9uZS5sZW5ndGgoKS0xMSk7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9CiAgICAgICAgdGhpcy5jdXN0b21lclBob25lID0gY3VzdG9tZXJQaG9uZTsKICAgIH0=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgdm9pZCBzZXRDdXN0b21lclBob25lKFN0cmluZyBjdXN0b21lclBob25lKSB7CiAgICAgICAgaWYgKGN1c3RvbWVyUGhvbmU9PW51bGwpewogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQogICAgICAgIGlmIChjdXN0b21lclBob25lLmxlbmd0aCgpPjExKXsKICAgICAgICAgICAgdGhpcy5jdXN0b21lclBob25lID0gY3VzdG9tZXJQaG9uZS5zdWJzdHJpbmcoY3VzdG9tZXJQaG9uZS5sZW5ndGgoKS0xMSk7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9CiAgICAgICAgdGhpcy5jdXN0b21lclBob25lID0gY3VzdG9tZXJQaG9uZTsKICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
