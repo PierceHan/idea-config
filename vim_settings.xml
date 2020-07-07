@@ -73,7 +73,7 @@
       <file name="/Dummy.txt" timestamp="1594087644724">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" timestamp="1594102779610">
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" timestamp="1594105793398">
         <mark key="[" line="131" column="33" />
         <mark key="]" line="139" column="0" />
         <mark key="." line="139" column="0" />
@@ -95,6 +95,9 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/preditive/SkillMonitor.java" timestamp="1594093758713">
         <mark key="[" line="6" column="25" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application.yml" timestamp="1594105872433">
+        <mark key="[" line="22" column="4" />
       </file>
     </filemarks>
     <jumps>
