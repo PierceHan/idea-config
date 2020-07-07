@@ -73,13 +73,18 @@
         <mark key="]" line="124" column="130" />
         <mark key="." line="124" column="130" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/executor/predictive/PredictiveContextLoader.java" timestamp="1594120367397">
+        <mark key="[" line="93" column="57" />
+        <mark key="]" line="93" column="57" />
+        <mark key="." line="93" column="57" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/preditive/RouteAction.java" timestamp="1594092047215">
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/executor/predictive/math/Erlang/AbandonBasedPredictive.java" timestamp="1594116011267">
-        <mark key="[" line="80" column="8" />
-        <mark key="]" line="81" column="0" />
-        <mark key="." line="81" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/executor/predictive/math/Erlang/AbandonBasedPredictive.java" timestamp="1594120638139">
+        <mark key="[" line="145" column="17" />
+        <mark key="]" line="145" column="17" />
+        <mark key="." line="145" column="17" />
       </file>
       <file name="/a.dummy" timestamp="1594092759012">
         <mark key="[" line="0" column="0" />
@@ -109,7 +114,12 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/preditive/SkillMonitor.java" timestamp="1594093758713">
         <mark key="[" line="6" column="25" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/executor/predictive/math/Erlang/PredictiveParam.java" timestamp="1594115814592" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/status/ErrorStatusEnum.java" timestamp="1594120214178">
+        <mark key="[" line="80" column="4" />
+        <mark key="]" line="110" column="0" />
+        <mark key="." line="110" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/executor/predictive/math/Erlang/PredictiveParam.java" timestamp="1594116079586" />
     </filemarks>
     <jumps>
       <jump line="60" column="28" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/serivce/impl/InstantServiceImplTest.java" />
@@ -216,11 +226,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ueueStatusDTO.getAvailableAgents()</text>
       </register>
       <register name="-" type="4">
-        <text>queueStatusDTO</text>
+        <text>ueueStatusDTO.getAvailableAgents()</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
@@ -228,13 +238,21 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXN1bHQucHV0KCJzdGFydFRpbWUiLCBEYXRlVXRpbHMuU0lNUExFX0RBVEVfRk9STUFULmZvcm1hdChUZXN0Q29uc3RhbnQuQ0FMTF9USU1FKSk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>wellCloudServiceClient.stopSnapShotQueue(campaignDTO.getCampaignId(),
+                campaignDTO.getDomain(), Sets.newHashSet(campaignDTO.getDst()));</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
+        <text>wellCloudServiceClient.startSnapShotQueue(campaignDTO.getCampaignId(),
+                campaignDTO.getDomain(), Sets.newHashSet(campaignDTO.getDst()));</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text>@Bindable
     public double getAbandonRate() {
         return abandonRate;
@@ -325,26 +343,20 @@
         notifyPropertyChanged(BR.time);
     }</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CiAgICBwcml2YXRlIFN0cmluZyB0aW1lOwogICAgcHJpdmF0ZSBTdHJpbmcg</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFJUU1RBVF9DQUxMX1FVRVVFX1NUQVRVUyA9ICJ7QkFTRVVSTH0vcnRzdGF0L3YyL2luZGljYXRvci9vY20vc2tpbGwve3NraWxsSWR9P2R1cmF0aW9uPXtkdXJhdGlvbn0mdW5pdD17dW5pdH0mY2FsbENvdW50PXtjYWxsQ291bnR9IjsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgaW50ICAgIGFnZW50c0hvbGQ7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgaW50ICAgIGFnZW50c0NvbmZlcmVuY2U7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogYWdlbnRzQWN3IDogMAogICAgICogYWdlbnRzQXV0b091dGJvdW5kUmluZ2luZyA6IDAKICAgICAqIGFnZW50c0F1dG9PdXRib3VuZFRhbGtpbmcgOiAwCiAgICAgKiBhZ2VudHNBdXggOiAwCiAgICAgKiBhZ2VudHNBdmFpbGFibGUgOiAxCiAgICAgKiBhZ2VudHNCdXN5IDogMAogICAgICogYWdlbnRzQ29uZmVyZW5jZSA6IDAKICAgICAqIGFnZW50c0hvbGQgOiAwCiAgICAgKiBhZ2VudHNJbmJvdW5kUmluZ2luZyA6IDAKICAgICAqIGFnZW50c0luYm91bmRUYWxraW5nIDogMAogICAgICogYWdlbnRzTG9ja2VkQnlDYWxsSW4gOiAwCiAgICAgKiBhZ2VudHNMb2dpbiA6IDEKICAgICAqIGFnZW50c01hbnVhbE9mZkhvb2sgOiAwCiAgICAgKiBhZ2VudHNNYW51YWxSaW5naW5nIDogMAogICAgICogYWdlbnRzTWFudWFsVGFsa2luZyA6IDAKICAgICAqLw==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgaW50ICAgIGFnZW50c0F1dG9PdXRib3VuZFRhbGtpbmc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
