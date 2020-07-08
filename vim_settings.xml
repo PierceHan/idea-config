@@ -60,12 +60,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSender.java" timestamp="1594033178114">
-        <mark key="[" line="172" column="0" />
-        <mark key="]" line="172" column="0" />
-        <mark key="." line="172" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1594087644724">
+      <file name="/Dummy.txt" timestamp="1594177010142">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" timestamp="1594115639268">
@@ -81,10 +76,11 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/preditive/RouteAction.java" timestamp="1594092047215">
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/executor/predictive/math/Erlang/AbandonBasedPredictive.java" timestamp="1594175849706">
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/executor/predictive/math/Erlang/AbandonBasedPredictive.java" timestamp="1594177121786">
+        <mark key="[" line="101" column="50" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
+        <mark key="^" line="84" column="39" />
       </file>
       <file name="/a.dummy" timestamp="1594092759012">
         <mark key="[" line="0" column="0" />
@@ -113,6 +109,7 @@
         <mark key="]" line="17" column="30" />
         <mark key="." line="17" column="30" />
       </file>
+      <file name="/AbandonBasedPredictive.java" timestamp="1594176970661" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/preditive/CallQueueStatus.java" timestamp="1594172895084">
         <mark key="[" line="24" column="12" />
         <mark key="]" line="24" column="12" />
@@ -233,11 +230,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>queueStatusDTO</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNraWxsICsgIkAiICsgZG9tYWluLCBTdHJpbmcudmFsdWVPZihwcmVkaWN0aXZlUGFyYW0uZ2V0QXZnV29ya1RpbWUoKSksICJzIiwgIjIwMCIpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>queueStatusDTO</text>
+        <text encoding="base64">ID0gd2VsbENsb3VkU2VydmljZUNsaWVudC5jYWxsUXVldWVTdGF0dXMo</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
@@ -246,38 +243,37 @@
         <text encoding="base64">ICAgICAgICByZXN1bHQucHV0KCJzdGFydFRpbWUiLCBEYXRlVXRpbHMuU0lNUExFX0RBVEVfRk9STUFULmZvcm1hdChUZXN0Q29uc3RhbnQuQ0FMTF9USU1FKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNraWxsICsgIkAiICsgZG9tYWluLCBTdHJpbmcudmFsdWVPZihwcmVkaWN0aXZlUGFyYW0uZ2V0QXZnV29ya1RpbWUoKSksICJzIiwgIjIwMCIpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUXVldWVTdGF0dXNEVE8gcXVldWVTdGF0dXNEVE8gPSB3ZWxsQ2xvdWRTZXJ2aWNlQ2xpZW50LnNuYXBRdWV1ZShza2lsbCwgZG9tYWluKTsK</text>
+      <register name="2" type="4">
+        <text>,
+                                  ExecutorService executorService</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgRXhlY3V0b3JTZXJ2aWNlICAgICAgICBleGVjdXRvclNlcnZpY2U7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmV4ZWN1dG9yU2VydmljZSA9IGV4ZWN1dG9yU2VydmljZTsK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgUXVldWVTdGF0dXNEVE8gcXVldWVTdGF0dXNEVE8gPSB3ZWxsQ2xvdWRTZXJ2aWNlQ2xpZW50LnNuYXBRdWV1ZShza2lsbCwgZG9tYWluKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
         <text>//        QueueStatusDTO    queueStatusDTO   = wellCloudServiceClient.snapQueue(skill, domain);
 //        AbandonStatusDTO  abandonStatusDTO = wellCloudServiceClient
 //                .getSecondAbandonTimeIndex(skill, domain, predictiveParam.getAvgWorkTime());</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="4">
-        <text>wellCloudServiceClient.stopSnapShotQueue(campaignDTO.getCampaignId(),
-                campaignDTO.getDomain(), Sets.newHashSet(campaignDTO.getDst()));</text>
-      </register>
-      <register name="8" type="4">
-        <text>wellCloudServiceClient.startSnapShotQueue(campaignDTO.getCampaignId(),
-                campaignDTO.getDomain(), Sets.newHashSet(campaignDTO.getDst()));</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
