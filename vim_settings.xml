@@ -73,6 +73,11 @@
         <mark key="[" line="58" column="8" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/test/data/HttpUris.java" timestamp="1594194323593" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSender.java" timestamp="1594200682243">
+        <mark key="[" line="117" column="23" />
+        <mark key="]" line="117" column="23" />
+        <mark key="." line="117" column="23" />
+      </file>
       <file name="/Dummy.txt" timestamp="1594198996167">
         <mark key="[" line="0" column="0" />
       </file>
@@ -84,11 +89,11 @@
         <mark key="]" line="3" column="57" />
         <mark key="." line="3" column="57" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/cc/wellcloud/cloud/cms-client/1.2.0/cms-client-1.2.0.jar!/cc/wellcloud/cloud/cms/client/DefaultCMSClient.class" timestamp="1594200845454" />
       <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/resources/config/application.yml" timestamp="1594195213714" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application.yml" timestamp="1594198622806">
         <mark key="[" line="16" column="14" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/dialer-service/src/main/java/com/ocm/ces/fssvc/handler/FSHangupEventHandler.java" timestamp="1594179683058" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/preditive/CallQueueStatus.java" timestamp="1594189530002">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -98,7 +103,6 @@
         <mark key="[" line="545" column="20" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/roster/weikong/WeiKongKafkaRoster.java" timestamp="1594195147108" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/dialer-service/src/main/java/com/ocm/ces/fssvc/handler/FSAnswerEventHandler.java" timestamp="1594179707204" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/preditive/AgentIndicator.java" timestamp="1594189020475">
         <mark key="[" line="11" column="35" />
       </file>
@@ -209,11 +213,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFJlYWR5U3RhdHVzRFRPIHJlYWR5U3RhdHVzRFRPID0gd2VsbENsb3VkU2VydmljZUNsaWVudC5nZXRTZWNvbmRSZWFkeVRpbWVJbmRleChza2lsbCArICJAIiArIGRvbWFpbik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>获取名单失败</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0gd2VsbENsb3VkU2VydmljZUNsaWVudC5jYWxsUXVldWVTdGF0dXMo</text>
+        <text>获取名单失败</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
