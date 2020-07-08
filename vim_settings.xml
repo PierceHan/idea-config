@@ -60,7 +60,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1594179709425">
+      <file name="/Dummy.txt" timestamp="1594191560032">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" timestamp="1594188760837" />
@@ -69,9 +69,10 @@
         <mark key="]" line="3" column="57" />
         <mark key="." line="3" column="57" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/executor/predictive/math/Erlang/AbandonBasedPredictive.java" timestamp="1594189589022" />
-      <file name="/a.dummy" timestamp="1594092759012">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/executor/predictive/math/Erlang/AbandonBasedPredictive.java" timestamp="1594191354911">
+        <mark key="[" line="92" column="12" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/preditive/SkillAgentStatus.java" timestamp="1594174158367">
         <mark key="[" line="20" column="4" />
@@ -97,6 +98,9 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/pom.xml" timestamp="1594191723522">
+        <mark key="[" line="545" column="20" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/dialer-service/src/main/java/com/ocm/ces/fssvc/handler/FSAnswerEventHandler.java" timestamp="1594179707204" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/preditive/SkillMonitor.java" timestamp="1594093758713">
@@ -217,7 +221,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIFJlYWR5U3RhdHVzRFRPIHJlYWR5U3RhdHVzRFRPID0gd2VsbENsb3VkU2VydmljZUNsaWVudC5nZXRTZWNvbmRSZWFkeVRpbWVJbmRleChza2lsbCArICJAIiArIGRvbWFpbik7Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ID0gd2VsbENsb3VkU2VydmljZUNsaWVudC5jYWxsUXVldWVTdGF0dXMo</text>
@@ -229,35 +233,35 @@
         <text encoding="base64">ICAgICAgICByZXN1bHQucHV0KCJzdGFydFRpbWUiLCBEYXRlVXRpbHMuU0lNUExFX0RBVEVfRk9STUFULmZvcm1hdChUZXN0Q29uc3RhbnQuQ0FMTF9USU1FKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIFJlYWR5U3RhdHVzRFRPIHJlYWR5U3RhdHVzRFRPID0gd2VsbENsb3VkU2VydmljZUNsaWVudC5nZXRTZWNvbmRSZWFkeVRpbWVJbmRleChza2lsbCArICJAIiArIGRvbWFpbik7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CgogICAgLyoqCiAgICAgKiBhYmFuZG9uUmF0ZSA6IDAuNQogICAgICogYWdlbnRBYmFuZG9uQ291bnQgOiAxMAogICAgICogYW5zd2VyZWRDYWxsQ291bnQgOiAyMAogICAgICogY2FsbENvdW50IDogNDAKICAgICAqIHF1ZXVlQWJhbmRvbkNvdW50IDogMTAKICAgICAqIHF1ZXVlZEFuc3dlckNhbGwgOiA5CiAgICAgKiBxdWV1ZWRDb3VudCA6IDI5CiAgICAgKiBxdWV1ZWRSYXRlIDogMC43MjUKICAgICAqIHRpbWUgOiAxOTcwLTAxLTAxVDAwOjAwOjAwWgogICAgICov</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CgogICAgLyoqCiAgICAgKiBhYmFuZG9uUmF0ZSA6IDAuNQogICAgICogYWdlbnRBYmFuZG9uQ291bnQgOiAxMAogICAgICogYW5zd2VyZWRDYWxsQ291bnQgOiAyMAogICAgICogY2FsbENvdW50IDogNDAKICAgICAqIHF1ZXVlQWJhbmRvbkNvdW50IDogMTAKICAgICAqIHF1ZXVlZEFuc3dlckNhbGwgOiA5CiAgICAgKiBxdWV1ZWRDb3VudCA6IDI5CiAgICAgKiBxdWV1ZWRSYXRlIDogMC43MjUKICAgICAqIHRpbWUgOiAxOTcwLTAxLTAxVDAwOjAwOjAwWgogICAgICov</text>
+      </register>
       <register name="4" type="2">
-        <text />
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text />
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNraWxsICsgIkAiICsgZG9tYWluLCBTdHJpbmcudmFsdWVPZihwcmVkaWN0aXZlUGFyYW0uZ2V0QXZnV29ya1RpbWUoKSksICJzIiwgIjIwMCIpOwo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>,
                                   ExecutorService executorService</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgRXhlY3V0b3JTZXJ2aWNlICAgICAgICBleGVjdXRvclNlcnZpY2U7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmV4ZWN1dG9yU2VydmljZSA9IGV4ZWN1dG9yU2VydmljZTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmV4ZWN1dG9yU2VydmljZSA9IGV4ZWN1dG9yU2VydmljZTsK</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
