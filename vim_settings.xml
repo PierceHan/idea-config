@@ -63,24 +63,14 @@
       <file name="/Dummy.txt" timestamp="1594177010142">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" timestamp="1594115639268">
-        <mark key="[" line="124" column="130" />
-        <mark key="]" line="124" column="130" />
-        <mark key="." line="124" column="130" />
-      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" timestamp="1594178934182" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/executor/predictive/PredictiveContextLoader.java" timestamp="1594173925016">
-        <mark key="[" line="93" column="57" />
-        <mark key="]" line="93" column="57" />
-        <mark key="." line="93" column="57" />
+        <mark key="[" line="3" column="57" />
+        <mark key="]" line="3" column="57" />
+        <mark key="." line="3" column="57" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/preditive/RouteAction.java" timestamp="1594092047215">
         <mark key="[" line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/executor/predictive/math/Erlang/AbandonBasedPredictive.java" timestamp="1594177121786">
-        <mark key="[" line="101" column="50" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
-        <mark key="^" line="84" column="39" />
       </file>
       <file name="/a.dummy" timestamp="1594092759012">
         <mark key="[" line="0" column="0" />
@@ -91,16 +81,13 @@
         <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/executor/predictive/math/Erlang/SimpleCalPredictive.java" timestamp="1594174472795">
-        <mark key="[" line="168" column="16" />
-        <mark key="]" line="168" column="16" />
-        <mark key="." line="168" column="16" />
-        <mark key="^" line="101" column="33" />
+        <mark key="[" line="2" column="16" />
+        <mark key="]" line="2" column="16" />
+        <mark key="." line="2" column="16" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/config/ThreadPoolConfiguration.java" timestamp="1594175486003" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/config/ConfigProperties.java" timestamp="1594105183375">
         <mark key="[" line="63" column="4" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/model/QueueStatusDTO.java" timestamp="1594172682353" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application.yml" timestamp="1594105872433">
         <mark key="[" line="22" column="4" />
       </file>
@@ -109,7 +96,6 @@
         <mark key="]" line="17" column="30" />
         <mark key="." line="17" column="30" />
       </file>
-      <file name="/AbandonBasedPredictive.java" timestamp="1594176970661" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/preditive/CallQueueStatus.java" timestamp="1594172895084">
         <mark key="[" line="24" column="12" />
         <mark key="]" line="24" column="12" />
@@ -123,7 +109,6 @@
         <mark key="]" line="110" column="0" />
         <mark key="." line="110" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/executor/predictive/math/Erlang/PoissonDistributionBasedPredictive.java" timestamp="1594174466649" />
     </filemarks>
     <jumps>
       <jump line="60" column="28" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/serivce/impl/InstantServiceImplTest.java" />
