@@ -87,6 +87,7 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/config/ConfigProperties.java" timestamp="1594105183375">
         <mark key="[" line="63" column="4" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/resources/config/application.yml" timestamp="1594193337943" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application.yml" timestamp="1594105872433">
         <mark key="[" line="22" column="4" />
       </file>
@@ -103,9 +104,6 @@
         <mark key="[" line="545" column="20" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/dialer-service/src/main/java/com/ocm/ces/fssvc/handler/FSAnswerEventHandler.java" timestamp="1594179707204" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/preditive/SkillMonitor.java" timestamp="1594093758713">
-        <mark key="[" line="6" column="25" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/status/ErrorStatusEnum.java" timestamp="1594120214178">
         <mark key="[" line="80" column="4" />
         <mark key="]" line="110" column="0" />
