@@ -73,7 +73,7 @@
         <mark key="]" line="124" column="130" />
         <mark key="." line="124" column="130" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/executor/predictive/PredictiveContextLoader.java" timestamp="1594120367397">
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/executor/predictive/PredictiveContextLoader.java" timestamp="1594173925016">
         <mark key="[" line="93" column="57" />
         <mark key="]" line="93" column="57" />
         <mark key="." line="93" column="57" />
@@ -81,7 +81,7 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/preditive/RouteAction.java" timestamp="1594092047215">
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/executor/predictive/math/Erlang/AbandonBasedPredictive.java" timestamp="1594173075973">
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/executor/predictive/math/Erlang/AbandonBasedPredictive.java" timestamp="1594174000024">
         <mark key="[" line="84" column="0" />
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
@@ -89,10 +89,16 @@
       <file name="/a.dummy" timestamp="1594092759012">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/preditive/SkillAgentStatus.java" timestamp="1594172721186">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/preditive/SkillAgentStatus.java" timestamp="1594174158367">
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/executor/predictive/math/Erlang/SimpleCalPredictive.java" timestamp="1594174261259">
+        <mark key="[" line="168" column="16" />
+        <mark key="]" line="168" column="16" />
+        <mark key="." line="168" column="16" />
+        <mark key="^" line="101" column="33" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/config/ConfigProperties.java" timestamp="1594105183375">
         <mark key="[" line="63" column="4" />
@@ -119,6 +125,7 @@
         <mark key="]" line="110" column="0" />
         <mark key="." line="110" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/executor/predictive/math/Erlang/PoissonDistributionBasedPredictive.java" timestamp="1594174294092" />
     </filemarks>
     <jumps>
       <jump line="60" column="28" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/serivce/impl/InstantServiceImplTest.java" />
@@ -225,11 +232,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>queueStatusDTO</text>
       </register>
       <register name="-" type="4">
-        <text>double</text>
+        <text>queueStatusDTO</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
@@ -244,120 +251,32 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text>//        QueueStatusDTO    queueStatusDTO   = wellCloudServiceClient.snapQueue(skill, domain);
-//        AbandonStatusDTO  abandonStatusDTO = wellCloudServiceClient
-//                .getSecondAbandonTimeIndex(skill, domain, predictiveParam.getAvgWorkTime());</text>
+        <text encoding="base64">ICAgICAgICAgICAgUXVldWVTdGF0dXNEVE8gcXVldWVTdGF0dXNEVE8gPSB3ZWxsQ2xvdWRTZXJ2aWNlQ2xpZW50LnNuYXBRdWV1ZShza2lsbCwgZG9tYWluKTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>wellCloudServiceClient.stopSnapShotQueue(campaignDTO.getCampaignId(),
-                campaignDTO.getDomain(), Sets.newHashSet(campaignDTO.getDst()));</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>wellCloudServiceClient.startSnapShotQueue(campaignDTO.getCampaignId(),
-                campaignDTO.getDomain(), Sets.newHashSet(campaignDTO.getDst()));</text>
+      <register name="5" type="2">
+        <text>//        QueueStatusDTO    queueStatusDTO   = wellCloudServiceClient.snapQueue(skill, domain);
+//        AbandonStatusDTO  abandonStatusDTO = wellCloudServiceClient
+//                .getSecondAbandonTimeIndex(skill, domain, predictiveParam.getAvgWorkTime());</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>@Bindable
-    public double getAbandonRate() {
-        return abandonRate;
-    }
-
-    public void setAbandonRate(double abandonRate) {
-        this.abandonRate = abandonRate;
-        notifyPropertyChanged(BR.abandonRate);
-    }
-
-    @Bindable
-    public int getAgentAbandonCount() {
-        return agentAbandonCount;
-    }
-
-    public void setAgentAbandonCount(int agentAbandonCount) {
-        this.agentAbandonCount = agentAbandonCount;
-        notifyPropertyChanged(BR.agentAbandonCount);
-    }
-
-    @Bindable
-    public int getAnsweredCallCount() {
-        return answeredCallCount;
-    }
-
-    public void setAnsweredCallCount(int answeredCallCount) {
-        this.answeredCallCount = answeredCallCount;
-        notifyPropertyChanged(BR.answeredCallCount);
-    }
-
-    @Bindable
-    public int getCallCount() {
-        return callCount;
-    }
-
-    public void setCallCount(int callCount) {
-        this.callCount = callCount;
-        notifyPropertyChanged(BR.callCount);
-    }
-
-    @Bindable
-    public int getQueueAbandonCount() {
-        return queueAbandonCount;
-    }
-
-    public void setQueueAbandonCount(int queueAbandonCount) {
-        this.queueAbandonCount = queueAbandonCount;
-        notifyPropertyChanged(BR.queueAbandonCount);
-    }
-
-    @Bindable
-    public int getQueuedAnswerCall() {
-        return queuedAnswerCall;
-    }
-
-    public void setQueuedAnswerCall(int queuedAnswerCall) {
-        this.queuedAnswerCall = queuedAnswerCall;
-        notifyPropertyChanged(BR.queuedAnswerCall);
-    }
-
-    @Bindable
-    public int getQueuedCount() {
-        return queuedCount;
-    }
-
-    public void setQueuedCount(int queuedCount) {
-        this.queuedCount = queuedCount;
-        notifyPropertyChanged(BR.queuedCount);
-    }
-
-    @Bindable
-    public double getQueuedRate() {
-        return queuedRate;
-    }
-
-    public void setQueuedRate(double queuedRate) {
-        this.queuedRate = queuedRate;
-        notifyPropertyChanged(BR.queuedRate);
-    }
-
-    @Bindable
-    public String getTime() {
-        return time;
-    }
-
-    public void setTime(String time) {
-        this.time = time;
-        notifyPropertyChanged(BR.time);
-    }</text>
+        <text>wellCloudServiceClient.stopSnapShotQueue(campaignDTO.getCampaignId(),
+                campaignDTO.getDomain(), Sets.newHashSet(campaignDTO.getDst()));</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIFN0cmluZyB0aW1lOwogICAgcHJpdmF0ZSBTdHJpbmcg</text>
+      <register name="8" type="4">
+        <text>wellCloudServiceClient.startSnapShotQueue(campaignDTO.getCampaignId(),
+                campaignDTO.getDomain(), Sets.newHashSet(campaignDTO.getDst()));</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFJUU1RBVF9DQUxMX1FVRVVFX1NUQVRVUyA9ICJ7QkFTRVVSTH0vcnRzdGF0L3YyL2luZGljYXRvci9vY20vc2tpbGwve3NraWxsSWR9P2R1cmF0aW9uPXtkdXJhdGlvbn0mdW5pdD17dW5pdH0mY2FsbENvdW50PXtjYWxsQ291bnR9IjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
