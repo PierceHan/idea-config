@@ -81,23 +81,23 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/preditive/RouteAction.java" timestamp="1594092047215">
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/executor/predictive/math/Erlang/AbandonBasedPredictive.java" timestamp="1594120638139">
-        <mark key="[" line="145" column="17" />
-        <mark key="]" line="145" column="17" />
-        <mark key="." line="145" column="17" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/executor/predictive/math/Erlang/AbandonBasedPredictive.java" timestamp="1594173075973">
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1594092759012">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/preditive/SkillAgentStatus.java" timestamp="1594120713352">
-        <mark key="[" line="16" column="4" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/preditive/SkillAgentStatus.java" timestamp="1594172721186">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/config/ConfigProperties.java" timestamp="1594105183375">
         <mark key="[" line="63" column="4" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/model/QueueStatusDTO.java" timestamp="1594171573931" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/model/QueueStatusDTO.java" timestamp="1594172682353" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application.yml" timestamp="1594105872433">
         <mark key="[" line="22" column="4" />
       </file>
@@ -106,10 +106,10 @@
         <mark key="]" line="17" column="30" />
         <mark key="." line="17" column="30" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/preditive/CallQueueStatus.java" timestamp="1594113626767">
-        <mark key="[" line="34" column="4" />
-        <mark key="]" line="34" column="4" />
-        <mark key="." line="34" column="4" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/preditive/CallQueueStatus.java" timestamp="1594172895084">
+        <mark key="[" line="24" column="12" />
+        <mark key="]" line="24" column="12" />
+        <mark key="." line="24" column="12" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/preditive/SkillMonitor.java" timestamp="1594093758713">
         <mark key="[" line="6" column="25" />
@@ -225,11 +225,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>ueueStatusDTO.getAvailableAgents()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>ueueStatusDTO.getAvailableAgents()</text>
+        <text>double</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
@@ -237,21 +237,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXN1bHQucHV0KCJzdGFydFRpbWUiLCBEYXRlVXRpbHMuU0lNUExFX0RBVEVfRk9STUFULmZvcm1hdChUZXN0Q29uc3RhbnQuQ0FMTF9USU1FKSk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>wellCloudServiceClient.stopSnapShotQueue(campaignDTO.getCampaignId(),
-                campaignDTO.getDomain(), Sets.newHashSet(campaignDTO.getDst()));</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>wellCloudServiceClient.startSnapShotQueue(campaignDTO.getCampaignId(),
-                campaignDTO.getDomain(), Sets.newHashSet(campaignDTO.getDst()));</text>
+      <register name="2" type="2">
+        <text>//        QueueStatusDTO    queueStatusDTO   = wellCloudServiceClient.snapQueue(skill, domain);
+//        AbandonStatusDTO  abandonStatusDTO = wellCloudServiceClient
+//                .getSecondAbandonTimeIndex(skill, domain, predictiveParam.getAvgWorkTime());</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="4">
+        <text>wellCloudServiceClient.stopSnapShotQueue(campaignDTO.getCampaignId(),
+                campaignDTO.getDomain(), Sets.newHashSet(campaignDTO.getDst()));</text>
+      </register>
+      <register name="5" type="4">
+        <text>wellCloudServiceClient.startSnapShotQueue(campaignDTO.getCampaignId(),
+                campaignDTO.getDomain(), Sets.newHashSet(campaignDTO.getDst()));</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text>@Bindable
     public double getAbandonRate() {
         return abandonRate;
@@ -342,20 +353,11 @@
         notifyPropertyChanged(BR.time);
     }</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CiAgICBwcml2YXRlIFN0cmluZyB0aW1lOwogICAgcHJpdmF0ZSBTdHJpbmcg</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFJUU1RBVF9DQUxMX1FVRVVFX1NUQVRVUyA9ICJ7QkFTRVVSTH0vcnRzdGF0L3YyL2luZGljYXRvci9vY20vc2tpbGwve3NraWxsSWR9P2R1cmF0aW9uPXtkdXJhdGlvbn0mdW5pdD17dW5pdH0mY2FsbENvdW50PXtjYWxsQ291bnR9IjsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgaW50ICAgIGFnZW50c0hvbGQ7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgaW50ICAgIGFnZW50c0NvbmZlcmVuY2U7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFJUU1RBVF9DQUxMX1FVRVVFX1NUQVRVUyA9ICJ7QkFTRVVSTH0vcnRzdGF0L3YyL2luZGljYXRvci9vY20vc2tpbGwve3NraWxsSWR9P2R1cmF0aW9uPXtkdXJhdGlvbn0mdW5pdD17dW5pdH0mY2FsbENvdW50PXtjYWxsQ291bnR9IjsK</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
