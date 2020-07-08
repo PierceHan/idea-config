@@ -60,37 +60,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1594191560032">
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/util/CacheConsts.java" timestamp="1594194762695">
+        <mark key="[" line="5" column="24" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/test/java/cc/wellcloud/ocm/core/back/BaseBackTest.java" timestamp="1594194326263" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/roster/kefu/KeFuKafkaRoster.java" timestamp="1594195036225">
+        <mark key="[" line="58" column="8" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/test/data/HttpUris.java" timestamp="1594194323593" />
+      <file name="/Dummy.txt" timestamp="1594195090288">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" timestamp="1594188760837" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/executor/predictive/PredictiveContextLoader.java" timestamp="1594173925016">
-        <mark key="[" line="3" column="57" />
-        <mark key="]" line="3" column="57" />
-        <mark key="." line="3" column="57" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/executor/predictive/math/Erlang/AbandonBasedPredictive.java" timestamp="1594191354911">
-        <mark key="[" line="92" column="12" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/preditive/SkillAgentStatus.java" timestamp="1594174158367">
-        <mark key="[" line="20" column="4" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/executor/predictive/math/Erlang/SimpleCalPredictive.java" timestamp="1594174472795">
-        <mark key="[" line="2" column="16" />
-        <mark key="]" line="2" column="16" />
-        <mark key="." line="2" column="16" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/config/ConfigProperties.java" timestamp="1594105183375">
-        <mark key="[" line="63" column="4" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/resources/config/application.yml" timestamp="1594193337943" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application.yml" timestamp="1594105872433">
-        <mark key="[" line="22" column="4" />
-      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/resources/config/application.yml" timestamp="1594195213714" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application.yml" timestamp="1594195441392" />
       <file name="$USER_HOME$/IdeaProjects/huijie/dialer-service/src/main/java/com/ocm/ces/fssvc/handler/FSHangupEventHandler.java" timestamp="1594179683058" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/event/adapter/ResultEventCreator.java" timestamp="1594179668581">
         <mark key="[" line="96" column="8" />
@@ -103,15 +85,12 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/pom.xml" timestamp="1594191723522">
         <mark key="[" line="545" column="20" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/roster/weikong/WeiKongKafkaRoster.java" timestamp="1594195147108" />
       <file name="$USER_HOME$/IdeaProjects/huijie/dialer-service/src/main/java/com/ocm/ces/fssvc/handler/FSAnswerEventHandler.java" timestamp="1594179707204" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/status/ErrorStatusEnum.java" timestamp="1594120214178">
-        <mark key="[" line="80" column="4" />
-        <mark key="]" line="110" column="0" />
-        <mark key="." line="110" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/preditive/AgentIndicator.java" timestamp="1594189020475">
         <mark key="[" line="11" column="35" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/util/CacheConstant.java" timestamp="1594194827971" />
     </filemarks>
     <jumps>
       <jump line="60" column="28" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/serivce/impl/InstantServiceImplTest.java" />
