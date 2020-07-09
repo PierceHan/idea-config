@@ -68,10 +68,10 @@
         <mark key="]" line="73" column="0" />
         <mark key="." line="73" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/impl/InstantServiceImpl.java" timestamp="1594289335945">
-        <mark key="[" line="265" column="44" />
-        <mark key="]" line="265" column="44" />
-        <mark key="." line="265" column="44" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/impl/InstantServiceImpl.java" timestamp="1594290089031">
+        <mark key="[" line="190" column="45" />
+        <mark key="]" line="190" column="45" />
+        <mark key="." line="190" column="45" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSender.java" timestamp="1594289228646" />
       <file name="/Dummy.txt" timestamp="1594288078336">
@@ -204,10 +204,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>CampaignDTO</text>
+        <text>dialTaskInfo</text>
       </register>
       <register name="-" type="4">
-        <text>CampaignDTO</text>
+        <text>dialTaskInfo</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
@@ -216,34 +216,34 @@
         <text encoding="base64">ICAgICAgICByZXN1bHQucHV0KCJzdGFydFRpbWUiLCBEYXRlVXRpbHMuU0lNUExFX0RBVEVfRk9STUFULmZvcm1hdChUZXN0Q29uc3RhbnQuQ0FMTF9USU1FKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBEaWFsVGFza0luZm8gZGlhbFRhc2tJbmZvID0gY29udmVydCh0ZW1wbGF0ZURUTywgdGFzaywgaW5zdGFudC5nZXRDYWxsZXIoKSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZW5kZXIuc2VuZChkaWFsVGFza0luZm8pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZW5kZXIuc2VuZChkaWFsVGFza0luZm8pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text />
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqCiAgICAgKiBAcGFyYW0gaW5zdGFudAogICAgICogQHJldHVybg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAqCiAgICAgKiBAcGFyYW0gaW5zdGFudAogICAgICogQHJldHVybg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKHN0cmluZ1JlZGlzVGVtcGxhdGUuYm91bmRWYWx1ZU9wcyhhbnlTdHJpbmcoKSkpLnRoZW5SZXR1cm4odmFsdWVPcGVyYXRpb25zKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKFNwcmluZ0FwcGxpY2F0aW9uQ29udGV4dEhvbGRlci5nZXRCZWFuKCJ6a0NsaWVudCIpKS50aGVuUmV0dXJuKHprQ2xpZW50KTsK</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKHN0cmluZ1JlZGlzVGVtcGxhdGUuYm91bmRWYWx1ZU9wcyhhbnlTdHJpbmcoKSkpLnRoZW5SZXR1cm4odmFsdWVPcGVyYXRpb25zKTsK</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
