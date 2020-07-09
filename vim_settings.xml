@@ -78,8 +78,8 @@
       <file name="/Dummy.txt" timestamp="1594288078336">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application-2.0.yaml" timestamp="1594293842601" />
       <file name="$MAVEN_REPOSITORY$/cc/wellcloud/cloud/cms-client/1.2.0/cms-client-1.2.0.jar!/cc/wellcloud/cloud/cms/client/DefaultCMSClient.class" timestamp="1594281990296" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/cc/wellcloud/cloud/aocs/domain/campaign/event/handler/CampaignEventSubscriberTest.java" timestamp="1594281003130" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/cc/wellcloud/cloud/aocs/domain/resource/entity/TenantResourcePoolTest.java" timestamp="1594283807624" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/resources/config/application-integration.yml" timestamp="1594283487887">
         <mark key="[" line="19" column="0" />
