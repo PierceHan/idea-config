@@ -76,13 +76,11 @@
         <mark key="]" line="11" column="12" />
         <mark key="." line="11" column="12" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/pom.xml" timestamp="1594191723522">
-        <mark key="[" line="545" column="20" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/roster/kefu/KeFuKafkaRoster.java" timestamp="1594202680729">
         <mark key="[" line="90" column="50" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/executor/DialTaskExecutor.java" timestamp="1594263533652" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/dce/handler/DceHandler.java" timestamp="1594264243672" />
     </filemarks>
     <jumps>
       <jump line="60" column="28" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/serivce/impl/InstantServiceImplTest.java" />
