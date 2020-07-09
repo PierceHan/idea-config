@@ -60,17 +60,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1594205891106">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/executor/predictive/PredictiveContextLoader.java" timestamp="1594197823353">
-        <mark key="[" line="3" column="57" />
-        <mark key="]" line="3" column="57" />
-        <mark key="." line="3" column="57" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/util/CacheConsts.java" timestamp="1594194762695">
-        <mark key="[" line="5" column="24" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/model/kefu/KefuRoster.java" timestamp="1594202705292">
         <mark key="[" line="11" column="12" />
         <mark key="]" line="11" column="12" />
@@ -80,7 +69,19 @@
         <mark key="[" line="90" column="50" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/executor/DialTaskExecutor.java" timestamp="1594263533652" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/dce/handler/DceHandler.java" timestamp="1594264243672" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/dce/handler/DceHandler.java" timestamp="1594265500434" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/entity/roster/RosterRO.java" timestamp="1594265796270">
+        <mark key="[" line="90" column="40" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1594266309975">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/executor/predictive/PredictiveContextLoader.java" timestamp="1594197823353">
+        <mark key="[" line="3" column="57" />
+        <mark key="]" line="3" column="57" />
+        <mark key="." line="3" column="57" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/service/roster/RosterServiceImpl.java" timestamp="1594265772221" />
     </filemarks>
     <jumps>
       <jump line="60" column="28" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/serivce/impl/InstantServiceImplTest.java" />
