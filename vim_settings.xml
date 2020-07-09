@@ -71,7 +71,10 @@
         <mark key="]" line="73" column="0" />
         <mark key="." line="73" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594286757480">
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/impl/InstantServiceImpl.java" timestamp="1594288658576">
+        <mark key="[" line="74" column="41" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1594288078336">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/cc/wellcloud/cloud/cms-client/1.2.0/cms-client-1.2.0.jar!/cc/wellcloud/cloud/cms/client/DefaultCMSClient.class" timestamp="1594281990296" />
@@ -81,6 +84,9 @@
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/impl/InstantServiceImpl2.java" timestamp="1594288641746">
+        <mark key="[" line="32" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/intergraion/AbandonBasedPredictiveIntegrationTest.java" timestamp="1594285961308" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/intergraion/AbstractIntegrationContext.java" timestamp="1594284676062">
@@ -216,28 +222,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKHN0cmluZ1JlZGlzVGVtcGxhdGUuYm91bmRWYWx1ZU9wcyhhbnlTdHJpbmcoKSkpLnRoZW5SZXR1cm4odmFsdWVPcGVyYXRpb25zKTsK</text>
+        <text encoding="base64">ICAgICAqCiAgICAgKiBAcGFyYW0gaW5zdGFudAogICAgICogQHJldHVybg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKFNwcmluZ0FwcGxpY2F0aW9uQ29udGV4dEhvbGRlci5nZXRCZWFuKCJ6a0NsaWVudCIpKS50aGVuUmV0dXJuKHprQ2xpZW50KTsK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB3aGVuKHN0cmluZ1JlZGlzVGVtcGxhdGUuYm91bmRWYWx1ZU9wcyhhbnlTdHJpbmcoKSkpLnRoZW5SZXR1cm4odmFsdWVPcGVyYXRpb25zKTsK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBNb2NrCiAgICBwcml2YXRlIFJlc291cmNlU2VydmljZSAgICAgICAgICAgIHJlc291cmNlU2VydmljZTs=</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKFNwcmluZ0FwcGxpY2F0aW9uQ29udGV4dEhvbGRlci5nZXRCZWFuKCJ6a0NsaWVudCIpKS50aGVuUmV0dXJuKHprQ2xpZW50KTsK</text>
       </register>
       <register name="6" type="2">
-        <text>instanceId: ocm-desktop</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bW9uaXRvcl91cmw6IGh0dHA6Ly8xMjcuMC4wLjE6MjA4ODQK</text>
+        <text encoding="base64">ICAgIEBNb2NrCiAgICBwcml2YXRlIFJlc291cmNlU2VydmljZSAgICAgICAgICAgIHJlc291cmNlU2VydmljZTs=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGNsdF90eXBlOwo=</text>
+        <text>instanceId: ocm-desktop</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHByb2plY3RfaWQ7Cg==</text>
+        <text encoding="base64">bW9uaXRvcl91cmw6IGh0dHA6Ly8xMjcuMC4wLjE6MjA4ODQK</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
