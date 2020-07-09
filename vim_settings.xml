@@ -60,30 +60,31 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/entity/roster/RosterRO.java" timestamp="1594265796270">
-        <mark key="[" line="90" column="40" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1594281057353">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/executor/predictive/math/Erlang/AbandonBasedPredictive.java" timestamp="1594278619218">
         <mark key="[" line="81" column="90" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/config/ConfigProperties.java" timestamp="1594282508887" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/Dockerfile" timestamp="1594283222962" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/infrastructure/config/CmsClientConfig.java" timestamp="1594282024390" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/entity/roster/RosterRO.java" timestamp="1594265796270">
+        <mark key="[" line="90" column="40" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1594283820262">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/cc/wellcloud/cloud/cms-client/1.2.0/cms-client-1.2.0.jar!/cc/wellcloud/cloud/cms/client/DefaultCMSClient.class" timestamp="1594281990296" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/cc/wellcloud/cloud/aocs/domain/campaign/event/handler/CampaignEventSubscriberTest.java" timestamp="1594281003130" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/config/ConfigProperties.java" timestamp="1594282508887" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/cc/wellcloud/cloud/aocs/domain/resource/entity/TenantResourcePoolTest.java" timestamp="1594283807624" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/resources/config/application-integration.yml" timestamp="1594283487887">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/Dockerfile" timestamp="1594283222962" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/intergraion/AbstractIntegrationContext.java" timestamp="1594282294475">
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/intergraion/AbstractIntegrationContext.java" timestamp="1594284676062">
         <mark key="[" line="98" column="8" />
         <mark key="]" line="98" column="8" />
         <mark key="." line="98" column="8" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/infrastructure/config/CmsClientConfig.java" timestamp="1594282024390" />
       <file name="/fragment.java" timestamp="1594281057371">
         <mark key="[" line="0" column="0" />
       </file>
