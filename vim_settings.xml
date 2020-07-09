@@ -66,12 +66,12 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/config/ConfigProperties.java" timestamp="1594282508887" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/Dockerfile" timestamp="1594283222962" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/infrastructure/config/CmsClientConfig.java" timestamp="1594282024390" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/message/CampaignStatusConsumerTest.java" timestamp="1594285182748">
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/message/CampaignStatusConsumerTest.java" timestamp="1594285296652">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594283820262">
+      <file name="/Dummy.txt" timestamp="1594285885513">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/cc/wellcloud/cloud/cms-client/1.2.0/cms-client-1.2.0.jar!/cc/wellcloud/cloud/cms/client/DefaultCMSClient.class" timestamp="1594281990296" />
@@ -82,6 +82,7 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/intergraion/AbandonBasedPredictiveIntegrationTest.java" timestamp="1594285961308" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/intergraion/AbstractIntegrationContext.java" timestamp="1594284676062">
         <mark key="[" line="98" column="8" />
         <mark key="]" line="98" column="8" />
@@ -90,7 +91,6 @@
       <file name="/fragment.java" timestamp="1594281057371">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/message/CampaignStatusConsumer.java" timestamp="1594285174232" />
     </filemarks>
     <jumps>
       <jump line="60" column="28" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/serivce/impl/InstantServiceImplTest.java" />
@@ -198,7 +198,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKHN0cmluZ1JlZGlzVGVtcGxhdGUuYm91bmRWYWx1ZU9wcyhhbnlTdHJpbmcoKSkpLnRoZW5SZXR1cm4odmFsdWVPcGVyYXRpb25zKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>environment</text>
@@ -210,34 +210,34 @@
         <text encoding="base64">ICAgICAgICByZXN1bHQucHV0KCJzdGFydFRpbWUiLCBEYXRlVXRpbHMuU0lNUExFX0RBVEVfRk9STUFULmZvcm1hdChUZXN0Q29uc3RhbnQuQ0FMTF9USU1FKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKHN0cmluZ1JlZGlzVGVtcGxhdGUuYm91bmRWYWx1ZU9wcyhhbnlTdHJpbmcoKSkpLnRoZW5SZXR1cm4odmFsdWVPcGVyYXRpb25zKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKFNwcmluZ0FwcGxpY2F0aW9uQ29udGV4dEhvbGRlci5nZXRCZWFuKCJ6a0NsaWVudCIpKS50aGVuUmV0dXJuKHprQ2xpZW50KTsK</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKHN0cmluZ1JlZGlzVGVtcGxhdGUuYm91bmRWYWx1ZU9wcyhhbnlTdHJpbmcoKSkpLnRoZW5SZXR1cm4odmFsdWVPcGVyYXRpb25zKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKFNwcmluZ0FwcGxpY2F0aW9uQ29udGV4dEhvbGRlci5nZXRCZWFuKCJ6a0NsaWVudCIpKS50aGVuUmV0dXJuKHprQ2xpZW50KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBNb2NrCiAgICBwcml2YXRlIFJlc291cmNlU2VydmljZSAgICAgICAgICAgIHJlc291cmNlU2VydmljZTs=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text>instanceId: ocm-desktop</text>
+        <text encoding="base64">ICAgIEBNb2NrCiAgICBwcml2YXRlIFJlc291cmNlU2VydmljZSAgICAgICAgICAgIHJlc291cmNlU2VydmljZTs=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bW9uaXRvcl91cmw6IGh0dHA6Ly8xMjcuMC4wLjE6MjA4ODQK</text>
+        <text>instanceId: ocm-desktop</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGNsdF90eXBlOwo=</text>
+        <text encoding="base64">bW9uaXRvcl91cmw6IGh0dHA6Ly8xMjcuMC4wLjE6MjA4ODQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHByb2plY3RfaWQ7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGNsdF90eXBlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTG9jYWxEYXRlVGltZSBpbnNlcnRfdGltZTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHByb2plY3RfaWQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
