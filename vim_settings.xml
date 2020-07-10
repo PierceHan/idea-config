@@ -60,27 +60,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/config/ConfigProperties.java" timestamp="1594282508887" />
-      <file name="$MAVEN_REPOSITORY$/cc/wellcloud/cloud/cms-interface/1.2.0/cms-interface-1.2.0.jar!/cc/wellcloud/cloud/cms/vo/MakePredictiveCallVO.class" timestamp="1594292131002" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/Dockerfile" timestamp="1594283222962" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/infrastructure/config/CmsClientConfig.java" timestamp="1594282024390" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/message/CampaignStatusConsumerTest.java" timestamp="1594285296652">
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/impl/InstantServiceImpl.java" timestamp="1594291976035">
-        <mark key="[" line="229" column="8" />
-        <mark key="]" line="344" column="0" />
-        <mark key="." line="344" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSender.java" timestamp="1594291123337" />
       <file name="/Dummy.txt" timestamp="1594288078336">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application-2.0.yaml" timestamp="1594293842601" />
-      <file name="$MAVEN_REPOSITORY$/cc/wellcloud/cloud/cms-client/1.2.0/cms-client-1.2.0.jar!/cc/wellcloud/cloud/cms/client/DefaultCMSClient.class" timestamp="1594281990296" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/cc/wellcloud/cloud/aocs/domain/resource/entity/TenantResourcePoolTest.java" timestamp="1594283807624" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/resources/application.properties" timestamp="1594347520681">
+        <mark key="[" line="2" column="37" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/resources/config/application-integration.yml" timestamp="1594283487887">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -89,15 +74,29 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/impl/InstantServiceImpl2.java" timestamp="1594288641746">
         <mark key="[" line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/intergraion/AbandonBasedPredictiveIntegrationTest.java" timestamp="1594285961308" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application.yml" timestamp="1594346860572">
+        <mark key="[" line="5" column="26" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/intergraion/AbstractIntegrationContext.java" timestamp="1594284676062">
         <mark key="[" line="98" column="8" />
         <mark key="]" line="98" column="8" />
         <mark key="." line="98" column="8" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/pom.xml" timestamp="1594292034909" />
-      <file name="/fragment.java" timestamp="1594281057371">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/message/CampaignStatusConsumerTest.java" timestamp="1594285296652">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/impl/InstantServiceImpl.java" timestamp="1594347315861">
+        <mark key="[" line="229" column="8" />
+        <mark key="]" line="344" column="0" />
+        <mark key="." line="344" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application-cloud2.yaml" timestamp="1594347015773">
+        <mark key="[" line="32" column="56" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/resources/application-cloud2.properties" timestamp="1594347599173">
+        <mark key="[" line="23" column="0" />
       </file>
     </filemarks>
     <jumps>
