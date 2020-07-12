@@ -71,13 +71,14 @@
         <mark key="^" line="78" column="0" />
         <mark key="." line="78" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594349610003">
+      <file name="/Dummy.txt" timestamp="1594542030557">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" timestamp="1594541701818" />
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/resources/application.properties" timestamp="1594347520681">
         <mark key="[" line="2" column="37" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/config/FlywayConfig.java" timestamp="1594541490820">
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/config/FlywayConfig.java" timestamp="1594542510865">
         <mark key="[" line="24" column="42" />
         <mark key="]" line="24" column="42" />
         <mark key="." line="24" column="42" />
@@ -86,12 +87,7 @@
         <mark key="[" line="32" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/message/AbstractCmbMessageNote.java" timestamp="1594372747654" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application.yml" timestamp="1594538178991" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/intergraion/AbstractIntegrationContext.java" timestamp="1594284676062">
-        <mark key="[" line="98" column="8" />
-        <mark key="]" line="98" column="8" />
-        <mark key="." line="98" column="8" />
-      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application.yml" timestamp="1594542605451" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/message/CampaignStatusConsumerTest.java" timestamp="1594285296652">
         <mark key="[" line="73" column="0" />
         <mark key="]" line="73" column="0" />
@@ -112,6 +108,9 @@
         <mark key="[" line="12" column="3" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/resources/config/application-stress2.yml" timestamp="1594533898355" />
+      <file name="/fragment.java" timestamp="1594542030533">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="60" column="28" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/serivce/impl/InstantServiceImplTest.java" />
