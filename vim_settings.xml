@@ -77,6 +77,11 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/resources/application.properties" timestamp="1594347520681">
         <mark key="[" line="2" column="37" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/config/FlywayConfig.java" timestamp="1594541490820">
+        <mark key="[" line="24" column="42" />
+        <mark key="]" line="24" column="42" />
+        <mark key="." line="24" column="42" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/impl/InstantServiceImpl2.java" timestamp="1594288641746">
         <mark key="[" line="32" column="0" />
       </file>
@@ -213,11 +218,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
