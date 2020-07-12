@@ -102,7 +102,7 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application-cloud2.yaml" timestamp="1594348846037">
         <mark key="[" line="32" column="56" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/resources/config/application-stress2.yml" timestamp="1594523352488" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/src/main/resources/config/application-stress2.yml" timestamp="1594524820162" />
     </filemarks>
     <jumps>
       <jump line="60" column="28" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/serivce/impl/InstantServiceImplTest.java" />
