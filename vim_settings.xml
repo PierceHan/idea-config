@@ -60,12 +60,21 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/service/WhenService.java" timestamp="1594620867199">
+        <mark key="[" line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/executor/predictive/math/Erlang/AbandonBasedPredictive.java" timestamp="1594610649326">
+        <mark key="[" line="94" column="8" />
+        <mark key="]" line="158" column="0" />
+        <mark key="." line="158" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/service/impl/CallbackServiceImpl.java" timestamp="1594620763620" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/serivce/impl/InstantServiceImplTest.java" timestamp="1594349546946">
         <mark key="[" line="68" column="0" />
         <mark key="]" line="68" column="0" />
         <mark key="." line="68" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594610689986">
+      <file name="/Dummy.txt" timestamp="1594620892608">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/executor/predictive/PredictiveContextLoader.java" timestamp="1594610907541">
@@ -79,12 +88,7 @@
         <mark key="." line="24" column="42" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/quart/job/CalPreDictiveRateJob.java" timestamp="1594610464714" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/executor/predictive/math/Erlang/AbandonBasedPredictive.java" timestamp="1594610649326">
-        <mark key="[" line="94" column="8" />
-        <mark key="]" line="158" column="0" />
-        <mark key="." line="158" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/service/impl/WhenServiceImpl.java" timestamp="1594612800772">
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/service/impl/WhenServiceImpl.java" timestamp="1594620686180">
         <mark key="[" line="51" column="21" />
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
@@ -93,13 +97,6 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/campaign/CampaignServiceImpl.java" timestamp="1594610564962" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/impl/InstantServiceImpl.java" timestamp="1594349496736">
-        <mark key="]" line="348" column="0" />
-        <mark key="." line="348" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application-cloud2.yaml" timestamp="1594348846037">
-        <mark key="[" line="32" column="56" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/ceshi/json/JsonParse4.java" timestamp="1594536531325">
         <mark key="[" line="12" column="3" />
       </file>
