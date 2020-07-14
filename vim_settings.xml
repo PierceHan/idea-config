@@ -71,6 +71,11 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/event/adapter/OcmEventListener.java" timestamp="1594635703292">
         <mark key="[" line="49" column="58" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/service/record/RecordService.java" timestamp="1594697872976">
+        <mark key="[" line="16" column="30" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cds/cds-server/docs/cds.md" timestamp="1594697447097">
         <mark key="[" line="128" column="0" />
         <mark key="]" line="129" column="18" />
@@ -91,7 +96,7 @@
         <mark key="]" line="135" column="0" />
         <mark key="." line="135" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594697448694">
+      <file name="/Dummy.txt" timestamp="1594698632157">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/service/PreOccupiedResource.java" timestamp="1594697020820">
