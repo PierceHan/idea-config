@@ -60,6 +60,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/service/impl/DceServiceImpl.java" timestamp="1594802843423">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/executor/predictive/math/Erlang/AbandonBasedPredictive.java" timestamp="1594796934847" />
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/resources/config/application.yaml" timestamp="1594799592125">
         <mark key="[" line="2" column="23" />
@@ -70,6 +75,7 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/core/KieBaseMapHelper.java" timestamp="1594794964448">
         <mark key="[" line="38" column="35" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/web/CallbackController.java" timestamp="1594803052083" />
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/core/RuleAutoLoad.java" timestamp="1594794259906">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
@@ -83,27 +89,21 @@
         <mark key="]" line="100" column="0" />
         <mark key="." line="100" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/service/PredictiveResource.java" timestamp="1594699529498">
-        <mark key="[" line="24" column="93" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/resources/config/application-dev.yaml" timestamp="1594799248079" />
       <file name="/Dummy.txt" timestamp="1594799215433">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/service/PreOccupiedResource.java" timestamp="1594706698541">
-        <mark key="[" line="44" column="16" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/service/impl/WhenServiceImpl.java" timestamp="1594799649779">
         <mark key="[" line="106" column="55" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/dce/handler/InsurancePlatinumQualifyHandler.java" timestamp="1594799559267" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/queue/task/CallResultTask.java" timestamp="1594707470290" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/impl/ScheduledServiceImpl.java" timestamp="1594794899624" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/service/record/RecordServiceImpl.java" timestamp="1594801392390">
-        <mark key="[" line="56" column="59" />
-        <mark key="]" line="93" column="0" />
-        <mark key="." line="93" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/service/record/RecordServiceImpl.java" timestamp="1594803162966">
+        <mark key="[" line="81" column="12" />
+        <mark key="]" line="80" column="16" />
+        <mark key="." line="80" column="16" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/CC.Rest/pom.xml" timestamp="1594802529725" />
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-adapter/pom.xml" timestamp="1594800946500" />
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/file/rule/rule1.3.2.drl" timestamp="1594800122823">
         <mark key="[" line="13" column="94" />
@@ -221,10 +221,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>dev</text>
+        <text>error</text>
       </register>
       <register name="-" type="4">
-        <text>dev</text>
+        <text>error</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
