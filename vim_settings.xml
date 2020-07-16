@@ -60,33 +60,36 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/executor/predictive/math/Erlang/AbandonBasedPredictive.java" timestamp="1594879787657" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/config/ConfigProperties.java" timestamp="1594884093822">
         <mark key="[" line="63" column="4" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/auth/Scope.java" timestamp="1594891091536">
         <mark key="[" line="11" column="11" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application-develop.yml" timestamp="1594870291946" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/aspect/TemplateBeforeAspect.java" timestamp="1594888682719" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/factory/RosterFactory.java" timestamp="1594880311348" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/message/CampaignStatusConsumerTest.java" timestamp="1594894267731" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/aspect/TemplateBeforeAspectTest.java" timestamp="1594891394352" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/common/annotation/TemplateAfter.java" timestamp="1594881373840" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/aspect/AuthAspectTest.java" timestamp="1594892498008">
-        <mark key="[" line="55" column="44" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/aspect/AuthAspectTest.java" timestamp="1594894409039">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/aspect/TemplateAfterAspect.java" timestamp="1594889366021" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.1.3.RELEASE/spring-aop-5.1.3.RELEASE-sources.jar!/org/springframework/aop/aspectj/MethodInvocationProceedingJoinPoint.java" timestamp="1594891598851" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/common/annotation/Auth.java" timestamp="1594886909674">
         <mark key="[" line="16" column="4" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594871383808">
-        <mark key="[" line="0" column="0" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.3.RELEASE/spring-web-5.1.3.RELEASE-sources.jar!/org/springframework/web/context/request/RequestContextHolder.java" timestamp="1594893345516" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application.yml" timestamp="1594884138448">
+        <mark key="[" line="27" column="4" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/aspectj/aspectjweaver/1.8.10/aspectjweaver-1.8.10.jar!/org/aspectj/runtime/reflect/JoinPointImpl.class" timestamp="1594891543732" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/aspect/TemplatePermissionAspectTest.java" timestamp="1594893750814" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/executor/predictive/math/Erlang/AbandonBasedPredictive.java" timestamp="1594879787657" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/factory/RosterFactory.java" timestamp="1594880311348" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/common/annotation/TemplateAfter.java" timestamp="1594881373840" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/aspect/TemplateAfterAspect.java" timestamp="1594889366021" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.1.3.RELEASE/spring-aop-5.1.3.RELEASE-sources.jar!/org/springframework/aop/aspectj/MethodInvocationProceedingJoinPoint.java" timestamp="1594891598851" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" timestamp="1594885744808">
         <mark key="'" line="831" column="0" />
         <mark key="[" line="847" column="11" />
@@ -94,12 +97,8 @@
         <mark key="^" line="831" column="0" />
         <mark key="." line="847" column="11" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application.yml" timestamp="1594884138448">
-        <mark key="[" line="27" column="4" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/aspectj/aspectjweaver/1.8.10/aspectjweaver-1.8.10.jar!/org/aspectj/runtime/reflect/JoinPointImpl.class" timestamp="1594891543732" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/aspect/AuthAspect.java" timestamp="1594892636888">
-        <mark key="[" line="61" column="45" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/aspect/AuthAspect.java" timestamp="1594894419978">
+        <mark key="[" line="89" column="12" />
         <mark key="]" line="61" column="36" />
         <mark key="." line="61" column="36" />
       </file>
@@ -214,10 +213,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKChTZXJ2bGV0UmVxdWVzdEF0dHJpYnV0ZXMpc2VydmxldFJlcXVlc3RBdHRyaWJ1dGVzKS50aGVuUmV0dXJuKHNlcnZsZXRSZXF1ZXN0QXR0cmlidXRlcyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0gbmV3IE1ldGhvZEludm9jYXRpb25Qcm9jZWVkaW5nSm9pblBvaW50KCk7</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
@@ -226,34 +225,34 @@
         <text encoding="base64">ICAgICAgICByZXN1bHQucHV0KCJzdGFydFRpbWUiLCBEYXRlVXRpbHMuU0lNUExFX0RBVEVfRk9STUFULmZvcm1hdChUZXN0Q29uc3RhbnQuQ0FMTF9USU1FKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKChTZXJ2bGV0UmVxdWVzdEF0dHJpYnV0ZXMpc2VydmxldFJlcXVlc3RBdHRyaWJ1dGVzKS50aGVuUmV0dXJuKHNlcnZsZXRSZXF1ZXN0QXR0cmlidXRlcyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKFJlcXVlc3RDb250ZXh0SG9sZGVyZ2V0UmVxdWVzdEF0dHJpYnV0ZXMoKSkudGhlblJldHVybihzZXJ2bGV0UmVxdWVzdEF0dHJpYnV0ZXMpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text>import static reactor.core.publisher.Mono.when;</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBBdXRoQXNwZWN0IHNweSA9IFBvd2VyTW9ja2l0by5zcHkoYXV0aEFzcGVjdCk7CiAgICAgICAgUG93ZXJNb2NraXRvLndoZW4oc3B5LCJnZXRTZXNzaW9uSWQiKS50aGVuUmV0dXJuKCJzc2lkVGVzdCIpOw==</text>
       </register>
       <register name="5" type="2">
-        <text>import org.springframework.aop.aspectj.MethodInvocationProceedingJoinPoint;</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBBdXRoQXNwZWN0IGF1dGhBc3BlY3QgPSBuZXcgQXV0aEFzcGVjdCgpOw==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gc2NvcGVzID0gY29tYmluZVNjb3BlKHNjb3BlTGlzdCk7Cg==</text>
+        <text>import static reactor.core.publisher.Mono.when;</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>import org.springframework.aop.aspectj.MethodInvocationProceedingJoinPoint;</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
