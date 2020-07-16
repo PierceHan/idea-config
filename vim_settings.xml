@@ -67,8 +67,20 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application-develop.yml" timestamp="1594870291946" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/entity/monitor/MonitorRO.java" timestamp="1594868732280" />
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/factory/RosterFactory.java" timestamp="1594880311348" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/common/annotation/TemplateAfter.java" timestamp="1594881373840" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/aspect/TemplateAfterAspect.java" timestamp="1594882768463" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/common/annotation/Auth.java" timestamp="1594882866464">
+        <mark key="[" line="15" column="4" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1594871383808">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/aspect/AuthAspect.java" timestamp="1594883136827">
+        <mark key="[" line="32" column="33" />
+        <mark key="]" line="23" column="53" />
+        <mark key="." line="23" column="53" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/ConfigTypeEnum.java" timestamp="1594880417857" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/monitor/TaskMonitorService.java" timestamp="1594868452679" />
@@ -179,10 +191,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>templateId</text>
+        <text>auth</text>
       </register>
       <register name="-" type="4">
-        <text>templateId</text>
+        <text>auth</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
@@ -191,22 +203,22 @@
         <text encoding="base64">ICAgICAgICByZXN1bHQucHV0KCJzdGFydFRpbWUiLCBEYXRlVXRpbHMuU0lNUExFX0RBVEVfRk9STUFULmZvcm1hdChUZXN0Q29uc3RhbnQuQ0FMTF9USU1FKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIoZGlhbFJlY29yZEluZm8gLT4gZGlhbFJlY29yZEluZm8uZ2V0U3RhdGUoKSAhPSAwKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICRkY2VJdGVtIDogRGNlQ2hlY2tJdGVtKCR3aGVuU2VydmljZS5iZXlvbmRSZXF1ZXN0VGltZXNFeGNlcHRTdGF0ZSgxLCRkY2VJdGVtLm5vUHJlUGhvbmUoKSxbLTNdLGZsb3dJZCkp</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIoZGlhbFJlY29yZEluZm8gLT4gZGlhbFJlY29yZEluZm8uZ2V0U3RhdGUoKSAhPSAwKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cGFja2FnZSBjb3B5LnJ1bGVzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cGFja2FnZSBjb3B5LnJ1bGVzOwo=</text>
+        <text encoding="base64">ICAgICRkY2VJdGVtIDogRGNlQ2hlY2tJdGVtKCR3aGVuU2VydmljZS5iZXlvbmRSZXF1ZXN0VGltZXNFeGNlcHRTdGF0ZSgxLCRkY2VJdGVtLm5vUHJlUGhvbmUoKSxbLTNdLGZsb3dJZCkp</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">cGFja2FnZSBjb3B5LnJ1bGVzOwo=</text>
@@ -215,10 +227,10 @@
         <text encoding="base64">cGFja2FnZSBjb3B5LnJ1bGVzOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Owo=</text>
+        <text encoding="base64">cGFja2FnZSBjb3B5LnJ1bGVzOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cGFja2FnZSBjb3B5LnJ1bGVzOwo=</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
