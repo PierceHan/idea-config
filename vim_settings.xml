@@ -67,31 +67,37 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/config/ConfigProperties.java" timestamp="1594884093822">
         <mark key="[" line="63" column="4" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/auth/Scope.java" timestamp="1594885540917">
+        <mark key="[" line="12" column="31" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application-develop.yml" timestamp="1594870291946" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/aspect/TemplateBeforeAspect.java" timestamp="1594886843020" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/entity/monitor/MonitorRO.java" timestamp="1594868732280" />
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/factory/RosterFactory.java" timestamp="1594880311348" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/common/annotation/TemplateAfter.java" timestamp="1594881373840" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/aspect/TemplateAfterAspect.java" timestamp="1594882768463" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/common/annotation/Auth.java" timestamp="1594882866464">
-        <mark key="[" line="15" column="4" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/common/annotation/Auth.java" timestamp="1594886909674">
+        <mark key="[" line="16" column="4" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1594871383808">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" timestamp="1594884245487">
-        <mark key="'" line="830" column="0" />
-        <mark key="[" line="127" column="4" />
-        <mark key="^" line="830" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" timestamp="1594885744808">
+        <mark key="'" line="831" column="0" />
+        <mark key="[" line="847" column="11" />
+        <mark key="]" line="847" column="11" />
+        <mark key="^" line="831" column="0" />
+        <mark key="." line="847" column="11" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application.yml" timestamp="1594884138448">
         <mark key="[" line="27" column="4" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/aspect/AuthAspect.java" timestamp="1594883982816">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/aspect/AuthAspect.java" timestamp="1594887540296">
+        <mark key="[" line="66" column="30" />
+        <mark key="]" line="51" column="20" />
+        <mark key="." line="51" column="20" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/ConfigTypeEnum.java" timestamp="1594880417857" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/monitor/TaskMonitorService.java" timestamp="1594868452679" />
@@ -201,11 +207,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>permission1</text>
       </register>
       <register name="-" type="4">
-        <text>auth</text>
+        <text>permission1</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
