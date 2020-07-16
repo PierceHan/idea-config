@@ -69,8 +69,7 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/aspect/TemplateBeforeAspect.java" timestamp="1594888682719" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/message/CampaignStatusConsumerTest.java" timestamp="1594894267731" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/aspect/TemplateBeforeAspectTest.java" timestamp="1594891394352" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/aspect/AuthAspectTest.java" timestamp="1594895531161">
-        <mark key="[" line="52" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/aspect/AuthAspectTest.java" timestamp="1594895681767">
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
       </file>
@@ -213,7 +212,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBNb2Nr</text>
+        <text encoding="base64">ICAgIEBNb2NrCg==</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -225,34 +224,34 @@
         <text encoding="base64">ICAgICAgICByZXN1bHQucHV0KCJzdGFydFRpbWUiLCBEYXRlVXRpbHMuU0lNUExFX0RBVEVfRk9STUFULmZvcm1hdChUZXN0Q29uc3RhbnQuQ0FMTF9USU1FKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBNb2Nr</text>
+        <text encoding="base64">ICAgIEBNb2NrCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHdoZW4oaHR0cFNlcnZsZXRSZXF1ZXN0LmdldEhlYWRlcigic2Vzc2lvbklkIikpLnRoZW5SZXR1cm4oInNzaWRUZXN0Iik7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHdoZW4oc2VydmxldFJlcXVlc3RBdHRyaWJ1dGVzLmdldFJlcXVlc3QoKSkudGhlblJldHVybihodHRwU2VydmxldFJlcXVlc3QpOwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgIEBNb2Nr</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gICAgICAgIHdoZW4oaHR0cFNlcnZsZXRSZXF1ZXN0LmdldEhlYWRlcigic2Vzc2lvbklkIikpLnRoZW5SZXR1cm4oInNzaWRUZXN0Iik7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gICAgICAgIHdoZW4oc2VydmxldFJlcXVlc3RBdHRyaWJ1dGVzLmdldFJlcXVlc3QoKSkudGhlblJldHVybihodHRwU2VydmxldFJlcXVlc3QpOwo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBNb2Nr</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKHNlcnZsZXRSZXF1ZXN0QXR0cmlidXRlcy5nZXRSZXF1ZXN0KCkpLnRoZW5SZXR1cm4oaHR0cFNlcnZsZXRSZXF1ZXN0KTs=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKChTZXJ2bGV0UmVxdWVzdEF0dHJpYnV0ZXMpc2VydmxldFJlcXVlc3RBdHRyaWJ1dGVzKS50aGVuUmV0dXJuKHNlcnZsZXRSZXF1ZXN0QXR0cmlidXRlcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKHNlcnZsZXRSZXF1ZXN0QXR0cmlidXRlcy5nZXRSZXF1ZXN0KCkpLnRoZW5SZXR1cm4oaHR0cFNlcnZsZXRSZXF1ZXN0KTs=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKFJlcXVlc3RDb250ZXh0SG9sZGVyZ2V0UmVxdWVzdEF0dHJpYnV0ZXMoKSkudGhlblJldHVybihzZXJ2bGV0UmVxdWVzdEF0dHJpYnV0ZXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKChTZXJ2bGV0UmVxdWVzdEF0dHJpYnV0ZXMpc2VydmxldFJlcXVlc3RBdHRyaWJ1dGVzKS50aGVuUmV0dXJuKHNlcnZsZXRSZXF1ZXN0QXR0cmlidXRlcyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKFJlcXVlc3RDb250ZXh0SG9sZGVyZ2V0UmVxdWVzdEF0dHJpYnV0ZXMoKSkudGhlblJldHVybihzZXJ2bGV0UmVxdWVzdEF0dHJpYnV0ZXMpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
