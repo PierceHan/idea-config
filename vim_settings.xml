@@ -73,9 +73,9 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/aspect/TemplateBeforeAspectTest.java" timestamp="1594891394352" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/common/annotation/TemplateAfter.java" timestamp="1594881373840" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/aspect/AuthAspectTest.java" timestamp="1594892498008">
-        <mark key="[" line="52" column="44" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+        <mark key="[" line="55" column="44" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/aspect/TemplateAfterAspect.java" timestamp="1594889366021" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.1.3.RELEASE/spring-aop-5.1.3.RELEASE-sources.jar!/org/springframework/aop/aspectj/MethodInvocationProceedingJoinPoint.java" timestamp="1594891598851" />
@@ -98,7 +98,7 @@
         <mark key="[" line="27" column="4" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/aspectj/aspectjweaver/1.8.10/aspectjweaver-1.8.10.jar!/org/aspectj/runtime/reflect/JoinPointImpl.class" timestamp="1594891543732" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/aspect/AuthAspect.java" timestamp="1594892493393">
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/aspect/AuthAspect.java" timestamp="1594892636888">
         <mark key="[" line="61" column="45" />
         <mark key="]" line="61" column="36" />
         <mark key="." line="61" column="36" />
