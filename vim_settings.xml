@@ -67,15 +67,15 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/config/ConfigProperties.java" timestamp="1594884093822">
         <mark key="[" line="63" column="4" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/auth/Scope.java" timestamp="1594885540917">
-        <mark key="[" line="12" column="31" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/auth/Scope.java" timestamp="1594891091536">
+        <mark key="[" line="11" column="11" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application-develop.yml" timestamp="1594870291946" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/aspect/TemplateBeforeAspect.java" timestamp="1594888682719" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/entity/monitor/MonitorRO.java" timestamp="1594868732280" />
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/factory/RosterFactory.java" timestamp="1594880311348" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/common/annotation/TemplateAfter.java" timestamp="1594881373840" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/aspect/TemplateAfterAspect.java" timestamp="1594888536774" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/aspect/TemplateAfterAspect.java" timestamp="1594889366021" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/common/annotation/Auth.java" timestamp="1594886909674">
         <mark key="[" line="16" column="4" />
         <mark key="]" line="8" column="0" />
@@ -94,10 +94,10 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application.yml" timestamp="1594884138448">
         <mark key="[" line="27" column="4" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/aspect/AuthAspect.java" timestamp="1594889177618">
-        <mark key="[" line="77" column="12" />
-        <mark key="]" line="77" column="12" />
-        <mark key="." line="77" column="12" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/aspect/AuthAspect.java" timestamp="1594891151797">
+        <mark key="[" line="63" column="45" />
+        <mark key="]" line="63" column="36" />
+        <mark key="." line="63" column="36" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/ConfigTypeEnum.java" timestamp="1594880417857" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/monitor/TaskMonitorService.java" timestamp="1594868452679" />
@@ -208,10 +208,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>void</text>
+        <text>templateIds</text>
       </register>
       <register name="-" type="4">
-        <text>void</text>
+        <text>templateIds</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
@@ -220,34 +220,34 @@
         <text encoding="base64">ICAgICAgICByZXN1bHQucHV0KCJzdGFydFRpbWUiLCBEYXRlVXRpbHMuU0lNUExFX0RBVEVfRk9STUFULmZvcm1hdChUZXN0Q29uc3RhbnQuQ0FMTF9USU1FKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gc2NvcGVzID0gY29tYmluZVNjb3BlKHNjb3BlTGlzdCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBOb25OdWxsCiAgICBwcml2YXRlIGZpbmFsIENvbmZpZ1Byb3BlcnRpZXMgICAgICAgY29uZmlnUHJvcGVydGllczs=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text />
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIoZGlhbFJlY29yZEluZm8gLT4gZGlhbFJlY29yZEluZm8uZ2V0U3RhdGUoKSAhPSAwKQo=</text>
+        <text encoding="base64">ICAgIEBOb25OdWxsCiAgICBwcml2YXRlIGZpbmFsIENvbmZpZ1Byb3BlcnRpZXMgICAgICAgY29uZmlnUHJvcGVydGllczs=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICRkY2VJdGVtIDogRGNlQ2hlY2tJdGVtKCR3aGVuU2VydmljZS5iZXlvbmRSZXF1ZXN0VGltZXNFeGNlcHRTdGF0ZSgxLCRkY2VJdGVtLm5vUHJlUGhvbmUoKSxbLTNdLGZsb3dJZCkp</text>
+        <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cGFja2FnZSBjb3B5LnJ1bGVzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIoZGlhbFJlY29yZEluZm8gLT4gZGlhbFJlY29yZEluZm8uZ2V0U3RhdGUoKSAhPSAwKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cGFja2FnZSBjb3B5LnJ1bGVzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
