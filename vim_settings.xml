@@ -69,16 +69,16 @@
         <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/aspect/TemplateAfterAspect.java" timestamp="1594951742605" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/activity/CampaignTypeEnum.java" timestamp="1594967984778">
-        <mark key="[" line="26" column="17" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/activity/CampaignTypeEnum.java" timestamp="1594975488893">
+        <mark key="[" line="33" column="13" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/common/annotation/Auth.java" timestamp="1594950656869">
         <mark key="[" line="19" column="23" />
         <mark key="]" line="19" column="13" />
         <mark key="." line="19" column="13" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSender.java" timestamp="1594957230593" />
-      <file name="/Dummy.txt" timestamp="1594955149051">
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSender.java" timestamp="1594975762159" />
+      <file name="/Dummy.txt" timestamp="1594975730639">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/core/strategy/DialStrategyFactory.java" timestamp="1594958183192" />
@@ -241,28 +241,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text>| templateId | String | 可选     | query | 活动id             |</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSA0OgogICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBDbGFzczw/PiBhQ2xhc3MgPSBhdXRoLmVsZW1lbnRUeXBlKCk7</text>
+        <text>| templateId | String | 可选     | query | 活动id             |</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgT2JqZWN0IHByb2NlZWQgPSBqb2luUG9pbnQucHJvY2VlZChhcmdzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSlNPTkFycmF5IG9iamVjdHMgPSBKU09OLnBhcnNlQXJyYXkoSlNPTi50b0pTT05TdHJpbmcocHJvY2VlZCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBDbGFzczw/PiBhQ2xhc3MgPSBhdXRoLmVsZW1lbnRUeXBlKCk7</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBDbGFzczw/PiBhQ2xhc3MgPSBhdXRoLmVsZW1lbnRUeXBlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgT2JqZWN0IHByb2NlZWQgPSBqb2luUG9pbnQucHJvY2VlZChhcmdzKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgc2Vzc2lvbklkID0gInNzaWRUZXN0IjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgSlNPTkFycmF5IG9iamVjdHMgPSBKU09OLnBhcnNlQXJyYXkoSlNPTi50b0pTT05TdHJpbmcocHJvY2VlZCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBDbGFzczw/PiBhQ2xhc3MgPSBhdXRoLmVsZW1lbnRUeXBlKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
