@@ -60,33 +60,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/config/ConfigProperties.java" timestamp="1594884093822">
-        <mark key="[" line="63" column="4" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/common/annotation/Auth.java" timestamp="1594950276635">
+        <mark key="[" line="19" column="4" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/auth/Scope.java" timestamp="1594891091536">
-        <mark key="[" line="11" column="11" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/aspect/TemplateBeforeAspect.java" timestamp="1594888682719" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/message/CampaignStatusConsumerTest.java" timestamp="1594894267731" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/aspect/TemplateBeforeAspectTest.java" timestamp="1594891394352" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/aspect/AuthAspectTest.java" timestamp="1594895681767">
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/common/annotation/Auth.java" timestamp="1594886909674">
-        <mark key="[" line="16" column="4" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.3.RELEASE/spring-web-5.1.3.RELEASE-sources.jar!/org/springframework/web/context/request/RequestContextHolder.java" timestamp="1594893345516" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application.yml" timestamp="1594884138448">
-        <mark key="[" line="27" column="4" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/aspectj/aspectjweaver/1.8.10/aspectjweaver-1.8.10.jar!/org/aspectj/runtime/reflect/JoinPointImpl.class" timestamp="1594891543732" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/aspect/TemplatePermissionAspectTest.java" timestamp="1594893750814" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/common/annotation/TemplateAfter.java" timestamp="1594881373840" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/aspect/TemplateAfterAspect.java" timestamp="1594889366021" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.1.3.RELEASE/spring-aop-5.1.3.RELEASE-sources.jar!/org/springframework/aop/aspectj/MethodInvocationProceedingJoinPoint.java" timestamp="1594891598851" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" timestamp="1594885744808">
         <mark key="'" line="831" column="0" />
         <mark key="[" line="847" column="11" />
@@ -94,15 +72,29 @@
         <mark key="^" line="831" column="0" />
         <mark key="." line="847" column="11" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/aspect/AuthAspect.java" timestamp="1594894595581">
-        <mark key="[" line="89" column="12" />
-        <mark key="]" line="61" column="36" />
-        <mark key="." line="61" column="36" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/config/ConfigProperties.java" timestamp="1594884093822">
+        <mark key="[" line="63" column="4" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/entity/auth/Scope.java" timestamp="1594891091536">
+        <mark key="[" line="11" column="11" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/resources/config/application.yml" timestamp="1594884138448">
+        <mark key="[" line="27" column="4" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/aspect/AuthAspect.java" timestamp="1594950272821">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/aspect/TemplateBeforeAspectTest.java" timestamp="1594949464263" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/pom.xml" timestamp="1594897733739">
         <mark key="[" line="384" column="8" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/custom-module/src/main/java/cc/wellcloud/ocm/core/back/ConfigTypeEnum.java" timestamp="1594880417857" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/aspect/AuthAspectTest.java" timestamp="1594950194854">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1594891270082">
         <mark key="[" line="0" column="0" />
       </file>
@@ -213,7 +205,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBNb2NrCg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc2Vzc2lvbklkID0gInNzaWRUZXN0IjsK</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -225,34 +217,34 @@
         <text encoding="base64">ICAgICAgICByZXN1bHQucHV0KCJzdGFydFRpbWUiLCBEYXRlVXRpbHMuU0lNUExFX0RBVEVfRk9STUFULmZvcm1hdChUZXN0Q29uc3RhbnQuQ0FMTF9USU1FKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBNb2NrCg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc2Vzc2lvbklkID0gInNzaWRUZXN0IjsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBNb2Nr</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHdoZW4oaHR0cFNlcnZsZXRSZXF1ZXN0LmdldEhlYWRlcigic2Vzc2lvbklkIikpLnRoZW5SZXR1cm4oInNzaWRUZXN0Iik7Cg==</text>
+        <text encoding="base64">CgogICAgICAgIFBvd2VyTW9ja2l0by5tb2NrU3RhdGljKFJlcXVlc3RDb250ZXh0SG9sZGVyLmNsYXNzKTsKICAgICAgICB3aGVuKFJlcXVlc3RDb250ZXh0SG9sZGVyLmdldFJlcXVlc3RBdHRyaWJ1dGVzKCkpLnRoZW5SZXR1cm4oc2VydmxldFJlcXVlc3RBdHRyaWJ1dGVzKTs=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHdoZW4oc2VydmxldFJlcXVlc3RBdHRyaWJ1dGVzLmdldFJlcXVlc3QoKSkudGhlblJldHVybihodHRwU2VydmxldFJlcXVlc3QpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBNb2Nr</text>
+        <text>@PrepareForTest({RequestContextHolder.class})</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKHNlcnZsZXRSZXF1ZXN0QXR0cmlidXRlcy5nZXRSZXF1ZXN0KCkpLnRoZW5SZXR1cm4oaHR0cFNlcnZsZXRSZXF1ZXN0KTs=</text>
+        <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKChTZXJ2bGV0UmVxdWVzdEF0dHJpYnV0ZXMpc2VydmxldFJlcXVlc3RBdHRyaWJ1dGVzKS50aGVuUmV0dXJuKHNlcnZsZXRSZXF1ZXN0QXR0cmlidXRlcyk7Cg==</text>
+        <text encoding="base64">ICAgIEBNb2NrCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKFJlcXVlc3RDb250ZXh0SG9sZGVyZ2V0UmVxdWVzdEF0dHJpYnV0ZXMoKSkudGhlblJldHVybihzZXJ2bGV0UmVxdWVzdEF0dHJpYnV0ZXMpOwo=</text>
+        <text encoding="base64">ICAgIEBNb2Nr</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
