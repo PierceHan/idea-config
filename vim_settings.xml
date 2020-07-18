@@ -60,34 +60,20 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/executor/predictive/PreDictiveTaskExecutor.java" timestamp="1595040828949" />
-      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/resources/config/application.yaml" timestamp="1594984479295">
-        <mark key="[" line="2" column="23" />
-        <mark key="]" line="2" column="23" />
-        <mark key="." line="2" column="23" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cloud-interface/src/main/java/cc/wellcloud/cloud/interfaces/model/dce/DceRequest.java" timestamp="1595055400734">
+        <mark key="[" line="16" column="32" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/executor/predictive/PreDictiveTaskExecutor.java" timestamp="1595040828949" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/executor/predictive/math/Erlang/AbandonBasedPredictive.java" timestamp="1595042949891">
         <mark key="[" line="83" column="0" />
         <mark key="]" line="83" column="0" />
         <mark key="." line="83" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/test/java/com/ocm/core/notification/RabbitMQNotifierTest.java" timestamp="1594984795339">
-        <mark key="[" line="37" column="51" />
-        <mark key="]" line="37" column="51" />
-        <mark key="." line="37" column="51" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/event/CallEventHandlerTemplate.java" timestamp="1594984721708">
-        <mark key="[" line="147" column="19" />
-        <mark key="]" line="147" column="19" />
-        <mark key="." line="147" column="19" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/test/java/com/wellcloud/dce/model/mapstruct/DceEntityMapperTest.java" timestamp="1594984375645">
-        <mark key="[" line="31" column="75" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/core/dce/handler/DceHandler.java" timestamp="1594984767101">
-        <mark key="[" line="48" column="21" />
-        <mark key="]" line="48" column="21" />
-        <mark key="." line="48" column="21" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/pom.xml" timestamp="1595056045065" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/src/main/java/com/hga/hgatest3/Hgatest3Application.java" timestamp="1595055768249">
+        <mark key="[" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/service/PredictiveResource.java" timestamp="1595043244300">
         <mark key="[" line="27" column="41" />
@@ -98,11 +84,17 @@
       <file name="/Dummy.txt" timestamp="1595043273541">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/src/main/java/com/hga/hgatest3/controller/HelloController.java" timestamp="1595056673913">
+        <mark key="[" line="31" column="18" />
+        <mark key="]" line="31" column="18" />
+        <mark key="." line="31" column="18" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/executor/predictive/PredictiveContextLoader.java" timestamp="1595043048944" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/quart/job/CalPreDictiveRateJob.java" timestamp="1595043193998">
         <mark key="[" line="70" column="22" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/config/ThreadPoolConfiguration.java" timestamp="1595039056798" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/web/DceController.java" timestamp="1595053806951" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/src.zip!/java/util/concurrent/CompletableFuture.java" timestamp="1595039315317" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/RedisUtils.java" timestamp="1595042712229" />
       <file name="$MAVEN_REPOSITORY$/cc/wellcloud/framework/core/CC.Core/1.2.0/CC.Core-1.2.0-sources.jar!/cc/wellcloud/framework/core/client/HttpClient.java" timestamp="1595036521218" />
@@ -111,21 +103,13 @@
         <mark key="]" line="97" column="38" />
         <mark key="." line="97" column="38" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/src/main/resources/application.yaml" timestamp="1595055856248" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/command/AbstractResourceCommand.java" timestamp="1595043012330">
         <mark key="[" line="37" column="27" />
         <mark key="]" line="37" column="27" />
         <mark key="." line="37" column="27" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/test/java/com/wellcloud/dce/data/TestData.java" timestamp="1594984390974">
-        <mark key="[" line="93" column="21" />
-        <mark key="]" line="93" column="21" />
-        <mark key="." line="93" column="21" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/queue/MessageSender.java" timestamp="1594984715905">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/DceApplication.java" timestamp="1595055436691" />
     </filemarks>
     <jumps>
       <jump line="46" column="9" filename="$USER_HOME$/IdeaProjects/huijie/dce/src/test/java/com/wellcloud/dce/service/impl/DceServiceImplTest.java" />
@@ -233,10 +217,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>skill</text>
+        <text>one</text>
       </register>
       <register name="-" type="4">
-        <text>skill</text>
+        <text>one</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
@@ -245,34 +229,34 @@
         <text encoding="base64">ICAgICAgICByZXN1bHQucHV0KCJzdGFydFRpbWUiLCBEYXRlVXRpbHMuU0lNUExFX0RBVEVfRk9STUFULmZvcm1hdChUZXN0Q29uc3RhbnQuQ0FMTF9USU1FKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNjLndlbGxjbG91ZC5jbG91ZC5pbnRlcmZhY2VzLm1vZGVsLmRjZS5EY2VDaGVja0l0ZW07Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgaW50ICAgICAgICAgICAgICAgICBzdGF0ZTs=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNjLndlbGxjbG91ZC5jbG91ZC5pbnRlcmZhY2VzLmRkbW9kZWwuZGNlLkRjZUNoZWNrSXRlbTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBAUmVzb3VyY2UKICAgIEBRdWFsaWZpZXIodmFsdWUgPSAib2JqZWN0UmVkaXNUZW1wbGF0ZSIpCiAgICBwcml2YXRlIFJlZGlzVGVtcGxhdGU8U3RyaW5nLCBPYmplY3Q+IG9iamVjdFJlZGlzVGVtcGxhdGU7</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNjLndlbGxjbG91ZC5jbG91ZC5pbnRlcmZhY2VzLm1vZGVsLmRjZS5EY2VDaGVja0l0ZW07Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIGludCBwb2ludGVyUG9sbGluZyhpbnQgc2l6ZSwgaW50IHBvaW50ZXIpIHsKICAgICAgICBpbnQgcmVzdWx0ID0gcG9pbnRlcjsKICAgICAgICByZXN1bHQrKzsKICAgICAgICBpZiAocmVzdWx0ID49IHNpemUpIHsKICAgICAgICAgICAgcmVzdWx0ID0gMDsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIHJlc3VsdDsKICAgIH0KCiAgICBwcml2YXRlIHZvaWQgcHV0UG9sbGluZ01hcDJSZWRpcyhTdHJpbmcgcG9sbGluZ1BvaW50ZXIsIGludCBwb2ludGVyLCBpbnQgdGltZXMsIGxvbmcgdGltZSkgewogICAgICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gcG9sbGluZ01hcCA9IG5ldyBIYXNoTWFwPD4oKTsKICAgICAgICBwb2xsaW5nTWFwLnB1dCgicG9pbnRlciIsIHBvaW50ZXIpOwogICAgICAgIHBvbGxpbmdNYXAucHV0KCJ0aW1lIiwgdGltZSk7CiAgICAgICAgcG9sbGluZ01hcC5wdXQoInRpbWVzIiwgdGltZXMpOwogICAgICAgIG9iamVjdFJlZGlzVGVtcGxhdGUub3BzRm9ySGFzaCgpLnB1dEFsbChwb2xsaW5nUG9pbnRlciwgcG9sbGluZ01hcCk7CiAgICB9</text>
+        <text encoding="base64">aW1wb3J0IGNjLndlbGxjbG91ZC5jbG91ZC5pbnRlcmZhY2VzLmRkbW9kZWwuZGNlLkRjZUNoZWNrSXRlbTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBAUmVzb3VyY2UKICAgIEBRdWFsaWZpZXIodmFsdWUgPSAib2JqZWN0UmVkaXNUZW1wbGF0ZSIpCiAgICBwcml2YXRlIFJlZGlzVGVtcGxhdGU8U3RyaW5nLCBPYmplY3Q+IG9iamVjdFJlZGlzVGVtcGxhdGU7</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBSZXNvdXJjZQogICAgcHJpdmF0ZSBGbG93U2VydmljZSAgICAgICAgICAgICAgICAgICBmbG93U2VydmljZTs=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIGludCBwb2ludGVyUG9sbGluZyhpbnQgc2l6ZSwgaW50IHBvaW50ZXIpIHsKICAgICAgICBpbnQgcmVzdWx0ID0gcG9pbnRlcjsKICAgICAgICByZXN1bHQrKzsKICAgICAgICBpZiAocmVzdWx0ID49IHNpemUpIHsKICAgICAgICAgICAgcmVzdWx0ID0gMDsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIHJlc3VsdDsKICAgIH0KCiAgICBwcml2YXRlIHZvaWQgcHV0UG9sbGluZ01hcDJSZWRpcyhTdHJpbmcgcG9sbGluZ1BvaW50ZXIsIGludCBwb2ludGVyLCBpbnQgdGltZXMsIGxvbmcgdGltZSkgewogICAgICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gcG9sbGluZ01hcCA9IG5ldyBIYXNoTWFwPD4oKTsKICAgICAgICBwb2xsaW5nTWFwLnB1dCgicG9pbnRlciIsIHBvaW50ZXIpOwogICAgICAgIHBvbGxpbmdNYXAucHV0KCJ0aW1lIiwgdGltZSk7CiAgICAgICAgcG9sbGluZ01hcC5wdXQoInRpbWVzIiwgdGltZXMpOwogICAgICAgIG9iamVjdFJlZGlzVGVtcGxhdGUub3BzRm9ySGFzaCgpLnB1dEFsbChwb2xsaW5nUG9pbnRlciwgcG9sbGluZ01hcCk7CiAgICB9</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
