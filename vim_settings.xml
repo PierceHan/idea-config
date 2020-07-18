@@ -104,7 +104,6 @@
         <mark key="]" line="24" column="19" />
         <mark key="." line="24" column="19" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/src.zip!/java/util/concurrent/CompletableFuture.java" timestamp="1595039315317" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/RedisUtils.java" timestamp="1595042712229" />
       <file name="$USER_HOME$/IdeaProjects/huijie/hgatest3/src/main/resources/application.yaml" timestamp="1595055856248" />
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/resource/command/AbstractResourceCommand.java" timestamp="1595043012330">
@@ -114,6 +113,7 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/model/DTO/DialResponse.java" timestamp="1595057749467" />
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/DceApplication.java" timestamp="1595055436691" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/doc/dce功能接口.md" timestamp="1595058922571" />
     </filemarks>
     <jumps>
       <jump line="46" column="9" filename="$USER_HOME$/IdeaProjects/huijie/dce/src/test/java/com/wellcloud/dce/service/impl/DceServiceImplTest.java" />
