@@ -60,16 +60,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/cc/wellcloud/cloud/aocs/domain/dialer/entity/TaskSender.java" timestamp="1595057763759">
-        <mark key="[" line="125" column="8" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/common/annotation/Auth.java" timestamp="1595217716399">
         <mark key="[" line="15" column="22" />
         <mark key="]" line="15" column="21" />
         <mark key="." line="15" column="21" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1595058072048">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/core/RuleFactory.java" timestamp="1595216824460">
         <mark key="[" line="19" column="12" />
@@ -81,15 +75,15 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" timestamp="1595217819177">
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/util/WellCloudServiceClient.java" timestamp="1595217900845">
         <mark key="[" line="851" column="76" />
         <mark key="]" line="851" column="76" />
         <mark key="." line="851" column="76" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/model/rule/RuleNode.java" timestamp="1595217008204">
-        <mark key="[" line="13" column="25" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/model/rule/RuleNode.java" timestamp="1595226135946">
+        <mark key="[" line="18" column="4" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/executor/predictive/math/Erlang/AbandonBasedPredictive.java" timestamp="1595208774176">
         <mark key="[" line="83" column="0" />
@@ -102,17 +96,23 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/activity/IActivityService.java" timestamp="1595217663496">
         <mark key="[" line="31" column="65" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/model/rule/RuleNodeType.java" timestamp="1595217035950">
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/model/rule/RuleNodeType.java" timestamp="1595225040395">
         <mark key="[" line="6" column="7" />
         <mark key="]" line="6" column="7" />
         <mark key="." line="6" column="7" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/template/TemplateServiceImpl.java" timestamp="1595217727909" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/aspect/AuthorizationAspect.java" timestamp="1595225472743" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/template/TemplateServiceImpl.java" timestamp="1595225418285" />
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/service/record/RecordServiceImpl.java" timestamp="1595211723158">
         <mark key="[" line="125" column="38" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/aspect/AuthAspect.java" timestamp="1595225602330" />
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.59/fastjson-1.2.59-sources.jar!/com/alibaba/fastjson/TypeReference.java" timestamp="1595218101484" />
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/test/java/com/wellcloud/dce/data/TestData.java" timestamp="1595213717469" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/src.zip!/java/text/MessageFormat.java" timestamp="1595215762084" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/common/handler/RuleNodeTypeHandler.java" timestamp="1595225103365">
+        <mark key="[" line="9" column="32" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/resources/config/application-cloud2.yaml" timestamp="1595213063359">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
