@@ -65,6 +65,7 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/huijie/wellcloud-aocs-subscribe-service/file/startup.sh" timestamp="1595231432086" />
       <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/object/ClassC.java" timestamp="1595227034858">
         <mark key="[" line="18" column="32" />
         <mark key="]" line="18" column="32" />
@@ -104,9 +105,6 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/hgatest2/src/main/java/com/test/son/ClassC.java" timestamp="1595226455008">
-        <mark key="[" line="8" column="3" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/common/handler/VisibilityTypeHandler.java" timestamp="1595229267593">
         <mark key="[" line="9" column="35" />
       </file>
@@ -119,7 +117,6 @@
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/service/vector/VectorServiceImpl.java" timestamp="1595230454783">
         <mark key="[" line="25" column="55" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.59/fastjson-1.2.59-sources.jar!/com/alibaba/fastjson/TypeReference.java" timestamp="1595226845652" />
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/model/vector/DceFlow.java" timestamp="1595230487084">
         <mark key="[" line="24" column="20" />
       </file>
