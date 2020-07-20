@@ -69,8 +69,10 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1595234131728">
-        <mark key="[" line="0" column="4" />
+      <file name="/a.dummy" timestamp="1595240440575">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/model/rule/RuleNodeType.java" timestamp="1595238993927">
         <mark key="[" line="6" column="25" />
@@ -90,13 +92,18 @@
         <mark key="[" line="9" column="32" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/service/impl/RuleServiceImpl.java" timestamp="1595234080476" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/web/VectorController.java" timestamp="1595240583502">
+        <mark key="[" line="56" column="7" />
+        <mark key="]" line="49" column="25" />
+        <mark key="." line="49" column="25" />
+      </file>
       <file name="/Dummy.txt" timestamp="1595240155618">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/service/vector/VectorServiceImpl.java" timestamp="1595239918508">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/service/vector/VectorServiceImpl.java" timestamp="1595240633506">
+        <mark key="[" line="25" column="4" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/model/rule/RuleTemplate.java" timestamp="1595239298849">
         <mark key="[" line="22" column="0" />
@@ -112,9 +119,6 @@
         <mark key="[" line="33" column="18" />
         <mark key="]" line="33" column="18" />
         <mark key="." line="33" column="18" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/huijie/dce/src/main/java/com/wellcloud/dce/model/vector/DceFlow.java" timestamp="1595233676424">
-        <mark key="[" line="24" column="20" />
       </file>
       <file name="/fragment.java" timestamp="1595236204975">
         <mark key="[" line="0" column="0" />
@@ -225,11 +229,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/vectors</text>
       </register>
       <register name="-" type="4">
-        <text>deleteRuleNode</text>
+        <text>/vectors</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
