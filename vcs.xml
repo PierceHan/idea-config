@@ -162,9 +162,13 @@
           <option name="url" value="http://gitlab.wellcloud.cc:30000/cti/Cti-FileService.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.wellcloud.cc:30000/cloud/cms.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/huijie" />
+    <option name="cloneParentDir" value="C:\Users\JasonHan\IdeaProjects\huijie" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
