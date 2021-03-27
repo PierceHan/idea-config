@@ -34,13 +34,13 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed K</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed F</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -49,11 +49,26 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed J</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
@@ -173,47 +188,47 @@
       <jump line="115" column="30" filename="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/core/GiantRostersHandler.java" />
       <jump line="0" column="34" filename="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/core/GiantRostersHandler.java" />
       <jump line="132" column="0" filename="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/core/GiantRostersHandler.java" />
-      <jump line="272" column="40" filename="$MAVEN_REPOSITORY$/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/impl/StatefulKnowledgeSessionImpl.java" />
-      <jump line="536" column="19" filename="$MAVEN_REPOSITORY$/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/impl/StatefulKnowledgeSessionImpl.java" />
-      <jump line="1989" column="16" filename="$MAVEN_REPOSITORY$/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/impl/StatefulKnowledgeSessionImpl.java" />
-      <jump line="733" column="16" filename="$MAVEN_REPOSITORY$/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/impl/StatefulKnowledgeSessionImpl.java" />
-      <jump line="1293" column="15" filename="$MAVEN_REPOSITORY$/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/impl/StatefulKnowledgeSessionImpl.java" />
-      <jump line="1294" column="15" filename="$MAVEN_REPOSITORY$/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/impl/StatefulKnowledgeSessionImpl.java" />
-      <jump line="1297" column="32" filename="$MAVEN_REPOSITORY$/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/impl/StatefulKnowledgeSessionImpl.java" />
-      <jump line="1298" column="35" filename="$MAVEN_REPOSITORY$/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/impl/StatefulKnowledgeSessionImpl.java" />
-      <jump line="1301" column="15" filename="$MAVEN_REPOSITORY$/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/impl/StatefulKnowledgeSessionImpl.java" />
-      <jump line="1302" column="15" filename="$MAVEN_REPOSITORY$/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/impl/StatefulKnowledgeSessionImpl.java" />
-      <jump line="1305" column="15" filename="$MAVEN_REPOSITORY$/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/impl/StatefulKnowledgeSessionImpl.java" />
-      <jump line="1306" column="32" filename="$MAVEN_REPOSITORY$/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/impl/StatefulKnowledgeSessionImpl.java" />
-      <jump line="1310" column="54" filename="$MAVEN_REPOSITORY$/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/impl/StatefulKnowledgeSessionImpl.java" />
-      <jump line="277" column="8" filename="$MAVEN_REPOSITORY$/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/common/DefaultAgenda.java" />
-      <jump line="496" column="63" filename="$MAVEN_REPOSITORY$/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/common/DefaultAgenda.java" />
-      <jump line="500" column="53" filename="$MAVEN_REPOSITORY$/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/common/DefaultAgenda.java" />
-      <jump line="615" column="51" filename="$MAVEN_REPOSITORY$/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/common/DefaultAgenda.java" />
-      <jump line="623" column="51" filename="$MAVEN_REPOSITORY$/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/common/DefaultAgenda.java" />
-      <jump line="635" column="51" filename="$MAVEN_REPOSITORY$/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/common/DefaultAgenda.java" />
-      <jump line="639" column="51" filename="$MAVEN_REPOSITORY$/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/common/DefaultAgenda.java" />
-      <jump line="731" column="32" filename="$MAVEN_REPOSITORY$/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/common/DefaultAgenda.java" />
-      <jump line="789" column="49" filename="$MAVEN_REPOSITORY$/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/common/DefaultAgenda.java" />
-      <jump line="832" column="53" filename="$MAVEN_REPOSITORY$/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/common/DefaultAgenda.java" />
-      <jump line="848" column="41" filename="$MAVEN_REPOSITORY$/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/common/DefaultAgenda.java" />
-      <jump line="849" column="23" filename="$MAVEN_REPOSITORY$/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/common/DefaultAgenda.java" />
-      <jump line="854" column="15" filename="$MAVEN_REPOSITORY$/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/common/DefaultAgenda.java" />
-      <jump line="855" column="32" filename="$MAVEN_REPOSITORY$/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/common/DefaultAgenda.java" />
-      <jump line="856" column="32" filename="$MAVEN_REPOSITORY$/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/common/DefaultAgenda.java" />
-      <jump line="868" column="71" filename="$MAVEN_REPOSITORY$/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/common/DefaultAgenda.java" />
-      <jump line="879" column="29" filename="$MAVEN_REPOSITORY$/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/common/DefaultAgenda.java" />
-      <jump line="980" column="16" filename="$MAVEN_REPOSITORY$/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/common/DefaultAgenda.java" />
-      <jump line="981" column="8" filename="$MAVEN_REPOSITORY$/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/common/DefaultAgenda.java" />
-      <jump line="984" column="16" filename="$MAVEN_REPOSITORY$/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/common/DefaultAgenda.java" />
-      <jump line="996" column="8" filename="$MAVEN_REPOSITORY$/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/common/DefaultAgenda.java" />
-      <jump line="999" column="15" filename="$MAVEN_REPOSITORY$/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/common/DefaultAgenda.java" />
+      <jump line="272" column="40" filename="$USER_HOME$/.m2/repository/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/impl/StatefulKnowledgeSessionImpl.java" />
+      <jump line="536" column="19" filename="$USER_HOME$/.m2/repository/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/impl/StatefulKnowledgeSessionImpl.java" />
+      <jump line="1989" column="16" filename="$USER_HOME$/.m2/repository/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/impl/StatefulKnowledgeSessionImpl.java" />
+      <jump line="733" column="16" filename="$USER_HOME$/.m2/repository/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/impl/StatefulKnowledgeSessionImpl.java" />
+      <jump line="1293" column="15" filename="$USER_HOME$/.m2/repository/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/impl/StatefulKnowledgeSessionImpl.java" />
+      <jump line="1294" column="15" filename="$USER_HOME$/.m2/repository/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/impl/StatefulKnowledgeSessionImpl.java" />
+      <jump line="1297" column="32" filename="$USER_HOME$/.m2/repository/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/impl/StatefulKnowledgeSessionImpl.java" />
+      <jump line="1298" column="35" filename="$USER_HOME$/.m2/repository/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/impl/StatefulKnowledgeSessionImpl.java" />
+      <jump line="1301" column="15" filename="$USER_HOME$/.m2/repository/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/impl/StatefulKnowledgeSessionImpl.java" />
+      <jump line="1302" column="15" filename="$USER_HOME$/.m2/repository/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/impl/StatefulKnowledgeSessionImpl.java" />
+      <jump line="1305" column="15" filename="$USER_HOME$/.m2/repository/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/impl/StatefulKnowledgeSessionImpl.java" />
+      <jump line="1306" column="32" filename="$USER_HOME$/.m2/repository/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/impl/StatefulKnowledgeSessionImpl.java" />
+      <jump line="1310" column="54" filename="$USER_HOME$/.m2/repository/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/impl/StatefulKnowledgeSessionImpl.java" />
+      <jump line="277" column="8" filename="$USER_HOME$/.m2/repository/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/common/DefaultAgenda.java" />
+      <jump line="496" column="63" filename="$USER_HOME$/.m2/repository/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/common/DefaultAgenda.java" />
+      <jump line="500" column="53" filename="$USER_HOME$/.m2/repository/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/common/DefaultAgenda.java" />
+      <jump line="615" column="51" filename="$USER_HOME$/.m2/repository/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/common/DefaultAgenda.java" />
+      <jump line="623" column="51" filename="$USER_HOME$/.m2/repository/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/common/DefaultAgenda.java" />
+      <jump line="635" column="51" filename="$USER_HOME$/.m2/repository/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/common/DefaultAgenda.java" />
+      <jump line="639" column="51" filename="$USER_HOME$/.m2/repository/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/common/DefaultAgenda.java" />
+      <jump line="731" column="32" filename="$USER_HOME$/.m2/repository/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/common/DefaultAgenda.java" />
+      <jump line="789" column="49" filename="$USER_HOME$/.m2/repository/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/common/DefaultAgenda.java" />
+      <jump line="832" column="53" filename="$USER_HOME$/.m2/repository/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/common/DefaultAgenda.java" />
+      <jump line="848" column="41" filename="$USER_HOME$/.m2/repository/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/common/DefaultAgenda.java" />
+      <jump line="849" column="23" filename="$USER_HOME$/.m2/repository/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/common/DefaultAgenda.java" />
+      <jump line="854" column="15" filename="$USER_HOME$/.m2/repository/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/common/DefaultAgenda.java" />
+      <jump line="855" column="32" filename="$USER_HOME$/.m2/repository/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/common/DefaultAgenda.java" />
+      <jump line="856" column="32" filename="$USER_HOME$/.m2/repository/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/common/DefaultAgenda.java" />
+      <jump line="868" column="71" filename="$USER_HOME$/.m2/repository/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/common/DefaultAgenda.java" />
+      <jump line="879" column="29" filename="$USER_HOME$/.m2/repository/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/common/DefaultAgenda.java" />
+      <jump line="980" column="16" filename="$USER_HOME$/.m2/repository/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/common/DefaultAgenda.java" />
+      <jump line="981" column="8" filename="$USER_HOME$/.m2/repository/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/common/DefaultAgenda.java" />
+      <jump line="984" column="16" filename="$USER_HOME$/.m2/repository/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/common/DefaultAgenda.java" />
+      <jump line="996" column="8" filename="$USER_HOME$/.m2/repository/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/common/DefaultAgenda.java" />
+      <jump line="999" column="15" filename="$USER_HOME$/.m2/repository/org/drools/drools-core/7.2.0.Final/drools-core-7.2.0.Final-sources.jar!/org/drools/core/common/DefaultAgenda.java" />
       <jump line="49" column="0" filename="$USER_HOME$/IdeaProjects/huijie/cm-service/src/main/java/com/ocm/serivce/impl/RosterInfoServiceImpl.java" />
       <jump line="138" column="46" filename="$USER_HOME$/IdeaProjects/huijie/roster-interim/src/main/java/cc/wellcloud/ocm/service/rosterInfo/RosterInfoServiceImpl.java" />
       <jump line="457" column="21" filename="$USER_HOME$/IdeaProjects/huijie/roster-interim/src/main/java/cc/wellcloud/ocm/service/rosterInfo/RosterInfoServiceImpl.java" />
       <jump line="34" column="51" filename="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/controller/RosterDefineController.java" />
       <jump line="163" column="14" filename="$USER_HOME$/IdeaProjects/huijie/roster-interim/src/main/java/cc/wellcloud/ocm/service/info/RosterInfoServiceImpl.java" />
-      <jump line="122" column="24" filename="$MAVEN_REPOSITORY$/cc/wellcloud/framework/core/CC.Core/1.2.0/CC.Core-1.2.0.jar!/cc/wellcloud/framework/core/client/HttpClient.class" />
+      <jump line="122" column="24" filename="$USER_HOME$/.m2/repository/cc/wellcloud/framework/core/CC.Core/1.2.0/CC.Core-1.2.0.jar!/cc/wellcloud/framework/core/client/HttpClient.class" />
       <jump line="115" column="48" filename="$USER_HOME$/IdeaProjects/huijie/roster-service/src/main/java/cc/wellcloud/cloud/roster/core/strategy/dial/AbstractDialSolution.java" />
       <jump line="155" column="34" filename="$USER_HOME$/IdeaProjects/huijie/dncserver/src/main/java/com/wellcloud/dnc/service/impl/BlackServiceImpl.java" />
       <jump line="40" column="26" filename="$USER_HOME$/IdeaProjects/huijie/roster-adapter/src/main/java/com/wellcloud/adapter/service/impl/DefinedTemplateServiceImpl.java" />
@@ -284,7 +299,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="true" />
+    <state version="7" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
