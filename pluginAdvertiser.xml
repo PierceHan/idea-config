@@ -299,6 +299,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.doclua">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Lua" />
+              <option name="myPluginName" value="Lua" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.docx">
           <value>
             <plugin>
@@ -983,6 +991,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.lua">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Lua" />
+              <option name="myPluginName" value="Lua" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.markdown">
           <value>
             <plugin>
@@ -1568,6 +1584,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.wlua">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Lua" />
+              <option name="myPluginName" value="Lua" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.wsdd">
           <value>
             <plugin>
@@ -2120,6 +2144,11 @@
                       <FeaturePluginData displayName="Tomcat Server" pluginName="Tomcat and TomEE" pluginId="Tomcat" />
                     </value>
                   </entry>
+                  <entry key="#com.sylvanaar.idea.Lua.run.LuaConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Lua Script" pluginName="Lua" pluginId="Lua" />
+                    </value>
+                  </entry>
                   <entry key="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Plugin" pluginName="Plugin DevKit" pluginId="DevKit" />
@@ -2403,6 +2432,11 @@
                   <entry key="AspectJ">
                     <value>
                       <FeaturePluginData displayName="AspectJ" pluginName="AspectJ" pluginId="com.intellij.aspectj" />
+                    </value>
+                  </entry>
+                  <entry key="Lua">
+                    <value>
+                      <FeaturePluginData displayName="Lua" pluginName="Lua" pluginId="Lua" />
                     </value>
                   </entry>
                   <entry key="Spring">
