@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Allow post-processors to modify the merged bean definition." />
+      <item value="modify" />
       <item value="剩余" />
       <item value="Variant Also Negotiates" />
       <item value="Not Implemented" />
