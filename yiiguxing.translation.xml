@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Tell the subclass to refresh the internal bean factory." />
+      <item value="Invoke factory processors registered as beans in the context." />
+      <item value="Allows post-processing of the bean factory in context subclasses." />
       <item value="Detect any custom bean name generation strategy supplied through the enclosing application context" />
       <item value="Allow post-processors to modify the merged bean definition." />
       <item value="modify" />
