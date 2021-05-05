@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Detect any custom bean name generation strategy supplied through the enclosing application context" />
       <item value="Allow post-processors to modify the merged bean definition." />
       <item value="modify" />
       <item value="剩余" />
