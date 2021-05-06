@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="@author Clinton Begin" />
       <item value="剩余" />
       <item value="Variant Also Negotiates" />
       <item value="Not Implemented" />
@@ -12,5 +13,8 @@
         <entry key="ENGLISH" value="1" />
       </map>
     </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1620264998365" />
   </component>
 </application>
