@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="org.mockito.exceptions.misusing.MissingMethodInvocationException: when() requires an argument which has to be 'a method call on a mock'. For example: when(mock.getArticles()).thenReturn(articles); Also, this error might show up because: 1. you stub either of: finalprivateequals()hashCode() methods. Those methods cannot be stubbedverified. Mocking methods declared on non-public parent classes is not supported. 2. inside when() you don't call method on mock but on some other object." />
       <item value="Tell the subclass to refresh the internal bean factory." />
       <item value="Invoke factory processors registered as beans in the context." />
       <item value="Allows post-processing of the bean factory in context subclasses." />
