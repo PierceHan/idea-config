@@ -1,9 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="It's important that the type is added before the parser is run otherwise the binding may automatically be attempted by the mapper parser. If the type is already known, it won't try." />
-      <item value="@author Clinton Begin" />
-      <item value="Mapper Method" />
+      <item value="Tell the subclass to refresh the internal bean factory." />
+      <item value="Invoke factory processors registered as beans in the context." />
+      <item value="Allows post-processing of the bean factory in context subclasses." />
+      <item value="Detect any custom bean name generation strategy supplied through the enclosing application context" />
+      <item value="Allow post-processors to modify the merged bean definition." />
+      <item value="modify" />
       <item value="剩余" />
       <item value="Variant Also Negotiates" />
       <item value="Not Implemented" />
@@ -17,7 +20,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1620264998365" />
+    <option name="lastTrimTime" value="1620566357721" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
