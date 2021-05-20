@@ -74,12 +74,12 @@
                   </entry>
                   <entry key="JetRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Kotlin" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" bundled="true" />
+                      <FeaturePluginData displayName="Kotlin" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" />
                     </value>
                   </entry>
                   <entry key="KotlinStandaloneScriptRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Kotlin script" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" bundled="true" />
+                      <FeaturePluginData displayName="Kotlin script" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" />
                     </value>
                   </entry>
                   <entry key="MavenRunConfiguration">
@@ -110,6 +110,21 @@
                   <entry key="XSLT">
                     <value>
                       <FeaturePluginData displayName="XSLT" pluginName="XPathView + XSLT" pluginId="XPathView" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="lua.app">
+                    <value>
+                      <FeaturePluginData displayName="Lua Application" pluginName="Luanalysis" pluginId="au.com.glassechidna.luanalysis" />
+                    </value>
+                  </entry>
+                  <entry key="lua.emmy.debugger">
+                    <value>
+                      <FeaturePluginData displayName="Emmy Debugger(NEW)" pluginName="Luanalysis" pluginId="au.com.glassechidna.luanalysis" />
+                    </value>
+                  </entry>
+                  <entry key="lua.mobdebug">
+                    <value>
+                      <FeaturePluginData displayName="Lua Remote(Mobdebug)" pluginName="Luanalysis" pluginId="au.com.glassechidna.luanalysis" />
                     </value>
                   </entry>
                 </map>
@@ -144,7 +159,7 @@
                   </entry>
                   <entry key="kotlin-language">
                     <value>
-                      <FeaturePluginData displayName="Kotlin" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" bundled="true" />
+                      <FeaturePluginData displayName="Kotlin" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" />
                     </value>
                   </entry>
                   <entry key="native-android-gradle">
