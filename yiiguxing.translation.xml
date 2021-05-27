@@ -1,13 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="org.mockito.exceptions.misusing.MissingMethodInvocationException: when() requires an argument which has to be 'a method call on a mock'. For example: when(mock.getArticles()).thenReturn(articles); Also, this error might show up because: 1. you stub either of: finalprivateequals()hashCode() methods. Those methods cannot be stubbedverified. Mocking methods declared on non-public parent classes is not supported. 2. inside when() you don't call method on mock but on some other object." />
-      <item value="Tell the subclass to refresh the internal bean factory." />
-      <item value="Invoke factory processors registered as beans in the context." />
-      <item value="Allows post-processing of the bean factory in context subclasses." />
-      <item value="Detect any custom bean name generation strategy supplied through the enclosing application context" />
-      <item value="Allow post-processors to modify the merged bean definition." />
-      <item value="modify" />
+      <item value="Sends a FreeSWITCH API command to the server and blocks, waiting for an immediate response from the server. &lt;p&gt; The outcome of the command from the server is retured in an {@link EslMessage} object." />
+      <item value="lettuce" />
+      <item value="It's important that the type is added before the parser is run otherwise the binding may automatically be attempted by the mapper parser. If the type is already known, it won't try." />
+      <item value="@author Clinton Begin" />
+      <item value="Mapper Method" />
       <item value="剩余" />
       <item value="Variant Also Negotiates" />
       <item value="Not Implemented" />
@@ -16,12 +14,13 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1" />
+        <entry key="CHINESE" value="2" />
+        <entry key="ENGLISH" value="3" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1622123681011" />
+    <option name="lastTrimTime" value="1621859283461" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
