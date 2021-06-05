@@ -1,7 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Allow for caching all bean definition metadata, not expecting further changes." />
+      <item value="Make a new array of a's runtime type, but my contents:" />
       <item value="Check if queue empty only if necessary." />
       <item value="Proceed in 3 steps: 1. If fewer than corePoolSize threads are running, try to start a new thread with the given command as its first task. The call to addWorker atomically checks runState and workerCount, and so prevents false alarms that would add threads when it shouldn't, by returning false. 2. If a task can be successfully queued, then we still need to double-check whether we should have added a thread (because existing ones died since last checking) or that the pool shut down since entry into this method. So we recheck state and if necessary roll back the enqueuing if stopped, or start a new thread if there are none. 3. If we cannot queue task, then we try to add a new thread. If it fails, we know we are shut down or saturated and so reject the task." />
       <item value="Sends a FreeSWITCH API command to the server and blocks, waiting for an immediate response from the server. &lt;p&gt; The outcome of the command from the server is retured in an {@link EslMessage} object." />
@@ -17,13 +17,13 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="5" />
+        <entry key="CHINESE" value="5" />
+        <entry key="ENGLISH" value="6" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1622729310835" />
+    <option name="lastTrimTime" value="1622292155737" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
